@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (49)
+# 🌐 Браузерные порты — полный список (54)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **22.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **23.10.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -33,13 +33,18 @@
 | Nacht der Untoten | PC | [▶ открыть](https://zombies.bitcoinsapi.com/) | да | ✅ |
 | NetQuake.io | PC | [▶ открыть](https://www.netquake.io/) | да | — |
 | Pro Evolution Soccer 6 | PC | [▶ открыть](http://pes6.optijuegos.net) | да | ✅ |
+| Quake II (q2.pieter.com) | PC | [▶ открыть](http://q2.pieter.com) | да | ✅ |
+| Quake III Arena (q3.pieter.com) | PC | [▶ открыть](https://q3.pieter.com) | — | — |
 | Quake III Arena (q3js) | PC | [▶ открыть](https://q3js.com/) | да | ✅ |
+| QuakeWorld (q1.pieter.com) | PC | [▶ открыть](http://q1.pieter.com) | да | ✅ |
+| Return to Castle Wolfenstein (rtcw.pieter.com) | PC | [▶ открыть](http://rtcw.pieter.com) | да | ✅ |
 | RuneScape Classic | PC | [▶ открыть](https://runescapeclassic.gold/) | да | ✅ |
 | Skate 3 (fan browser game) | Xbox 360 | [▶ открыть](http://skate.aaddpp.lol) | да | — |
 | Star Wars Jedi Knight: Jedi Academy | PC | [▶ открыть](https://jk.q3js.com) | да | ✅ |
 | Super Mario 64 Multiplayer | N64 | [▶ открыть](https://olivers.tools/play/) | да | ✅ |
 | Super Mario Zombies | PC | [▶ открыть](https://smz.fun/) | да | — |
 | The Simpsons: Hit & Run | PC | [▶ открыть](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | да | — |
+| Urban Terror (ut.pieter.com) | PC | [▶ открыть](http://ut.pieter.com) | да | — |
 | WadCMD (Doom in the browser) | PC | [▶ открыть](https://wadcmd.com/) | да | — |
 | Diablo (diabloweb) | PC | [▶ открыть](https://d07riv.github.io/diabloweb/) | — | — |
 | Claude of Duty: Vibe Slops II (froydinger mirror) | PC | [▶ открыть](https://froydinger.github.io/claude-of-duty/) | — | — |
@@ -49,7 +54,7 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (45)
+## Активные проекты (50)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
@@ -81,7 +86,11 @@
 | [NetQuake.io](https://www.netquake.io) | PC | — | 3.95 | — | — |  |
 | [Phantasy Star Online (PSO Reborn)](https://recompiledgames.com/phantasy-star-online-recompiled) | Dreamcast | — | 3.95 | — | — |  |
 | [Pro Evolution Soccer 6](http://pes6.optijuegos.net) | PC | — | 3.95 | — | — |  |
+| [Quake II (q2.pieter.com)](http://q2.pieter.com) | PC | — | 3.95 | — | — |  |
+| [Quake III Arena (q3.pieter.com)](https://q3.pieter.com) | PC | — | 3.95 | — | — | Quake III multiplayer in the browser (unofficial, non-commercial). |
 | [Quake III Arena (q3js)](https://q3js.com) | PC | — | 3.95 | — | — |  |
+| [QuakeWorld (q1.pieter.com)](http://q1.pieter.com) | PC | — | 3.95 | — | — |  |
+| [Return to Castle Wolfenstein (rtcw.pieter.com)](http://rtcw.pieter.com) | PC | — | 3.95 | — | — |  |
 | [RuneScape Classic](https://runescapeclassic.gold) | PC | — | 3.95 | — | — |  |
 | [Skate 3 (fan browser game)](http://skate.aaddpp.lol) | Xbox 360 | — | 3.95 | — | — | Unofficial, non-commercial skate. 3 fan game in the browser; no EA game code. |
 | [Star Wars Jedi Knight: Jedi Academy](https://jk.q3js.com) | PC | — | 3.95 | — | — |  |
@@ -89,6 +98,7 @@
 | [Super Mario 64 Multiplayer](https://olivers.tools/play) | N64 | — | 3.95 | — | — |  |
 | [Super Mario Zombies](https://smz.fun) | PC | — | 3.95 | — | — |  |
 | [The Simpsons: Hit & Run](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | PC | — | 3.95 | — | — |  |
+| [Urban Terror (ut.pieter.com)](http://ut.pieter.com) | PC | — | 3.95 | — | — | Urban Terror multiplayer in the browser. The X post lists it as 'Unreal Tournament'. |
 | [WadCMD (Doom in the browser)](https://wadcmd.com) | PC | — | 3.95 | — | — |  |
 | [Diablo (diabloweb)](https://github.com/d07RiV/diabloweb) | PC | 2.9k | 3.75 | 2022-05-17 | — | Diablo 1 for web browsers |
 | [Claude of Duty: Vibe Slops II (froydinger mirror)](https://froydinger.github.io/claude-of-duty) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (listed… |
@@ -108,7 +118,7 @@
 | [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 418 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) | PC | 152 | 3.55 | 2023-02-03 | ✅ | The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 146 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
-| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 121 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
+| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 120 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
 
 </details>
 
