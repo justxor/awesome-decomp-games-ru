@@ -2,107 +2,107 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **23.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **24.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [The Legend of Zelda: Link's Awakening (LAS Recomp)](https://github.com/peiikai/LASRecomp) — рекомпиляция, ⭐ 1.7k, score 4.35
-2. [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) — рекомпиляция, ⭐ 986, score 4.15
-3. [The Legend of Zelda: Skyward Sword HD (Sky Recomp)](https://github.com/Apolinario-coder/SkyRecomp) — рекомпиляция, ⭐ 394, score 4.15
-4. [Bayonetta 2 (B2recomp)](https://github.com/K0NL/B2recomp) — рекомпиляция, ⭐ 368, score 4.15
-5. [Metroid Prime Hunters](https://github.com/mstan/MetroidPrimeHuntersRecomp) — рекомпиляция, ⭐ 265, score 4.15
-6. [Pokémon: Let's Go, Eevee! (Let's Go Recomp)](https://github.com/raulzrrs/letsgo-recomp) — рекомпиляция, ⭐ 161, score 4.15
-7. [Super Mario Maker 2 (SMM2 Recomp)](https://github.com/smm2recomp/smm2recomp) — рекомпиляция, ⭐ 142, score 4.15
-8. [Super Mario Bros. Wonder (SMW)](https://github.com/iHaiDeeZ/SMW) — рекомпиляция, ⭐ 47, score 4.15
-9. [Metroid Prime Hunters (HuntersRecomp (AYN Thor))](https://github.com/aabrole/HuntersRecomp) — рекомпиляция, ⭐ 37, score 4.15
-10. [The Legend of Zelda: The Wind Waker HD](https://github.com/centollOS/SwitchWakerHD) — рекомпиляция, ⭐ 175, score 3.95
+2. [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) — рекомпиляция, ⭐ 1.0k, score 4.35
+3. [The Legend of Zelda: Skyward Sword HD (Sky Recomp)](https://github.com/Apolinario-coder/SkyRecomp) — рекомпиляция, ⭐ 409, score 4.15
+4. [Bayonetta 2 (B2recomp)](https://github.com/K0NL/B2recomp) — рекомпиляция, ⭐ 406, score 4.15
+5. [Metroid Prime Hunters](https://github.com/mstan/MetroidPrimeHuntersRecomp) — рекомпиляция, ⭐ 266, score 4.15
+6. [Pokémon: Let's Go, Eevee! (Let's Go Recomp)](https://github.com/raulzrrs/letsgo-recomp) — рекомпиляция, ⭐ 171, score 4.15
+7. [Super Mario Maker 2 (SMM2 Recomp)](https://github.com/smm2recomp/smm2recomp) — рекомпиляция, ⭐ 157, score 4.15
+8. [Dragon Quest IV: Chapters of the Chosen (DQIV-Recompiled)](https://github.com/GoldieLeGenie/DQIV-Recompiled) — рекомпиляция, ⭐ 49, score 4.15
+9. [Super Mario Bros. Wonder (SMW)](https://github.com/iHaiDeeZ/SMW) — рекомпиляция, ⭐ 48, score 4.15
+10. [Metroid Prime Hunters (HuntersRecomp (AYN Thor))](https://github.com/aabrole/HuntersRecomp) — рекомпиляция, ⭐ 38, score 4.15
 
 ## Все активные проекты (85)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [The Legend of Zelda: Link's Awakening (LAS Recomp)](https://github.com/peiikai/LASRecomp) | Switch | рекомпиляция | 1.7k | 4.35 | 2026-10-22 | ✅ | Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux |
-| [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | Wii U | рекомпиляция | 986 | 4.15 | 2026-10-21 | ✅ | Zelda Wind Waker HD Recomp |
-| [Ocarina of Time 3D (TriAevum Recomp)](https://github.com/coccofresco/TriAevum) | 3DS | рекомпиляция | 549 | 4.15 | 2026-10-22 | — | Experimental native PC recompilation runtime for Ocarina of Time 3D. Windows x64, NRI/Vulkan, single-screen UI and ROM-only setup. |
-| [Super Smash Bros. Ultimate (OpenSmash-Ultimate)](https://github.com/OpenSmash-Ultimate/ssbu-recomp) | Switch | рекомпиляция | 409 | 4.15 | 2026-10-21 | — | Static recompilation of Super Smash Bros. Ultimate 13.0.4 to a native Windows program: tools and runtime only, bring your own dump |
-| [The Legend of Zelda: Skyward Sword HD (Sky Recomp)](https://github.com/Apolinario-coder/SkyRecomp) | Switch | рекомпиляция | 394 | 4.15 | 2026-10-22 | ✅ | Static recompilation of The Legend of Zelda: Skyward Sword for PC |
-| [Bayonetta 2 (B2recomp)](https://github.com/K0NL/B2recomp) | Switch | рекомпиляция | 368 | 4.15 | 2026-10-22 | ✅ | Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, key… |
-| [Metroid Prime Hunters](https://github.com/mstan/MetroidPrimeHuntersRecomp) | DS | рекомпиляция | 265 | 4.15 | 2026-10-04 | ✅ | MetroidPrimeHuntersRecomp brings Metroid Prime Hunters to PC. |
-| [Pokémon: Let's Go, Eevee! (Let's Go Recomp)](https://github.com/raulzrrs/letsgo-recomp) | Switch | рекомпиляция | 161 | 4.15 | 2026-10-22 | ✅ | Native Windows port of Pokémon: Let's Go, Eevee! (Switch v1.0.0) by static recompilation, built on LAS Recomp. No game files included. |
-| [Super Mario Maker 2 (SMM2 Recomp)](https://github.com/smm2recomp/smm2recomp) | Switch | рекомпиляция | 142 | 4.15 | 2026-10-23 | ✅ | Super Mario Maker 2 Recomp |
-| [Super Mario Bros. Wonder (SMW)](https://github.com/iHaiDeeZ/SMW) | Switch | рекомпиляция | 47 | 4.15 | 2026-10-19 | ✅ | SMW: Super Mario Bros. Wonder Recomp on jailbroken PS4 (GoldHEN). Native static recomp, RADV Vulkan, FSR 1, L3+R3 quick menu, 4 players. Bring your o… |
-| [Metroid Prime Hunters (HuntersRecomp (AYN Thor))](https://github.com/aabrole/HuntersRecomp) | DS | рекомпиляция | 37 | 4.15 | 2026-09-06 | ✅ | Metroid Prime Hunters recomp for the AYN Thor: native dual-screen Android port with twin-stick Prime controls and HD GLES rendering |
-| [The Legend of Zelda: The Wind Waker HD](https://github.com/centollOS/SwitchWakerHD) | Wii U | рекомпиляция | 175 | 3.95 | 2026-10-22 | ✅ | Wind Waker HD (Wii U) static recompilation for Nintendo Switch, deko3d renderer. Requires your own game dump. |
-| [The Legend of Zelda: The Wind Waker HD (TLoZ:TWW HD Recompiled — Android)](https://github.com/GreenNaugahyde/ZeldaWWHDRecompAndroid) | Wii U | рекомпиляция | 175 | 3.95 | 2026-10-19 | ✅ | TLoZ:TWW HD Recomp |
-| [Pokémon SoulSilver](https://github.com/ClickingMaster/ssrecomp) | DS | рекомпиляция | 107 | 3.95 | 2026-10-22 | ✅ | A recomp of Pokemon Soul Silver for single screen devices. macOS support thanks to DarthMDev. |
-| [ZeldaWWHDRecompAndroid](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) | Wii U | рекомпиляция | 78 | 3.95 | 2026-10-11 | ✅ | Wind Waker HD recompiled for Android (native ARM + Vulkan, no emulator), enhanced: native widescreen, fixed shadows, pinch-to-zoom camera, phone-made… |
-| [The Legend of Zelda: The Wind Waker HD (Wind Waker HD Recompiled [Android] - Plus)](https://github.com/Nycolazs/WindWakerHD-Android-Plus) | Wii U | рекомпиляция | 73 | 3.95 | 2026-10-21 | ✅ | The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wu… |
-| [Shin Megami Tensei IV (smt4-recomp)](https://github.com/Invictus-potens/smt4-recomp) | 3DS | рекомпиляция | 20 | 3.95 | 2026-10-23 | — | Static recompilation glue for Shin Megami Tensei IV (3DS), on fearkov/3dsrecomp + fearkov/zakuro |
+| [The Legend of Zelda: Link's Awakening (LAS Recomp)](https://github.com/peiikai/LASRecomp) | Switch | рекомпиляция | 1.7k | 4.35 | 2026-10-23 | ✅ | Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux |
+| [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | Wii U | рекомпиляция | 1.0k | 4.35 | 2026-10-21 | ✅ | Zelda Wind Waker HD Recomp |
+| [Super Smash Bros. Ultimate (ssbu-recomp)](https://github.com/OpenSmash-Ultimate/ssbu-recomp) | Switch | рекомпиляция | 447 | 4.35 | 2026-10-21 | — | Static recompilation of Super Smash Bros. Ultimate 13.0.4 to a native Windows program: tools and runtime only, bring your own dump |
+| [Ocarina of Time 3D (TriAevum Recomp)](https://github.com/coccofresco/TriAevum) | 3DS | рекомпиляция | 554 | 4.15 | 2026-10-22 | — | Experimental native PC recompilation runtime for Ocarina of Time 3D. Windows x64, NRI/Vulkan, single-screen UI and ROM-only setup. |
+| [The Legend of Zelda: Skyward Sword HD (Sky Recomp)](https://github.com/Apolinario-coder/SkyRecomp) | Switch | рекомпиляция | 409 | 4.15 | 2026-10-22 | ✅ | Static recompilation of The Legend of Zelda: Skyward Sword for PC |
+| [Bayonetta 2 (B2recomp)](https://github.com/K0NL/B2recomp) | Switch | рекомпиляция | 406 | 4.15 | 2026-10-23 | ✅ | Unofficial static recompilation of Bayonetta 2 (Switch) for Windows. Builds the game on your PC from your own legally dumped copy. No game files, key… |
+| [Metroid Prime Hunters](https://github.com/mstan/MetroidPrimeHuntersRecomp) | DS | рекомпиляция | 266 | 4.15 | 2026-10-24 | ✅ | MetroidPrimeHuntersRecomp brings Metroid Prime Hunters to PC. |
+| [Pokémon: Let's Go, Eevee! (Let's Go Recomp)](https://github.com/raulzrrs/letsgo-recomp) | Switch | рекомпиляция | 171 | 4.15 | 2026-10-22 | ✅ | Native Windows port of Pokémon: Let's Go, Eevee! (Switch v1.0.0) by static recompilation, built on LAS Recomp. No game files included. |
+| [Super Mario Maker 2 (SMM2 Recomp)](https://github.com/smm2recomp/smm2recomp) | Switch | рекомпиляция | 157 | 4.15 | 2026-10-24 | ✅ | Super Mario Maker 2 Recomp |
+| [Dragon Quest IV: Chapters of the Chosen (DQIV-Recompiled)](https://github.com/GoldieLeGenie/DQIV-Recompiled) | DS | рекомпиляция | 49 | 4.15 | 2026-10-23 | ✅ | native PC version of dragon quest IV DS |
+| [Super Mario Bros. Wonder (SMW)](https://github.com/iHaiDeeZ/SMW) | Switch | рекомпиляция | 48 | 4.15 | 2026-10-19 | ✅ | SMW: Super Mario Bros. Wonder Recomp on jailbroken PS4 (GoldHEN). Native static recomp, RADV Vulkan, FSR 1, L3+R3 quick menu, 4 players. Bring your o… |
+| [Metroid Prime Hunters (HuntersRecomp (AYN Thor))](https://github.com/aabrole/HuntersRecomp) | DS | рекомпиляция | 38 | 4.15 | 2026-09-06 | ✅ | Metroid Prime Hunters recomp for the AYN Thor: native dual-screen Android port with twin-stick Prime controls and HD GLES rendering |
+| [Kingdom Hearts 358/2 Days](https://github.com/Yokimitsuro/khdays-port) | DS | порт | 195 | 3.95 | 2026-10-23 | ✅ | Experimental native PC runtime for Kingdom Hearts 358/2 Days, developed alongside the matching Nintendo DS decompilation. No copyrighted game data in… |
+| [The Legend of Zelda: The Wind Waker HD](https://github.com/centollOS/SwitchWakerHD) | Wii U | рекомпиляция | 178 | 3.95 | 2026-10-23 | ✅ | Wind Waker HD (Wii U) static recompilation for Nintendo Switch, deko3d renderer. Requires your own game dump. |
+| [The Legend of Zelda: The Wind Waker HD (TLoZ:TWW HD Recompiled — Android)](https://github.com/GreenNaugahyde/ZeldaWWHDRecompAndroid) | Wii U | рекомпиляция | 177 | 3.95 | 2026-10-19 | ✅ | TLoZ:TWW HD Recomp |
+| [Pokémon SoulSilver](https://github.com/ClickingMaster/ssrecomp) | DS | рекомпиляция | 111 | 3.95 | 2026-10-22 | ✅ | A recomp of Pokemon Soul Silver for single screen devices. macOS support thanks to DarthMDev. |
+| [ZeldaWWHDRecompAndroid](https://github.com/SSunnKing/ZeldaWWHDRecompAndroid---ENHANCED) | Wii U | рекомпиляция | 81 | 3.95 | 2026-10-11 | ✅ | Wind Waker HD recompiled for Android (native ARM + Vulkan, no emulator), enhanced: native widescreen, fixed shadows, pinch-to-zoom camera, phone-made… |
+| [The Legend of Zelda: The Wind Waker HD (Wind Waker HD Recompiled [Android] - Plus)](https://github.com/Nycolazs/WindWakerHD-Android-Plus) | Wii U | рекомпиляция | 78 | 3.95 | 2026-10-23 | ✅ | The Legend of Zelda: The Wind Waker HD natively on Android (static recompilation, Vulkan). Built-in Brazilian Portuguese translation, HUD editor, .wu… |
+| [New Super Mario Bros. U](https://github.com/nsmbu-recomp/nsmbu-recomp) | Wii U | рекомпиляция | 33 | 3.95 | 2026-10-24 | ✅ | New Super Mario Bros. U: Native Port / Recompilation |
+| [Shin Megami Tensei IV (smt4-recomp)](https://github.com/Invictus-potens/smt4-recomp) | 3DS | рекомпиляция | 22 | 3.95 | 2026-10-23 | — | Static recompilation glue for Shin Megami Tensei IV (3DS), on fearkov/3dsrecomp + fearkov/zakuro |
 | [Dragon Quest IX: Sentinels of the Starry Skies (DQ9-Decomp)](https://github.com/0bAndyWirus/DQ9-Decomp) | DS | рекомпиляция | 12 | 3.95 | 2026-10-21 | — | Dragon Quest IX (EU) research: Nintendo DS decompilation tooling, ARM/Thumb static recompilation, and experimental SDL2/Godot native runtime. No game… |
-| [Super Mario Bros. 35 (SM35 Recomp)](https://github.com/sm35recomp/sm35recomp) | Switch | рекомпиляция | 10 | 3.95 | 2026-10-21 | ✅ |  |
-| [CTW-Native](https://github.com/official-kryo-to/ctw-native) | DS | рекомпиляция | 48 | 3.9 | 2026-10-22 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
-| [Dragon Quest IV: Chapters of the Chosen (DQIV-Recompiled)](https://github.com/GoldieLeGenie/DQIV-Recompiled) | DS | рекомпиляция | 48 | 3.9 | 2026-10-20 | ✅ | native PC version of dragon quest IV DS |
-| [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw) | Switch | декомпиляция | 2.3k | 3.85 | 2026-10-19 | — | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) |
-| [New Super Mario Bros. U](https://github.com/nsmbu-recomp/nsmbu-recomp) | Wii U | рекомпиляция | 24 | 3.75 | 2026-10-21 | ✅ | New Super Mario Bros. U: Native Port / Recompilation |
-| [Kingdom Hearts 358/2 Days](https://github.com/Yokimitsuro/khdays-port) | DS | порт | 188 | 3.7 | 2026-10-19 | ✅ | Experimental native PC runtime for Kingdom Hearts 358/2 Days, developed alongside the matching Nintendo DS decompilation. No copyrighted game data in… |
-| [Hyrule Warriors: Definitive Edition (Hyrule Warriors: Definitive Edition Recomp)](https://github.com/sonsegajp/HWDER) | Switch | рекомпиляция | 60 | 3.7 | 2026-10-03 | ✅ | Hyrule Warriors: Definitive Edition Recomp (HWDE) - static recompilation of the Switch game to a native Windows executable |
+| [Super Mario Bros. 35 (SM35 Recomp)](https://github.com/sm35recomp/sm35recomp) | Switch | рекомпиляция | 11 | 3.95 | 2026-10-21 | ✅ |  |
+| [CTW-Native](https://github.com/official-kryo-to/ctw-native) | DS | рекомпиляция | 50 | 3.9 | 2026-10-22 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
+| [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw) | Switch | декомпиляция | 2.4k | 3.85 | 2026-10-19 | — | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) |
+| [Hyrule Warriors: Definitive Edition (Hyrule Warriors: Definitive Edition Recomp)](https://github.com/sonsegajp/HWDER) | Switch | рекомпиляция | 63 | 3.7 | 2026-10-03 | ✅ | Hyrule Warriors: Definitive Edition Recomp (HWDE) - static recompilation of the Switch game to a native Windows executable |
 | [Super Mario 64 DS](https://github.com/mstan/supermario64dsrecomp) | DS | рекомпиляция | 14 | 3.7 | 2026-09-09 | ✅ |  |
-| [Final Fantasy Crystal Chronicles: Echoes of Time](https://github.com/JonathanDC64/FFCCEOT-Recomp) | DS | рекомпиляция | 17 | 3.5 | 2026-10-18 | — | Native PC port of Final Fantasy Crystal Chronicles: Echoes of Time (DS) by static recompilation. Bring your own ROM: the game is built on your PC, no… |
-| [Pokemon Platinum (pokeplatinum)](https://github.com/cybervisi0n/pokeplatinum) | DS | декомпиляция | 129 | 3.45 | 2026-10-10 | ✅ | 64-bit PC Port of Pokemon Platinum based on the pret decomp and the libntr suite |
-| [Kingdom Hearts 358/2 Days](https://github.com/Yokimitsuro/khdays-decomp) | DS | декомпиляция | 101 | 3.45 | 2026-10-11 | — | Complete matching decompilation of Kingdom Hearts 358/2 Days (Nintendo DS), byte-identical to the game. |
+| [Tekken Tag Tournament 2 Wii U Edition](https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition) | Wii U | рекомпиляция | 30 | 3.55 | 2026-10-23 | ✅ | Native Linux port of Tekken Tag Tournament 2 Wii U Edition by static recompilation. No game files included. |
+| [Final Fantasy Crystal Chronicles: Echoes of Time](https://github.com/JonathanDC64/FFCCEOT-Recomp) | DS | рекомпиляция | 18 | 3.5 | 2026-10-18 | — | Native PC port of Final Fantasy Crystal Chronicles: Echoes of Time (DS) by static recompilation. Bring your own ROM: the game is built on your PC, no… |
+| [Pokemon Platinum (pokeplatinum)](https://github.com/cybervisi0n/pokeplatinum) | DS | декомпиляция | 130 | 3.45 | 2026-10-10 | ✅ | 64-bit PC Port of Pokemon Platinum based on the pret decomp and the libntr suite |
+| [Kingdom Hearts 358/2 Days](https://github.com/Yokimitsuro/khdays-decomp) | DS | декомпиляция | 102 | 3.45 | 2026-10-11 | — | Complete matching decompilation of Kingdom Hearts 358/2 Days (Nintendo DS), byte-identical to the game. |
 | [Pokémon Mystery Dungeon: Explorers of Sky (pmdsky-debug (symbol database))](https://github.com/UsernameFodder/pmdsky-debug) | DS | декомпиляция | 55 | 3.45 | 2026-10-10 | ✅ | Debug info for reverse engineering PMD: Explorers of Sky |
 | [The Legend of Zelda: The Wind Waker HD (Wind Waker HD for PlayStation 5)](https://github.com/griches/PS5_WindWakerHD) | Wii U | рекомпиляция | 24 | 3.35 | 2026-10-13 | ✅ | Unofficial PS5 homebrew port of ZeldaWWHDRecomp. No game data: built from your own dump. |
-| [The Legend of Zelda: Echoes of Wisdom (EoWRecomp)](https://github.com/Nycolazs/EoWRecomp) | Switch | рекомпиляция | 21 | 3.35 | 2026-10-21 | — | Static recompilation of The Legend of Zelda: Echoes of Wisdom (Switch) to native PC - work in progress, no game files included |
-| [Astral Chain (AC-Recomp)](https://github.com/swaymun/AC-Recomp) | Switch | рекомпиляция | 11 | 3.35 | 2026-10-22 | — | Experimental native static recompilation of Astral Chain (Switch) for macOS. Bring your own legally dumped game; no game content included. |
+| [The Legend of Zelda: Echoes of Wisdom (EoWRecomp)](https://github.com/Nycolazs/EoWRecomp) | Switch | рекомпиляция | 23 | 3.35 | 2026-10-21 | — | Static recompilation of The Legend of Zelda: Echoes of Wisdom (Switch) to native PC - work in progress, no game files included |
+| [Astral Chain (AC-Recomp)](https://github.com/swaymun/AC-Recomp) | Switch | рекомпиляция | 10 | 3.35 | 2026-10-22 | — | Experimental native static recompilation of Astral Chain (Switch) for macOS. Bring your own legally dumped game; no game content included. |
 | [Kingdom Hearts 358/2 Days (khdays-vita)](https://github.com/ggdrn/KH-DAYS-VITA) | DS | декомпиляция | 19 | 3.25 | 2026-10-21 | ✅ | Port of Decompilation of Kingdom Hearts: 358/2 Days to PS VITA |
 | [Kingdom Hearts Re:coded](https://github.com/kh-recoded-decomp/kh-recoded-decomp) | DS | декомпиляция | 14 | 3.25 | 2026-10-23 | — | Kingdom Hearts Re:coded matching decompilation (US/EU). EU: 90.82% C / 100% DATA. |
 | [Link's Awakening (Switch)](https://github.com/Owen-Splat/las-decomp) | Switch | ремейк движка | 11 | 3.15 | 2026-03-21 | ✅ | Decompilation of Link's Awakening Switch (2019 remake) for Nintendo Switch |
-| [Pokemon HeartGold](https://github.com/pret/pokeheartgold) | DS | декомпиляция | 735 | 3.05 | 2026-10-19 | — | Decompilation of Pokemon HeartGold/SoulSilver |
-| [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) | Switch | декомпиляция | 622 | 3.05 | 2026-10-03 | — | 11.217% - Decompilation of Minecraft: Legacy Console Edition |
-| [Pokemon Platinum](https://github.com/pret/pokeplatinum) | DS | декомпиляция | 582 | 3.05 | 2026-10-23 | — | Decompilation of Pokémon Platinum |
+| [Pokemon HeartGold](https://github.com/pret/pokeheartgold) | DS | декомпиляция | 739 | 3.05 | 2026-10-19 | — | Decompilation of Pokemon HeartGold/SoulSilver |
+| [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) | Switch | декомпиляция | 623 | 3.05 | 2026-10-03 | — | 11.217% - Decompilation of Minecraft: Legacy Console Edition |
+| [Pokemon Platinum](https://github.com/pret/pokeplatinum) | DS | декомпиляция | 584 | 3.05 | 2026-10-24 | — | Decompilation of Pokémon Platinum |
 | [Pokemon Diamond](https://github.com/pret/pokediamond) | DS | декомпиляция | 544 | 3.05 | 2026-10-11 | — | Decompilation of Pokémon Diamond/Pearl |
-| [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) | Switch | декомпиляция | 481 | 3.05 | 2026-09-29 | — | Decompilation of Super Mario Odyssey for all versions. |
-| [Super Mario 64 DS](https://github.com/tangosdev/sm64ds-decomp) | DS | декомпиляция | 224 | 3.05 | 2026-10-23 | — | From-scratch, byte-matching decompilation of Super Mario 64 DS into C/C++, with a live progress atlas and matching tools. |
+| [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) | Switch | декомпиляция | 484 | 3.05 | 2026-09-29 | — | Decompilation of Super Mario Odyssey for all versions. |
+| [Super Mario 64 DS](https://github.com/tangosdev/sm64ds-decomp) | DS | декомпиляция | 224 | 3.05 | 2026-10-24 | — | From-scratch, byte-matching decompilation of Super Mario 64 DS into C/C++, with a live progress atlas and matching tools. |
 | [Rhythm Heaven](https://github.com/patataofcourse/rhgold) | DS | дизасм | 51 | 2.75 | 2026-06-21 | — | Decompilation for Rhythm Heaven (Nintendo DS) |
 | [Pokemon MD Sky](https://github.com/pret/pmd-sky) | DS | декомпиляция | 147 | 2.6 | 2026-10-14 | — | Decompilation of Pokémon Mystery Dungeon: Explorers of Sky |
-| [The Legend of Zelda: Phantom Hourglass](https://github.com/zeldaret/ph) | DS | декомпиляция | 115 | 2.6 | 2026-10-09 | — | Decompilation of The Legend of Zelda: Phantom Hourglass |
+| [The Legend of Zelda: Phantom Hourglass](https://github.com/zeldaret/ph) | DS | декомпиляция | 116 | 2.6 | 2026-10-09 | — | Decompilation of The Legend of Zelda: Phantom Hourglass |
 | [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d) | 3DS | декомпиляция | 90 | 2.6 | 2026-09-04 | — | Decompilation of The Legend of Zelda: Ocarina of Time 3D |
-| [The Legend of Zelda: Spirit Tracks](https://github.com/zeldaret/st) | DS | декомпиляция | 70 | 2.6 | 2026-10-14 | — | Decompilation of The Legend of Zelda: Spirit Tracks |
+| [The Legend of Zelda: Spirit Tracks](https://github.com/zeldaret/st) | DS | декомпиляция | 71 | 2.6 | 2026-10-23 | — | Decompilation of The Legend of Zelda: Spirit Tracks |
 | [New Super Mario Bros.](https://github.com/NSMB-Decomp/nsmb) | DS | декомпиляция | 69 | 2.6 | 2026-10-21 | — | A matching decompilation of New Super Mario Bros. for the Nintendo DS |
 | [Black](https://github.com/squiddonaut/pokeblack) | DS | декомпиляция | 66 | 2.6 | 2026-10-17 | — | Decompilation of English Pokémon Black |
-| [Dragon Quest IX](https://github.com/DQIX/dqix-decomp) | DS | декомпиляция | 51 | 2.6 | 2026-10-19 | — | Decompilation project for Dragon Quest IX for the Nintendo DS using dsd |
-| [Pokémon Black 2 / Pokémon White 2](https://github.com/fuddlesworth/pokebw2) | DS | декомпиляция | 49 | 2.6 | 2026-10-23 | — | Decompilation of Pokémon Black 2 and White 2 |
-| [The Legend of Zelda: Breath of the Wild (BotW Recompiled)](https://github.com/IshaanKalra2103/BotWRecomp) | Switch | рекомпиляция | 47 | 2.6 | 2026-10-17 | — | Breath of the Wild (Wii U) statically recompiled to run natively on iPhone and Apple Silicon Macs. Bring your own game files. |
-| [Astral Chain (Astral Chain PC)](https://github.com/Puddz/AstralChain-PC) | Switch | рекомпиляция | 46 | 2.6 | 2026-10-23 | — | Unofficial native Windows port of Astral Chain by static recompilation. Bring your own dump and keys. |
+| [The Legend of Zelda: Breath of the Wild (BotW Recompiled)](https://github.com/IshaanKalra2103/BotWRecomp) | Switch | рекомпиляция | 53 | 2.6 | 2026-10-17 | — | Breath of the Wild (Wii U) statically recompiled to run natively on iPhone and Apple Silicon Macs. Bring your own game files. |
+| [Dragon Quest IX](https://github.com/DQIX/dqix-decomp) | DS | декомпиляция | 52 | 2.6 | 2026-10-23 | — | Decompilation project for Dragon Quest IX for the Nintendo DS using dsd |
+| [Pokémon Black 2 / Pokémon White 2](https://github.com/fuddlesworth/pokebw2) | DS | декомпиляция | 52 | 2.6 | 2026-10-24 | — | Decompilation of Pokémon Black 2 and White 2 |
+| [Astral Chain (Astral Chain PC)](https://github.com/Puddz/AstralChain-PC) | Switch | рекомпиляция | 48 | 2.6 | 2026-10-23 | — | Unofficial native Windows port of Astral Chain by static recompilation. Bring your own dump and keys. |
 | [New Super Mario Bros. U](https://github.com/aboood40091/red-pro2) | Wii U | декомпиляция | 46 | 2.6 | 2026-10-06 | — | Decompilation of New Super Mario Bros. U v1.3.0 US. |
 | [Sonic Rush Adventure](https://github.com/RushRE/SonicRushAdventure-Decomp) | DS | декомпиляция | 46 | 2.6 | 2026-09-23 | — |  |
 | [Tomodachi Life: Living the Dream (Tomodachi LTD Recomp)](https://github.com/RussoPhone/tomodachi-ltd-recomp) | Switch | рекомпиляция | 43 | 2.6 | 2026-10-17 | — | Experimental static recompilation using suyu-derived emulation. Native PC port in development. NO game files included. |
 | [The Legend of Zelda: Breath of the Wild](https://github.com/hardkiller2565123123/CafeRecomp) | Wii U | рекомпиляция | 39 | 2.6 | 2026-10-18 | — | First Working Wii U Recomp Tool |
 | [The World Ends with You](https://github.com/Yotona/twewy) | DS | декомпиляция | 33 | 2.6 | 2026-10-18 | — | A reverse engineered implementation of "The World Ends With You" for the Nintendo DS |
 | [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation) | Switch | декомпиляция | 30 | 2.6 | 2026-10-13 | — |  |
-| [The Legend of Zelda: The Wind Waker HD (wwhd (verified decompilation))](https://github.com/ZeldaWWHDDecomp/wwhd) | Wii U | декомпиляция | 32 | 2.4 | 2026-10-14 | — |  |
 | [DS Protect](https://github.com/taxicat1/dsprot) | DS | декомпиляция | 31 | 2.4 | 2026-01-22 | — | Decompilation of DS Protect |
-| [Tekken Tag Tournament 2 Wii U Edition](https://github.com/Petexy/Tekken-Tag-2-Ultimate-Edition) | Wii U | рекомпиляция | 25 | 2.4 | 2026-10-22 | — | Native Linux port of Tekken Tag Tournament 2 Wii U Edition by static recompilation. No game files included. |
+| [The Legend of Zelda: The Wind Waker HD (wwhd (verified decompilation))](https://github.com/ZeldaWWHDDecomp/wwhd) | Wii U | декомпиляция | 31 | 2.4 | 2026-10-14 | — |  |
+| [Monster Hunter 4 Ultimate](https://github.com/mhvuze/mh4u-decomp) | 3DS | декомпиляция | 22 | 2.4 | 2026-10-23 | — | Progress tracking for a matching decompilation of Monster Hunter 4 Ultimate (Nintendo 3DS, EU v1.1). |
 | [Pokémon Moon](https://github.com/gradenGnostic/pokemoon) | 3DS | декомпиляция | 22 | 2.4 | 2026-09-16 | — | Decompilation of Pokémon Moon |
-| [Monster Hunter 4 Ultimate](https://github.com/mhvuze/mh4u-decomp) | 3DS | декомпиляция | 20 | 2.4 | 2026-10-23 | — | Progress tracking for a matching decompilation of Monster Hunter 4 Ultimate (Nintendo 3DS, EU v1.1). |
 | [Fire Emblem: Shadow Dragon](https://github.com/Eebit/fe11-us) | DS | декомпиляция | 17 | 2.4 | 2026-09-08 | — |  |
 | [Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!](https://github.com/CacaBueno64/ie3ogres) | DS | декомпиляция | 17 | 2.4 | 2026-10-17 | — | Decompilation of Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!! (nds) |
 | [Dragon Quest IV](https://github.com/GoldieLeGenie/DQIV-DECOMP) | DS | декомпиляция | 15 | 2.4 | 2026-10-18 | — | Decompilation project for Dragon Quest IV Nintendo DS using dsd |
 | [Kingdom Hearts Re:coded](https://github.com/Yokimitsuro/khrecoded-decomp) | DS | декомпиляция | 15 | 2.4 | 2026-10-05 | — | Work-in-progress matching decompilation of Kingdom Hearts Re:coded (Nintendo DS) |
-| [Animal Crossing: Wild World](https://github.com/6elphegor/acww-decomp) | DS | декомпиляция | 14 | 2.4 | 2026-10-14 | — | Matching decompilation of Animal Crossing: Wild World (Nintendo DS, USA) |
+| [Animal Crossing: Wild World](https://github.com/7ucina/acww-decomp) | DS | декомпиляция | 14 | 2.4 | 2026-10-14 | — | Matching decompilation of Animal Crossing: Wild World (Nintendo DS, USA) |
 | [Mario & Luigi - Partners in Time](https://github.com/Rainchus/PartnersInTime-Decomp) | DS | декомпиляция | 14 | 2.4 | 2026-09-29 | — |  |
+| [Super Mario Odyssey (smo-recomp)](https://github.com/Coz-0/smo-recomp) | Switch | рекомпиляция | 14 | 2.4 | 2026-10-23 | — | Static recompilation of Super Mario Odyssey (Switch, 1.4.1) to native Windows x64. No game data included; bring your own dump. |
 | [The Legend of Zelda: Spirit Tracks](https://github.com/Yanis002/st) | DS | декомпиляция | 13 | 2.4 | 2026-10-14 | — | Decompilation of The Legend of Zelda: Spirit Tracks |
 | [Mario & Luigi: Dream Team (MILLI4C)](https://github.com/Mario-and-Luigi-3Ds-R-D/MILLI4C) | 3DS | декомпиляция | 12 | 2.4 | 2026-08-12 | — | A starting work in progress decomp of Mario & Luigi Dream Team [1.0 US REV0] [TitleID: 00040000000D5A00]] |
-| [Super Mario Odyssey (smo-recomp)](https://github.com/Coz-0/smo-recomp) | Switch | рекомпиляция | 12 | 2.4 | 2026-10-23 | — | Static recompilation of Super Mario Odyssey (Switch, 1.4.1) to native Windows x64. No game data included; bring your own dump. |
 | [Bomberman Land Touch 2](https://github.com/gamemasterplc/bltouch2) | DS | декомпиляция | 7 | 2.4 | 2026-10-23 | — | A reverse engineered implementation of "Bomberman Land Touch 2" for the Nintendo DS |
-| [3dsrecomp](https://github.com/fearkov/3dsrecomp) | 3DS | инструмент | 49 | 2.25 | 2026-10-09 | — | Static recompiler for Nintendo 3DS games, from ARM to C |
+| [3dsrecomp](https://github.com/fearkov/3dsrecomp) | 3DS | инструмент | 52 | 2.25 | 2026-10-09 | — | Static recompiler for Nintendo 3DS games, from ARM to C |
 | [Super Mario 3D Land](https://github.com/3dsdecomp/RedPepper) | 3DS | декомпиляция | 112 | 2.2 | 2025-05-22 | — | Super Mario 3D Land EU Decompilation |
 | [Mario Kart DS](https://github.com/XorTroll/mkds-re) | DS | декомпиляция | 64 | 2.2 | 2025-01-24 | — | Mario Kart DS (EU) reverse-engineering work: ASM-hacking and other tools |
 | [Castlevania: Order of Ecclesia](https://github.com/LagoLunatic/ooe) | DS | декомпиляция | 34 | 2.2 | 2025-05-04 | — | Decompilation of Castlevania: Order of Ecclesia |
 | [Super Smash Bros. Ultimate (ssbu-decomp)](https://github.com/sbergeron42/ssbu-decomp) | Switch | декомпиляция | 19 | 2.2 | 2026-04-13 | — | Matching decompilation of Super Smash Bros. Ultimate (Switch, AArch64) |
+| [The Legend of Zelda: A Link Between Worlds](https://github.com/7akeem0/albw-decomp-ai) | 3DS | декомпиляция | 11 | 2.2 | 2026-10-15 | — | Matching decompilation of The Legend of Zelda: A Link Between Worlds (3DS, USA) - work in progress, 63.7% of functions matched byte-exact |
 | [Diamond Rush](https://github.com/palaceswitcher/Diamond-Rush-Decomp) | Switch | декомпиляция | 10 | 2.2 | 2026-07-14 | — | Decompilation of Diamond Rush |
-| [The Legend of Zelda: A Link Between Worlds](https://github.com/7akeem0/albw-decomp-ai) | 3DS | декомпиляция | 10 | 2.2 | 2026-10-15 | — | Matching decompilation of The Legend of Zelda: A Link Between Worlds (3DS, USA) - work in progress, 63.7% of functions matched byte-exact |
-| [Mario Party DS](https://github.com/mariopartyrd/mariopartyDS) | DS | декомпиляция | 24 | 2 | 2025-04-17 | — |  |
+| [Mario Party DS](https://github.com/mariopartyrd/mariopartyDS) | DS | декомпиляция | 25 | 2 | 2025-04-17 | — |  |
 | [Splatoon](https://github.com/Dexx-io/Splatoon-Decomp) | Wii U | декомпиляция | 17 | 2 | 2024-12-18 | — | Decompilation of Splatoon for the Wii U, all credit goes to Nintendo! |
 | [Lego Battles](https://github.com/LiruJ/Lego-Battles-Decomp) | DS | декомпиляция | 10 | 2 | 2025-10-20 | — | A decompilation of the DS game Lego Battles |
 | [Yoshi's Woolly World](https://github.com/Swiftshine/yww) | Wii U | декомпиляция | 8 | 2 | 2025-01-04 | — | Yoshi's Woolly World decompilation. |

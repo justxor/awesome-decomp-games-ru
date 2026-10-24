@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (54)
+# 🌐 Браузерные порты — полный список (53)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **23.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **24.10.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -50,11 +50,10 @@
 | Claude of Duty: Vibe Slops II (froydinger mirror) | PC | [▶ открыть](https://froydinger.github.io/claude-of-duty/) | — | — |
 | Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror) | PC | [▶ открыть](https://goofyahhbro69420.github.io/Black-Ops-2/) | — | — |
 | Kino der Toten (GoofyAhhBro69420 mirror) | PC | [▶ открыть](https://goofyahhbro69420.github.io/COD-ZOMBIES/) | — | — |
-| Kino der Toten (theeagler1234 mirror) | PC | [▶ открыть](https://theeagler1234-alt.github.io/kino-der-toten/) | — | — |
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (50)
+## Активные проекты (49)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
@@ -104,7 +103,6 @@
 | [Claude of Duty: Vibe Slops II (froydinger mirror)](https://froydinger.github.io/claude-of-duty) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (listed… |
 | [Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/Black-Ops-2) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (Hijack… |
 | [Kino der Toten (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/COD-ZOMBIES) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
-| [Kino der Toten (theeagler1234 mirror)](https://theeagler1234-alt.github.io/kino-der-toten) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
 | [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 11 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
 | [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 12 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |

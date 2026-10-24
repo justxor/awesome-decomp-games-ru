@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **23.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **24.10.2026**.
 
 Читаемый ассемблер, который собирается в идентичный ROM; основа ромхаков и переводов.
 
@@ -13,10 +13,10 @@
 | [Pokemon Red](https://github.com/pret/pokered) | Game Boy | 5.0k | 4.05 | 2026-10-21 | — | Disassembly of Pokémon Red/Blue |
 | [Pokemon Crystal](https://github.com/pret/pokecrystal) | Game Boy Color | 2.5k | 3.85 | 2026-10-21 | — | Disassembly of Pokémon Crystal |
 | [Driver 2](https://github.com/OpenDriver2/REDRIVER2) | PS1 | 1.4k | 3.65 | 2026-06-26 | ✅ | Driver 2 Playstation game reverse engineering effort |
-| [Medarot 3](https://github.com/Medabots/medarot3) | Game Boy Color | 49 | 3.45 | 2026-10-22 | ✅ | Medarot 3 GBC disassembly/translation |
+| [Medarot 3](https://github.com/Medabots/medarot3) | Game Boy Color | 49 | 3.45 | 2026-10-24 | ✅ | Medarot 3 GBC disassembly/translation |
 | [The Legend of Zelda: Link's Awakening DX](https://github.com/zladx/LADX-Disassembly) | Game Boy Color | 918 | 3.4 | 2026-09-25 | — | Disassembly of Legend of Zelda: Link's Awakening DX |
-| [Pokemon Yellow](https://github.com/pret/pokeyellow) | Game Boy | 896 | 3.4 | 2026-10-22 | — | Disassembly of Pokemon Yellow |
-| [Pokemon Gold](https://github.com/pret/pokegold) | Game Boy Color | 731 | 3.4 | 2026-10-21 | — | Disassembly of Pokémon Gold/Silver |
+| [Pokemon Yellow](https://github.com/pret/pokeyellow) | Game Boy | 896 | 3.4 | 2026-10-24 | — | Disassembly of Pokemon Yellow |
+| [Pokemon Gold](https://github.com/pret/pokegold) | Game Boy Color | 732 | 3.4 | 2026-10-21 | — | Disassembly of Pokémon Gold/Silver |
 | [Sonic the Hedgehog](https://github.com/sonicretro/s1disasm) | Genesis | 456 | 3.4 | 2026-10-17 | ✅ | Sonic 1 Disassembly |
 | [Pokemon Gold SpaceWorld Demo](https://github.com/pret/pokegold-spaceworld) | Game Boy | 403 | 3.4 | 2026-10-21 | — | Disassembly of the Pokémon Gold and Silver 1997 Space World demo |
 | [Pokemon TCG 1](https://github.com/pret/poketcg) | Game Boy Color | 333 | 3.4 | 2026-10-06 | — | Disassembly of Pokémon TCG |
@@ -36,7 +36,7 @@
 | [The Bugs Bunny Crazy Castle](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Bugs%20Bunny%20Crazy%20Castle) | NES | 301 | 3.4 | 2026-08-12 | — | Source code of some NES games |
 | [Yie Ar Kung Fu](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Yie%20Ar%20Kung-Fu) | NES | 301 | 3.4 | 2026-08-12 | — | Source code of some NES games |
 | [Sonic & Knuckles](https://github.com/sonicretro/skdisasm) | Genesis | 265 | 3.4 | 2026-10-11 | — | Sonic and Knuckles Disassembly |
-| [FIre Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u) | GBA | 228 | 3.4 | 2026-10-21 | — | Decompilation/disassembly of Fire Emblem: The Sacred Stones |
+| [FIre Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u) | GBA | 229 | 3.4 | 2026-10-21 | — | Decompilation/disassembly of Fire Emblem: The Sacred Stones |
 | [Oracle of Ages and Seasons](https://github.com/Stewmath/oracles-disasm) | Game Boy Color | 221 | 3.4 | 2026-10-02 | — | Disassembly of Oracle of Ages and Seasons |
 | [Pokemon Stadium 1](https://github.com/pret/pokestadium) | N64 | 213 | 3.4 | 2026-10-03 | — | Disassembly and decompilation of Pokémon Stadium |
 | [Pokemon Pinball](https://github.com/pret/pokepinball) | Game Boy Color | 204 | 3.4 | 2026-10-12 | — | Disassembly of Pokémon Pinball |
@@ -55,8 +55,8 @@
 | [Pokemon Puzzle Challenge](https://github.com/pret/pokepuzzle) | Game Boy Color | 81 | 2.95 | 2026-09-22 | — | Disassembly of Pokémon Puzzle Challenge |
 | [Shining Force II](https://github.com/ShiningForceCentral/SF2DISASM) | Genesis | 55 | 2.95 | 2026-10-22 | — | A disassembly of the game "Shining Force II" for documentation and fan-project purposes. |
 | [Mega Man Battle Network 6](https://github.com/dism-exe/bn6f) | GBA | 44 | 2.95 | 2026-08-10 | — | Disassembly of MegaMan Battle Network 6 with Cybeast Falzar as baserom |
+| [Pokéwalker (firmware/minigames) (pw)](https://github.com/lumirth/pw) | Other | 38 | 2.95 | 2026-09-14 | — | A human-readable matching decompilation of the Pokéwalker firmware. |
 | [Zelda no Densetsu: Kamigami no Triforce](https://github.com/spannerisms/jpdasm) | SNES | 38 | 2.95 | 2026-09-15 | — | Accurate and annotated disassembly of Zelda no Densetsu: Kamigami no Triforce |
-| [Pokéwalker (firmware/minigames) (pw)](https://github.com/lumirth/pw) | Other | 36 | 2.95 | 2026-09-14 | — | A human-readable matching decompilation of the Pokéwalker firmware. |
 | [Metroid II: Return of Samus](https://github.com/metroidret/M2RoS) | Game Boy | 32 | 2.95 | 2026-08-25 | — | A disassembly of a classic Game Boy game. |
 | [Prince of Persia (SDLPoP-Dreamcast)](https://github.com/Memorix101/SDLPoP-Dreamcast) | Apple II | 27 | 2.85 | 2025-01-22 | ✅ | An open-source port of Prince of Persia, based on the disassembly of the DOS version ported to SEGA Dreamcast |
 | [Medarot 4](https://github.com/Medabots/medarot4) | Game Boy Color | 16 | 2.85 | 2025-02-05 | ✅ | Medarot 4 GBC disassembly/translation |
@@ -93,7 +93,7 @@
 | [Metroid (metroid-disassembly)](https://github.com/nmikstas/metroid-disassembly) | NES | 33 | 2.55 | 2025-02-04 | — | Metroid software disassembly |
 | [Super C](https://github.com/vermiceli/nes-super-c) | NES | 28 | 2.55 | 2026-07-04 | — | An annotated disassembly with supplemental materials of the Super C (US) and Probotector (EU) NES game. |
 | [Alex Kidd in Miracle World](https://github.com/lhsazevedo/akmw) | Master System | 27 | 2.55 | 2026-06-05 | — | Disassembly of the original Alex Kidd in Miracle World |
-| [Pokémon Red and Blue (pokered-fr)](https://github.com/einstein95/pokered-fr) | Game Boy | 24 | 2.55 | 2026-01-27 | — | disassembly of Pokémon: Version Rouge |
+| [Pokémon Red and Blue (pokered-fr)](https://github.com/einstein95/pokered-fr) | Game Boy | 25 | 2.55 | 2026-01-27 | — | disassembly of Pokémon: Version Rouge |
 | [Arkanoid](https://github.com/mcolom/arkanoid_msx_disasm) | MSX | 22 | 2.55 | 2026-03-23 | — | Arkanoid MSX disassembly |
 | [Mother/Earthbound Zero/Earthbound Beginnings](https://github.com/Nathan-R-Og/mother) | NES | 20 | 2.55 | 2026-07-01 | — | Disassembly of Mother/Earthbound Zero/Earthbound Beginnings for the NES |
 | [Resident Evil 2 (bio2-ds)](https://github.com/MeganGrass/bio2-ds) | PS1 | 19 | 2.55 | 2026-10-23 | — | Resident Evil 2 Dual Shock Ver. (1998/SLUS_007.48/Leon) Disassembly/Decompilation |
@@ -238,9 +238,9 @@
 | [Tetris (gbtetris)](https://github.com/meithecatte/gbtetris) | Game Boy | 16 | 1.95 | 2019-07-01 | — | A compilable Gameboy Tetris disassembly, hopefully fully labeled and documented one day. |
 | [Fire Emblem: Shadow Dragon and the Blade of Light (fe1)](https://github.com/StanHash/fe1) | NES | 15 | 1.95 | 2021-02-18 | — | Disassembly of Fire Emblem: Ankoku Ryu to Hikari no Tsurugi ("Shadow Dragon and the Blade of Light") |
 | [Shining Force CD](https://github.com/ShiningForceCentral/SFCDDISASM) | Sega CD/32X | 15 | 1.95 | 2015-09-01 | — | A disassembly of the game "Shining Force CD" for documentation and fan-project purposes. |
+| [The Sims (sims1_mac_decomp)](https://github.com/simdecomp/sims1_mac_decomp) | PC | 15 | 1.95 | 2022-05-30 | — | WIP Disassembly/Decompilation of The Sims 1 |
 | [ZZT (ZZT Disassembly Project)](https://github.com/cknave/zztasm) | DOS | 15 | 1.95 | 2016-11-15 | — | ZZT Disassembly Project |
 | [Crystalis](https://github.com/crystalisdisassembly/crystalisdisassembly) | NES | 14 | 1.95 | 2019-06-22 | — | Disassembly of the NES Game Crystalis |
-| [The Sims (sims1_mac_decomp)](https://github.com/simdecomp/sims1_mac_decomp) | PC | 14 | 1.95 | 2022-05-30 | — | WIP Disassembly/Decompilation of The Sims 1 |
 | [Metal Slug (mslug-disasm)](https://github.com/neogeodev/mslug-disasm) | Neo Geo | 13 | 1.95 | 2017-05-16 | — | Analysis of a popular NeoGeo game :) |
 | [Pokémon Pinball: Ruby & Sapphire (Pokemon-Pinball-RS-Disassembly-Project)](https://github.com/Normmatt/Pokemon-Pinball-RS-Disassembly-Project) | GBA | 13 | 1.95 | 2015-09-24 | — | Pokemon Pinball Ruby & Sapphire Disassembly Project |
 | [Sonic the Hedgehog (8-bit) (Sonic-1-Game-Gear-Disassembly)](https://github.com/TheRavenfreak/Sonic-1-Game-Gear-Disassembly) | Master System/Game Gear | 13 | 1.95 | 2019-07-12 | — | A work in progress split disassembly of Sonic The Hedgehog on the Sega Game Gear. |
