@@ -1,37 +1,37 @@
-# Аркадные автоматы: декомпиляции, рекомпиляции и порты игр (33)
+# Аркадные автоматы: декомпиляции, рекомпиляции и порты игр (32)
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **24.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **25.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [OutRun (CannonBall DX)](https://github.com/Endprodukt/cannonball-dx) — ремейк движка, ⭐ 115, score 3.95
-2. [Virtua Fighter 2](https://github.com/mr-finster/vf2-recomp) — рекомпиляция, ⭐ 65, score 3.95
+2. [Virtua Fighter 2](https://github.com/mr-finster/vf2-recomp) — рекомпиляция, ⭐ 67, score 3.95
 3. [Virtua Fighter (Virtua Fighter Recomp)](https://github.com/mr-finster/vf1-recomp) — рекомпиляция, ⭐ 61, score 3.95
-4. [Virtua Fighter 3](https://github.com/mr-finster/vf3-recomp) — рекомпиляция, ⭐ 40, score 3.95
+4. [Virtua Fighter 3](https://github.com/mr-finster/vf3-recomp) — рекомпиляция, ⭐ 42, score 3.95
 5. [Initial D Arcade Stage Ver.3](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-) — рекомпиляция, ⭐ 160, score 3.9
-6. [Time Crisis II (namco22-decompile)](https://github.com/spacestate1/namco22-decompile) — декомпиляция, ⭐ 249, score 3.8
-7. [Tekken 6 (tekken6-recomp)](https://github.com/mahmoud-mess/tekken6-recomp) — рекомпиляция, ⭐ 45, score 3.55
-8. [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) — декомпиляция, ⭐ 81, score 3.45
+6. [Time Crisis II (namco22-decompile)](https://github.com/spacestate1/namco22-decompile) — декомпиляция, ⭐ 253, score 3.8
+7. [Tekken 6 (tekken6-recomp)](https://github.com/mahmoud-mess/tekken6-recomp) — рекомпиляция, ⭐ 48, score 3.55
+8. [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) — декомпиляция, ⭐ 82, score 3.45
 9. [Defender (Falcon)](https://github.com/therealsark02/defender) — порт, ⭐ 13, score 3.3
 10. [Jackal (UEFI_Jackal)](https://github.com/MikeWuPing/UEFI_Jackal) — декомпиляция, ⭐ 16, score 2.45
 
-## Все активные проекты (27)
+## Все активные проекты (26)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
 | [OutRun (CannonBall DX)](https://github.com/Endprodukt/cannonball-dx) | Arcade | ремейк движка | 115 | 3.95 | 2026-10-07 | ✅ | CannonBall DX – OutRun fork focused on modern racing wheels, multi-device input, expanded FFB, 21:9 ultrawide and arcade cabinets. |
-| [Virtua Fighter 2](https://github.com/mr-finster/vf2-recomp) | Arcade | рекомпиляция | 65 | 3.95 | 2026-10-24 | ✅ | Virtua Fighter 2 (Sega Model 2, 1994) for Mac, Windows and Steam Deck: the arcade's i960 program recompiled to native code, up to 6x, widescreen, smo… |
-| [Virtua Fighter (Virtua Fighter Recomp)](https://github.com/mr-finster/vf1-recomp) | Arcade | рекомпиляция | 61 | 3.95 | 2026-10-24 | ✅ | Virtua Fighter (Sega Model 1, 1993) statically recompiled for Mac, Windows and Steam Deck: up to 6x, widescreen, smooth 120 fps. Bring your own vf.zi… |
-| [Virtua Fighter 3](https://github.com/mr-finster/vf3-recomp) | Arcade | рекомпиляция | 40 | 3.95 | 2026-10-20 | ✅ | Virtua Fighter 3 (Sega Model 3, 1996) for Mac, Windows and Steam Deck: the arcade's PowerPC program recompiled to native code, up to 6x, widescreen,… |
-| [Killer Instinct](https://github.com/thefixinhixon/UltraCombo) | Arcade | порт | 30 | 3.95 | 2026-10-23 | — | Native PC ports of the Killer Instinct arcade games - bring your own game files |
+| [Virtua Fighter 2](https://github.com/mr-finster/vf2-recomp) | Arcade | рекомпиляция | 67 | 3.95 | 2026-10-25 | ✅ | Virtua Fighter 2 (Sega Model 2, 1994) for Mac, Windows and Steam Deck: the arcade's i960 program recompiled to native code, up to 6x, widescreen, smo… |
+| [Virtua Fighter (Virtua Fighter Recomp)](https://github.com/mr-finster/vf1-recomp) | Arcade | рекомпиляция | 61 | 3.95 | 2026-10-25 | ✅ | Virtua Fighter (Sega Model 1, 1993) statically recompiled for Mac, Windows and Steam Deck: up to 6x, widescreen, smooth 120 fps. Bring your own vf.zi… |
+| [Virtua Fighter 3](https://github.com/mr-finster/vf3-recomp) | Arcade | рекомпиляция | 42 | 3.95 | 2026-10-25 | ✅ | Virtua Fighter 3 (Sega Model 3, 1996) for Mac, Windows and Steam Deck: the arcade's PowerPC program recompiled to native code, up to 6x, widescreen,… |
+| [Killer Instinct](https://github.com/thefixinhixon/UltraCombo) | Arcade | порт | 40 | 3.95 | 2026-10-23 | — | Native PC ports of the Killer Instinct arcade games - bring your own game files |
 | [Initial D Arcade Stage Ver.3](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-) | Arcade | рекомпиляция | 160 | 3.9 | 2026-09-21 | ✅ | Native SH-4 AOT recompilation of Initial D Arcade Stage 3 (NAOMI 2) — BIOS-free Vulkan public early demo (WIP). |
-| [Time Crisis II (namco22-decompile)](https://github.com/spacestate1/namco22-decompile) | Arcade | декомпиляция | 249 | 3.8 | 2026-10-22 | ✅ | A  decompilation of Namco system 22 |
-| [Vampire Savior: The Lord of Vampire](https://github.com/tmcleroy/vampire-savior-recomp) | Arcade | рекомпиляция | 23 | 3.7 | 2026-10-16 | — | Moved to tmcleroy/cps2recomp (CPS-2 Recomp). Unofficial native PC port of Vampire Savior (CPS-2 arcade) via static recompilation, with a training mod… |
-| [Tekken 6 (tekken6-recomp)](https://github.com/mahmoud-mess/tekken6-recomp) | Arcade | рекомпиляция | 45 | 3.55 | 2026-10-16 | ✅ | Original open-source static recompilation of Tekken 6 (Xbox 360) for native execution on PC. This project provides the recompilation foundation used… |
-| [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) | Arcade | декомпиляция | 81 | 3.45 | 2026-10-20 | ✅ | Experimental standalone Time Crisis VR port for Meta Quest 3, based on spacestate1/namco22-decompile. OpenXR, tracked pistol, physical ducking and 12… |
-| [Daytona Arcade Recomp](https://github.com/alphanu1/daytona-arcade-recomp) | Arcade | рекомпиляция | 221 | 3.4 | 2026-10-23 | — | Recomp of Daytona Racing to PC. |
+| [Time Crisis II (namco22-decompile)](https://github.com/spacestate1/namco22-decompile) | Arcade | декомпиляция | 253 | 3.8 | 2026-10-24 | ✅ | A  decompilation of Namco system 22 |
+| [Vampire Savior: The Lord of Vampire](https://github.com/tmcleroy/vampire-savior-recomp) | Arcade | рекомпиляция | 24 | 3.7 | 2026-10-16 | — | Moved to tmcleroy/cps2recomp (CPS-2 Recomp). Unofficial native PC port of Vampire Savior (CPS-2 arcade) via static recompilation, with a training mod… |
+| [Tekken 6 (tekken6-recomp)](https://github.com/mahmoud-mess/tekken6-recomp) | Arcade | рекомпиляция | 48 | 3.55 | 2026-10-16 | ✅ | Original open-source static recompilation of Tekken 6 (Xbox 360) for native execution on PC. This project provides the recompilation foundation used… |
+| [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) | Arcade | декомпиляция | 82 | 3.45 | 2026-10-20 | ✅ | Experimental standalone Time Crisis VR port for Meta Quest 3, based on spacestate1/namco22-decompile. OpenXR, tracked pistol, physical ducking and 12… |
+| [Daytona Arcade Recomp](https://github.com/alphanu1/daytona-arcade-recomp) | Arcade | рекомпиляция | 223 | 3.4 | 2026-10-23 | — | Recomp of Daytona Racing to PC. |
 | [Dead or Alive ++ (Jiggle-or-Physics)](https://github.com/3dge7161/Jiggle-or-Physics) | Arcade | рекомпиляция | 23 | 3.35 | 2026-10-02 | — |  |
 | [Defender (Falcon)](https://github.com/therealsark02/defender) | Arcade | порт | 13 | 3.3 | 2025-08-17 | ✅ | A port of Williams Defender for the Atari ST/STE/Falcon |
 | [Green Beret (cadaver greenberet-disassembly)](https://github.com/cadaver/greenberet-disassembly) | Arcade | дизасм | 11 | 2.75 | 2026-10-11 | — | Disassembly of the C64 version of Green Beret |
@@ -45,9 +45,8 @@
 | [Sonic The Fighters](https://github.com/biggestsonicfan/stfdecomp) | Arcade | декомпиляция | 110 | 2.2 | 2025-06-07 | — | A decompilation attempt at Sonic the Fighters |
 | [Bagman (bagman (arcade -> 68k transcode))](https://github.com/jotd666/bagman) | Arcade | ремейк движка | 23 | 2.2 | 2026-02-28 | — | remake of the 1982 arcade game for Windows, NintendoDS and Amiga |
 | [Virtua Cop 2 (re-virtua-cop-2)](https://github.com/jevarg/re-virtua-cop-2) | Arcade | декомпиляция | 14 | 2.2 | 2026-05-19 | — | Reverse engineering of Virtua Cop 2 PC (1997) |
-| [Virtua Fighter 2](https://github.com/celsowm/vf2-decomp) | Arcade | декомпиляция | 10 | 2.2 | 2026-10-24 | — | Clean-room, non-matching C decompilation project for Virtua Fighter 2 Version 2.1 (Sega Model 2 / i960) |
+| [Virtua Fighter 2](https://github.com/celsowm/vf2-decomp) | Arcade | декомпиляция | 10 | 2.2 | 2026-10-25 | — | Clean-room, non-matching C decompilation project for Virtua Fighter 2 Version 2.1 (Sega Model 2 / i960) |
 | [Green Beret (Paul Hughes ZXSpectrumGreenBeret)](https://github.com/Paulie68000/ZXSpectrumGreenBeret) | Arcade | декомпиляция | 12 | 2 | 2025-01-03 | — |  |
-| [Virtua Fighter (arcade recompilation)](https://vf1-recomp.pages.dev) | Arcade | рекомпиляция | — | 1.8 | — | — |  |
 
 ## Неактивные и архивные (6)
 
