@@ -2,14 +2,14 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **26.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **27.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [Sonic Adventure](https://github.com/sonicfreak1337/SARecomp) — рекомпиляция, ⭐ 107, score 4.2
 2. [Tails Adventure (Tails Adventure Remake)](https://github.com/mechakotik/tails-adventure) — ремейк движка, ⭐ 157, score 4.15
-3. [Knuckles' Chaotix](https://github.com/YuutaTsubasa/ChaotixRecompiled) — рекомпиляция, ⭐ 49, score 3.95
-4. [SoulCalibur](https://github.com/enrique363/voldorium) — рекомпиляция, ⭐ 24, score 3.95
+3. [Knuckles' Chaotix](https://github.com/YuutaTsubasa/ChaotixRecompiled) — рекомпиляция, ⭐ 50, score 3.95
+4. [SoulCalibur](https://github.com/enrique363/voldorium) — рекомпиляция, ⭐ 26, score 3.95
 5. [Sonic CD (Little Planet)](https://github.com/carl0srmz/littleplanet) — рекомпиляция, ⭐ 50, score 3.55
 6. [Sonic R (sonic-r (jnmartin84))](https://github.com/jnmartin84/sonic-r) — ремейк движка, ⭐ 32, score 3.35
 7. [Space Channel 5](https://github.com/ZoomiesZaggy/Space-Channel-5) — рекомпиляция, ⭐ 23, score 3.35
@@ -20,13 +20,13 @@
 |---|---|---|---|---|---|---|---|
 | [Sonic Adventure](https://github.com/sonicfreak1337/SARecomp) | Dreamcast | рекомпиляция | 107 | 4.2 | 2026-10-18 | ✅ | A fully playable, work-in-progress native Sonic Adventure port for Windows, Linux and Steam Deck. Powered by KatanaRecomp. |
 | [Tails Adventure (Tails Adventure Remake)](https://github.com/mechakotik/tails-adventure) | Game Gear | ремейк движка | 157 | 4.15 | 2026-08-26 | ✅ | Tails Adventure remade from the ground up for PC and Android |
-| [Knuckles' Chaotix](https://github.com/YuutaTsubasa/ChaotixRecompiled) | 32X | рекомпиляция | 49 | 3.95 | 2026-10-24 | ✅ | Static recompilation of the Sega 32X game Knuckles' Chaotix into native C++ (Windows/Linux/macOS/Android), with true widescreen. Bring your own ROM;… |
-| [SoulCalibur](https://github.com/enrique363/voldorium) | Dreamcast | рекомпиляция | 24 | 3.95 | 2026-10-24 | ✅ | Native Windows port of SoulCalibur (Dreamcast) by static recompilation: 16:9, online versus with rollback netcode. Requires your own legal disc dump;… |
+| [Knuckles' Chaotix](https://github.com/YuutaTsubasa/ChaotixRecompiled) | 32X | рекомпиляция | 50 | 3.95 | 2026-10-27 | ✅ | Static recompilation of the Sega 32X game Knuckles' Chaotix into native C++ (Windows/Linux/macOS/Android), with true widescreen. Bring your own ROM;… |
+| [SoulCalibur](https://github.com/enrique363/voldorium) | Dreamcast | рекомпиляция | 26 | 3.95 | 2026-10-24 | ✅ | Native Windows port of SoulCalibur (Dreamcast) by static recompilation: 16:9, online versus with rollback netcode. Requires your own legal disc dump;… |
 | [Sonic CD (Little Planet)](https://github.com/carl0srmz/littleplanet) | Sega CD/32X | рекомпиляция | 50 | 3.55 | 2026-10-19 | ✅ | Sonic the Hedgehog CD recompilation |
-| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Dreamcast | порт | 37 | 3.35 | 2026-10-25 | — | Work-in-progress Resident Evil 4 port for Sega Dreamcast, with native PowerVR rendering, VMU saves and Flycast-tested play builds. |
+| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Dreamcast | порт | 38 | 3.35 | 2026-10-26 | — | Work-in-progress Resident Evil 4 port for Sega Dreamcast, with native PowerVR rendering, VMU saves and Flycast-tested play builds. |
 | [Sonic R (sonic-r (jnmartin84))](https://github.com/jnmartin84/sonic-r) | Saturn | ремейк движка | 32 | 3.35 | 2026-09-19 | ✅ | A reimplementation of Sonic R for multiple platforms. |
 | [Space Channel 5](https://github.com/ZoomiesZaggy/Space-Channel-5) | Dreamcast | рекомпиляция | 23 | 3.35 | 2026-10-18 | ✅ | Unofficial native Space Channel 5 port for Windows, Linux and macOS. Compiler-free downloads, display options, controller support and modding. |
-| [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | 32X | дизасм | 185 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
+| [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | 32X | дизасм | 186 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
 | [Knuckles Chaotix](https://github.com/sonicretro/chaotix) | 32X | дизасм | 41 | 2.75 | 2026-02-27 | — | Knuckles' Chaotix Disassembly & Toolkit |
 | [Panzer Dragoon Saga](https://github.com/yaz0r/Azel) | Saturn | декомпиляция | 184 | 2.6 | 2026-09-07 | — | Reverse engineering of Panzer Dragoon Saga |
 | [Tokyo Bus Guide](https://github.com/lhsazevedo/tbg-decomp) | Dreamcast | декомпиляция | 36 | 2.6 | 2026-10-25 | — | Decompiling Tokyo Bus Guide (東京バス案内) for the Sega Dreamcast |
