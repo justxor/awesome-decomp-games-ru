@@ -2,71 +2,71 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **27.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **28.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
-1. [Castlevania: Symphony of the Night](https://github.com/BlackLabelHQ/SymphonyRecomp) — рекомпиляция, ⭐ 990, score 4.35
-2. [Crash Team Racing (High Octane)](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) — порт, ⭐ 213, score 4.35
+1. [Castlevania: Symphony of the Night](https://github.com/BlackLabelHQ/SymphonyRecomp) — рекомпиляция, ⭐ 995, score 4.35
+2. [Crash Team Racing (High Octane)](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) — порт, ⭐ 216, score 4.35
 3. [Castlevania: Symphony of the Night](https://github.com/Xeeynamo/sotn-decomp) — декомпиляция, ⭐ 1.2k, score 4.2
-4. [Yu-Gi-Oh! Forbidden Memories](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) — рекомпиляция, ⭐ 252, score 4.15
+4. [Yu-Gi-Oh! Forbidden Memories](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) — рекомпиляция, ⭐ 257, score 4.15
 5. [Gran Turismo 2 (gt-2-pc)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) — порт, ⭐ 155, score 4.15
 6. [Yu-Gi-Oh! Forbidden Memories](https://github.com/Unchiga/YuGiOhForbiddenMemoriesRecomp) — рекомпиляция, ⭐ 144, score 4.15
-7. [Syphon Filter (PC Recomp)](https://github.com/Madxbio97/SF-pc-port) — рекомпиляция, ⭐ 136, score 4.15
-8. [Bloody Roar 2](https://github.com/novapowers0/BloodyRoar2Recomp) — рекомпиляция, ⭐ 82, score 4.15
-9. [OpenSpideyPS1](https://github.com/GTTeancum/SpideyPS1recomp) — рекомпиляция, ⭐ 45, score 4.15
+7. [Syphon Filter (PC Recomp)](https://github.com/Madxbio97/SF-pc-port) — рекомпиляция, ⭐ 138, score 4.15
+8. [Bloody Roar 2](https://github.com/novapowers0/BloodyRoar2Recomp) — рекомпиляция, ⭐ 83, score 4.15
+9. [OpenSpideyPS1](https://github.com/GTTeancum/SpideyPS1recomp) — рекомпиляция, ⭐ 47, score 4.15
 10. [Wipeout](https://github.com/jnmartin84/wipeout-dc) — порт, ⭐ 180, score 3.95
 
 ## Все активные проекты (180)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Castlevania: Symphony of the Night](https://github.com/BlackLabelHQ/SymphonyRecomp) | PS1 | рекомпиляция | 990 | 4.35 | 2026-10-21 | ✅ | Recompilation project for Castlevania: Symphony of the Night |
-| [Crash Team Racing (High Octane)](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) | PS1 | порт | 213 | 4.35 | 2026-10-12 | ✅ | Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser. |
+| [Castlevania: Symphony of the Night](https://github.com/BlackLabelHQ/SymphonyRecomp) | PS1 | рекомпиляция | 995 | 4.35 | 2026-10-21 | ✅ | Recompilation project for Castlevania: Symphony of the Night |
+| [Crash Team Racing (High Octane)](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) | PS1 | порт | 216 | 4.35 | 2026-10-28 | ✅ | Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser. |
 | [Wipeout](https://github.com/phoboslab/wipeout-rewrite) | PS1 | ремейк движка | 3.0k | 4.2 | 2026-09-27 | — | This is a re-implementation of the 1995 PSX game wipEout. :flower_playing_cards: |
-| [Castlevania: Symphony of the Night](https://github.com/Xeeynamo/sotn-decomp) | PS1 / PSP / Saturn | декомпиляция | 1.2k | 4.2 | 2026-10-27 | ✅ | Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn) |
-| [Yu-Gi-Oh! Forbidden Memories](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) | PS1 | рекомпиляция | 252 | 4.15 | 2026-10-25 | ✅ | Native decompilation and recompilation of Yu-Gi-Oh! Forbidden Memories |
-| [Gran Turismo 2 (gt-2-pc)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | порт | 155 | 4.15 | 2026-09-30 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
+| [Castlevania: Symphony of the Night](https://github.com/Xeeynamo/sotn-decomp) | PS1 / PSP / Saturn | декомпиляция | 1.2k | 4.2 | 2026-10-28 | ✅ | Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn) |
+| [Yu-Gi-Oh! Forbidden Memories](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) | PS1 | рекомпиляция | 257 | 4.15 | 2026-10-25 | ✅ | Native decompilation and recompilation of Yu-Gi-Oh! Forbidden Memories |
+| [Gran Turismo 2 (gt-2-pc)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | порт | 155 | 4.15 | 2026-10-28 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
 | [Yu-Gi-Oh! Forbidden Memories](https://github.com/Unchiga/YuGiOhForbiddenMemoriesRecomp) | PS1 | рекомпиляция | 144 | 4.15 | 2026-09-26 | ✅ | Static recompilation of Yu-Gi-Oh! Forbidden Memories (PS1) into a native executable - with a live duel-rank meter, a fusion assistant, adjustable car… |
-| [Syphon Filter (PC Recomp)](https://github.com/Madxbio97/SF-pc-port) | PS1 | рекомпиляция | 136 | 4.15 | 2026-08-13 | ✅ | Syphon Filter PC brings Syphon Filter to PC. |
-| [Bloody Roar 2](https://github.com/novapowers0/BloodyRoar2Recomp) | PS1 | рекомпиляция | 82 | 4.15 | 2026-10-13 | ✅ | PSX recompilation of Bloody Roar II (SLES-01722 EU / SCUS-94424 USA). Anti-copyright: bring your own disc. Dual-region builds, from-scratch widescree… |
+| [Syphon Filter (PC Recomp)](https://github.com/Madxbio97/SF-pc-port) | PS1 | рекомпиляция | 138 | 4.15 | 2026-08-13 | ✅ | Syphon Filter PC brings Syphon Filter to PC. |
+| [Bloody Roar 2](https://github.com/novapowers0/BloodyRoar2Recomp) | PS1 | рекомпиляция | 83 | 4.15 | 2026-10-13 | ✅ | PSX recompilation of Bloody Roar II (SLES-01722 EU / SCUS-94424 USA). Anti-copyright: bring your own disc. Dual-region builds, from-scratch widescree… |
 | [Tekken 3](https://github.com/FishB0nes98/Tekken3Recompiled) | PS1 | рекомпиляция | 73 | 4.15 | 2026-09-23 | — | Tekken 3 hybrid recompilation preview with Jun Kazama, widescreen, custom skins and local asset import tools. |
-| [Xenogears](https://github.com/OpokXeno/xenogears-recomp) | PS1 | рекомпиляция | 68 | 4.15 | 2026-10-25 | — | Static recompilation of Xenogears for PC |
-| [OpenSpideyPS1](https://github.com/GTTeancum/SpideyPS1recomp) | PS1 | рекомпиляция | 45 | 4.15 | 2026-09-14 | ✅ | Native recompilations of Neversoft's PlayStation Spider-Man games, built with RecompOne. Games are siloed; only the recompiler and runtime are shared. |
+| [Xenogears](https://github.com/OpokXeno/xenogears-recomp) | PS1 | рекомпиляция | 69 | 4.15 | 2026-10-25 | — | Static recompilation of Xenogears for PC |
+| [OpenSpideyPS1](https://github.com/GTTeancum/SpideyPS1recomp) | PS1 | рекомпиляция | 47 | 4.15 | 2026-09-14 | ✅ | Native recompilations of Neversoft's PlayStation Spider-Man games, built with RecompOne. Games are siloed; only the recompiler and runtime are shared. |
 | [Crash Team Racing](https://github.com/CTR-tools/ctr-native) | PS1 | декомпиляция | 425 | 4 | 2026-10-20 | — | A Crash Team Racing Decompilation Project |
 | [Wipeout](https://github.com/jnmartin84/wipeout-dc) | PS1 | порт | 180 | 3.95 | 2026-04-01 | ✅ | Dreamcast port of wipeout-rewrite |
-| [Mega Man X4](https://github.com/mstan/MegaManX4Recomp) | PS1 | рекомпиляция | 112 | 3.95 | 2026-10-27 | ✅ | Mega Man X4 (USA, SLUS-00561) statically recompiled to a native PC executable with PSXRecomp |
-| [Disney's Hercules](https://github.com/obaidr1/hercules-recompiled) | PS1 | рекомпиляция | 105 | 3.95 | 2026-10-23 | ✅ | Native PC port of the 1997 PlayStation game Disney's Hercules (SCES-00893) plus its decompilation. No game data included. |
-| [Dino Crisis (Dino Crisis - Modern Edition)](https://github.com/Rotmill/Dino-Crisis-Modern-Edition) | PS1 | ремейк движка | 103 | 3.95 | 2026-10-26 | ✅ | Fan mod of Dino Crisis (PS1). It brings a modern Resident evil Remakes like over-the-shoulder camera, updated controls, visual/gameplay improvements,… |
-| [Ape Escape](https://github.com/mstan/ApeEscapeRecomp) | PS1 | рекомпиляция | 93 | 3.95 | 2026-10-03 | ✅ | Ape Escape (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
-| [Crash Bandicoot 2](https://github.com/Zumbo06/Crash2Recomp) | PS1 | рекомпиляция | 92 | 3.95 | 2026-10-08 | ✅ | Crash2Recomp brings Crash Bandicoot 2: Cortex Strikes Back to PC. |
-| [Street Fighter Alpha 3](https://github.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp) | PS1 | рекомпиляция | 80 | 3.95 | 2026-10-10 | ✅ | Made with PSXrecomp, a Sony PlayStation game static recompiler ecosystem · Part of the R.A.I.D. community |
-| [Mega Man X6](https://github.com/mstan/MegaManX6Recomp) | PS1 | рекомпиляция | 78 | 3.95 | 2026-10-09 | ✅ | Mega Man X6 (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
-| [Tomba!](https://github.com/mstan/TombaRecomp) | PS1 | рекомпиляция | 76 | 3.95 | 2026-10-25 | ✅ | Tomba! (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
+| [Dino Crisis (Dino Crisis - Modern Edition)](https://github.com/Rotmill/Dino-Crisis-Modern-Edition) | PS1 | ремейк движка | 111 | 3.95 | 2026-10-26 | ✅ | Fan mod of Dino Crisis (PS1). It brings a modern Resident evil Remakes like over-the-shoulder camera, updated controls, visual/gameplay improvements,… |
+| [Mega Man X4](https://github.com/mstan/MegaManX4Recomp) | PS1 | рекомпиляция | 111 | 3.95 | 2026-10-28 | ✅ | Mega Man X4 (USA, SLUS-00561) statically recompiled to a native PC executable with PSXRecomp |
+| [Disney's Hercules](https://github.com/obaidr1/hercules-recompiled) | PS1 | рекомпиляция | 107 | 3.95 | 2026-10-23 | ✅ | Native PC port of the 1997 PlayStation game Disney's Hercules (SCES-00893) plus its decompilation. No game data included. |
+| [Ape Escape](https://github.com/mstan/ApeEscapeRecomp) | PS1 | рекомпиляция | 93 | 3.95 | 2026-10-27 | ✅ | Ape Escape (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
+| [Crash Bandicoot 2](https://github.com/Zumbo06/Crash2Recomp) | PS1 | рекомпиляция | 93 | 3.95 | 2026-10-08 | ✅ | Crash2Recomp brings Crash Bandicoot 2: Cortex Strikes Back to PC. |
+| [Street Fighter Alpha 3](https://github.com/TechnicallyComputers/Street-Fighter-Alpha-3-Recomp) | PS1 | рекомпиляция | 81 | 3.95 | 2026-10-10 | ✅ | Made with PSXrecomp, a Sony PlayStation game static recompiler ecosystem · Part of the R.A.I.D. community |
+| [Mega Man X6](https://github.com/mstan/MegaManX6Recomp) | PS1 | рекомпиляция | 79 | 3.95 | 2026-10-27 | ✅ | Mega Man X6 (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
+| [Tomba!](https://github.com/mstan/TombaRecomp) | PS1 | рекомпиляция | 76 | 3.95 | 2026-10-27 | ✅ | Tomba! (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
 | [King's Field](https://github.com/Voicedrew11/verdite2) | PS1 | рекомпиляция | 59 | 3.95 | 2026-10-24 | ✅ | AI driven attempt at porting King's Field (SLUS-00158) to PC with a variety of improvements |
 | [Mega Man X5](https://github.com/mstan/MegaManX5Recomp) | PS1 | рекомпиляция | 58 | 3.95 | 2026-09-12 | ✅ | Mega Man X5 (USA, SLUS-01334) statically recompiled to a native Windows executable with the PSXRecomp framework. |
-| [Vandal Hearts](https://github.com/HalmyLyseas/VandalHearts-PcPort) | PS1 | порт | 56 | 3.95 | 2026-08-31 | ✅ | Native PC port of the PlayStation game Vandal Hearts, built on a byte-exact matching decompilation. Windows & Linux; bring your own disc. |
+| [Vandal Hearts](https://github.com/HalmyLyseas/VandalHearts-PcPort) | PS1 | порт | 57 | 3.95 | 2026-08-31 | ✅ | Native PC port of the PlayStation game Vandal Hearts, built on a byte-exact matching decompilation. Windows & Linux; bring your own disc. |
 | [Syphon Filter 2](https://github.com/alexbeavs-ps1-ports/syphon-filter-2-recomp) | PS1 | рекомпиляция | 44 | 3.95 | 2026-09-30 | ✅ | Experimental Syphon Filter 2 static recompilation for Windows using PSXRecomp |
-| [Alien Resurrection (AlienReRecomp)](https://github.com/DiegoDeDios/AlienReRecomp) | PS1 | рекомпиляция | 34 | 3.95 | 2026-10-25 | ✅ | Static recompilation of Alien Resurrection for PlayStation: a native port with modern rendering and gameplay improvements. Requires your own copy of… |
+| [Alien Resurrection (AlienReRecomp)](https://github.com/DiegoDeDios/AlienReRecomp) | PS1 | рекомпиляция | 37 | 3.95 | 2026-10-25 | ✅ | Static recompilation of Alien Resurrection for PlayStation: a native port with modern rendering and gameplay improvements. Requires your own copy of… |
 | [Twisted Metal 4 (TwistedMetal4 Recompiled)](https://github.com/TechnicallyComputers/TwistedMetal4Recomp) | PS1 | рекомпиляция | 30 | 3.95 | 2026-10-11 | ✅ | Made with PSXrecomp, a Sony PlayStation game static recompiler ecosystem · Part of the R.A.I.D. community |
 | [Legend of Legaia](https://github.com/AndrewAltimit/legend-of-legaia-re) | PS1 | ремейк движка | 25 | 3.95 | 2026-10-26 | ✅ | Reverse-engineering Legend of Legaia (PSX, 1999): Ghidra-traced format documentation, Rust extractors for every asset on the disc, and an engine reim… |
-| [Digimon World 2003](https://github.com/gascarcella/dw2003recomp) | PS1 | рекомпиляция | 23 | 3.95 | 2026-10-26 | ✅ | PC Port of Digimon World 2003 (PS1, EU) |
+| [Digimon World 2003](https://github.com/gascarcella/dw2003recomp) | PS1 | рекомпиляция | 24 | 3.95 | 2026-10-26 | ✅ | PC Port of Digimon World 2003 (PS1, EU) |
 | [Medal of Honor](https://github.com/FractalEngineer/Medal-Of-Honor-PSX-Recomp) | PS1 | рекомпиляция | 18 | 3.95 | 2026-10-25 | ✅ |  |
 | [Die Hard Trilogy](https://github.com/alexbeavs-ps1-ports/die-hard-trilogy-recomp) | PS1 | рекомпиляция | 17 | 3.95 | 2026-09-30 | ✅ | Source-only Windows setup host for Die Hard Trilogy; Wave 2 release draft. |
 | [Crash Team Racing](https://github.com/NyperYuhgard/CTR-PC-Port) | PS1 | порт | 16 | 3.95 | 2026-08-03 | — | A PC Port From Crash Team Racing |
 | [MediEvil II](https://github.com/alexbeavs-ps1-ports/medievil-ii-recomp) | PS1 | рекомпиляция | 14 | 3.95 | 2026-10-20 | ✅ | MediEvil II static recompilation setup project |
 | [Wild 9](https://github.com/plinkr/Wild9Recomp) | PS1 | рекомпиляция | 10 | 3.95 | 2026-10-25 | ✅ | Native PC port of the classic PlayStation 1 title `Wild 9`, powered by static recompilation. Features true widescreen, high-resolution rendering, PGX… |
 | [Crash Bash Online](https://crashbash.app) | PS1 | браузер | — | 3.95 | — | — |  |
-| [Alexbeav's PS1 recomps (psxrecomp-ports)](https://github.com/alexbeavs-ps1-ports/psxrecomp-ports) | PS1 | рекомпиляция | 115 | 3.9 | 2026-10-07 | ✅ | Unofficial noncommercial PlayStation recompilation releases |
-| [Resident Evil 3: Nemesis](https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3) | PS1 | рекомпиляция | 85 | 3.9 | 2026-10-20 | ✅ | Experimental PC port of Resident Evil 3: Nemesis (PS1), built on the PSXRecomp static recompiler |
-| [Jackie Chan Stuntmaster (ReChan)](https://github.com/SilverwireGames/ReChan) | PS1 | ремейк движка | 63 | 3.9 | 2026-10-26 | ✅ | Jackie Chan Stuntmaster reimplementation |
-| [Metal Gear Solid (mgs-reintegral)](https://github.com/Drommedhar/mgs-reintegral) | PS1 | порт | 48 | 3.9 | 2026-10-17 | ✅ |  |
-| [Street Fighter EX Plus Alpha](https://github.com/guimaraf/plusalpha-recomp) | PS1 | рекомпиляция | 41 | 3.9 | 2026-10-22 | ✅ | Plus Alpha Recomp brings Street Fighter EX Plus Alpha to PC. |
+| [Alexbeav's PS1 recomps (psxrecomp-ports)](https://github.com/alexbeavs-ps1-ports/psxrecomp-ports) | PS1 | рекомпиляция | 117 | 3.9 | 2026-10-07 | ✅ | Unofficial noncommercial PlayStation recompilation releases |
+| [Resident Evil 3: Nemesis](https://github.com/BrazilianHobbyist/Project-RE-Visited-RE3) | PS1 | рекомпиляция | 85 | 3.9 | 2026-10-28 | ✅ | Experimental PC port of Resident Evil 3: Nemesis (PS1), built on the PSXRecomp static recompiler |
+| [Jackie Chan Stuntmaster (ReChan)](https://github.com/SilverwireGames/ReChan) | PS1 | ремейк движка | 64 | 3.9 | 2026-10-26 | ✅ | Jackie Chan Stuntmaster reimplementation |
+| [Metal Gear Solid (mgs-reintegral)](https://github.com/Drommedhar/mgs-reintegral) | PS1 | порт | 51 | 3.9 | 2026-10-17 | ✅ |  |
+| [Street Fighter EX Plus Alpha](https://github.com/guimaraf/plusalpha-recomp) | PS1 | рекомпиляция | 42 | 3.9 | 2026-10-22 | ✅ | Plus Alpha Recomp brings Street Fighter EX Plus Alpha to PC. |
 | [Dragon Ball GT: Final Bout](https://github.com/novapowers0/DB-Final-Bout-Recomp) | PS1 | рекомпиляция | 31 | 3.9 | 2026-10-19 | ✅ | Static recompilation of Dragon Ball GT: Final Bout (SLUS-00493) for Windows. Bring your own disc. Playable v0.1.0 with stretch-only widescreen, Vulka… |
 | [Parasite Eve](https://github.com/alexbeavs-ps1-ports/parasite-eve-recomp) | PS1 | рекомпиляция | 30 | 3.9 | 2026-09-30 | ✅ | Owned-input PSX recompilation project for Parasite Eve |
-| [Silent Hill](https://github.com/SlickAmogus/silent-hill-decomp) | PS1 | декомпиляция | 775 | 3.8 | 2026-10-27 | ✅ | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active develop… |
+| [Silent Hill](https://github.com/SlickAmogus/silent-hill-decomp) | PS1 | декомпиляция | 781 | 3.8 | 2026-10-28 | ✅ | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active develop… |
 | [Crash Team Racing](https://github.com/CTR-tools/CTR-ModSDK) | PS1 | декомпиляция | 455 | 3.8 | 2026-07-05 | ✅ | ModSDK - a modding toolkit to create mods for Crash Team Racing in C. This repository also houses an effort to fully decompile and reverse-engineer C… |
-| [MediEvil](https://github.com/BlackLabelHQ/MediEvilRecomp) | PS1 | рекомпиляция | 219 | 3.75 | 2026-10-03 | ✅ | Static Recomp of PSX USA MediEvil, By BlackLabelHQ |
+| [MediEvil](https://github.com/BlackLabelHQ/MediEvilRecomp) | PS1 | рекомпиляция | 220 | 3.75 | 2026-10-03 | ✅ | Static Recomp of PSX USA MediEvil, By BlackLabelHQ |
 | [Tomba! 2: The Evil Swine Return](https://github.com/mstan/Tomba2Recomp) | PS1 | рекомпиляция | 21 | 3.75 | 2026-10-26 | ✅ | Tomba! 2: The Evil Swine Return (USA) recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
 | [Apocalypse (Project Repocalypse)](https://github.com/MustafaSamer93/Apocalypse-PC-Native-Port) | PS1 | порт | 20 | 3.75 | 2026-10-20 | ✅ | A Static Recomplation of PSX Game Apocalypse |
 | [Legend of Legaia](https://github.com/SamSteProjects/legend-of-legaia-recomp) | PS1 | рекомпиляция | 18 | 3.75 | 2026-08-27 | — | Legend of Legaia Recompiled brings Legend of Legaia to PC. |
@@ -83,49 +83,51 @@
 | [Wipeout XL (Wipeout XL Recompiled)](https://github.com/NJH-1001/Wipeout2K97XL) | PS1 | рекомпиляция | 50 | 3.7 | 2026-10-23 | ✅ | Wipeout XL USA SCUS-94351 setup kits for Windows x64 and Linux/macOS previews. OpenBIOS, configurable NeGcon dual sticks, optional widescreen and ext… |
 | [Klonoa: Door to Phantomile](https://github.com/TechnicallyComputers/Klonoa-Door-to-Phantomile) | PS1 | рекомпиляция | 40 | 3.7 | 2026-10-10 | ✅ | Made with PSXrecomp, a Sony PlayStation game static recompiler ecosystem · Part of the R.A.I.D. community |
 | [King's Field II](https://github.com/Voicedrew11/verdite3) | PS1 | порт | 30 | 3.7 | 2026-10-18 | ✅ | AI driven attempt at porting King's Field II (SLUS-00255) to PC with a variety of improvements |
-| [Alien Resurrection](https://github.com/Heromachine/AlienResurrection-Recompilation) | PS1 | рекомпиляция | 26 | 3.7 | 2026-10-13 | ✅ |  |
+| [Alien Resurrection](https://github.com/Heromachine/AlienResurrection-Recompilation) | PS1 | рекомпиляция | 25 | 3.7 | 2026-10-13 | ✅ |  |
 | [Ace Combat 3: Electrosphere](https://github.com/alexbeavs-ps1-ports/ace-combat-3-electrosphere-usa-recomp) | PS1 | рекомпиляция | 23 | 3.7 | 2026-09-30 | ✅ | Source-only Windows setup host for Ace Combat 3: Electrosphere (USA); Wave 2 release draft. |
-| [Breath of Fire III (Breath of Fire III - PC Port)](https://github.com/kerokline/BreathOfFire3PCPort) | PS1 | порт | 20 | 3.7 | 2026-10-27 | — | A renovation of the 2001 Chinese PC port of Breath of Fire III |
+| [Breath of Fire III (Breath of Fire III - PC Port)](https://github.com/kerokline/BreathOfFire3PCPort) | PS1 | порт | 20 | 3.7 | 2026-10-28 | — | A renovation of the 2001 Chinese PC port of Breath of Fire III |
 | [Digimon World 2003](https://github.com/alexbeavs-ps1-ports/digimon-world-2003-recomp) | PS1 | рекомпиляция | 18 | 3.7 | 2026-09-30 | ✅ | Source-only Windows setup host for Digimon World 2003; Wave 2 release draft. |
 | [Dance Dance Revolution 1st Mix](https://github.com/bmbelo87/ddr-1st-recomp) | PS1 | рекомпиляция | 15 | 3.7 | 2026-09-15 | ✅ | Static recompilation of Dance Dance Revolution 1st Mix (SLPM-86222), built on PSXRecomp. Configuration and tooling only — you supply your own legal d… |
 | [MediEvil](https://github.com/alexbeavs-ps1-ports/medievil-recomp) | PS1 | рекомпиляция | 13 | 3.7 | 2026-10-17 | ✅ | MediEvil static recompilation setup project |
-| [ToyStory2](https://github.com/PeriBluGaming/ToyStory2Recomp) | PS1 | рекомпиляция | 10 | 3.7 | 2026-10-23 | ✅ | Toy Story 2 - Buzz Lightyear so the Rescue (USA)! recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
+| [ToyStory2](https://github.com/PeriBluGaming/ToyStory2Recomp) | PS1 | рекомпиляция | 11 | 3.7 | 2026-10-23 | ✅ | Toy Story 2 - Buzz Lightyear so the Rescue (USA)! recompiled for the Sony PlayStation using psxrecomp · Part of the R.A.I.D. community |
 | [Driver 2](https://github.com/OpenDriver2/REDRIVER2) | PS1 | дизасм | 1.4k | 3.65 | 2026-06-26 | ✅ | Driver 2 Playstation game reverse engineering effort |
 | [Ridge Racer](https://github.com/kazuyette/rr-decomp) | PS1 | рекомпиляция | 45 | 3.55 | 2026-10-10 | ✅ | Matching decompilation of Ridge Racer (PlayStation, Namco, 1994, SLPS-00001), and a static recompilation that boots and plays natively on Linux and W… |
-| [Castlevania Chronicles](https://github.com/Spicywonda/castlevania-chronicles-recomp) | PS1 | рекомпиляция | 34 | 3.55 | 2026-10-12 | ✅ | Experimental Castlevania Chronicles PS1 recompilation with RecompOne. macOS development, Windows build tooling, original disc required. |
-| [Ace Combat 3](https://github.com/sal063/Ace-Combat-3-static-recompilation) | PS1 | рекомпиляция | 30 | 3.55 | 2026-10-02 | ✅ | A static recompilation of Ace Combat 3, with native rendering and enhanced rendering |
-| [Gran Turismo 2 (gt2-multiplayer)](https://github.com/ianitsky/gt2-multiplayer) | PS1 | рекомпиляция | 30 | 3.55 | 2026-09-13 | ✅ | Multiplayer version of the great game GranTurismo 2 |
+| [Castlevania Chronicles](https://github.com/Spicywonda/castlevania-chronicles-recomp) | PS1 | рекомпиляция | 35 | 3.55 | 2026-10-12 | ✅ | Experimental Castlevania Chronicles PS1 recompilation with RecompOne. macOS development, Windows build tooling, original disc required. |
+| [Ace Combat 3](https://github.com/sal063/Ace-Combat-3-static-recompilation) | PS1 | рекомпиляция | 31 | 3.55 | 2026-10-02 | ✅ | A static recompilation of Ace Combat 3, with native rendering and enhanced rendering |
 | [Battle Arena Toshinden (Battle Arena Toshinden Recompiled)](https://github.com/mstan/BattleArenaToshindenRecomp) | PS1 | рекомпиляция | 15 | 3.5 | 2026-10-07 | ✅ | Battle Arena Toshinden (USA) static recompilation with optional adaptive widescreen, Extra Roster mods, and two-player rollback netplay. |
 | [Bomberman Fantasy Race (Bomberman Fantasy Race Recompiled)](https://github.com/TechnicallyComputers/Bomberman-Fantasy-Race-Recomp) | PS1 | рекомпиляция | 13 | 3.5 | 2026-10-11 | ✅ | Made with PSXrecomp, a Sony PlayStation game static recompiler ecosystem · Part of the R.A.I.D. community |
 | [Alundra](https://github.com/alexbeavs-ps1-ports/alundra-recomp) | PS1 | рекомпиляция | 12 | 3.5 | 2026-09-30 | ✅ | Source-only Windows setup host for Alundra; Wave 2 release draft. |
-| [Alone in the Dark: The New Nightmare](https://github.com/alexbeavs-ps1-ports/alone-in-the-dark-the-new-nightmare-recomp) | PS1 | рекомпиляция | 10 | 3.5 | 2026-09-30 | ✅ | Owned-input PSX recompilation project for Alone in the Dark: The New Nightmare |
+| [Alone in the Dark: The New Nightmare](https://github.com/alexbeavs-ps1-ports/alone-in-the-dark-the-new-nightmare-recomp) | PS1 | рекомпиляция | 11 | 3.5 | 2026-09-30 | ✅ | Owned-input PSX recompilation project for Alone in the Dark: The New Nightmare |
 | [Star wars - Episode I - Jedi Power Battles](https://github.com/TechnicallyComputers/Star-wars---Episode-I---Jedi-Power-Battles-Recomp) | PS1 | рекомпиляция | 10 | 3.5 | 2026-10-10 | ✅ | Star Wars Episode I: Jedi Power Battles Recompiled brings Star Wars Episode I: Jedi Power Battles to PC. |
 | [Alien Resurrection](https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp) | PS1 | рекомпиляция | 5 | 3.5 | 2026-10-02 | ✅ | Alien Resurrection static recompilation setup project |
 | [Diablo](https://github.com/alexbeavs-ps1-ports/diablo-recomp) | PS1 | рекомпиляция | 5 | 3.5 | 2026-10-02 | ✅ | Diablo static recompilation setup project |
-| [Resident Evil (resident-evil-pc-decomp)](https://github.com/ecruells/resident-evil-pc-decomp) | PS1 | декомпиляция | 159 | 3.45 | 2026-10-23 | ✅ | Resident Evil 1 PC Port Decomp |
+| [Resident Evil (resident-evil-pc-decomp)](https://github.com/ecruells/resident-evil-pc-decomp) | PS1 | декомпиляция | 171 | 3.45 | 2026-10-23 | ✅ | Resident Evil 1 PC Port Decomp |
 | [Parasite Eve II](https://github.com/GabeRealB/parasite-eve-2-decomp) | PS1 | декомпиляция | 74 | 3.45 | 2026-10-27 | — | Completed decompilation of the US release of Parasite Eve 2 on the Playstation 1. |
-| [Parasite Eve II](https://github.com/faligame/Parasite-Eve-2-HD-Remaster) | PS1 | рекомпиляция | 242 | 3.4 | 2026-10-16 | — |  |
+| [Parasite Eve](https://github.com/khasinski/parasite-eve-pc) | PS1 | декомпиляция | 38 | 3.45 | 2026-10-27 | ✅ | Native PC port of Parasite Eve (PS1), built on the matching decompilation and PsyZ |
+| [Parasite Eve II](https://github.com/faligame/Parasite-Eve-2-HD-Remaster) | PS1 | рекомпиляция | 246 | 3.4 | 2026-10-16 | — |  |
 | [Silent Hill](https://github.com/Sezzary/SilentEngine) | PS1 | порт | 218 | 3.4 | 2026-10-24 | — | WIP multi-platform port of Silent Hill 1 with a future-proof foundation. |
 | [Parasite Eve HD Remaster](https://github.com/faligame/Parasite-Eve-HD-Remaster) | PS1 | рекомпиляция | 207 | 3.4 | 2026-10-16 | — | Native PC port of PARASITE EVE via static recompilation — true 4K rendering, 60 fps, HD Remaster Not an emulator. Work in progress. |
-| [Valkyrie Profile](https://github.com/Ed1z19/ValkyrieRecomp) | PS1 | рекомпиляция | 120 | 3.35 | 2026-09-06 | ✅ | Native PC recompilation of Valkyrie Profile (PS1) powered by PSXRecomp. |
+| [Valkyrie Profile](https://github.com/Ed1z19/ValkyrieRecomp) | PS1 | рекомпиляция | 121 | 3.35 | 2026-09-06 | ✅ | Native PC recompilation of Valkyrie Profile (PS1) powered by PSXRecomp. |
 | [Einhänder](https://github.com/strider973/Einhander-Recompiled) | PS1 | рекомпиляция | 93 | 3.35 | 2026-08-29 | ✅ | Simple Recomp of EINHANDER |
 | [Strider 2](https://github.com/strider973/STRIDER-2-Recompiled) | PS1 | рекомпиляция | 41 | 3.35 | 2026-08-29 | ✅ | Strider 2 Recompiled brings Strider 2 to PC. |
-| [Simpsons Wrestling Recompiled](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) | PS1 | рекомпиляция | 31 | 3.35 | 2026-10-13 | ✅ | The Simpsons Wrestling (PS1, USA) recompiled for Windows and Linux with psxrecomp and the TRG Launcher: 16:9, HD, 60 FPS, skip intro, everything unlo… |
+| [Simpsons Wrestling Recompiled](https://github.com/TekRantGaming/simpsons-wrestling-recompiled) | PS1 | рекомпиляция | 32 | 3.35 | 2026-10-13 | ✅ | The Simpsons Wrestling (PS1, USA) recompiled for Windows and Linux with psxrecomp and the TRG Launcher: 16:9, HD, 60 FPS, skip intro, everything unlo… |
 | [Metal Gear Solid](https://github.com/alexbeavs-ps1-ports/metal-gear-solid-recomp) | PS1 | рекомпиляция | 30 | 3.35 | 2026-09-30 | ✅ | metal-gear-solid: source for the standalone setup release candidate |
+| [Gran Turismo 2 (gt2-multiplayer)](https://github.com/ianitsky/gt2-multiplayer) | PS1 | рекомпиляция | 29 | 3.35 | 2026-09-13 | ✅ | Multiplayer version of the great game GranTurismo 2 |
 | [Shadow Tower (reshadowtower)](https://github.com/JFryy/reshadowtower) | PS1 | рекомпиляция | 28 | 3.35 | 2026-10-06 | ✅ | Shadow Tower native port (recompiled) with modern PC controls, graphical improvements. |
 | [Armored Core](https://github.com/omegakatana92/Armored-Core-Recomp) | PS1 | рекомпиляция | 20 | 3.35 | 2026-09-13 | ✅ | A fan made port or recomp of armored core  for the psx or ps1 provide your own rom or iso. |
-| [Metal Gear Solid (mgsone-recomp)](https://github.com/coccofresco/mgsone-recomp) | PS1 | рекомпиляция | 15 | 3.35 | 2026-10-10 | — | Midnight Ghost Stone: a native Metal Gear Solid PS1 recompilation with original-asset Vulkan presentation. Experimental alpha. |
+| [Metal Gear Solid (mgsone-recomp)](https://github.com/coccofresco/mgsone-recomp) | PS1 | рекомпиляция | 16 | 3.35 | 2026-10-10 | — | Midnight Ghost Stone: a native Metal Gear Solid PS1 recompilation with original-asset Vulkan presentation. Experimental alpha. |
 | [Nightmare Creatures II](https://github.com/alexbeavs-ps1-ports/nightmare-creatures-ii-recomp) | PS1 | рекомпиляция | 15 | 3.35 | 2026-09-30 | ✅ | Static recompilation of Nightmare Creatures II (PlayStation). Owned-input kit: you supply your own disc and BIOS. |
 | [Vigilante 8 / Vigilante 8: 2nd Offense](https://github.com/GTTeancum/Vigilante-8-recomp) | PS1 | рекомпиляция | 13 | 3.35 | 2026-09-24 | ✅ |  |
 | [Tekken 3](https://github.com/Mabec-games/Tekken-3-for-Linux) | PS1 | рекомпиляция | 12 | 3.35 | 2026-10-22 | ✅ | Tekken 3 for Linux - Native x86_64 Static Recompilation with True 16:9 Widescreen at 60 FPS, Built-In Mod Manager, and P2P Rollback Netplay |
 | [Frontschweine](https://github.com/Nero2611/FrontschweineRecomp) | PS1 | рекомпиляция | 11 | 3.35 | 2026-10-13 | ✅ | Native PC port of Hogs of War / Frontschweine (PS1, SLES-02767) via static recompilation. Bring your own disc. |
 | [Puyo Puyo BOX](https://github.com/kirby1237/PuyoPuyoBoxRecomp) | PS1 | рекомпиляция | 11 | 3.35 | 2026-09-07 | ✅ | a static recompilation of Puyo Puyo Box made with PSXrecomp |
+| [Twisted Metal](https://github.com/jcoker85/TwistedMetal1234Recomp) | PS1 | рекомпиляция | 10 | 3.35 | 2026-10-27 | ✅ | Twisted Metal 1-4 (USA) recompiled for PC using psxrecomp |
 | [Samurai Shodown: Warriors Rage](https://github.com/omegakatana92/Samuai-Shodown-Warriors-Rage-Recomp) | PS1 | рекомпиляция | 6 | 3.35 | 2026-09-09 | ✅ | A fan made port using mstans psxrecomp and no assets from the game nor bios or the game itself is included. |
 | [Rage Racer (Rage Racer PC)](https://github.com/khasinski/rage-racer-pc) | PS1 | декомпиляция | 133 | 3.25 | 2026-10-20 | ✅ | Native PC port of Rage Racer |
-| [Silent Hill (silent-hill-pc-nightly)](https://github.com/SlickAmogus/silent-hill-pc-nightly) | PS1 | декомпиляция | 104 | 3.25 | 2026-05-18 | ✅ | Nightly builds of the AI-Assisted Silent Hill 1 PC port based on the PSX decompilation project. |
-| [Chrono Cross](https://github.com/jdperos/chrono-cross-decomp) | PS1 | декомпиляция | 81 | 3.25 | 2026-04-14 | — | A 100% matching Chrono Cross decompilation, based on the Radical Dreamers version |
-| [Tony Hawk's Pro Skater (Tony Was A Pro Skater)](https://github.com/LANCommander/TonyWasAProSkater) | PS1 | декомпиляция | 46 | 3.25 | 2026-10-24 | ✅ | Tony Was A Pro Skater is a native Windows and Linux port of Tony Hawk's Pro Skater with widescreen and high resolutions. |
-| [Digimon World 2](https://github.com/Wyrelade/DW2-PC) | PS1 | декомпиляция | 27 | 3.25 | 2026-10-15 | ✅ | PC port of Digimon World 2 (PS1) built from the matching decomp. Needs your own disc image. |
+| [Silent Hill (silent-hill-pc-nightly)](https://github.com/SlickAmogus/silent-hill-pc-nightly) | PS1 | декомпиляция | 105 | 3.25 | 2026-05-18 | ✅ | Nightly builds of the AI-Assisted Silent Hill 1 PC port based on the PSX decompilation project. |
+| [Chrono Cross](https://github.com/jdperos/chrono-cross-decomp) | PS1 | декомпиляция | 80 | 3.25 | 2026-04-14 | — | A 100% matching Chrono Cross decompilation, based on the Radical Dreamers version |
+| [Tony Hawk's Pro Skater (Tony Was A Pro Skater)](https://github.com/LANCommander/TonyWasAProSkater) | PS1 | декомпиляция | 47 | 3.25 | 2026-10-24 | ✅ | Tony Was A Pro Skater is a native Windows and Linux port of Tony Hawk's Pro Skater with widescreen and high resolutions. |
+| [Digimon World 2](https://github.com/Wyrelade/DW2-PC) | PS1 | декомпиляция | 28 | 3.25 | 2026-10-15 | ✅ | PC port of Digimon World 2 (PS1) built from the matching decomp. Needs your own disc image. |
 | [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PS1) | PS1 | декомпиляция | 5 | 3.25 | 2026-10-21 | — | 100% matching decompilation of BattleTanx: Global Assault for PlayStation (SLUS-01044) |
 | [Street Fighter EX 2 Plus](https://github.com/strider973/Street-Fighter-EX2-Plus-Recompiled) | PS1 | рекомпиляция | 27 | 3.15 | 2026-08-29 | ✅ | Static recompilation of Street Fighter EX2 Plus (PS1, SLUS-01105) on psxrecomp |
 | [Tenchu: Stealth Assassins](https://github.com/Heromachine/Tenchu-SA-Recomp) | PS1 | рекомпиляция | 24 | 3.15 | 2026-08-24 | ✅ | Static recompilation of Tenchu: Stealth Assassins (PS1) to C#. Ships the tool, not the game -- bring your own disc. |
@@ -134,49 +136,47 @@
 | [Dino Crisis](https://github.com/alexbeavs-ps1-ports/dino-crisis-recomp) | PS1 | рекомпиляция | 19 | 3.15 | 2026-09-30 | ✅ | dino-crisis: source for the standalone setup release candidate |
 | [Final Fantasy Tactics](https://github.com/NJH-1001/FinFanTacRecomp) | PS1 | рекомпиляция | 19 | 3.15 | 2026-09-03 | ✅ | Final Fantasy Tactics USA (SCUS-94221) PSXRecomp setup project for Windows x86-64, with OpenBIOS, modern controllers and optional 16:9. |
 | [Crash Bandicoot 3: Warped](https://github.com/alexbeavs-ps1-ports/crash-bandicoot-3-warped-recomp) | PS1 | рекомпиляция | 18 | 3.15 | 2026-09-30 | ✅ | Portable PSXRecomp setup candidate. Owned game disc and retail BIOS required. |
+| [X-Men Mutant Academy 2](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) | PS1 | рекомпиляция | 18 | 3.15 | 2026-09-08 | ✅ | PC port of the PS1 game X-Men: Mutant Academy 2, via static recompilation with RecompOne — plus tooling for a 4x texture pack built from the disc's o… |
 | [Dino Crisis 2](https://github.com/alexbeavs-ps1-ports/dino-crisis-2-recomp) | PS1 | рекомпиляция | 17 | 3.15 | 2026-09-30 | ✅ | dino-crisis-2: source for the standalone setup release candidate |
-| [X-Men Mutant Academy 2](https://github.com/GTTeancum/xmen-mutant-academy-2-pc) | PS1 | рекомпиляция | 17 | 3.15 | 2026-09-08 | ✅ | PC port of the PS1 game X-Men: Mutant Academy 2, via static recompilation with RecompOne — plus tooling for a 4x texture pack built from the disc's o… |
-| [Final Fantasy VIII](https://github.com/alexbeavs-ps1-ports/final-fantasy-viii-recomp) | PS1 | рекомпиляция | 15 | 3.15 | 2026-09-30 | ✅ | final-fantasy-viii: source for the standalone setup release candidate |
-| [Final Fantasy IX](https://github.com/alexbeavs-ps1-ports/final-fantasy-ix-recomp) | PS1 | рекомпиляция | 14 | 3.15 | 2026-09-30 | ✅ | final-fantasy-ix: source for the standalone setup release candidate |
-| [Resident Evil 3: Nemesis](https://github.com/alexbeavs-ps1-ports/resident-evil-3-recomp) | PS1 | рекомпиляция | 13 | 3.15 | 2026-09-30 | ✅ | Resident Evil 3: Nemesis: source for the standalone setup release candidate |
-| [Point Blank](https://github.com/TekRantGaming/point-blank-recompiled) | PS1 | рекомпиляция | 12 | 3.15 | 2026-10-13 | ✅ | Native PC port of Namco's Point Blank (PlayStation) via static recompilation (PSXRecomp). Aim with your mouse or a controller, no light gun needed. B… |
+| [Final Fantasy VIII](https://github.com/alexbeavs-ps1-ports/final-fantasy-viii-recomp) | PS1 | рекомпиляция | 16 | 3.15 | 2026-09-30 | ✅ | final-fantasy-viii: source for the standalone setup release candidate |
+| [Final Fantasy IX](https://github.com/alexbeavs-ps1-ports/final-fantasy-ix-recomp) | PS1 | рекомпиляция | 15 | 3.15 | 2026-09-30 | ✅ | final-fantasy-ix: source for the standalone setup release candidate |
+| [Resident Evil 3: Nemesis](https://github.com/alexbeavs-ps1-ports/resident-evil-3-recomp) | PS1 | рекомпиляция | 15 | 3.15 | 2026-09-30 | ✅ | Resident Evil 3: Nemesis: source for the standalone setup release candidate |
+| [Point Blank](https://github.com/TekRantGaming/point-blank-recompiled) | PS1 | рекомпиляция | 13 | 3.15 | 2026-10-13 | ✅ | Native PC port of Namco's Point Blank (PlayStation) via static recompilation (PSXRecomp). Aim with your mouse or a controller, no light gun needed. B… |
 | [Xenogears (xenogears-decomp-port)](https://github.com/Blizz127/xenogears-decomp-port) | PS1 | порт | 11 | 3.15 | 2026-09-30 | ✅ | Xenogears Decomp and Port |
 | [Suikoden II](https://github.com/alexbeavs-ps1-ports/suikoden-ii-recomp) | PS1 | рекомпиляция | 8 | 3.15 | 2026-09-30 | ✅ | Static recompilation of Suikoden II (PlayStation). Owned-input kit: you supply your own disc and BIOS. |
 | [Sexy Parodius](https://github.com/NJH-1001/SexyParoRecomp) | PS1 | рекомпиляция | 7 | 3.15 | 2026-09-04 | ✅ | Owned-input Windows x86-64 PSXRecomp project for Sexy Parodius (Japan, SLPM-86009) |
 | [Apocalypse](https://github.com/alexbeavs-ps1-ports/apocalypse-recomp) | PS1 | рекомпиляция | 6 | 3.15 | 2026-09-30 | ✅ | apocalypse: source for the standalone setup release candidate |
 | [PaRappaTheRapper](https://github.com/kirby1237/PaRappaTheRapperRecomp) | PS1 | рекомпиляция | 6 | 3.15 | 2026-10-08 | ✅ | a static recompilation of PaRappa the Rapper made with psxrecomp |
 | [Suikoden](https://github.com/alexbeavs-ps1-ports/suikoden-recomp) | PS1 | рекомпиляция | 6 | 3.15 | 2026-09-30 | ✅ | suikoden: source for the standalone setup release candidate |
-| [Silent Hill](https://github.com/shdecompilations/silent-hill-decomp) | PS1 | декомпиляция | 960 | 3.05 | 2026-10-27 | — | An in-progress decompilation of Silent Hill on the PlayStation 1. |
-| [Metal Gear Solid 1](https://github.com/FoxdieTeam/mgs_reversing) | PS1 | декомпиляция | 821 | 3.05 | 2026-10-22 | — | Metal Gear Solid PSX reimpl repo |
+| [Silent Hill](https://github.com/shdecompilations/silent-hill-decomp) | PS1 | декомпиляция | 960 | 3.05 | 2026-10-28 | — | An in-progress decompilation of Silent Hill on the PlayStation 1. |
+| [Metal Gear Solid 1](https://github.com/FoxdieTeam/mgs_reversing) | PS1 | декомпиляция | 823 | 3.05 | 2026-10-22 | — | Metal Gear Solid PSX reimpl repo |
 | [Final Fantasy VII](https://github.com/Xeeynamo/ff7-decomp) | PS1 | декомпиляция | 179 | 2.85 | 2026-10-24 | ✅ | Matching decomp of Final Fantasy VII for PlayStation 1 |
 | [Serial Experiments Lain](https://github.com/Y0oshi/lain-psx-decompiled) | PS1 | декомпиляция | 136 | 2.85 | 2026-10-03 | ✅ | Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client |
-| [Parasite Eve](https://github.com/khasinski/parasite-eve-pc) | PS1 | декомпиляция | 37 | 2.85 | 2026-10-26 | ✅ | Native PC port of Parasite Eve (PS1), built on the matching decompilation and PsyZ |
-| [RecompOne](https://github.com/BlackLabelHQ/RecompOne) | PS1 | инструмент | 600 | 2.7 | 2026-10-21 | — | PSX Static Recompiler and Runtime, Not Affiliated With Sony or PlayStation |
+| [RecompOne](https://github.com/BlackLabelHQ/RecompOne) | PS1 | инструмент | 602 | 2.7 | 2026-10-21 | — | PSX Static Recompiler and Runtime, Not Affiliated With Sony or PlayStation |
 | [Another Mind](https://github.com/halkuncode/anothermind-decomp) | PS1 | декомпиляция | 14 | 2.65 | 2026-10-18 | ✅ | A source code recovery of Squaresoft's visual novel "Another Mind" |
-| [Vagrant Story](https://github.com/ser-pounce/rood-reverse) | PS1 | декомпиляция | 189 | 2.6 | 2026-10-26 | — | a Vagrant Story byte-matching decompilation |
+| [Vagrant Story](https://github.com/ser-pounce/rood-reverse) | PS1 | декомпиляция | 189 | 2.6 | 2026-10-27 | — | a Vagrant Story byte-matching decompilation |
 | [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1) | PS1 | декомпиляция | 179 | 2.6 | 2026-10-21 | — | Spyro the Dragon Decompilation Project |
 | [Spider-Man](https://github.com/krystalgamer/spidey-decomp) | PS1 | декомпиляция | 141 | 2.6 | 2026-10-07 | — | Decompilation of Neversoft's Spider-Man game (PC PORT) |
 | [Digimon World](https://github.com/jype0/dw_decomp) | PS1 | декомпиляция | 87 | 2.6 | 2026-10-19 | — |  |
 | [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re) | PS1 | декомпиляция | 86 | 2.6 | 2026-09-21 | — | Reverse-engineering project of the 1999 PlayStation game Legacy of Kain: Soul Reaver, from MIPS to C. |
-| [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp) | PS1 | декомпиляция | 84 | 2.6 | 2026-10-17 | — | Matching decompilation of Brave Fencer Musashi (PS1, SLUS-00726): 218 binaries rebuild byte-identical from C |
+| [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp) | PS1 | декомпиляция | 85 | 2.6 | 2026-10-17 | — | Matching decompilation of Brave Fencer Musashi (PS1, SLUS-00726): 218 binaries rebuild byte-identical from C |
 | [Parasite Eve](https://github.com/khasinski/parasite-eve-decomp) | PS1 | декомпиляция | 69 | 2.6 | 2026-10-26 | — | Source-only Parasite Eve PS1 decompilation |
-| [Final Fantasy VIII](https://github.com/roengstrom/ff8-decomp) | PS1 | декомпиляция | 60 | 2.6 | 2026-10-25 | — | Work-in-progress Final Fantasy VIII decompilation project for the PS1 |
+| [Final Fantasy VIII](https://github.com/roengstrom/ff8-decomp) | PS1 | декомпиляция | 60 | 2.6 | 2026-10-27 | — | Work-in-progress Final Fantasy VIII decompilation project for the PS1 |
 | [Need for Speed: High Stakes (PS1)](https://github.com/Caesar0007/NFSHS-PSX-decomp) | PS1 | декомпиляция | 58 | 2.6 | 2026-10-27 | — | Byte-matching decompilation of Need for Speed High Stakes (PSX) - splat + maspsx + objdiff |
 | [Harvest Moon: Back to Nature](https://github.com/coalslav/hmbtn-decomp) | PS1 | декомпиляция | 53 | 2.6 | 2026-10-13 | — | Harvest Moon: Back To Nature Decomp |
-| [Legend of Mana](https://github.com/celophi/lom-decomp) | PS1 | декомпиляция | 45 | 2.6 | 2026-10-24 | — | Matching decompilation of Legend of Mana / 聖剣伝説 LEGEND OF MANA (PS1) - NTSC-U / NTSC-J |
-| [Gran Turismo 2](https://github.com/GTTeancum/OpenGTPS1) | PS1 | рекомпиляция | 41 | 2.6 | 2026-09-10 | — | Windows x64 static-recompilation port of US Gran Turismo 2 Simulation and Arcade discs |
-| [Mega Man X4](https://github.com/sozud/mmx4) | PS1 | декомпиляция | 37 | 2.6 | 2026-10-27 | — | A WIP decompilation of Mega Man X4 for the PS1. |
-| [Vagrant Story (VS-NativePort)](https://github.com/JEschete/VS-NativePort) | PS1 | порт | 36 | 2.6 | 2026-10-27 | — |  |
+| [Legend of Mana](https://github.com/celophi/lom-decomp) | PS1 | декомпиляция | 45 | 2.6 | 2026-10-27 | — | Matching decompilation of Legend of Mana / 聖剣伝説 LEGEND OF MANA (PS1) - NTSC-U / NTSC-J |
+| [Mega Man X4](https://github.com/sozud/mmx4) | PS1 | декомпиляция | 38 | 2.6 | 2026-10-28 | — | A WIP decompilation of Mega Man X4 for the PS1. |
+| [Vagrant Story (VS-NativePort)](https://github.com/JEschete/VS-NativePort) | PS1 | порт | 36 | 2.6 | 2026-10-28 | — |  |
 | [Rage Racer](https://github.com/khasinski/rage-racer-decomp) | PS1 | декомпиляция | 33 | 2.6 | 2026-10-25 | — | Rage Racer byte-matching decompilation |
 | [Resident Evil 2 (bio2-ds)](https://github.com/MeganGrass/bio2-ds) | PS1 | дизасм | 19 | 2.55 | 2026-10-23 | — | Resident Evil 2 Dual Shock Ver. (1998/SLUS_007.48/Leon) Disassembly/Decompilation |
 | [Evo's Space Adventures](https://github.com/mkst/esa) | PS1 | декомпиляция | 14 | 2.45 | 2026-05-10 | ✅ | Evo's Space Adventures for PSX. A proof of concept, matching PSX decompilation, leveraging tools from N64 decomp projects. |
 | [Xenogears (non-matching)](https://github.com/yaz0r/Noah) | PS1 | декомпиляция | 78 | 2.4 | 2026-04-22 | — | Decompilation of Xenogears. |
 | [MediEvil](https://github.com/MediEvilDecompilation/medievil-decomp) | PS1 | декомпиляция | 73 | 2.4 | 2026-02-23 | — | Decompilation of MediEvil 1 |
 | [Digimon World 3](https://github.com/markisha64/ddw3) | PS1 | декомпиляция | 44 | 2.4 | 2026-04-06 | — | Digimon world 3/2003 decompilation |
+| [Final Fantasy Tactics](https://github.com/adamrt/fft_decomp) | PS1 | декомпиляция | 28 | 2.4 | 2026-10-22 | — | Decompilation of North American PlayStation Final Fantasy Tactics |
 | [Tomba!](https://github.com/hansbonini/psx_tomba) | PS1 | декомпиляция | 28 | 2.4 | 2026-10-24 | — | This is a WIP decompilation project of the Tomba! game (known as Ore! Tomba in Japan and Tombi! in Europe) for the original PlayStation. |
-| [Final Fantasy Tactics](https://github.com/adamrt/fft_decomp) | PS1 | декомпиляция | 27 | 2.4 | 2026-10-22 | — | Decompilation of North American PlayStation Final Fantasy Tactics |
+| [Vagrant Story](https://github.com/noprompt/rood-boi) | PS1 | декомпиляция | 27 | 2.4 | 2026-10-28 | — | Native PC port of Vagrant Story on the rood-reverse decompilation: Vulkan ray tracing, path-traced GI, live editor. Bring your own disc. |
 | [Spyro: Year of the Dragon](https://github.com/TheMobyCollective/spyro-3) | PS1 | декомпиляция | 26 | 2.4 | 2026-10-26 | — | Spyro: Year of the Dragon Decompilation Project |
-| [Vagrant Story](https://github.com/noprompt/rood-boi) | PS1 | декомпиляция | 26 | 2.4 | 2026-10-27 | — | Native PC port of Vagrant Story on the rood-reverse decompilation: Vulkan ray tracing, path-traced GI, live editor. Bring your own disc. |
 | [Jumping Flash](https://github.com/NotExactlySiev/aloha) | PS1 | декомпиляция | 23 | 2.4 | 2026-10-11 | — | A decompilation and reverse engineering of Jumping Flash for PSX |
 | [LSD: Dream Emulator](https://github.com/brian-oblivion/lsddecomp) | PS1 | декомпиляция | 20 | 2.4 | 2026-10-17 | — | Decompilation of LSD: Dream Emulator for the PlayStation |
 | [Breath of Fire III](https://github.com/kerokline/BreathOfFire3Recomp) | PS1 | рекомпиляция | 17 | 2.4 | 2026-09-19 | — | Recompile of Capcom's Breath of Fire III |
@@ -185,7 +185,7 @@
 | [Digimon World 3 (D-W-3-Recomp)](https://github.com/Xive080/D-W-3-Recomp) | PS1 | рекомпиляция | 16 | 2.4 | 2026-09-14 | — |  |
 | [Megami Ibunroku Persona](https://github.com/daanhenke/persona-psx) | PS1 | декомпиляция | 14 | 2.4 | 2026-10-03 | — |  |
 | [Ridge Racer](https://github.com/kazuyette/rr-pc-port) | PS1 | порт | 12 | 2.4 | 2026-08-15 | — | PC port scaffold derived from rr-decomp, a byte-matched Ridge Racer (PS1) reconstruction (decompilation in progress) — work in progress |
-| [Yu-Gi-Oh! Forbidden Memories (memories-decomp)](https://github.com/krystalgamer/memories-decomp) | PS1 | декомпиляция | 12 | 2.4 | 2026-10-27 | — |  |
+| [Yu-Gi-Oh! Forbidden Memories (memories-decomp)](https://github.com/krystalgamer/memories-decomp) | PS1 | декомпиляция | 12 | 2.4 | 2026-10-28 | — |  |
 | [King's Field](https://github.com/Voicedrew11/verdite1) | PS1 | рекомпиляция | 11 | 2.4 | 2026-10-26 | — | AI driven attempt at porting King's Field (SLPS-00017) to PC with a variety of improvements |
 | [Spyro 2: Ripto's Rage!](https://github.com/TheMobyCollective/spyro-2) | PS1 | декомпиляция | 10 | 2.4 | 2026-10-25 | — | Spyro 2 decompilation project |
 | [Team Buddies](https://github.com/hcbt/tbuddies-decomp) | PS1 | декомпиляция | 7 | 2.4 | 2026-09-15 | — | Team Buddies (SLUS-008.69) matching decompilation |
@@ -214,7 +214,7 @@
 | [Lunar 2: Eternal Blue](https://github.com/Zackmon/lunar2-psx-decomp) | PS1 | декомпиляция | 15 | 2.45 | 2022-04-14 | — | a decompilation project for Lunar 2: Eternal Blue Complete on PSX |
 | [Need For Speed: High Stakes](https://github.com/OpenNFS/NFSHSX) | PS1 | дизасм | 58 | 2.15 | 2021-07-21 | — | Need for Speed: High Stakes Disassembly translated to C source code. |
 | [Mega Man Legends (mml1)](https://github.com/ChrisNonyminus/mml1) | PS1 | декомпиляция | 86 | 2 | 2023-07-23 | — | WIP Decompilation of Megaman Legends (aka Rockman Dash) for the PlayStation 1. |
-| [Gran Turismo 2](https://github.com/ginryuoku/gt2-reversing) | PS1 | декомпиляция | 42 | 2 | 2024-09-14 | — | RE repo for Gran Turismo 2 (PS1) |
+| [Gran Turismo 2](https://github.com/ginryuoku/gt2-reversing) | PS1 | декомпиляция | 41 | 2 | 2024-09-14 | — | RE repo for Gran Turismo 2 (PS1) |
 | [Croc: Legend of the Gobbos](https://github.com/Xeeynamo/croc) | PS1 | декомпиляция | 39 | 2 | 2024-03-31 | — | Decompilation of Croc: Legend of the Gobbos |
 | [Vandal Hearts](https://github.com/shao113/vh) | PS1 | декомпиляция | 31 | 2 | 2024-09-17 | — | Vandal Hearts Decompilation Project |
 | [Xenogears](https://github.com/ladysilverberg/xenogears-decomp) | PS1 | декомпиляция | 126 | 1.8 | 2026-10-23 | — | Matching decompilation project for Xenogears |

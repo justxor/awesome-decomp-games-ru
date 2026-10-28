@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (60)
+# 🌐 Браузерные порты — полный список (59)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **27.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **28.10.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -34,7 +34,6 @@
 | Minecraft 1.8.8 (EaglercraftX) | PC | [▶ открыть](https://wasmarcade.com/minecraft) | да | — |
 | Moon (Black Ops Zombies, vel.gg) | PC | [▶ открыть](https://vel.gg/bo1z/moon) | да | — |
 | Nacht der Untoten | PC | [▶ открыть](https://zombies.concentric.live/) | да | ✅ |
-| NBA 2K12 | PS2 | [▶ открыть](https://nba2k12.online/) | да | ✅ |
 | Need for Speed: Most Wanted | PC | [▶ открыть](https://nfsmwonline.com) | да | ✅ |
 | NetQuake.io | PC | [▶ открыть](https://www.netquake.io/) | да | — |
 | Pro Evolution Soccer 6 | PC | [▶ открыть](http://pes6.optijuegos.net) | да | ✅ |
@@ -60,16 +59,16 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (56)
+## Активные проекты (55)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
 | [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 313 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
 | [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 288 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 166 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
-| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 155 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
+| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 167 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
+| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 162 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 56 | 4.15 | 2026-10-18 | — | Custom frontend for the Emscripten port of isle-portable |
-| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | Mobile | 36 | 4.15 | 2026-10-27 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
+| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | Mobile | 39 | 4.15 | 2026-10-27 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Red Alert 2](https://chronodivide.com) | PC | — | 3.95 | — | — |  |
@@ -93,7 +92,6 @@
 | [Minecraft 1.8.8 (EaglercraftX)](https://wasmarcade.com/minecraft) | PC | — | 3.95 | — | — |  |
 | [Moon (Black Ops Zombies, vel.gg)](https://vel.gg/bo1z/moon) | PC | — | 3.95 | — | — | Black Ops 'Moon' zombies map running in the browser (part of the vel.gg Black Ops zombies port; ~400 MB download). Replaces the hijacked moon-zombies… |
 | [Nacht der Untoten](https://zombies.concentric.live) | PC | — | 3.95 | — | — |  |
-| [NBA 2K12](https://nba2k12.online) | PS2 | — | 3.95 | — | — |  |
 | [Need for Speed: Most Wanted](https://nfsmwonline.com) | PC | — | 3.95 | — | — |  |
 | [NetQuake.io](https://www.netquake.io) | PC | — | 3.95 | — | — |  |
 | [Pro Evolution Soccer 6](http://pes6.optijuegos.net) | PC | — | 3.95 | — | — |  |
