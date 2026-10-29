@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **28.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **29.10.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -63,12 +63,12 @@
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 313 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
+| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 314 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
 | [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 288 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 167 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
-| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 162 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
+| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 171 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
+| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 168 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 56 | 4.15 | 2026-10-18 | — | Custom frontend for the Emscripten port of isle-portable |
-| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | Mobile | 39 | 4.15 | 2026-10-27 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
+| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | Mobile | 40 | 4.15 | 2026-10-28 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Red Alert 2](https://chronodivide.com) | PC | — | 3.95 | — | — |  |
@@ -117,7 +117,7 @@
 | [Kino der Toten (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/COD-ZOMBIES) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
 | [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 11 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
-| [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 12 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
+| [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 11 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
 
 ## Неактивные и архивные (4)
 
@@ -125,7 +125,7 @@
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 418 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
+| [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 417 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) | PC | 152 | 3.55 | 2023-02-03 | ✅ | The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 146 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
 | [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 119 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
