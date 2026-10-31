@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **30.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **31.10.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -20,12 +20,12 @@
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Open Fodder](https://github.com/OpenFodder/openfodder) | Amiga | ремейк движка | 614 | 4.35 | 2026-10-20 | ✅ | Open Fodder: An open source port of Cannon Fodder |
+| [Open Fodder](https://github.com/OpenFodder/openfodder) | Amiga | ремейк движка | 614 | 4.35 | 2026-10-30 | ✅ | Open Fodder: An open source port of Cannon Fodder |
 | [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | порт | 251 | 4.1 | 2026-10-29 | ✅ | Repository for the NeoClassical Habitat Server Project |
 | [Touhou PC-98](https://github.com/nmlgc/ReC98) | PC-98 | декомпиляция | 881 | 3.8 | 2026-03-16 | ✅ | The Touhou PC-98 Restoration Project |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Amiga | порт | 38 | 3.55 | 2026-10-25 | ✅ |  |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | браузер | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
-| [Doom](https://github.com/viciious/d32xr) | Atari Jaguar | порт | 222 | 3.4 | 2026-10-28 | — | A modern port of Doom for the Sega 32X |
+| [Doom](https://github.com/viciious/d32xr) | Atari Jaguar | порт | 222 | 3.4 | 2026-10-31 | — | A modern port of Doom for the Sega 32X |
 | [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Amiga | декомпиляция | 45 | 3.25 | 2026-06-01 | ✅ | Stunt Car Racer for the Amiga, Framerate Unleashed |
 | [Elite](https://github.com/markmoxon/elite-source-code-commodore-64) | Commodore 64 | декомпиляция | 474 | 3.05 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Commodore 64 |
 | [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) | Apple II | декомпиляция | 77 | 3.05 | 2025-01-25 | ✅ | Ultima IV Remastered for the Apple II |
@@ -45,7 +45,7 @@
 | [Elite (elite-a-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-08 | — | Fully documented source code for Angus Duggan's classic game Elite-A on the BBC Micro |
 | [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
 | [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
-| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 55 | 2.6 | 2026-10-30 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
+| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 55 | 2.6 | 2026-10-31 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
 | [Elite (elite-source-code-bbc-micro-disc (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-micro-disc) | BBC Micro/Acorn | декомпиляция | 53 | 2.6 | 2026-10-08 | — | Fully documented source code for the disc version of the classic game Elite on the BBC Micro |
 | [Elite (elite-source-code-apple-ii (Mark Moxon))](https://github.com/markmoxon/elite-source-code-apple-ii) | BBC Micro/Acorn | декомпиляция | 43 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Apple II |
 | [Revs (revs-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/revs-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 42 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Revs on the BBC Micro |
