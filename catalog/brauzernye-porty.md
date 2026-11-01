@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (59)
+# 🌐 Браузерные порты — полный список (60)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **31.10.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **01.11.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -34,6 +34,7 @@
 | Minecraft 1.8.8 (EaglercraftX) | PC | [▶ открыть](https://wasmarcade.com/minecraft) | да | — |
 | Moon (Black Ops Zombies, vel.gg) | PC | [▶ открыть](https://vel.gg/bo1z/moon) | да | — |
 | Nacht der Untoten | PC | [▶ открыть](https://zombies.concentric.live/) | да | ✅ |
+| NBA 2K12 | PS2 | [▶ открыть](https://nba2k12.online/) | да | ✅ |
 | NetQuake.io | PC | [▶ открыть](https://www.netquake.io/) | да | — |
 | Pro Evolution Soccer 6 | PC | [▶ открыть](http://pes6.optijuegos.net) | да | ✅ |
 | Quake II (q2.pieter.com) | PC | [▶ открыть](http://q2.pieter.com) | да | ✅ |
@@ -58,16 +59,16 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (55)
+## Активные проекты (56)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 314 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
-| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 288 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 179 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
-| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 169 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
-| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 162 | 4.15 | 2026-10-28 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
-| [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 56 | 4.15 | 2026-10-18 | — | Custom frontend for the Emscripten port of isle-portable |
+| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 315 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
+| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 289 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
+| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 180 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
+| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 170 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
+| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 167 | 4.15 | 2026-10-31 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
+| [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 57 | 4.15 | 2026-10-18 | — | Custom frontend for the Emscripten port of isle-portable |
 | [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 43 | 3.95 | 2026-10-31 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
@@ -92,6 +93,7 @@
 | [Minecraft 1.8.8 (EaglercraftX)](https://wasmarcade.com/minecraft) | PC | — | 3.95 | — | — |  |
 | [Moon (Black Ops Zombies, vel.gg)](https://vel.gg/bo1z/moon) | PC | — | 3.95 | — | — | Black Ops 'Moon' zombies map running in the browser (part of the vel.gg Black Ops zombies port; ~400 MB download). Replaces the hijacked moon-zombies… |
 | [Nacht der Untoten](https://zombies.concentric.live) | PC | — | 3.95 | — | — |  |
+| [NBA 2K12](https://nba2k12.online) | PS2 | — | 3.95 | — | — |  |
 | [NetQuake.io](https://www.netquake.io) | PC | — | 3.95 | — | — |  |
 | [Pro Evolution Soccer 6](http://pes6.optijuegos.net) | PC | — | 3.95 | — | — |  |
 | [Quake II (q2.pieter.com)](http://q2.pieter.com) | PC | — | 3.95 | — | — |  |
@@ -115,7 +117,7 @@
 | [Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/Black-Ops-2) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (Hijack… |
 | [Kino der Toten (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/COD-ZOMBIES) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
-| [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 11 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
+| [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 12 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
 | [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 11 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
 
 ## Неактивные и архивные (4)
@@ -124,10 +126,10 @@
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 417 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
+| [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 418 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) | PC | 152 | 3.55 | 2023-02-03 | ✅ | The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x |
-| [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 146 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
-| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 119 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
+| [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 147 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
+| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 120 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
 
 </details>
 
