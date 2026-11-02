@@ -2,19 +2,19 @@
 
 [← Главная](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **01.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **02.11.2026**.
 
-Всего **2551** проектов для **2167** игр, из них **2194** активных.
+Всего **2568** проектов для **2183** игр, из них **2211** активных.
 
 ## По типу проекта
 
 | Раздел | Проектов | Что это |
 |---|---|---|
-| [⚙️ Статические рекомпиляции](rekompilyacii.md) | 802 | Бинарники консолей и ПК, автоматически перекомпилированные в нативный код (N64Recomp, XenonRecomp, ReXGlue, рекомпиляторы PS1/PS2). |
-| [🔧 Порты на исходниках](porty.md) | 313 | Нативные порты для ПК и портативок на основе декомпиляции или официально открытого кода. |
-| [🏗 Движки-ремейки и реимплементации](remeyki-dvizhkov.md) | 278 | Движок написан заново, графика и звук берутся из оригинальной игры. |
+| [⚙️ Статические рекомпиляции](rekompilyacii.md) | 811 | Бинарники консолей и ПК, автоматически перекомпилированные в нативный код (N64Recomp, XenonRecomp, ReXGlue, рекомпиляторы PS1/PS2). |
+| [🔧 Порты на исходниках](porty.md) | 314 | Нативные порты для ПК и портативок на основе декомпиляции или официально открытого кода. |
+| [🏗 Движки-ремейки и реимплементации](remeyki-dvizhkov.md) | 284 | Движок написан заново, графика и звук берутся из оригинальной игры. |
 | [🔬 Декомпиляции](dekompilyacii.md) | 851 | Код игры восстановлен на C/C++; многие проекты — matching (байт-в-байт с оригиналом). |
-| [📜 Дизассемблирования](dizassemblirovaniya.md) | 236 | Читаемый ассемблер, который собирается в идентичный ROM; основа ромхаков и переводов. |
+| [📜 Дизассемблирования](dizassemblirovaniya.md) | 237 | Читаемый ассемблер, который собирается в идентичный ROM; основа ромхаков и переводов. |
 | [🌐 Браузерные порты](brauzernye-porty.md) | 60 | Порты, работающие во вкладке браузера (WebAssembly / JavaScript). |
 | [🧰 Инструменты и лаунчеры](instrumenty.md) | 11 | Рекомпиляторы, лаунчеры и библиотеки для сцены. |
 
@@ -22,21 +22,21 @@
 
 | Платформа | Активных | Неактивных |
 |---|---|---|
-| [ПК (Windows, Mac)](platformy/pc.md) | 376 | 42 |
-| [Xbox 360](platformy/xbox-360.md) | 241 | 5 |
+| [ПК (Windows, Mac)](platformy/pc.md) | 385 | 43 |
+| [Xbox 360](platformy/xbox-360.md) | 244 | 5 |
 | [Nintendo 64](platformy/n64.md) | 218 | 22 |
-| [PlayStation 1](platformy/ps1.md) | 188 | 19 |
-| [GameCube и Wii](platformy/gamecube-wii.md) | 173 | 18 |
+| [PlayStation 1](platformy/ps1.md) | 189 | 19 |
+| [GameCube и Wii](platformy/gamecube-wii.md) | 178 | 18 |
 | [Другие и мультиплатформенные](platformy/other.md) | 155 | 47 |
 | [Game Boy, GBC и GBA](platformy/game-boy.md) | 127 | 40 |
 | [NES, SNES и Virtual Boy](platformy/nes-snes.md) | 123 | 65 |
-| [PlayStation 2](platformy/ps2.md) | 118 | 7 |
-| [DOS](platformy/dos.md) | 100 | 30 |
+| [PlayStation 2](platformy/ps2.md) | 119 | 7 |
+| [DOS](platformy/dos.md) | 97 | 29 |
 | [Wii U, 3DS, DS и Switch](platformy/wiiu-3ds-switch.md) | 95 | 7 |
-| [Xbox](platformy/xbox.md) | 78 | 3 |
-| [PS3, PS4 и PSP](platformy/ps3-ps4-psp.md) | 77 | 2 |
+| [Xbox](platformy/xbox.md) | 79 | 3 |
+| [PS3, PS4 и PSP](platformy/ps3-ps4-psp.md) | 78 | 2 |
 | [Ретро-компьютеры (Amiga, C64, ZX Spectrum, BBC Micro, PC-98)](platformy/retro-pc.md) | 47 | 31 |
-| [Мобильные (Android, iOS)](platformy/mobile.md) | 33 | 8 |
+| [Мобильные (Android, iOS)](platformy/mobile.md) | 32 | 8 |
 | [Аркадные автоматы](platformy/arcade.md) | 29 | 6 |
 | [Sega (Genesis, Saturn, Dreamcast, 32X)](platformy/sega.md) | 16 | 5 |
 

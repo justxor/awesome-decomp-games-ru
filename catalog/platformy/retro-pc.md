@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **01.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **02.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -38,20 +38,20 @@
 | [Jet Set Willy (jetsetwilly (skoolkit.ca))](https://github.com/skoolkid/jetsetwilly) | ZX Spectrum | дизасм | 20 | 2.75 | 2026-10-27 | — | A disassembly of Jet Set Willy, created using SkoolKit. |
 | [Crossroads II: Pandemonium (crossroads-2-disassembly)](https://github.com/MarkRdgOx/crossroads-2-disassembly) | Commodore 64/8-bit | дизасм | 14 | 2.75 | 2026-08-21 | — | Attempt at commented disassembly of C64 Crossroads 2. |
 | [Batman: The Movie (MarkyTurtle Batman---Amiga)](https://github.com/MarkyTurtle/Batman---Amiga) | Amiga | дизасм | 12 | 2.75 | 2026-09-18 | — | Full disassembly of the game ‘Batman The Movie’, Amiga, 2 Disk Europe, Ocean |
-| [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | дизасм | 11 | 2.75 | 2026-10-26 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
-| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 33 | 2.65 | 2026-10-28 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
+| [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | дизасм | 12 | 2.75 | 2026-10-26 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
+| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 34 | 2.65 | 2026-10-28 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
 | [Lander (lander-source-code-acorn-archimedes (Mark Moxon))](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | BBC Micro/Acorn | декомпиляция | 111 | 2.6 | 2026-10-29 | — | Fully documented source code for the classic game Lander on the Acorn Archimedes |
 | [Elite (c64-elite-flicker-free (Mark Moxon))](https://github.com/markmoxon/c64-elite-flicker-free) | BBC Micro/Acorn | декомпиляция | 96 | 2.6 | 2026-10-01 | — | A patch for Commodore 64 and Plus/4 Elite that removes the flicker |
+| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 63 | 2.6 | 2026-11-02 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
 | [Elite (elite-a-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-08 | — | Fully documented source code for Angus Duggan's classic game Elite-A on the BBC Micro |
+| [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
 | [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
-| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 59 | 2.6 | 2026-11-01 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
-| [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
 | [Elite (elite-source-code-bbc-micro-disc (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-micro-disc) | BBC Micro/Acorn | декомпиляция | 53 | 2.6 | 2026-10-08 | — | Fully documented source code for the disc version of the classic game Elite on the BBC Micro |
 | [Elite (elite-source-code-apple-ii (Mark Moxon))](https://github.com/markmoxon/elite-source-code-apple-ii) | BBC Micro/Acorn | декомпиляция | 43 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Apple II |
 | [Revs (revs-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/revs-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 42 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Revs on the BBC Micro |
 | [Elite (elite-source-code-6502-second-processor (Mark Moxon))](https://github.com/markmoxon/elite-source-code-6502-second-processor) | BBC Micro/Acorn | декомпиляция | 41 | 2.6 | 2026-10-25 | — | Fully documented source code for the classic game Elite on the BBC Micro with a 6502 Second Processor |
 | [Elite (elite-source-code-bbc-master (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-master) | BBC Micro/Acorn | декомпиляция | 35 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the BBC Master |
-| [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Atari Jaguar | порт | 35 | 2.6 | 2026-10-31 | — | A modern port of Rayman 1 for PC |
+| [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Atari Jaguar | порт | 35 | 2.6 | 2026-11-01 | — | A modern port of Rayman 1 for PC |
 | [Elite (elite-source-code-acorn-electron (Mark Moxon))](https://github.com/markmoxon/elite-source-code-acorn-electron) | BBC Micro/Acorn | декомпиляция | 34 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Acorn Electron |
 | [Iridis Alpha (iridisalpha (Llamasoft Source Code Project))](https://github.com/mwenge/iridisalpha) | Commodore 64/8-bit | дизасм | 29 | 2.6 | 2025-03-03 | ✅ | Disassembled Source Code for the C64 game Iridis Alpha by Jeff Minter |
 | [Arkanoid](https://github.com/mcolom/arkanoid_msx_disasm) | MSX | дизасм | 22 | 2.55 | 2026-03-23 | — | Arkanoid MSX disassembly |
