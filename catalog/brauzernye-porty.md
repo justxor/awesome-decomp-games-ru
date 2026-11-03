@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (60)
+# 🌐 Браузерные порты — полный список (58)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **02.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **03.11.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -18,7 +18,6 @@
 | Counter-Strike: Source Bunnyhop (bunnyhop.lol) | PC | [▶ открыть](https://bunnyhop.lol) | да | ✅ |
 | Counter-Strike: Source Surf (Surfd) | PC | [▶ открыть](http://surfd.net) | да | ✅ |
 | Crash Bash Online | PS1 | [▶ открыть](https://crashbash.app/) | да | ✅ |
-| Cuphead | PC | [▶ открыть](https://wasm.rip/files/cuphead/index.html) | да | — |
 | Cyberpunk 2077 | PC | [▶ открыть](https://cyberpunk2077.lol/game?ioShared=1&amp;ioSharedMB=128&amp;ioInflight=4&amp;ioPersist=1&amp;ioPersistMB=6144&amp;binkRecycle=1&amp;psoWarm=0&amp;skipIntro=1&amp;ioLookahead=16&amp;behindLoad=0.5) | да | — |
 | Diablo (diablo_web) | PC | [▶ открыть](http://johnimril.github.io/diablo_web/) | да | — |
 | Doom Multiplayer (Silent Space Marine) | PC | [▶ открыть](https://silentspacemarine.com/) | да | ✅ |
@@ -34,7 +33,7 @@
 | Minecraft 1.8.8 (EaglercraftX) | PC | [▶ открыть](https://wasmarcade.com/minecraft) | да | — |
 | Moon (Black Ops Zombies, vel.gg) | PC | [▶ открыть](https://vel.gg/bo1z/moon) | да | — |
 | Nacht der Untoten | PC | [▶ открыть](https://zombies.concentric.live/) | да | ✅ |
-| NBA 2K12 | PS2 | [▶ открыть](https://nba2k12.online/) | да | ✅ |
+| Need for Speed: Most Wanted | PC | [▶ открыть](https://nfsmwonline.com) | да | ✅ |
 | NetQuake.io | PC | [▶ открыть](https://www.netquake.io/) | да | — |
 | Pro Evolution Soccer 6 | PC | [▶ открыть](http://pes6.optijuegos.net) | да | ✅ |
 | Quake II (q2.pieter.com) | PC | [▶ открыть](http://q2.pieter.com) | да | ✅ |
@@ -51,7 +50,6 @@
 | Terraria | PC | [▶ открыть](https://playterraria.lol/) | да | ✅ |
 | The Simpsons: Hit & Run | PC | [▶ открыть](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | да | — |
 | Urban Terror (ut.pieter.com) | PC | [▶ открыть](http://ut.pieter.com) | да | — |
-| WWE SmackDown! vs. RAW | PS2 | [▶ открыть](https://smackdownvsraw.online/) | да | ✅ |
 | Diablo (diabloweb) | PC | [▶ открыть](https://d07riv.github.io/diabloweb/) | — | — |
 | Claude of Duty: Vibe Slops II (froydinger mirror) | PC | [▶ открыть](https://froydinger.github.io/claude-of-duty/) | — | — |
 | Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror) | PC | [▶ открыть](https://goofyahhbro69420.github.io/Black-Ops-2/) | — | — |
@@ -59,17 +57,17 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (56)
+## Активные проекты (54)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
 | [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 316 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
 | [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 289 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 183 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
+| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 189 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
 | [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 170 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
-| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 168 | 4.15 | 2026-10-31 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
+| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 169 | 4.15 | 2026-10-31 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 57 | 4.15 | 2026-10-18 | — | Custom frontend for the Emscripten port of isle-portable |
-| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 44 | 3.95 | 2026-11-02 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
+| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 46 | 3.95 | 2026-11-03 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Red Alert 2](https://chronodivide.com) | PC | — | 3.95 | — | — |  |
@@ -77,7 +75,6 @@
 | [Counter-Strike: Source Bunnyhop (bunnyhop.lol)](https://bunnyhop.lol) | PC | — | 3.95 | — | — |  |
 | [Counter-Strike: Source Surf (Surfd)](http://surfd.net) | PC | — | 3.95 | — | — |  |
 | [Crash Bash Online](https://crashbash.app) | PS1 | — | 3.95 | — | — |  |
-| [Cuphead](https://wasm.rip/files/cuphead/index.html) | PC | — | 3.95 | — | — |  |
 | [Cyberpunk 2077](https://cyberpunk2077.lol/game?ioShared=1&amp;ioSharedMB=128&amp;ioInflight=4&amp;ioPersist=1&amp;ioPersistMB=6144&amp;binkRecycle=1&amp;psoWarm=0&amp;skipIntro=1&amp;ioLookahead=16&amp;behindLoad=0.5) | PC | — | 3.95 | — | — |  |
 | [Diablo (diablo_web)](http://johnimril.github.io/diablo_web) | PC | — | 3.95 | — | — |  |
 | [Doom Multiplayer (Silent Space Marine)](https://silentspacemarine.com) | PC | — | 3.95 | — | — |  |
@@ -93,7 +90,7 @@
 | [Minecraft 1.8.8 (EaglercraftX)](https://wasmarcade.com/minecraft) | PC | — | 3.95 | — | — |  |
 | [Moon (Black Ops Zombies, vel.gg)](https://vel.gg/bo1z/moon) | PC | — | 3.95 | — | — | Black Ops 'Moon' zombies map running in the browser (part of the vel.gg Black Ops zombies port; ~400 MB download). Replaces the hijacked moon-zombies… |
 | [Nacht der Untoten](https://zombies.concentric.live) | PC | — | 3.95 | — | — |  |
-| [NBA 2K12](https://nba2k12.online) | PS2 | — | 3.95 | — | — |  |
+| [Need for Speed: Most Wanted](https://nfsmwonline.com) | PC | — | 3.95 | — | — |  |
 | [NetQuake.io](https://www.netquake.io) | PC | — | 3.95 | — | — |  |
 | [Pro Evolution Soccer 6](http://pes6.optijuegos.net) | PC | — | 3.95 | — | — |  |
 | [Quake II (q2.pieter.com)](http://q2.pieter.com) | PC | — | 3.95 | — | — |  |
@@ -111,13 +108,12 @@
 | [Terraria](https://playterraria.lol) | PC | — | 3.95 | — | — |  |
 | [The Simpsons: Hit & Run](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | PC | — | 3.95 | — | — |  |
 | [Urban Terror (ut.pieter.com)](http://ut.pieter.com) | PC | — | 3.95 | — | — | Urban Terror multiplayer in the browser. The X post lists it as 'Unreal Tournament'. |
-| [WWE SmackDown! vs. RAW](https://smackdownvsraw.online) | PS2 | — | 3.95 | — | — |  |
 | [Diablo (diabloweb)](https://github.com/d07RiV/diabloweb) | PC | 2.9k | 3.75 | 2022-05-17 | — | Diablo 1 for web browsers |
 | [Claude of Duty: Vibe Slops II (froydinger mirror)](https://froydinger.github.io/claude-of-duty) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (listed… |
 | [Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/Black-Ops-2) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (Hijack… |
 | [Kino der Toten (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/COD-ZOMBIES) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
-| [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 12 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
+| [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 14 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
 | [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 11 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
 
 ## Неактивные и архивные (4)
