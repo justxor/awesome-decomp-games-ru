@@ -2,35 +2,36 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **03.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **05.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
-1. [Open Fodder](https://github.com/OpenFodder/openfodder) — ремейк движка, ⭐ 616, score 4.35
+1. [Open Fodder](https://github.com/OpenFodder/openfodder) — ремейк движка, ⭐ 618, score 4.35
 2. [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) — порт, ⭐ 251, score 4.1
-3. [Touhou PC-98](https://github.com/nmlgc/ReC98) — декомпиляция, ⭐ 883, score 3.8
+3. [Touhou PC-98](https://github.com/nmlgc/ReC98) — декомпиляция, ⭐ 884, score 3.8
 4. [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) — порт, ⭐ 39, score 3.55
 5. [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) — декомпиляция, ⭐ 46, score 3.25
 6. [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) — декомпиляция, ⭐ 77, score 3.05
 7. [Prince of Persia (SDLPoP-Dreamcast)](https://github.com/Memorix101/SDLPoP-Dreamcast) — дизасм, ⭐ 27, score 2.85
-8. [Iridis Alpha (iridisalpha (Llamasoft Source Code Project))](https://github.com/mwenge/iridisalpha) — дизасм, ⭐ 29, score 2.6
+8. [Iridis Alpha (iridisalpha (Llamasoft Source Code Project))](https://github.com/mwenge/iridisalpha) — дизасм, ⭐ 30, score 2.8
 9. [Frontier: Elite II (fe2-intro)](https://github.com/watsonmw/fe2-intro) — декомпиляция, ⭐ 52, score 2.45
 
-## Все активные проекты (47)
+## Все активные проекты (46)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Open Fodder](https://github.com/OpenFodder/openfodder) | Amiga | ремейк движка | 616 | 4.35 | 2026-10-30 | ✅ | Open Fodder: An open source port of Cannon Fodder |
+| [Open Fodder](https://github.com/OpenFodder/openfodder) | Amiga | ремейк движка | 618 | 4.35 | 2026-10-30 | ✅ | Open Fodder: An open source port of Cannon Fodder |
 | [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | порт | 251 | 4.1 | 2026-10-29 | ✅ | Repository for the NeoClassical Habitat Server Project |
-| [Touhou PC-98](https://github.com/nmlgc/ReC98) | PC-98 | декомпиляция | 883 | 3.8 | 2026-03-16 | ✅ | The Touhou PC-98 Restoration Project |
+| [Touhou PC-98](https://github.com/nmlgc/ReC98) | PC-98 | декомпиляция | 884 | 3.8 | 2026-03-16 | ✅ | The Touhou PC-98 Restoration Project |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Amiga | порт | 39 | 3.55 | 2026-10-25 | ✅ |  |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | браузер | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
-| [Doom](https://github.com/viciious/d32xr) | Atari Jaguar | порт | 222 | 3.4 | 2026-11-01 | — | A modern port of Doom for the Sega 32X |
+| [Doom](https://github.com/viciious/d32xr) | Atari Jaguar | порт | 222 | 3.4 | 2026-11-04 | — | A modern port of Doom for the Sega 32X |
 | [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Amiga | декомпиляция | 46 | 3.25 | 2026-06-01 | ✅ | Stunt Car Racer for the Amiga, Framerate Unleashed |
-| [Elite](https://github.com/markmoxon/elite-source-code-commodore-64) | Commodore 64 | декомпиляция | 476 | 3.05 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Commodore 64 |
+| [Elite](https://github.com/markmoxon/elite-source-code-commodore-64) | Commodore 64 | декомпиляция | 477 | 3.05 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Commodore 64 |
 | [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) | Apple II | декомпиляция | 77 | 3.05 | 2025-01-25 | ✅ | Ultima IV Remastered for the Apple II |
 | [Prince of Persia (SDLPoP-Dreamcast)](https://github.com/Memorix101/SDLPoP-Dreamcast) | Apple II | дизасм | 27 | 2.85 | 2025-01-22 | ✅ | An open-source port of Prince of Persia, based on the disassembly of the DOS version ported to SEGA Dreamcast |
 | [Alien Breed](https://github.com/hitchhikr/alienbreed) | Amiga | дизасм | 21 | 2.85 | 2025-10-28 | — | A complete disassembly of the Amiga CD32 version of the game "Alien Breed SE" |
+| [Iridis Alpha (iridisalpha (Llamasoft Source Code Project))](https://github.com/mwenge/iridisalpha) | Commodore 64/8-bit | дизасм | 30 | 2.8 | 2025-03-03 | ✅ | Disassembled Source Code for the C64 game Iridis Alpha by Jeff Minter |
 | [Raiders of the Lost Ark (Raiders2600 (fully co…)](https://github.com/halkuncode/Raiders2600) | Atari 2600 | ремейк движка | 176 | 2.75 | 2026-03-03 | — | Reverse Engineering Raiders of the Lost Ark for the Atari 2600 |
 | [Jetpac](https://github.com/mrcook/jetpac-disassembly) | ZX Spectrum | дизасм | 77 | 2.75 | 2026-04-14 | — | JETPAC: fully annotated source code of this classic 8-bit game (1983, ZX Spectrum) |
 | [Thrust (kieranhj thrust-disassembly)](https://github.com/kieranhj/thrust-disassembly) | BBC Micro/Acorn | дизасм | 27 | 2.75 | 2026-10-15 | — | Reverse engineered source to BBC Thrust |
@@ -39,10 +40,10 @@
 | [Crossroads II: Pandemonium (crossroads-2-disassembly)](https://github.com/MarkRdgOx/crossroads-2-disassembly) | Commodore 64/8-bit | дизасм | 14 | 2.75 | 2026-08-21 | — | Attempt at commented disassembly of C64 Crossroads 2. |
 | [Batman: The Movie (MarkyTurtle Batman---Amiga)](https://github.com/MarkyTurtle/Batman---Amiga) | Amiga | дизасм | 12 | 2.75 | 2026-09-18 | — | Full disassembly of the game ‘Batman The Movie’, Amiga, 2 Disk Europe, Ocean |
 | [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | дизасм | 12 | 2.75 | 2026-10-26 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
-| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 34 | 2.65 | 2026-10-28 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
+| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 35 | 2.65 | 2026-10-28 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
 | [Lander (lander-source-code-acorn-archimedes (Mark Moxon))](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | BBC Micro/Acorn | декомпиляция | 112 | 2.6 | 2026-10-29 | — | Fully documented source code for the classic game Lander on the Acorn Archimedes |
-| [Elite (c64-elite-flicker-free (Mark Moxon))](https://github.com/markmoxon/c64-elite-flicker-free) | BBC Micro/Acorn | декомпиляция | 96 | 2.6 | 2026-10-01 | — | A patch for Commodore 64 and Plus/4 Elite that removes the flicker |
-| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 66 | 2.6 | 2026-11-03 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
+| [Elite (c64-elite-flicker-free (Mark Moxon))](https://github.com/markmoxon/c64-elite-flicker-free) | BBC Micro/Acorn | декомпиляция | 97 | 2.6 | 2026-10-01 | — | A patch for Commodore 64 and Plus/4 Elite that removes the flicker |
+| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 70 | 2.6 | 2026-11-05 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
 | [Elite (elite-a-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-08 | — | Fully documented source code for Angus Duggan's classic game Elite-A on the BBC Micro |
 | [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
 | [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
@@ -53,7 +54,6 @@
 | [Elite (elite-source-code-bbc-master (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-master) | BBC Micro/Acorn | декомпиляция | 35 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the BBC Master |
 | [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Atari Jaguar | порт | 35 | 2.6 | 2026-11-01 | — | A modern port of Rayman 1 for PC |
 | [Elite (elite-source-code-acorn-electron (Mark Moxon))](https://github.com/markmoxon/elite-source-code-acorn-electron) | BBC Micro/Acorn | декомпиляция | 34 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Acorn Electron |
-| [Iridis Alpha (iridisalpha (Llamasoft Source Code Project))](https://github.com/mwenge/iridisalpha) | Commodore 64/8-bit | дизасм | 29 | 2.6 | 2025-03-03 | ✅ | Disassembled Source Code for the C64 game Iridis Alpha by Jeff Minter |
 | [Arkanoid](https://github.com/mcolom/arkanoid_msx_disasm) | MSX | дизасм | 22 | 2.55 | 2026-03-23 | — | Arkanoid MSX disassembly |
 | [Mercenary (mikedailly MercenaryDisassembly)](https://github.com/mikedailly/MercenaryDisassembly) | Atari 8-bit | дизасм | 15 | 2.55 | 2026-03-13 | — | Disassembly of the ZX Spectrum game Mercenary |
 | [River Raid (river-raid-disasm (Sergei Morozov))](https://github.com/river-raid/river-raid-disasm) | Atari 2600 | дизасм | 15 | 2.55 | 2026-04-05 | — | Disassembly of River Raid for ZX Spectrum |
@@ -65,10 +65,9 @@
 | [Cobra (Paul Hughes ZXSpectrumCobra)](https://github.com/Paulie68000/ZXSpectrumCobra) | ZX Spectrum | декомпиляция | 47 | 2.2 | 2024-11-17 | — | Full reverse engineered source code of Jonathan "Joffa" Smith's Cobra |
 | [Rayman (rayman-ps1-decomp)](https://github.com/fuerchter/rayman-ps1-decomp) | Atari Jaguar | декомпиляция | 19 | 2.2 | 2026-01-21 | — |  |
 | [Eastern Front (1941) (eastern-front-1941 (TypeScript port))](https://github.com/patricksurry/eastern-front-1941) | Atari 8-bit | порт | 17 | 2.2 | 2026-01-25 | — | Typescript port of Chris Crawford's Eastern Front 1941 |
-| [Hyper Active (Paul Hughes ZXSpectrumHyperActive)](https://github.com/Paulie68000/ZXSpectrumHyperActive) | ZX Spectrum | декомпиляция | 24 | 2 | 2024-11-03 | — | Fully reverse engineered source code to Jonathan Smith's Hyper Active covermount game |
 | [Chuckie Egg (Paul Hughes ZXSpectrumChuckieEgg)](https://github.com/Paulie68000/ZXSpectrumChuckieEgg) | ZX Spectrum | декомпиляция | 20 | 2 | 2024-11-16 | — | Fully documented reverse engineered source code to AnF's ZX Spectrum Chuckie Egg |
 
-## Неактивные и архивные (31)
+## Неактивные и архивные (32)
 
 <details><summary>Показать</summary>
 
@@ -97,6 +96,7 @@
 | [Frontier: Elite II (GLFrontier)](https://github.com/pcercuei/glfrontier) | Amiga | декомпиляция | 89 | 1.8 | 2014-03-24 | — | Reverse-engineered version of Frontier: Elite II |
 | [Knightmare (KnightmareAmiga (h0ffman))](https://github.com/djh0ffman/KnightmareAmiga) | Amiga | порт | 39 | 1.8 | 2022-05-05 | — | Knightmare - Amiga Port |
 | [Head Over Heels (simon-frankau head-over-heels)](https://github.com/simon-frankau/head-over-heels) | ZX Spectrum | декомпиляция | 32 | 1.8 | 2017-06-28 | — | A reverse-engineering of the classic isometric ZX Spectrum game "Head Over Heels" |
+| [Hyper Active (Paul Hughes ZXSpectrumHyperActive)](https://github.com/Paulie68000/ZXSpectrumHyperActive) | ZX Spectrum | декомпиляция | 24 | 1.8 | 2024-11-03 | — | Fully reverse engineered source code to Jonathan Smith's Hyper Active covermount game |
 | [Speedball 2: Brutal Deluxe (speedball2-re-amiga)](https://github.com/simon-frankau/speedball2-re-amiga) | Amiga | декомпиляция | 18 | 1.8 | 2023-05-05 | — | A reverse-engineering of Speedball 2 for the Commodore Amiga. Based on my reversing of the Sega Megadrive (Genesis) version. |
 | [Repton (ajgbarnes bbc-micro-repton)](https://github.com/ajgbarnes/bbc-micro-repton) | BBC Micro/Acorn | декомпиляция | 14 | 1.8 | 2022-12-03 | — |  |
 | [Stunt Car Racer (stunt-car-racer-ste)](https://github.com/jonathanopalise/stunt-car-racer-ste) | Amiga | декомпиляция | 23 | 1.6 | 2021-09-12 | — | Enhancements to the Atari ST version of Stunt Car Racer to support STE hardware features |
