@@ -1,41 +1,40 @@
-# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (41)
+# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (40)
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **05.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **06.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
-1. [Sonic the Hedgehog / Sonic the Hedgehog 2](https://github.com/RSDKModding/RSDKv4-Decompilation) — декомпиляция, ⭐ 1.2k, score 4.45
+1. [Sonic The Hedgehog 1 & 2](https://github.com/RSDKModding/RSDKv4-Decompilation) — декомпиляция, ⭐ 1.2k, score 4.45
 2. [Jazz² Resurrection](https://github.com/deathkiller/jazz2) — ремейк движка, ⭐ 588, score 4.35
 3. [Lemuroid](https://github.com/Swordfish90/Lemuroid) — декомпиляция, ⭐ 4.5k, score 4.2
 4. [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) — декомпиляция, ⭐ 715, score 4
 5. [FreeSO](https://github.com/riperiperi/FreeSO) — ремейк движка, ⭐ 991, score 3.95
-6. [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) — порт, ⭐ 111, score 3.95
-7. [Asphalt 5 HD](https://github.com/mrbaazzman/Asphalt5-Native) — рекомпиляция, ⭐ 24, score 3.95
+6. [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) — порт, ⭐ 113, score 3.95
+7. [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) — рекомпиляция, ⭐ 142, score 3.9
 8. [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) — порт, ⭐ 56, score 3.9
 9. [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) — ремейк движка, ⭐ 88, score 3.7
 10. [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) — рекомпиляция, ⭐ 27, score 3.5
 
-## Все активные проекты (33)
+## Все активные проекты (32)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Sonic the Hedgehog / Sonic the Hedgehog 2](https://github.com/RSDKModding/RSDKv4-Decompilation) | Android / iOS | декомпиляция | 1.2k | 4.45 | 2026-10-28 | ✅ | A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4) |
+| [Sonic The Hedgehog 1 & 2](https://github.com/RSDKModding/RSDKv4-Decompilation) | Mobile | декомпиляция | 1.2k | 4.45 | 2026-10-28 | ✅ | A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4) |
 | [Jazz² Resurrection](https://github.com/deathkiller/jazz2) | Mobile | ремейк движка | 588 | 4.35 | 2026-10-17 | ✅ | 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2 |
 | [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Mobile | декомпиляция | 4.5k | 4.2 | 2026-10-16 | ✅ | All in one emulator on Android! |
 | [Riiablo](https://github.com/collinsmith/riiablo) | Mobile | ремейк движка | 1.1k | 4.15 | 2025-01-13 | — | Diablo II remade using Java and LibGDX |
-| [Ultimate MK3 iOS](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | рекомпиляция | 53 | 4.15 | 2026-10-31 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
+| [Ultimate MK3 iOS](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | рекомпиляция | 57 | 4.15 | 2026-11-05 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
 | [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | декомпиляция | 715 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
 | [FreeSO](https://github.com/riperiperi/FreeSO) | Mobile | ремейк движка | 991 | 3.95 | 2025-08-22 | ✅ | Re-implementation of The Sims Online. |
-| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Mobile | порт | 111 | 3.95 | 2026-09-25 | ✅ | Hollow Knight: Silksong Dual-Screen Android port (+Steam integration) |
-| [Asphalt 5 HD](https://github.com/mrbaazzman/Asphalt5-Native) | Mobile | рекомпиляция | 24 | 3.95 | 2026-11-03 | ✅ | Native x86-64 recompilation of Asphalt 5 ; APK-driven builder, no emulator. |
+| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Mobile | порт | 113 | 3.95 | 2026-09-25 | ✅ | Hollow Knight: Silksong Dual-Screen Android port (+Steam integration) |
+| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 142 | 3.9 | 2026-11-05 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
 | [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | Mobile | порт | 56 | 3.9 | 2026-08-23 | ✅ | A native Android port of Hollow Knight (GOG/Steam, v1.5.12620 "Voidheart") for the AYN Thor dual-screen handheld. |
 | [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) | Mobile | ремейк движка | 88 | 3.7 | 2026-05-24 | ✅ | Java remake of Lionheart amiga game |
 | [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) | Mobile | рекомпиляция | 27 | 3.5 | 2025-12-04 | ✅ | Decompilation of Samurai Vs Zombies by Glu |
 | [Doom RPG (Mobile RPG Pack)](https://github.com/andreyvelsk/com.mobilerpgpack.phone) | Mobile | ремейк движка | 18 | 3.5 | 2026-06-10 | ✅ | Android port of UZDoom, with second screen support |
-| [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | декомпиляция | 140 | 3.45 | 2026-10-09 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
-| [Mirror Edge](https://github.com/MoonCellar-Team/Glassline) | iOS (iPad) | декомпиляция | 49 | 3.45 | 2026-10-30 | ✅ | Unofficial port of Mirror's Edge (iPad, 2010) to Linux, Windows, Steam Deck and Android |
+| [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | декомпиляция | 142 | 3.45 | 2026-10-09 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
 | [Rockman EXE Phantom of Network (PoN PC)](https://github.com/StraDaMa/PoN_PC) | Mobile | порт | 86 | 3.35 | 2026-02-17 | ✅ | PoN PC is a native Windows PC port of the previously mobile-exclusive game Rockman EXE Phantom of Network. |
 | [Backstab HD (BackStabRecomp (AndroidRecomp))](https://github.com/jessicanataliagta/BackStabRecomp) | Mobile | рекомпиляция | 12 | 3.15 | 2026-07-31 | ✅ | A Windows x64 port of the Android ARMv7 version of BackStab HD, powered by AndroidRecomp. |
 | [Flappy Bird (reFlappy)](https://github.com/THEN00P/reFlappy) | Mobile | рекомпиляция | 21 | 2.95 | 2025-09-04 | ✅ | Deobfuscation and recompilation project of the original Flappy Bird game. |
@@ -48,7 +47,7 @@
 | [Geometry Dash (gdp)](https://github.com/camila314/gdp) | Mobile | декомпиляция | 73 | 2.2 | 2025-09-24 | — | Full decompilations of Geometry Dash physics functions |
 | [Modern Combat 2: Black Pegasus ( BackStabRecomp)](https://github.com/jessicanataliagta/AndroidRecomp) | Mobile | рекомпиляция | 22 | 2.2 | 2026-07-31 | — | A profile-driven ARMv7 Android-to-Windows compatibility runtime for native games. |
 | [Minecraft: Pocket Edition](https://github.com/BrentDaMage/mcpe-engine) | Mobile | декомпиляция | 16 | 2.2 | 2026-02-11 | — | A decompilation of the Minecraft: Pocket Edition (0.12.1) rendering Hardware Abstraction Layer (HAL) |
-| [Diamond Rush](https://github.com/palaceswitcher/Diamond-Rush-Decomp) | Mobile | декомпиляция | 13 | 2.2 | 2026-07-14 | — | Decompilation of Diamond Rush |
+| [Diamond Rush](https://github.com/palaceswitcher/Diamond-Rush-Decomp) | Mobile | декомпиляция | 14 | 2.2 | 2026-07-14 | — | Decompilation of Diamond Rush |
 | [Diamond Rush (DiamondRushSource)](https://github.com/kubikaugustyn/DiamondRushSource) | Mobile | декомпиляция | 25 | 2 | 2025-06-07 | — | Decompilation of Gamelofts' Diamond Rush (2006) video game for Nokia mobile devices. |
 | [Brave Frontier](https://github.com/decompfrontier/client) | Mobile | декомпиляция | 16 | 2 | 2025-05-30 | — | Decompilation of Brave Frontier client |
 | [Flappy Bird](https://github.com/fr3dsp/FlappyBird-Decomp) | Mobile | декомпиляция | 4 | 2 | 2025-10-28 | — | A Flappy Bird Windows Phone Decompilation |
