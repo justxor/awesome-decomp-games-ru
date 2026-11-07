@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **06.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **07.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -18,7 +18,7 @@
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | порт | 251 | 4.1 | 2026-11-05 | ✅ | Repository for the NeoClassical Habitat Server Project |
+| [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | порт | 251 | 4.1 | 2026-11-07 | ✅ | Repository for the NeoClassical Habitat Server Project |
 | [Prince of Persia](https://github.com/NagyD/SDLPoP) | Apple II | ремейк движка | 1.3k | 4 | 2025-12-24 | — | An open-source port of Prince of Persia, based on the disassembly of the DOS version. |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Amiga | порт | 39 | 3.55 | 2026-11-06 | ✅ |  |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | браузер | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
@@ -40,7 +40,7 @@
 | [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 35 | 2.65 | 2026-10-28 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
 | [Lander (lander-source-code-acorn-archimedes (Mark Moxon))](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | BBC Micro/Acorn | декомпиляция | 112 | 2.6 | 2026-10-29 | — | Fully documented source code for the classic game Lander on the Acorn Archimedes |
 | [Elite (c64-elite-flicker-free (Mark Moxon))](https://github.com/markmoxon/c64-elite-flicker-free) | BBC Micro/Acorn | декомпиляция | 97 | 2.6 | 2026-10-01 | — | A patch for Commodore 64 and Plus/4 Elite that removes the flicker |
-| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 71 | 2.6 | 2026-11-06 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
+| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 72 | 2.6 | 2026-11-07 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
 | [Elite (elite-a-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-08 | — | Fully documented source code for Angus Duggan's classic game Elite-A on the BBC Micro |
 | [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
 | [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
@@ -89,7 +89,7 @@
 | [Ghost Town (Esshahn Ghost-Town)](https://github.com/Esshahn/Ghost-Town) | Commodore 64/8-bit | дизасм | 23 | 1.95 | 2020-04-01 | — | Disassembly of the Commodore 16 game |
 | [Haunted House](https://github.com/brandonrobertz/haunted_house_disassembly) | Atari 2600 | дизасм | 12 | 1.95 | 2020-06-11 | — | Atari 2600 MOS 6502/7 commented disassembly of the game Haunted House |
 | [Rex (ultrabolido skRex)](https://github.com/ultrabolido/skRex) | ZX Spectrum | дизасм | 11 | 1.95 | 2021-11-06 | — | A disassembly of Rex, created using SkoolKit. |
-| [Frontier: Elite II (GLFrontier)](https://github.com/pcercuei/glfrontier) | Amiga | декомпиляция | 89 | 1.8 | 2014-03-24 | — | Reverse-engineered version of Frontier: Elite II |
+| [Frontier: Elite II (GLFrontier)](https://github.com/pcercuei/glfrontier) | Amiga | декомпиляция | 90 | 1.8 | 2014-03-24 | — | Reverse-engineered version of Frontier: Elite II |
 | [Knightmare (KnightmareAmiga (h0ffman))](https://github.com/djh0ffman/KnightmareAmiga) | Amiga | порт | 39 | 1.8 | 2022-05-05 | — | Knightmare - Amiga Port |
 | [Head Over Heels (simon-frankau head-over-heels)](https://github.com/simon-frankau/head-over-heels) | ZX Spectrum | декомпиляция | 32 | 1.8 | 2017-06-28 | — | A reverse-engineering of the classic isometric ZX Spectrum game "Head Over Heels" |
 | [Hyper Active (Paul Hughes ZXSpectrumHyperActive)](https://github.com/Paulie68000/ZXSpectrumHyperActive) | ZX Spectrum | декомпиляция | 24 | 1.8 | 2024-11-03 | — | Fully reverse engineered source code to Jonathan Smith's Hyper Active covermount game |

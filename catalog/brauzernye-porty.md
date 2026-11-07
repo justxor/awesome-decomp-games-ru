@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (58)
+# 🌐 Браузерные порты — полный список (57)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **06.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **07.11.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -18,7 +18,6 @@
 | Counter-Strike: Source Bunnyhop (bunnyhop.lol) | PC | [▶ открыть](https://bunnyhop.lol) | да | ✅ |
 | Counter-Strike: Source Surf (Surfd) | PC | [▶ открыть](http://surfd.net) | да | ✅ |
 | Crash Bash Online | PS1 | [▶ открыть](https://crashbash.app/) | да | ✅ |
-| Cyberpunk 2077 | PC | [▶ открыть](https://cyberpunk2077.lol/game?ioShared=1&amp;ioSharedMB=128&amp;ioInflight=4&amp;ioPersist=1&amp;ioPersistMB=6144&amp;binkRecycle=1&amp;psoWarm=0&amp;skipIntro=1&amp;ioLookahead=16&amp;behindLoad=0.5) | да | — |
 | Diablo (diablo_web) | PC | [▶ открыть](http://johnimril.github.io/diablo_web/) | да | — |
 | Doom Multiplayer (Silent Space Marine) | PC | [▶ открыть](https://silentspacemarine.com/) | да | ✅ |
 | Formula One 06 | PS2 | [▶ открыть](https://f12006.online/) | да | ✅ |
@@ -57,17 +56,17 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (54)
+## Активные проекты (53)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 317 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
+| [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 318 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
 | [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 289 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 193 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
-| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 172 | 4.15 | 2026-11-05 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
+| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 195 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
+| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 177 | 4.15 | 2026-11-05 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
 | [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 171 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 57 | 4.15 | 2026-11-04 | — | Custom frontend for the Emscripten port of isle-portable |
-| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 48 | 3.95 | 2026-11-04 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
+| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 49 | 3.95 | 2026-11-04 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Red Alert 2](https://chronodivide.com) | PC | — | 3.95 | — | — |  |
@@ -75,7 +74,6 @@
 | [Counter-Strike: Source Bunnyhop (bunnyhop.lol)](https://bunnyhop.lol) | PC | — | 3.95 | — | — |  |
 | [Counter-Strike: Source Surf (Surfd)](http://surfd.net) | PC | — | 3.95 | — | — |  |
 | [Crash Bash Online](https://crashbash.app) | PS1 | — | 3.95 | — | — |  |
-| [Cyberpunk 2077](https://cyberpunk2077.lol/game?ioShared=1&amp;ioSharedMB=128&amp;ioInflight=4&amp;ioPersist=1&amp;ioPersistMB=6144&amp;binkRecycle=1&amp;psoWarm=0&amp;skipIntro=1&amp;ioLookahead=16&amp;behindLoad=0.5) | PC | — | 3.95 | — | — |  |
 | [Diablo (diablo_web)](http://johnimril.github.io/diablo_web) | PC | — | 3.95 | — | — |  |
 | [Doom Multiplayer (Silent Space Marine)](https://silentspacemarine.com) | PC | — | 3.95 | — | — |  |
 | [Formula One 06](https://f12006.online) | PS2 | — | 3.95 | — | — |  |

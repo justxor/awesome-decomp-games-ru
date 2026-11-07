@@ -1,12 +1,12 @@
-# 🔬 Декомпиляции — полный список (842)
+# 🔬 Декомпиляции — полный список (843)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **06.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **07.11.2026**.
 
 Код игры восстановлен на C/C++; многие проекты — matching (байт-в-байт с оригиналом).
 
-## Активные проекты (699)
+## Активные проекты (700)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
@@ -15,8 +15,8 @@
 | [3ds (Azahar)](https://github.com/azahar-emu/azahar) | 3DS | 8.6k | 4.4 | 2026-11-06 | ✅ | An open-source 3DS emulator project based on Citra. |
 | [melonDS](https://github.com/melonDS-emu/melonDS) | DS | 5.2k | 4.4 | 2026-11-04 | ✅ | DS emulator, sorta |
 | [Sonic Mania (RSDKv5-Decompilation)](https://github.com/RSDKModding/RSDKv5-Decompilation) | PC | 575 | 4.25 | 2026-10-03 | ✅ | A complete decompilation of Retro Engine (v5) |
-| [Resident Evil - Code: Veronica X](https://github.com/AshfordFamily/recvx-decomp) | PS2 | 307 | 4.25 | 2026-10-30 | ✅ | Completed decompilation of Capcom's 2000 survival horror love letter, Code Veronica, which targets the X release on PS2. |
-| [PlayStation 2 (PCSX2)](https://github.com/PCSX2/pcsx2) | PS2 | 16.0k | 4.2 | 2026-11-04 | ✅ | PCSX2 - The Playstation 2 Emulator |
+| [Resident Evil - Code: Veronica X](https://github.com/AshfordFamily/recvx-decomp) | PS2 | 307 | 4.25 | 2026-11-06 | ✅ | Completed decompilation of Capcom's 2000 survival horror love letter, Code Veronica, which targets the X release on PS2. |
+| [PlayStation 2 (PCSX2)](https://github.com/PCSX2/pcsx2) | PS2 | 16.0k | 4.2 | 2026-11-07 | ✅ | PCSX2 - The Playstation 2 Emulator |
 | [The Legend of Zelda: Ocarina of Time (Ship of Harkinian)](https://github.com/HarbourMasters/Shipwright) | N64 | 5.9k | 4.2 | 2026-11-01 | ✅ | Ship of Harkinian brings The Legend of Zelda: Ocarina of Time to PC. |
 | [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Mobile | 4.5k | 4.2 | 2026-10-16 | ✅ | All in one emulator on Android! |
 | [Jak & Daxter](https://github.com/open-goal/jak-project) | PS2 | 3.6k | 4.2 | 2026-11-03 | ✅ | Reviving the language that brought us the Jak & Daxter Series |
@@ -24,29 +24,29 @@
 | [BizHawk](https://github.com/TASEmulators/BizHawk) | Arcade | 2.8k | 4.2 | 2026-11-02 | ✅ | BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in additi… |
 | [The Legend of Zelda: Majora's Mask (2 Ship 2 Harkinian)](https://github.com/2ship2harkinian/2ship2harkinian) | N64 | 2.4k | 4.2 | 2026-11-02 | ✅ | 2 Ship 2 Harkinian brings The Legend of Zelda: Majora's Mask to PC. |
 | [Star Fox 64 (Starship)](https://github.com/HarbourMasters/Starship) | N64 | 2.1k | 4.2 | 2026-09-15 | ✅ | SF64 PC Port |
-| [Pokémon Gold and Silver (Pokémon Polished Crystal)](https://github.com/Rangi42/polishedcrystal) | Game Boy Color | 1.7k | 4.2 | 2026-11-06 | ✅ | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. |
-| [Castlevania: Symphony of the Night](https://github.com/Xeeynamo/sotn-decomp) | PS1 / PSP / Saturn | 1.2k | 4.2 | 2026-11-06 | ✅ | Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn) |
+| [Pokémon Gold and Silver (Pokémon Polished Crystal)](https://github.com/Rangi42/polishedcrystal) | Game Boy Color | 1.7k | 4.2 | 2026-11-07 | ✅ | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. |
+| [Castlevania: Symphony of the Night](https://github.com/Xeeynamo/sotn-decomp) | PS1 / PSP / Saturn | 1.2k | 4.2 | 2026-11-07 | ✅ | Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn) |
 | [Xenia Manager](https://github.com/xenia-manager/xenia-manager) | Xbox 360 | 1.1k | 4.2 | 2026-09-22 | ✅ | Xenia Manager is a tool that tries to make using Xenia Emulator easier. |
 | [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot) | N64 | 5.7k | 4.05 | 2026-10-18 | — | Decompilation of The Legend of Zelda: Ocarina of Time |
-| [Sonic Mania](https://github.com/RSDKModding/Sonic-Mania-Decompilation) | PC | 827 | 4.05 | 2026-05-12 | ✅ | A complete decompilation of Sonic Mania (2017) |
-| [Lichii](https://github.com/zortos293/Lichii) | Switch | 2.9k | 4 | 2026-11-06 | — | VERY experimental Nintendo Switch 2 emulator |
+| [Sonic Mania](https://github.com/RSDKModding/Sonic-Mania-Decompilation) | PC | 828 | 4.05 | 2026-05-12 | ✅ | A complete decompilation of Sonic Mania (2017) |
+| [Lichii](https://github.com/zortos293/Lichii) | Switch | 4.4k | 4 | 2026-11-07 | — | VERY experimental Nintendo Switch 2 emulator |
 | [Super Mario 64 (sm64coopdx)](https://github.com/coop-deluxe/sm64coopdx) | N64 | 1.5k | 4 | 2026-06-01 | ✅ | An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has. |
-| [Mario Party 4](https://github.com/mariopartyrd/marioparty4) | GameCube | 886 | 4 | 2026-10-15 | — |  |
+| [Mario Party 4](https://github.com/mariopartyrd/marioparty4) | GameCube | 888 | 4 | 2026-10-15 | — |  |
 | [Half-Life (ReHLDS)](https://github.com/rehlds/ReHLDS) | PC | 876 | 4 | 2026-11-06 | ✅ | Enhanced version of the HLDS engine with bug fixes, security patches, and optimizations for stable servers. |
 | [Counter-Strike (ReGameDLL_CS)](https://github.com/rehlds/ReGameDLL_CS) | PC | 810 | 4 | 2026-11-05 | ✅ | Enhanced server-side GameDLL for Counter-Strike 1.6 (and CS: Condition Zero), offering new features and fixes. |
 | [The Legend of Zelda: The Minish Cap (zelda-tmc-3ds)](https://github.com/EstebanPdN/zelda-tmc-3ds) | GBA | 803 | 4 | 2026-11-05 | ✅ | Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori |
-| [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | 715 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
-| [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) | PC | 585 | 4 | 2026-11-02 | ✅ | Legend of Dragoon decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck |
-| [Paper Mario 64 (PaperBoat)](https://github.com/HarbourMasters/PaperBoat) | N64 | 552 | 4 | 2026-11-02 | ✅ | Paper Mario 64 port based on the Paper Mario DX decompilation |
-| [Banjo-Kazooie (Lighthouse)](https://github.com/HarbourMasters/Lighthouse) | N64 | 545 | 4 | 2026-11-04 | ✅ | A Banjo-Kazooie PC port with Anchor multiplayer, romhack and multi-language support, and a built-in randomizer. |
+| [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | 717 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
+| [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) | PC | 587 | 4 | 2026-11-02 | ✅ | Legend of Dragoon decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck |
+| [Paper Mario 64 (PaperBoat)](https://github.com/HarbourMasters/PaperBoat) | N64 | 554 | 4 | 2026-11-02 | ✅ | Paper Mario 64 port based on the Paper Mario DX decompilation |
+| [Banjo-Kazooie (Lighthouse)](https://github.com/HarbourMasters/Lighthouse) | N64 | 546 | 4 | 2026-11-04 | ✅ | A Banjo-Kazooie PC port with Anchor multiplayer, romhack and multi-language support, and a built-in randomizer. |
 | [Command & Conquer: Red Alert 2 (Phobos)](https://github.com/Phobos-developers/Phobos) | PC | 503 | 4 | 2026-11-05 | ✅ | Ares-compatible C&C Red Alert 2: Yuri's Revenge engine extension |
-| [Crash Team Racing (CTR Native)](https://github.com/CTR-tools/ctr-native) | PS1 | 434 | 4 | 2026-10-06 | — | A Crash Team Racing Decompilation Project |
+| [Crash Team Racing (CTR Native)](https://github.com/CTR-tools/ctr-native) | PS1 | 435 | 4 | 2026-10-06 | — | A Crash Team Racing Decompilation Project |
 | [Supaplex (OpenSupaplex)](https://github.com/sergiou87/open-supaplex) | DOS | 313 | 4 | 2026-10-23 | ✅ | Reverse engineering Supaplex |
-| [Mario Kart 64 (mario-kart-64-3ds)](https://github.com/EstebanPdN/mario-kart-64-3ds) | N64 | 254 | 4 | 2026-11-05 | ✅ | Native Nintendo 3DS port work based on the Mario Kart 64 decompilation. |
+| [Mario Kart 64 (mario-kart-64-3ds)](https://github.com/EstebanPdN/mario-kart-64-3ds) | N64 | 255 | 4 | 2026-11-05 | ✅ | Native Nintendo 3DS port work based on the Mario Kart 64 decompilation. |
 | [RuneScape (2006scape)](https://github.com/2006-Scape/2006Scape) | PC | 247 | 4 | 2026-11-04 | ✅ | A 2006 Runescape Emulation Server |
-| [SimCity 2000 (sc2kfix)](https://github.com/sc2kfix/sc2kfix) | DOS | 226 | 4 | 2026-10-16 | ✅ | Bugfix and modding plugin for SimCity 2000 Special Edition (1996) |
+| [SimCity 2000 (sc2kfix)](https://github.com/sc2kfix/sc2kfix) | DOS | 229 | 4 | 2026-10-16 | ✅ | Bugfix and modding plugin for SimCity 2000 Special Edition (1996) |
 | [Duck Game](https://github.com/TheFlyingFoool/DuckGameRebuilt) | PC | 204 | 4 | 2026-11-01 | ✅ | Duck Game decompiled & rebuilt with some added features, |
-| [Resident Evil 4](https://github.com/adonis-singh/re4) | GameCube | 372 | 3.9 | 2026-10-02 | — | Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++ |
+| [Resident Evil 4](https://github.com/adonis-singh/re4) | GameCube | 373 | 3.9 | 2026-10-02 | — | Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++ |
 | [Pokemon Emerald](https://github.com/pret/pokeemerald) | GBA | 3.7k | 3.85 | 2026-10-01 | — | Decompilation of Pokémon Emerald |
 | [The Legend of Zelda: Breath of the Wild](https://github.com/zeldaret/botw) | Switch | 2.4k | 3.85 | 2026-11-04 | — | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) |
 | [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm) | N64 | 1.8k | 3.85 | 2026-11-04 | — | Decompilation of The Legend of Zelda: Majora's Mask |
@@ -57,30 +57,30 @@
 | [Mario Kart 64](https://github.com/n64decomp/mk64) | N64 | 1.3k | 3.85 | 2026-08-12 | — | A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver. |
 | [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) | GameCube | 1.2k | 3.85 | 2026-10-30 | — | Decompilation of The Legend of Zelda: The Wind Waker |
 | [Pokemon Ruby](https://github.com/pret/pokeruby) | GBA | 1.0k | 3.85 | 2026-09-29 | — | Decompilation of Pokémon Ruby/Sapphire |
-| [Fallout (Fallout Community Edition)](https://github.com/alexbatalov/fallout1-ce) | DOS | 3.0k | 3.8 | 2025-01-15 | ✅ | Fallout for modern operating systems |
 | [Touhou PC-98](https://github.com/nmlgc/ReC98) | DOS | 884 | 3.8 | 2026-03-16 | ✅ | The Touhou PC-98 Restoration Project |
-| [Silent Hill (SilentHillNativePCPort)](https://github.com/SlickAmogus/silent-hill-decomp) | PS1 | 824 | 3.8 | 2026-11-06 | ✅ | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active develop… |
-| [Dragon Ball Z: Budokai Tenkaichi 3 (Tenkaichi3Decomp)](https://github.com/z3xox/Tenkaichi3Decomp) | PS2 | 709 | 3.8 | 2026-11-03 | ✅ | PC port of Dragon Ball Z: Budokai Tenkaichi 3, built on the BT3-Decompiled project. |
-| [Super Mario Galaxy (Nebula)](https://github.com/keepvaibin/nebula) | Wii | 550 | 3.8 | 2026-11-06 | ✅ | A decompiled PC Port of Super Mario Galaxy, intended to work on Windows, Linux, MacOS, Android, and iOS/iPadOS. |
-| [Super Smash Bros. (BattleShip)](https://github.com/JRickey/BattleShip) | N64 | 532 | 3.8 | 2026-11-05 | ✅ | A smashin' port for PC, Mac, and Linux! |
-| [The Legend of Zelda: The Minish Cap (Project Picori)](https://github.com/999sian/tmc) | GBA | 521 | 3.8 | 2026-10-20 | ✅ | Project Picori — a native PC port of The Legend of Zelda: The Minish Cap (Linux/Windows/macOS), built on the zeldaret/tmc decompilation. |
+| [Silent Hill (SilentHillNativePCPort)](https://github.com/SlickAmogus/silent-hill-decomp) | PS1 | 827 | 3.8 | 2026-11-07 | ✅ | Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active develop… |
+| [Dragon Ball Z: Budokai Tenkaichi 3 (Tenkaichi3Decomp)](https://github.com/z3xox/Tenkaichi3Decomp) | PS2 | 713 | 3.8 | 2026-11-03 | ✅ | PC port of Dragon Ball Z: Budokai Tenkaichi 3, built on the BT3-Decompiled project. |
+| [Super Mario Galaxy (Nebula)](https://github.com/keepvaibin/nebula) | Wii | 556 | 3.8 | 2026-11-07 | ✅ | A decompiled PC Port of Super Mario Galaxy, intended to work on Windows, Linux, MacOS, Android, and iOS/iPadOS. |
+| [Super Smash Bros. (BattleShip)](https://github.com/JRickey/BattleShip) | N64 | 536 | 3.8 | 2026-11-06 | ✅ | A smashin' port for PC, Mac, and Linux! |
+| [The Legend of Zelda: The Minish Cap (Project Picori)](https://github.com/999sian/tmc) | GBA | 525 | 3.8 | 2026-10-20 | ✅ | Project Picori — a native PC port of The Legend of Zelda: The Minish Cap (Linux/Windows/macOS), built on the zeldaret/tmc decompilation. |
+| [ShadPS4 QT Launcher](https://github.com/shadps4-emu/shadps4-qtlauncher) | PS4 | 521 | 3.8 | 2026-11-06 | — | The official Qt launcher for shadps4 emulator |
 | [Crash Team Racing](https://github.com/CTR-tools/CTR-ModSDK) | PS1 | 456 | 3.8 | 2026-07-05 | ✅ | ModSDK - a modding toolkit to create mods for Crash Team Racing in C. This repository also houses an effort to fully decompile and reverse-engineer C… |
-| [F-Zero X (G-Diffuser)](https://github.com/Zorkats/G-Diffuser) | N64 | 319 | 3.8 | 2026-11-05 | ✅ | Unofficial PC Port of F-Zero X based on the decompilation of inspectredc. |
-| [Namco 2x Systems (Namco 22 Decompile)](https://github.com/spacestate1/namco22-decompile) | Arcade | 277 | 3.8 | 2026-11-06 | ✅ | A  decompilation of Namco system 22 |
-| [Metroid Prime 2: Echoes (Echoes Unbound)](https://github.com/Odrannnn/MetroidPrime2Port) | GameCube | 246 | 3.8 | 2026-11-06 | ✅ | Native port of Metroid Prime 2: Echoes (GameCube) for Linux and Android, built from the PrimeDecomp decompilation. No emulator, no game assets includ… |
-| [Counter-Strike (bunnyhop.lol)](https://github.com/FWGS/cs16-client) | PC | 490 | 3.75 | 2026-11-05 | — | Counter-Strike reverse-engineered. |
+| [F-Zero X (G-Diffuser)](https://github.com/Zorkats/G-Diffuser) | N64 | 321 | 3.8 | 2026-11-05 | ✅ | Unofficial PC Port of F-Zero X based on the decompilation of inspectredc. |
+| [Namco 2x Systems (Namco 22 Decompile)](https://github.com/spacestate1/namco22-decompile) | Arcade | 278 | 3.8 | 2026-11-06 | ✅ | A  decompilation of Namco system 22 |
+| [Metroid Prime 2: Echoes (Echoes Unbound)](https://github.com/Odrannnn/MetroidPrime2Port) | GameCube | 251 | 3.8 | 2026-11-06 | ✅ | Native port of Metroid Prime 2: Echoes (GameCube) for Linux and Android, built from the PrimeDecomp decompilation. No emulator, no game assets includ… |
+| [Counter-Strike (bunnyhop.lol)](https://github.com/FWGS/cs16-client) | PC | 487 | 3.75 | 2026-11-05 | — | Counter-Strike reverse-engineered. |
 | [Super Smash Bros.](https://github.com/VetriTheRetri/ssb-decomp-re) | N64 | 272 | 3.75 | 2026-10-20 | — | A smashin' decompilation of the original Super Smash Bros. for the Nintendo 64. |
-| [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) | PC | 249 | 3.75 | 2026-10-10 | ✅ | WIP 1:1 Decompilation of multiple versions of NFS:MW |
+| [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) | PC | 251 | 3.75 | 2026-10-10 | ✅ | WIP 1:1 Decompilation of multiple versions of NFS:MW |
 | [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) | N64 | 224 | 3.75 | 2026-10-14 | ✅ | Harvest Moon 64 Decompilation |
 | [Super Mario Galaxy (GalaxyQuest (Meta Quest 3 VR))](https://github.com/bigmak94/GalaxyQuest) | Wii | 128 | 3.7 | 2026-10-19 | ✅ | GalaxyQuest: Super Mario Galaxy in VR on Meta Quest 3, a native port built on the Petari decompilation. Bring your own game files. 100% made by AI (C… |
 | [Super Smash Bros. Melee](https://github.com/doldecomp/melee) | GameCube | 2.5k | 3.65 | 2026-11-05 | — | A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks. |
 | [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) | GameCube | 2.1k | 3.65 | 2026-06-23 | — | Decompilation of The Legend of Zelda: Twilight Princess |
 | [3D Pinball Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball) | PC | 4.8k | 3.6 | 2024-08-21 | ✅ | Decompilation of 3D Pinball for Windows – Space Cadet |
-| [GoldenEye 007 (Project Midas)](https://github.com/murkantor/Project-Midas) | N64 | 398 | 3.55 | 2026-10-23 | ✅ | PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op,… |
-| [Sly Cooper and the Thievius Raccoonus (ProjectCane)](https://github.com/theclub654/ProjectCane) | PS2 | 365 | 3.55 | 2026-10-22 | ✅ | A playable PC port of Sly Cooper and the Thievius Raccoonus, rebuilt through reverse engineering. |
+| [GoldenEye 007 (Project Midas)](https://github.com/murkantor/Project-Midas) | N64 | 403 | 3.55 | 2026-10-23 | ✅ | PC port of GE for Windows and Linux, built from the N64 decompilation. Widescreen, mouse look, modern controller support and in-game settings. Co-op,… |
+| [Sly Cooper and the Thievius Raccoonus (ProjectCane)](https://github.com/theclub654/ProjectCane) | PS2 | 369 | 3.55 | 2026-10-22 | ✅ | A playable PC port of Sly Cooper and the Thievius Raccoonus, rebuilt through reverse engineering. |
 | [PSCoverDL](https://github.com/xlenore/pscoverdl) | PS1 | 306 | 3.55 | 2026-03-24 | ✅ | Small tool to download PS1/PS2 covers for DuckStation and PCSX2 |
 | [Resident Evil (resident-evil-pc-decomp)](https://github.com/ecruells/resident-evil-pc-decomp) | PS1 | 190 | 3.45 | 2026-11-04 | ✅ | Resident Evil 1 PC Port Decomp |
-| [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | — | 159 | 3.45 | 2026-11-06 | ✅ | Open source port of Test Drive Unlimited (2006) |
+| [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | — | 161 | 3.45 | 2026-11-06 | ✅ | Open source port of Test Drive Unlimited (2006) |
 | [Neverwinter Nights: Enhanced Edition (NWNX:EE unified)](https://github.com/nwnxee/unified) | PC | 151 | 3.45 | 2026-10-28 | ✅ | Neverwinter Nights: Enhanced Edition eXtender |
 | [Pokémon Emerald (pokeemerald-rogue)](https://github.com/Pokabbie/pokeemerald-rogue) | GBA | 148 | 3.45 | 2026-09-08 | ✅ | Decompilation of Pokémon Emerald |
 | [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | 142 | 3.45 | 2026-10-09 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
@@ -90,49 +90,49 @@
 | [Medieval II: Total War (M2TWEOP)](https://github.com/EOP-Labs/M2TWEOP-library) | PC | 101 | 3.45 | 2026-10-19 | ✅ | The M2TW Engine Overhaul Project (M2TWEOP) is designed to expand the capabilities of the strategy game Medieval 2: Total War. EOP uses C++ and Assemb… |
 | [Space Rangers HD: A War Apart (SpaceRangersHD_FPC)](https://github.com/pakompom/SpaceRangersHD_FPC) | PC | 98 | 3.45 | 2026-10-15 | ✅ | A cross-platform port of Space Rangers HD: A War Apart based on the decompilation. |
 | [Time Crisis (Time Crisis VR)](https://github.com/DR-89/time-crisis-vr) | Arcade | 87 | 3.45 | 2026-10-20 | ✅ | Experimental standalone Time Crisis VR port for Meta Quest 3, based on spacestate1/namco22-decompile. OpenXR, tracked pistol, physical ducking and 12… |
+| [Star Wars Episode 1: Racer](https://github.com/tim-tim707/SW_RACER_RE) | PC | 86 | 3.45 | 2026-11-05 | ✅ | Star Wars Episode 1 Racer Decompilation project |
 | [Stronghold Crusader (Unofficial Crusader Patch)](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch) | PC | 86 | 3.45 | 2026-09-11 | ✅ | Unofficial patch for Stronghold Crusader 1 |
-| [Star Wars Episode 1: Racer](https://github.com/tim-tim707/SW_RACER_RE) | PC | 85 | 3.45 | 2026-11-05 | ✅ | Star Wars Episode 1 Racer Decompilation project |
 | [Parasite Eve II (parasite-eve-2-decomp)](https://github.com/GabeRealB/parasite-eve-2-decomp) | PS1 | 77 | 3.45 | 2026-10-27 | — | Completed decompilation of the US release of Parasite Eve 2 on the Playstation 1. |
 | [Lego Star Wars: The Complete Saga](https://github.com/opensagadev/saga) | Xbox 360 | 76 | 3.45 | 2026-10-31 | — | A matching decompilation of LEGO® Star Wars: The Complete Saga |
-| [Silent Hill 2 (sh23ds)](https://github.com/ankushKun/sh23ds) | PS2 | 73 | 3.45 | 2026-11-04 | ✅ | Silent Hill 2 for Nintendo 3DS: a native homebrew port of the PC Director's Cut for the New 3DS and original 3DS, with the Enhanced Edition's fixes.… |
+| [Silent Hill 2 (sh23ds)](https://github.com/ankushKun/sh23ds) | PS2 | 76 | 3.45 | 2026-11-04 | ✅ | Silent Hill 2 for Nintendo 3DS: a native homebrew port of the PC Director's Cut for the New 3DS and original 3DS, with the Enhanced Edition's fixes.… |
 | [Digger (Digger Remastered (sobomax fork))](https://github.com/sobomax/digger) | DOS | 59 | 3.45 | 2026-10-14 | ✅ | Classical game of Digger, digitally remastered and enhanced |
 | [Pokémon Mystery Dungeon: Explorers of Sky (pmdsky-debug (symbol database))](https://github.com/UsernameFodder/pmdsky-debug) | DS | 55 | 3.45 | 2026-11-05 | ✅ | Debug info for reverse engineering PMD: Explorers of Sky |
-| [ICO (ico (nathanialf))](https://github.com/nathanialf/ico) | PS2 | 51 | 3.45 | 2026-10-30 | ✅ | Decompilation of ICO (PS2) |
+| [ICO (ico (nathanialf))](https://github.com/nathanialf/ico) | PS2 | 52 | 3.45 | 2026-10-30 | ✅ | Decompilation of ICO (PS2) |
 | [Street Fighter III: 3rd Strike (sfIII3-cps3-decomp)](https://github.com/gibletto/sfIII3-cps3-decomp) | Arcade | 43 | 3.45 | 2026-11-02 | — | 100% Byte-matched decomp of the CPS3 game Street Fighter III: 3rd Strike |
 | [Master of Magic (ReMoM)](https://github.com/jbalcomb/ReMoM) | DOS | 35 | 3.45 | 2026-10-31 | ✅ | Re-assembly of Master of Magic v1.31 - SimTex Universe (STU) |
-| [Animal Crossing (OpenCrossing-Xbox)](https://github.com/TechProGabe/OpenCrossing-Xbox) | GameCube | 33 | 3.45 | 2026-10-30 | ✅ | Native original Xbox port of Animal Crossing (GameCube decomp) |
+| [Animal Crossing (OpenCrossing-Xbox)](https://github.com/TechProGabe/OpenCrossing-Xbox) | GameCube | 34 | 3.45 | 2026-10-30 | ✅ | Native original Xbox port of Animal Crossing (GameCube decomp) |
+| [Digimon World 2 (Digimon World 2 decompilation)](https://github.com/Wyrelade/DW2-PC) | PS1 | 33 | 3.45 | 2026-10-15 | ✅ | PC port of Digimon World 2 (PS1) built from the matching decomp. Needs your own disc image. |
 | [Super Mario Strikers (Quest 3 Strikers)](https://github.com/LanceSweatpants/Strikers-Quest-MR) | GameCube | 33 | 3.45 | 2026-11-05 | ✅ | Super Mario Strikers running natively on Meta Quest 3 as mixed reality: a hologram pitch on your table, big screen, stadium VR, and online 1v1 with r… |
-| [Digimon World 2 (Digimon World 2 decompilation)](https://github.com/Wyrelade/DW2-PC) | PS1 | 32 | 3.45 | 2026-10-15 | ✅ | PC port of Digimon World 2 (PS1) built from the matching decomp. Needs your own disc image. |
 | [3D Maze](https://github.com/x86matthew/Playable3DMaze) | PC | 215 | 3.35 | 2025-02-17 | ✅ | A playable version of Microsoft's old 3DMaze screensaver from Windows 9x |
-| [Diddy Kong Racing (Golden Balloon)](https://github.com/akratch/goldenballoon) | N64 | 192 | 3.25 | 2026-10-13 | ✅ | Golden Balloon — a native + browser port of the 1997 Nintendo 64 kart racer, built from the decompilation. Bring your own ROM. |
-| [RMG-K](https://github.com/Jay-Day/RMG-K) | N64 | 183 | 3.25 | 2026-11-04 | ✅ | Rosalie's Mupen GUI with Kaillera and GekkoNet Rollback implementation |
-| [Downhill Domination](https://github.com/skuza-oss/downhill-revived) | PS2 | 167 | 3.25 | 2026-11-05 | ✅ | A PC port of Downhill Domination (PS2), built on a matching decompilation. Bring your own disc. |
-| [Rage Racer (Rage Racer PC)](https://github.com/khasinski/rage-racer-pc) | PS1 | 136 | 3.25 | 2026-10-30 | ✅ | Native PC port of Rage Racer |
-| [Ratchet & Clank (OpenRAC)](https://github.com/OpenRAC/OpenRAC) | PS2 | 132 | 3.25 | 2026-11-06 | ✅ | A matching decompilation and PC port for the Ratchet & Clank series |
-| [Star Fox [Enhanced]](https://github.com/kandowontu2/starfox-enhanced) | SNES | 132 | 3.25 | 2026-11-01 | ✅ | Star Fox Enhanced source and portable platform builds (Assisted by Codex AI) |
-| [Colin McRae Rally 2.0 (OpenCMR2)](https://github.com/pablocpas/OpenCMR2) | PC | 122 | 3.25 | 2026-11-05 | ✅ | Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included. |
-| [Crash Twinsanity (Crash Twinsanity for Windows)](https://github.com/GioPixelGH/Crash-Twinsanity-Windows) | PS2 | 108 | 3.25 | 2026-11-01 | ✅ | Crash Twinsanity (PS2, PAL) running natively on Windows, played through to the credits: a Windows port of HAB3X's Mac port of Smartkin's C++ decompil… |
-| [The Temple of Elemental Evil (TemplePlus)](https://github.com/GrognardsFromHell/TemplePlus) | PC | 107 | 3.25 | 2026-02-23 | ✅ | ToEE hooks, extensions and fixes |
-| [Monster Hunter 4 Ultimate (MH4UltimateDC)](https://github.com/CompaLarios18/MH4UltimateDC) | 3DS | 106 | 3.25 | 2026-11-03 | ✅ | Monster hunter 4 u decomp |
-| [The Legend of Zelda: Oracle of Ages / Oracle of Seasons (Oracles Decomp)](https://github.com/kirby-letsgo/oracles-decomp) | Game Boy Color | 106 | 3.25 | 2026-11-02 | ✅ | Native app for the GBC zelda oracle games |
+| [Diddy Kong Racing (Golden Balloon)](https://github.com/akratch/goldenballoon) | N64 | 194 | 3.25 | 2026-10-13 | ✅ | Golden Balloon — a native + browser port of the 1997 Nintendo 64 kart racer, built from the decompilation. Bring your own ROM. |
+| [RMG-K](https://github.com/Jay-Day/RMG-K) | N64 | 183 | 3.25 | 2026-11-06 | ✅ | Rosalie's Mupen GUI with Kaillera and GekkoNet Rollback implementation |
+| [Downhill Domination (Downhill Revived)](https://github.com/skuza-oss/downhill-revived) | PS2 | 182 | 3.25 | 2026-11-06 | ✅ | A PC port of Downhill Domination (PS2), built on a matching decompilation. Bring your own disc. |
+| [Ratchet & Clank (OpenRAC)](https://github.com/OpenRAC/OpenRAC) | PS2 | 159 | 3.25 | 2026-11-07 | ✅ | A matching decompilation and PC port for the Ratchet & Clank series |
+| [Rage Racer (Rage Racer PC)](https://github.com/khasinski/rage-racer-pc) | PS1 | 137 | 3.25 | 2026-10-30 | ✅ | Native PC port of Rage Racer |
+| [Star Fox [Enhanced]](https://github.com/kandowontu2/starfox-enhanced) | SNES | 133 | 3.25 | 2026-11-01 | ✅ | Star Fox Enhanced source and portable platform builds (Assisted by Codex AI) |
+| [Colin McRae Rally 2.0 (OpenCMR2)](https://github.com/pablocpas/OpenCMR2) | PC | 124 | 3.25 | 2026-11-07 | ✅ | Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included. |
+| [Crash Twinsanity (Crash Twinsanity for Windows)](https://github.com/GioPixelGH/Crash-Twinsanity-Windows) | PS2 | 111 | 3.25 | 2026-11-01 | ✅ | Crash Twinsanity (PS2, PAL) running natively on Windows, played through to the credits: a Windows port of HAB3X's Mac port of Smartkin's C++ decompil… |
+| [Monster Hunter 4 Ultimate (MH4UltimateDC)](https://github.com/CompaLarios18/MH4UltimateDC) | 3DS | 110 | 3.25 | 2026-11-03 | ✅ | Monster hunter 4 u decomp |
+| [Temple of Elemental Evil (Temple Plus)](https://github.com/GrognardsFromHell/TemplePlus) | PC | 108 | 3.25 | 2026-02-23 | ✅ | ToEE hooks, extensions and fixes |
+| [The Legend of Zelda: Oracle of Ages / Oracle of Seasons (Oracles Decomp)](https://github.com/kirby-letsgo/oracles-decomp) | Game Boy Color | 108 | 3.25 | 2026-11-02 | ✅ | Native app for the GBC zelda oracle games |
 | [Silent Hill (silent-hill-pc-nightly)](https://github.com/SlickAmogus/silent-hill-pc-nightly) | PS1 | 104 | 3.25 | 2026-05-18 | ✅ | Nightly builds of the AI-Assisted Silent Hill 1 PC port based on the PSX decompilation project. |
-| [Ratchet & Clank (rac1-native)](https://github.com/RAC-Native/rac1-native-game) | PS2 | 94 | 3.25 | 2026-11-04 | ✅ | Ratchet And Clank 1 (PS2) Native Port |
-| [Kingdom Hearts: Chain of Memories (ReKHCoM)](https://github.com/MatyMeatBoy/ReKHCoM) | GBA | 83 | 3.25 | 2026-11-05 | ✅ | Kingdom Hearts: Chain of Memories for PC and browser (Web Alpha). Widescreen and ultrawide, EU/US/JP cartridges, HD text and optional touch controls. |
+| [Ratchet & Clank (rac1-native)](https://github.com/RAC-Native/rac1-native-game) | PS2 | 96 | 3.25 | 2026-11-04 | ✅ | Ratchet And Clank 1 (PS2) Native Port |
+| [Kingdom Hearts: Chain of Memories (ReKHCoM)](https://github.com/MatyMeatBoy/ReKHCoM) | GBA | 85 | 3.25 | 2026-11-07 | ✅ | Kingdom Hearts: Chain of Memories for PC and browser (Web Alpha). Widescreen and ultrawide, EU/US/JP cartridges, HD text and optional touch controls. |
 | [Chrono Cross](https://github.com/jdperos/chrono-cross-decomp) | PS1 | 82 | 3.25 | 2026-04-14 | — | A 100% matching Chrono Cross decompilation, based on the Radical Dreamers version |
+| [Parasite Eve (parasite-eve-pc)](https://github.com/khasinski/parasite-eve-pc) | PS1 | 71 | 3.25 | 2026-11-07 | ✅ | Native PC port of Parasite Eve (PS1), built on the matching decompilation and PsyZ |
 | [The Legend of Zelda: Twilight Princess (dusklight (HayatoG Switch fork))](https://github.com/HayatoG/dusklight) | GameCube | 71 | 3.25 | 2026-07-03 | ✅ | Dusklight Switch port — Twilight Princess decomp on Tegra X1 via NVK/Vulkan. Private fork tracking work-in-progress. |
-| [Parasite Eve (parasite-eve-pc)](https://github.com/khasinski/parasite-eve-pc) | PS1 | 69 | 3.25 | 2026-11-06 | ✅ | Native PC port of Parasite Eve (PS1), built on the matching decompilation and PsyZ |
 | [Tony Hawk's Pro Skater (Tony Was A Pro Skater)](https://github.com/LANCommander/TonyWasAProSkater) | PS1 | 50 | 3.25 | 2026-10-24 | ✅ | Tony Was A Pro Skater is a native Windows and Linux port of Tony Hawk's Pro Skater with widescreen and high resolutions. |
 | [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Amiga | 46 | 3.25 | 2026-06-01 | ✅ | Stunt Car Racer for the Amiga, Framerate Unleashed |
-| [Pilotwings 64 (Birdman64)](https://github.com/NoahVl/Birdman64) | N64 | 42 | 3.25 | 2026-10-25 | ✅ | Pilotwings 64 as a native PC game for Windows and Linux: widescreen, 144+ FPS, gamepads. Bring your own ROM, no emulator. |
+| [Pilotwings 64 (Birdman64)](https://github.com/NoahVl/Birdman64) | N64 | 45 | 3.25 | 2026-10-25 | ✅ | Pilotwings 64 as a native PC game for Windows and Linux: widescreen, 144+ FPS, gamepads, multiplayer! Bring your own ROM, no emulator. |
 | [Sonic R (Sonic R Android)](https://github.com/ZinexDa/sonic-r-android) | PC | 33 | 3.25 | 2026-10-20 | ✅ | Native Android port of the Sonic R PC decompilation (jnmartin84). Features a custom GLES2 shader pipeline, 60 FPS, customizable touch controls, and S… |
 | [Pizza Tower (Pizza-Tower-EXtracted)](https://github.com/setupwitch/Pizza-Tower-EXtracted) | PC | 27 | 3.25 | 2026-09-20 | ✅ | A semi-accurate decompilation of Pizza Tower |
-| [Boss Rally](https://github.com/jeff-strutb/brally) | PC | 22 | 3.25 | 2026-11-05 | ✅ | A decompilation project of the Boss Rally / Top Gear Rally video game. |
+| [Boss Rally](https://github.com/jeff-strutb/brally) | PC | 23 | 3.25 | 2026-11-05 | ✅ | A decompilation project of the Boss Rally / Top Gear Rally video game. |
 | [Kingdom Hearts 358/2 Days (khdays-vita)](https://github.com/ggdrn/KH-DAYS-VITA) | DS | 20 | 3.25 | 2026-10-21 | ✅ | Port of Decompilation of Kingdom Hearts: 358/2 Days to PS VITA |
 | [Way of the Samurai 2 (decomp_wots2)](https://github.com/acklavidian/decomp_wots2) | PS2 | 20 | 3.25 | 2026-10-16 | ✅ | Way of the Samurai 2 (PS2) — native Linux decompilation port |
-| [Kingdom Hearts Re:coded (kh-recoded-decomp)](https://github.com/kh-recoded-decomp/kh-recoded-decomp) | DS | 18 | 3.25 | 2026-11-06 | — | Kingdom Hearts Re:coded matching decompilation (US/EU). EU: 90.82% C / 100% DATA. |
+| [Kingdom Hearts Re:coded (kh-recoded-decomp)](https://github.com/kh-recoded-decomp/kh-recoded-decomp) | DS | 18 | 3.25 | 2026-11-06 | — | Kingdom Hearts Re:coded matching decompilation (US/EU). EU: 100% C / 100% DATA. |
 | [Kingdom Hearts: Chain of Memories (KH_COM_VITA)](https://github.com/ggdrn/KH_COM_VITA) | GBA | 17 | 3.25 | 2026-10-17 | — | Kingdom Hearts: Chain of Memories decomp port to vita |
 | [Call of Duty: United Offensive (Multiplayer)](https://github.com/opencoduo/coduomp) | — | 16 | 3.25 | 2026-11-02 | ✅ |  |
-| [Super Metroid (SuperMetroidDecomp)](https://github.com/MrJackSpade/SuperMetroidDecomp) | SNES | 13 | 3.25 | 2026-11-06 | ✅ |  |
+| [Super Metroid (SuperMetroidDecomp)](https://github.com/MrJackSpade/SuperMetroidDecomp) | SNES | 13 | 3.25 | 2026-11-07 | ✅ |  |
 | [BattleTanx](https://github.com/TheGh0stShip/BattleTanx) | N64 | 10 | 3.25 | 2026-10-30 | — | 100% matching decompilation of BattleTanx (N64, USA Rev 0) — byte-exact code and data with complete asset accounting |
 | [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault) | N64 | 8 | 3.25 | 2026-10-30 | — | 100% matching decompilation of BattleTanx: Global Assault (N64, USA Rev 0) — foundation for VitaTanxGA |
 | [BattleTanx: Global Assault (PS1)](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PS1) | PS1 | 6 | 3.25 | 2026-10-21 | — | 100% matching decompilation of BattleTanx: Global Assault for PlayStation (SLUS-01044) |
@@ -140,60 +140,59 @@
 | [Prince of Persia 2: The Shadow and the Flame](https://github.com/ToolAssisted-run/SDLPoP2) | DOS | 3 | 3.25 | 2026-11-03 | ✅ | An unofficial source reconstruction of Prince of Persia 2 (DOS 1.0), in the spirit of SDLPoP |
 | [Goemon’s Great Adventure](https://github.com/PandaPandel/Goemons-Great-Adventure-Decomp) | N64 | 1 | 3.25 | 2026-10-26 | — | A complete matching decompilation of Goemon's Great Adventure (N64, USA), known in Europe as Mystical Ninja 2 Starring Goemon: C source that rebuilds… |
 | [Sword of the Samurai](https://github.com/ToolAssisted-run/OpenSamurai) | DOS | 1 | 3.25 | 2026-10-03 | ✅ | An unofficial source reconstruction of Sword of the Samurai (MicroProse, DOS 1989), in the spirit of SDLPoP2 |
-| [Silent Hill](https://github.com/shdecompilations/silent-hill-decomp) | PS1 | 964 | 3.05 | 2026-11-05 | — | An in-progress decompilation of Silent Hill on the PlayStation 1. |
+| [Silent Hill](https://github.com/shdecompilations/silent-hill-decomp) | PS1 | 965 | 3.05 | 2026-11-06 | — | An in-progress decompilation of Silent Hill on the PlayStation 1. |
 | [The Legend of Zelda: The Minish Cap](https://github.com/zeldaret/tmc) | GBA | 937 | 3.05 | 2026-09-27 | — | Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU) |
 | [Metal Gear Solid 1](https://github.com/FoxdieTeam/mgs_reversing) | PS1 | 828 | 3.05 | 2026-11-05 | — | Metal Gear Solid PSX reimpl repo |
 | [GoldenEye 007 (007 decomp)](https://github.com/n64decomp/007) | N64 | 814 | 3.05 | 2026-08-17 | — | A decompilation of Goldeneye 007 brought to you by a bunch of clever folks. (MIRROR of https://gitlab.com/kholdfuzion/goldeneye_src) |
-| [Pokemon HeartGold](https://github.com/pret/pokeheartgold) | DS | 757 | 3.05 | 2026-11-01 | — | Decompilation of Pokemon HeartGold/SoulSilver |
+| [Pokemon HeartGold](https://github.com/pret/pokeheartgold) | DS | 758 | 3.05 | 2026-11-01 | — | Decompilation of Pokemon HeartGold/SoulSilver |
 | [Banjo-Kazooie (banjo-kazooie (banjo.decomp))](https://github.com/n64decomp/banjo-kazooie) | N64 | 658 | 3.05 | 2026-09-28 | — | A decompilation of Banjo Kazooie. (MIRROR of https://gitlab.com/banjo.decomp/banjo-kazooie) |
-| [Touhou 6: The Embodiment of Scarlet Devil (th06)](https://github.com/GensokyoClub/th06) | PC | 629 | 3.05 | 2026-11-05 | — | Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h) |
-| [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) | Switch | 626 | 3.05 | 2026-10-03 | — | 11.217% - Decompilation of Minecraft: Legacy Console Edition |
-| [Pokemon Platinum](https://github.com/pret/pokeplatinum) | DS | 602 | 3.05 | 2026-11-04 | — | Decompilation of Pokémon Platinum |
-| [Pokemon Diamond](https://github.com/pret/pokediamond) | DS | 548 | 3.05 | 2026-10-11 | — | Decompilation of Pokémon Diamond/Pearl |
-| [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) | Switch | 504 | 3.05 | 2026-09-29 | — | Decompilation of Super Mario Odyssey for all versions. |
+| [Touhou 6: The Embodiment of Scarlet Devil (th06)](https://github.com/GensokyoClub/th06) | PC | 630 | 3.05 | 2026-11-07 | — | Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h) |
+| [Minecraft: Nintendo Switch Edition](https://github.com/GRAnimated/MinecraftLCE) | Switch | 628 | 3.05 | 2026-10-03 | — | 11.217% - Decompilation of Minecraft: Legacy Console Edition |
+| [Pokemon Platinum](https://github.com/pret/pokeplatinum) | DS | 603 | 3.05 | 2026-11-07 | — | Decompilation of Pokémon Platinum |
+| [Pokemon Diamond](https://github.com/pret/pokediamond) | DS | 549 | 3.05 | 2026-10-11 | — | Decompilation of Pokémon Diamond/Pearl |
+| [Super Mario Odyssey](https://github.com/MonsterDruide1/OdysseyDecomp) | Switch | 505 | 3.05 | 2026-09-29 | — | Decompilation of Super Mario Odyssey for all versions. |
 | [Elite (elite-source-code-commodore-64 (Mark Moxon))](https://github.com/markmoxon/elite-source-code-commodore-64) | BBC Micro/Acorn | 477 | 3.05 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Commodore 64 |
-| [Grand Theft Auto: Vice City (reVC (mrxenginner mirror))](https://github.com/mrxenginner/reVC) | PS2 | 465 | 3.05 | 2026-10-02 | — | Reverse engineering the classic GTA Vice City game |
+| [Grand Theft Auto: Vice City (reVC (mrxenginner mirror))](https://github.com/mrxenginner/reVC) | PS2 | 466 | 3.05 | 2026-10-02 | — | Reverse engineering the classic GTA Vice City game |
 | [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) | N64 | 424 | 3.05 | 2026-10-01 | — |  |
 | [Elite (elite-source-code-nes)](https://github.com/markmoxon/elite-source-code-nes) | BBC Micro/Acorn | 413 | 3.05 | 2026-10-01 | — | Fully documented source code for the classic game Elite on the Nintendo Entertainment System (NES) |
-| [Pikmin 2](https://github.com/projectPiki/pikmin2) | GameCube | 392 | 3.05 | 2026-10-20 | — | A decompilation of Pikmin 2 (USA) brought to you by fans of the series. |
-| [Super Mario Sunshine](https://github.com/doldecomp/sms) | GameCube | 382 | 3.05 | 2026-11-05 | — | A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks. |
+| [Pikmin 2](https://github.com/projectPiki/pikmin2) | GameCube | 393 | 3.05 | 2026-10-20 | — | A decompilation of Pikmin 2 (USA) brought to you by fans of the series. |
+| [Super Mario Sunshine](https://github.com/doldecomp/sms) | GameCube | 384 | 3.05 | 2026-11-06 | — | A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks. |
 | [Star Fox 64](https://github.com/sonicdcer/sf64) | N64 | 355 | 3.05 | 2026-09-28 | — | Decompilation of Starfox 64 |
 | [Tomb Raider: The Last Revelation (TombEngine (TEN))](https://github.com/TombEngine/TombEngine) | PC | 349 | 3.05 | 2026-10-31 | — | A new and modern engine for custom Tomb Raider levels incorporating classic features and new enhancements. |
-| [Pikmin 1](https://github.com/projectPiki/pikmin) | GameCube | 331 | 3.05 | 2026-10-06 | — | A decompilation of Pikmin brought to you by fans of the series. |
+| [Call of Duty: Black Ops (bo1-zombies-decompiled)](https://github.com/MisaDev4/bo1-zombies-decompiled) | Xbox 360 | 333 | 3.05 | 2026-10-04 | — | bo1 zombies decompiled |
+| [Pikmin 1](https://github.com/projectPiki/pikmin) | GameCube | 332 | 3.05 | 2026-10-06 | — | A decompilation of Pikmin brought to you by fans of the series. |
 | [Deus Ex: Human Revolution](https://github.com/rrika/cdcEngineDXHR) | PC | 329 | 3.05 | 2026-10-28 | — | Decompilation of Deus Ex: Human Revolution |
-| [Call of Duty: Black Ops (bo1-zombies-decompiled)](https://github.com/MisaDev4/bo1-zombies-decompiled) | Xbox 360 | 328 | 3.05 | 2026-10-04 | — | bo1 zombies decompiled |
 | [Animal Forest](https://github.com/zeldaret/af) | N64 | 303 | 3.05 | 2026-08-16 | — | Decompilation of Animal Forest |
 | [Pokemon MD Red](https://github.com/pret/pmd-red) | GBA | 297 | 3.05 | 2026-10-16 | — | Decompilation of Pokémon Mystery Dungeon: Red Rescue Team |
-| [Sly Cooper and the Thievius Raccoonus](https://github.com/TheOnlyZac/sly1) | PS2 | 285 | 3.05 | 2026-10-26 | — | Decompilation of Sly Cooper and the Thievius Raccoonus for PS2 |
+| [Sly Cooper and the Thievius Raccoonus](https://github.com/TheOnlyZac/sly1) | PS2 | 286 | 3.05 | 2026-10-26 | — | Decompilation of Sly Cooper and the Thievius Raccoonus for PS2 |
 | [Kirby 64: The Crystal Shards](https://github.com/Kirby64Ret/kirby64) | N64 | 237 | 3.05 | 2026-10-30 | — | A work-in-progress decompilation of Kirby 64: The Crystal Shards, brought to you. |
-| [Super Mario 64 DS (sm64ds-decomp)](https://github.com/tangosdev/sm64ds-decomp) | DS | 236 | 3.05 | 2026-11-06 | — | From-scratch, byte-matching decompilation of Super Mario 64 DS into C/C++, with a live progress atlas and matching tools. |
+| [Super Mario 64 DS (sm64ds-decomp)](https://github.com/tangosdev/sm64ds-decomp) | DS | 237 | 3.05 | 2026-11-07 | — | From-scratch, byte-matching decompilation of Super Mario 64 DS into C/C++, with a live progress atlas and matching tools. |
 | [The Legend of Zelda: Skyward Sword](https://github.com/zeldaret/ss) | Wii | 226 | 3.05 | 2026-10-20 | — | Decompilation of The Legend of Zelda: Skyward Sword |
 | [Wii Menu](https://github.com/koopthekoopa/wii-ipl) | Wii | 225 | 3.05 | 2026-10-15 | — | Wii Menu Decompilation brought to you by fans. |
 | [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) | N64 | 217 | 3.05 | 2026-10-30 | — | A WIP decompilation of Dinosaur Planet for the Nintendo 64 |
 | [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) | GameCube | 213 | 3.05 | 2026-10-25 | — | Decompilation of Mario Kart Double Dash!! |
 | [PaRappa the Rapper 2](https://github.com/parappadev/parappa2) | PS2 | 208 | 3.05 | 2026-09-17 | — | PaRappa the Rapper 2 (2001, PS2) decompilation |
-| [Halo: Combat Evolved](https://github.com/punpckhdq/halo) | — | 207 | 3.05 | 2026-11-03 | — | Halo 1 decompilation |
+| [Halo: Combat Evolved](https://github.com/punpckhdq/halo) | — | 207 | 3.05 | 2026-11-07 | — | Halo 1 decompilation |
 | [Urban Assault (UA_source)](https://github.com/Marisa-Chan/UA_source) | PC | 139 | 3.05 | 2025-03-11 | ✅ | Mod for UrbanAssault (Replace original game engine) |
 | [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) | Apple II | 77 | 3.05 | 2025-01-25 | ✅ | Ultima IV Remastered for the Apple II |
 | [Guitar Hero: Warriors of Rock](https://github.com/kernaltrap8/WoR-Plus) | Xbox 360 | 57 | 3.05 | 2024-12-05 | ✅ | Quality of life improvement mod for GH:WoR |
 | [Nocturne](https://github.com/NearlyTRex/NocturneDecomp) | PC | 21 | 3.05 | 2026-11-03 | ✅ | Nocturne Decompilation |
-| [Monster Hunter 2 (mh2-decomp)](https://github.com/Batenkaitos-dev/mh2-decomp) | PS2 | 11 | 3.05 | 2026-11-05 | — | A 100% byte-matching decompilation of Monster Hunter 2 (Dos) for the PS2. |
-| [Sonic Advance 2](https://github.com/SAT-R/sa2) | GBA | 692 | 2.85 | 2026-07-21 | — | A decompilation and port of Sonic Advance 1 & 2 - GameBoy Advance game's written in C |
-| [Street Fighter III: 3rd Strike](https://github.com/crowded-street/3s-decomp) | Arcade | 285 | 2.85 | 2026-04-03 | — | Decompilation of Street Fighter III: 3rd Strike for PlayStation 2 |
-| [Duke Nukem: Zero Hour](https://github.com/Gillou68310/DukeNukemZeroHour) | N64 | 280 | 2.85 | 2025-11-06 | — | A decompilation of Duke Nukem Zero Hour |
-| [Plants vs Zombies GOTY](https://github.com/Patoke/re-plants-vs-zombies) | PC | 245 | 2.85 | 2026-07-11 | — | A project to rebuild all functionality via reverse engineering from the GOTY version of Plants VS Zombies (and expand upon it) |
+| [Monster Hunter 2 (mh2-decomp)](https://github.com/Batenkaitos-dev/mh2-decomp) | PS2 | 12 | 3.05 | 2026-11-05 | — | A 100% byte-matching decompilation of Monster Hunter 2 (Dos) for the PS2. |
+| [Sonic Advance 2](https://github.com/SAT-R/sa2) | GBA | 693 | 2.85 | 2026-07-21 | — | A decompilation and port of Sonic Advance 1 & 2 - GameBoy Advance game's written in C |
+| [Street Fighter III: 3rd Strike](https://github.com/crowded-street/3s-decomp) | Arcade | 286 | 2.85 | 2026-04-03 | — | Decompilation of Street Fighter III: 3rd Strike for PlayStation 2 |
+| [Plants vs Zombies GOTY](https://github.com/Patoke/re-plants-vs-zombies) | PC | 246 | 2.85 | 2026-07-11 | — | A project to rebuild all functionality via reverse engineering from the GOTY version of Plants VS Zombies (and expand upon it) |
 | [Starflight](https://github.com/s-macke/starflight-reverse) | DOS | 244 | 2.85 | 2026-03-09 | — | Reverse engineered game Starflight (1986) |
 | [Cave Story](https://github.com/gameblabla/CSE2) | PC | 205 | 2.85 | 2026-03-12 | — | Decompilation of Cave Story (v1.0.0.6) |
-| [Final Fantasy VII](https://github.com/Xeeynamo/ff7-decomp) | PS1 | 181 | 2.85 | 2026-11-04 | ✅ | Matching decomp of Final Fantasy VII for PlayStation 1 |
-| [Golden Sun (alchemy)](https://github.com/PascalPixel/alchemy) | GBA | 156 | 2.85 | 2026-11-05 | — | 🌋 Alchemy is a reconstruction of the source for both ☀️ Golden Sun games for Game Boy Advance: a matching decompilation that builds the same ROMs, by… |
-| [Serial Experiments Lain](https://github.com/Y0oshi/lain-psx-decompiled) | PS1 | 146 | 2.85 | 2026-10-03 | ✅ | Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client |
-| [Fatal Frame (MikuPan)](https://github.com/Mikompilation/MikuPan) | PS2 | 138 | 2.85 | 2026-11-05 | — | PC Port Of Fatal Frame 1 Based On Himuro |
-| [Fatal Frame 1](https://github.com/Mikompilation/Himuro) | PS2 | 136 | 2.85 | 2026-11-04 | ✅ | Fatal Frame 1 Decompilation Project |
+| [Final Fantasy VII](https://github.com/Xeeynamo/ff7-decomp) | PS1 | 182 | 2.85 | 2026-11-04 | ✅ | Matching decomp of Final Fantasy VII for PlayStation 1 |
+| [Golden Sun (alchemy)](https://github.com/PascalPixel/alchemy) | GBA | 150 | 2.85 | 2026-11-07 | — | 🌋 Alchemy is a reconstruction of the source for both ☀️ Golden Sun games for Game Boy Advance: a matching decompilation that builds the same ROMs, by… |
+| [Serial Experiments Lain](https://github.com/Y0oshi/lain-psx-decompiled) | PS1 | 147 | 2.85 | 2026-10-03 | ✅ | Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client |
+| [Fatal Frame (MikuPan)](https://github.com/Mikompilation/MikuPan) | PS2 | 139 | 2.85 | 2026-11-05 | — | PC Port Of Fatal Frame 1 Based On Himuro |
+| [Fatal Frame 1](https://github.com/Mikompilation/Himuro) | PS2 | 136 | 2.85 | 2026-11-06 | ✅ | Fatal Frame 1 Decompilation Project |
 | [Raptor: Call of the Shadows](https://github.com/skynettx/raptor) | PC | 135 | 2.85 | 2026-09-28 | ✅ | Reversed-engineered source port from Raptor Call Of The Shadows |
 | [LEGO Racers](https://github.com/isledecomp/racers) | PC | 107 | 2.85 | 2026-11-06 | ✅ | A decompilation of LEGO Racers (1999) |
 | [Command & Conquer: Tiberian Sun (Vinifera)](https://github.com/Vinifera-Developers/Vinifera) | PC | 98 | 2.85 | 2026-10-18 | ✅ | Vinifera is a C&C: Tiberian Sun engine extension implementing new logics and fixing bugs. |
 | [Torchlight (Torchlight Rekindled)](https://github.com/GreenSwampDweller/torchlight-rekindled) | PC | 75 | 2.85 | 2026-10-29 | ✅ | Torchlight build for modern portable systems |
-| [Animal Crossing (OpenCrossing-Anbernic)](https://github.com/TechProGabe/OpenCrossing-Anbernic) | GameCube | 71 | 2.85 | 2026-10-24 | ✅ | OpenCrossing: Animal Crossing running natively on Anbernic handhelds |
+| [Animal Crossing (OpenCrossing-Anbernic)](https://github.com/TechProGabe/OpenCrossing-Anbernic) | GameCube | 72 | 2.85 | 2026-10-24 | ✅ | OpenCrossing: Animal Crossing running natively on Anbernic handhelds |
 | [Super Mario Bros. (SMB-Vanilla)](https://github.com/nukep/SMB-Vanilla) | NES | 65 | 2.85 | 2026-10-07 | ✅ | A C decompilation and port of the NES games "Super Mario Bros" and "Super Mario Bros: The Lost Levels" |
 | [Wolfenstein RPG (WolfensteinRPG-RE)](https://github.com/Erick194/WolfensteinRPG-RE) | Mobile | 57 | 2.85 | 2026-11-01 | ✅ | Wolfenstein RPG Reverse Engineering By [GEC] |
 | [F-Zero X (gdx-3ds)](https://github.com/cruxxxxxx/gdx-3ds) | N64 | 54 | 2.85 | 2026-11-04 | ✅ | Unofficial 3DS Port of F-Zero X based on G-Diffuser & the decompilation of inspectredc |
@@ -205,22 +204,24 @@
 | [Geometry Dash](https://github.com/aloaf812/GD) | Mobile | 42 | 2.85 | 2026-10-29 | — | A decompilation of Geometry Dash version 1.710 |
 | [Fallout (F1DP)](https://github.com/Edw590/F1DP) | DOS | 23 | 2.85 | 2025-08-10 | ✅ | An engine patcher for the MS-DOS version of Fallout 1 including patches from Crafty's sFall1/sFall, High-Res patch, TeamX, and Fallout Fixt |
 | [Soul Blazer](https://github.com/hellow554/RustyBlazer) | — | 5 | 2.85 | 2025-04-01 | — | This repo will contain a complete decompilation of the Soul Blazer game by Square Enix |
-| [Perfect Dark (perfect_dark decomp)](https://github.com/n64decomp/perfect_dark) | N64 | 881 | 2.65 | 2025-03-14 | — | A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark) |
+| [Perfect Dark (perfect_dark decomp)](https://github.com/n64decomp/perfect_dark) | N64 | 882 | 2.65 | 2025-03-14 | — | A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark) |
 | [Mario Kart Wii](https://github.com/snailspeed3/mkw) | Wii | 478 | 2.65 | 2025-09-16 | — | Decompilation of Mario Kart Wii |
 | [Duke Nukem II](https://github.com/lethal-guitar/Duke2Reconstructed) | DOS | 374 | 2.65 | 2025-04-13 | — | Reconstructed source code of the game Duke Nukem II |
+| [Duke Nukem: Zero Hour](https://github.com/Gillou68310/DukeNukemZeroHour) | N64 | 280 | 2.65 | 2025-11-06 | — | A decompilation of Duke Nukem Zero Hour |
 | [Doom 64](https://github.com/Erick194/DOOM64-RE) | N64 | 239 | 2.65 | 2025-05-30 | — | Doom 64 Reverse Engineering By [GEC] |
-| [The Operative: No One Lives Forever (nolfsrc)](https://github.com/nolffan/nolfsrc) | PC | 111 | 2.65 | 2026-11-02 | — | The Operative: No One Lives Forever source code |
+| [The Operative: No One Lives Forever (nolfsrc)](https://github.com/nolffan/nolfsrc) | PC | 112 | 2.65 | 2026-11-06 | — | The Operative: No One Lives Forever source code |
 | [Hitman: Codename 47 (ReHitman)](https://github.com/ReGlacier/ReHitman) | PC | 75 | 2.65 | 2026-05-23 | ✅ | Hitman Gen 1 Reverse Engineering Project |
 | [Terraria](https://github.com/PPrism/TerrariaOGC) | PC | 69 | 2.65 | 2026-05-27 | ✅ | A functional decompilation & PC port of the console version of Terraria released on the Xbox 360 & PS3 in 2013. |
 | [Sonic Nexus (RSDKv2-Decompilation)](https://github.com/RSDKModding/RSDKv2-Decompilation) | PC | 56 | 2.65 | 2026-07-01 | ✅ | a Decompilation of the 2008 Retro-Sonic Engine Demo of Sonic Nexus |
 | [Touhou 8: Imperishable Night (th08)](https://github.com/N0zoM1z0/th08) | PC | 55 | 2.65 | 2026-11-05 | ✅ | Source reconstruction of 東方永夜抄 ～ Imperishable Night 1.00d |
+| [King's Field (Verdite1)](https://github.com/Voicedrew11/verdite1) | PS1 | 49 | 2.65 | 2026-11-07 | ✅ | AI driven attempt at porting King's Field (SLPS-00017) to PC with a variety of improvements |
 | [Touhou 6: The Embodiment of Scarlet Devil (th06-sdl2)](https://github.com/CNTianQi233/th06-sdl2) | PC | 48 | 2.65 | 2026-05-13 | ✅ | Rebuild the th06 decompilation project based on SDL2 and OpenGL by decoupling the original's low-level dependency on Direct3D 8, achieving modernizat… |
 | [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | 35 | 2.65 | 2026-10-28 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
 | [Haunting Ground (OpenHuey)](https://github.com/ArnautDaniel/OpenHuey) | PS2 | 33 | 2.65 | 2026-11-04 | — | Haunting Ground (PS2) decompilation, PC port, and actor-based rewrite |
 | [Heroes of Might and Magic III (homm3-decomp)](https://github.com/sushi-shi/homm3-decomp) | PC | 28 | 2.65 | 2026-11-05 | ✅ | Matching decompilation of Heroes of Might and Magic III |
 | [Dungeon Master II: Skullkeep (skproject)](https://github.com/gbsphenx/skproject) | DOS | 27 | 2.65 | 2026-08-29 | — | Dungeon Master ][ Skullkeep, unofficial port for Windows |
 | [Sheep, Dog 'n' Wolf (sdw-decomp)](https://github.com/SDW-Community/sdw-decomp) | PS1 | 23 | 2.65 | 2026-09-27 | ✅ | A byte-matching decompilation of Sheep, Dog 'n' Wolf (Sheep Raider, 2001, PC): source that compiles with the original Visual C++ 6.0 to the exact ori… |
-| [Carmageddon 2](https://github.com/Link4Electronics/Carpocalypse2) | PC | 20 | 2.65 | 2026-11-06 | ✅ | Decompilation and native port of Carmageddon 2 |
+| [Carmageddon 2](https://github.com/Link4Electronics/Carpocalypse2) | PC | 22 | 2.65 | 2026-11-07 | ✅ | Decompilation and native port of Carmageddon 2 |
 | [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp) | GBA | 17 | 2.65 | 2026-10-05 | ✅ | Decompilation project for "Klonoa: Empire of Dreams" (GBA) |
 | [Quake 4 (Xbox 360 Quake 4 decomp)](https://github.com/cyberheater/Xbox-360-Quake4-decomp) | PC | 17 | 2.65 | 2026-10-28 | ✅ |  |
 | [Day of Defeat (DOD13-Client)](https://github.com/whamemer/dod13-client) | PC | 15 | 2.65 | 2026-10-22 | ✅ | Day of Defeat client reverse-engineered. |
@@ -229,36 +230,36 @@
 | [Touhou 8: Imperishable Night (th08-web)](https://github.com/N0zoM1z0/th08-web) | PC | 13 | 2.65 | 2026-09-11 | ✅ | One browser tab. Two legal DAT files. One endless night. Source-built C++ → WebAssembly port of Touhou 8. |
 | [Super Mario Sunshine (PS5_Sunshine)](https://github.com/griches/PS5_Sunshine) | GameCube | 12 | 2.65 | 2026-10-14 | ✅ | Super Mario Sunshine on the PS5: a homebrew port of chasem-dev's sms-pc-port, as a builder kit (4K, 60 fps, your own disc image) |
 | [Snail Mail](https://github.com/banteg/snail) | PC | 11 | 2.65 | 2026-10-19 | ✅ | Matching decompilation and modern port of Snail Mail (2004), playable on web and macOS, with content backported from the Android release (2011). |
+| [Paper Mario: The Thousand-Year Door (all seven versions)](https://github.com/LLCOOLT/ttyd) | GameCube | 8 | 2.65 | 2026-11-04 | ✅ | A matching decompilation of Paper Mario: The Thousand-Year Door (AI-Assisted) |
 | [Race Driver: GRID](https://github.com/PipeKnight/drig-race-driver) | — | 5 | 2.65 | 2026-11-05 | — | WIP: approach to decompile Race Driver: Grid (2008) game and patch it for modern systems |
-| [Paper Mario: The Thousand-Year Door (all seven versions)](https://github.com/LLCOOLT/ttyd) | GameCube | 4 | 2.65 | 2026-11-04 | ✅ | A matching decompilation of Paper Mario: The Thousand-Year Door (AI-Assisted) |
 | [Bumpy's Arcade Fantasy](https://github.com/GeReV/bumpy-reverse) | DOS | 2 | 2.65 | 2026-10-07 | ✅ | Decompilation of Bumpy's Arcade Fantasy, lead by Claude |
 | [4D Sports Boxing](https://github.com/ToolAssisted-run/Open4DBoxing) | DOS | 1 | 2.65 | 2026-10-24 | ✅ | An unofficial reconstruction of 4D Sports Boxing (Distinctive Software, DOS, 1991) |
 | [Snowboard Kids 2](https://github.com/cdlewis/snowboardkids2-decomp) | N64 | 197 | 2.6 | 2026-10-23 | — | Decompilation of snowboard kids 2 (N64) |
 | [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) | GameCube | 195 | 2.6 | 2026-10-29 | — | Decompilation project for SpongeBob SquarePants: Battle for Bikini Bottom |
-| [Vagrant Story](https://github.com/ser-pounce/rood-reverse) | PS1 | 193 | 2.6 | 2026-11-06 | — | a Vagrant Story byte-matching decompilation |
-| [Panzer Dragoon Saga](https://github.com/yaz0r/Azel) | Saturn | 190 | 2.6 | 2026-10-29 | — | Reverse engineering of Panzer Dragoon Saga |
-| [EarthBound / Mother 2](https://github.com/Herringway/ebsrc) | SNES | 188 | 2.6 | 2026-11-02 | — | Source code recreation for the game Earthbound |
+| [Vagrant Story](https://github.com/ser-pounce/rood-reverse) | PS1 | 193 | 2.6 | 2026-11-07 | — | a Vagrant Story byte-matching decompilation |
+| [Panzer Dragoon Saga](https://github.com/yaz0r/Azel) | Saturn | 191 | 2.6 | 2026-10-29 | — | Reverse engineering of Panzer Dragoon Saga |
+| [EarthBound / Mother 2](https://github.com/Herringway/ebsrc) | SNES | 188 | 2.6 | 2026-11-07 | — | Source code recreation for the game Earthbound |
 | [Wii Sports](https://github.com/doldecomp/ogws) | Wii | 183 | 2.6 | 2026-10-25 | — | A work-in-progress matching decompilation of Wii Sports |
-| [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1) | PS1 | 180 | 2.6 | 2026-11-06 | — | Spyro the Dragon Decompilation Project |
+| [Spyro the Dragon](https://github.com/TheMobyCollective/spyro-1) | PS1 | 181 | 2.6 | 2026-11-07 | — | Spyro the Dragon Decompilation Project |
 | [Ultima Online (OUO)](https://github.com/draxinar/ouo) | PC | 175 | 2.6 | 2026-09-05 | — | OUO: reverse engineering of Ultima Online: The Second Age server |
-| [Silent Hill 3](https://github.com/dreamingmoths/memory-of-alessa) | PS2 | 168 | 2.6 | 2026-11-06 | — | In-progress matching decompilation of Silent Hill 3 |
+| [Silent Hill 3](https://github.com/dreamingmoths/memory-of-alessa) | PS2 | 169 | 2.6 | 2026-11-07 | — | In-progress matching decompilation of Silent Hill 3 |
 | [Metroid: Zero Mission](https://github.com/metroidret/mzm) | GBA | 163 | 2.6 | 2026-10-26 | — | Metroid Zero Mission Decompilation |
+| [Bloodborne](https://github.com/Yharnam-Hunters/Paleblood) | PS4 | 162 | 2.6 | 2026-11-06 | — | A decompilation of Bloodborne (CUSA03173 v1.09) with its own runtime: the game's code rewritten as readable C++, one verified function at a time. The… |
 | [Kirby & The Amazing Mirror](https://github.com/jiangzhengwenjz/katam) | GBA | 161 | 2.6 | 2026-11-06 | — | WIP Decompilation of Kirby & The Amazing Mirror (USA) |
-| [Bloodborne](https://github.com/Yharnam-Hunters/Paleblood) | PS4 | 160 | 2.6 | 2026-11-06 | — | A decompilation of Bloodborne (CUSA03173 v1.09) with its own runtime: the game's code rewritten as readable C++, one verified function at a time. The… |
 | [New Super Mario Bros. Wii](https://github.com/NSMBW-Community/NSMBW-Decomp) | Wii | 156 | 2.6 | 2026-09-24 | — | A decompilation of New Super Mario Bros. Wii |
+| [Pokemon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs) | GBA | 156 | 2.6 | 2026-10-11 | — | Decompilation of Pokémon Pinball: Ruby & Sapphire |
 | [San Andreas Multiplayer (SA-MP)](https://github.com/dashr9230/SA-MP) | PC | 155 | 2.6 | 2026-10-10 | — | A work-in-progress matching decompilation of the 0.3.7 version of San Andreas Multiplayer |
-| [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) | GameCube | 154 | 2.6 | 2026-09-27 | — | A work-in-progress matching decompilation of Paper Mario: The Thousand Year Door |
-| [Pokemon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs) | GBA | 154 | 2.6 | 2026-10-11 | — | Decompilation of Pokémon Pinball: Ruby & Sapphire |
+| [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) | GameCube | 153 | 2.6 | 2026-09-27 | — | A work-in-progress matching decompilation of Paper Mario: The Thousand Year Door |
 | [Pokemon MD Sky](https://github.com/pret/pmd-sky) | DS | 152 | 2.6 | 2026-11-04 | — | Decompilation of Pokémon Mystery Dungeon: Explorers of Sky |
-| [Halo 2 (halo2-decompiled)](https://github.com/kirklandsig/halo2-decompiled) | Xbox | 143 | 2.6 | 2026-11-06 | — | Halo 2 decompilation (decomp) for the original Xbox: a matching decompilation of the retail game into C/C++ source, rebuilt byte for byte, toward nat… |
+| [Halo 2 (halo2-decompiled)](https://github.com/kirklandsig/halo2-decompiled) | Xbox | 143 | 2.6 | 2026-11-07 | — | Halo 2 decompilation (decomp) for the original Xbox: a matching decompilation of the retail game into C/C++ source, rebuilt byte for byte, toward nat… |
 | [Sonic the Hedgehog (2013) (RSDKv4-Script-Decompilation)](https://github.com/RSDKModding/RSDKv4-Script-Decompilation) | Mobile | 140 | 2.6 | 2026-10-24 | — |  |
 | [Spider-Man](https://github.com/krystalgamer/spidey-decomp) | PS1 | 140 | 2.6 | 2026-10-07 | — | Decompilation of Neversoft's Spider-Man game (PC PORT) |
 | [Sonic CD (RSDKv3-Script-Decompilation)](https://github.com/RSDKModding/RSDKv3-Script-Decompilation) | PC | 139 | 2.6 | 2026-08-13 | — |  |
 | [Rock Band 3](https://github.com/DarkRTA/rb3) | Wii | 129 | 2.6 | 2026-10-28 | — | A decompilation of Rock Band 3 brought to you by a bunch of clever folks. |
-| [Black and White](https://github.com/openblack/bw1-decomp) | PC | 127 | 2.6 | 2026-11-06 | — | Decompilation of Black & White 1 |
+| [Black and White](https://github.com/openblack/bw1-decomp) | PC | 127 | 2.6 | 2026-11-07 | — | Decompilation of Black & White 1 |
 | [Plants vs. Zombies (PlantsVsZombies-decompilation)](https://github.com/ruslan831/PlantsVsZombies-decompilation) | PC | 126 | 2.6 | 2026-09-19 | — | this is a decompilation of the game plants vs zombies version 0.9.9.1029 this project used to be a project by user kopie https://github.com/rspforhp |
-| [Paper Mario (papermario-dx (engine fork))](https://github.com/bates64/papermario-dx) | N64 | 125 | 2.6 | 2026-11-05 | — | [MIRROR] Base for making Paper Mario (N64) mods, built on the decompilation |
-| [Gran Turismo 4 (gt4-decomp)](https://github.com/gustavocanepa/gt4-decomp) | PS2 | 122 | 2.6 | 2026-11-05 | — | Matching decompilation of the Gran Turismo 4 (PS2) engine, AI-assisted. No game data included. |
+| [Paper Mario (papermario-dx (engine fork))](https://github.com/bates64/papermario-dx) | N64 | 125 | 2.6 | 2026-11-06 | — | [MIRROR] Base for making Paper Mario (N64) mods, built on the decompilation |
+| [Gran Turismo 4 (gt4-decomp)](https://github.com/gustavocanepa/gt4-decomp) | PS2 | 123 | 2.6 | 2026-11-05 | — | Matching decompilation of the Gran Turismo 4 (PS2) engine, AI-assisted. No game data included. |
 | [The Legend of Zelda: Phantom Hourglass](https://github.com/zeldaret/ph) | DS | 120 | 2.6 | 2026-10-09 | — | Decompilation of The Legend of Zelda: Phantom Hourglass |
 | [Super Smash Bros. Brawl](https://github.com/doldecomp/brawl) | Wii | 116 | 2.6 | 2026-11-04 | — | A work-in-progress matching decompilation of Super Smash Bros. Brawl |
 | [Dark Cloud](https://github.com/TheMoonPeople/Chronicle) | PS2 | 115 | 2.6 | 2026-10-28 | — | DCDecomp is a work-in-progress decompilation project for Dark Cloud for the PlayStation 2. |
@@ -270,17 +271,17 @@
 | [Super Mario Strikers](https://github.com/yannicksuter/smstrikers-decomp) | GameCube | 110 | 2.6 | 2026-09-17 | — | Decompilation of Super Mario Strikers |
 | [Super Paper Mario](https://github.com/SeekyCt/spm-decomp) | Wii | 106 | 2.6 | 2026-10-04 | — | WIP 1:1 decompilation of Super Paper Mario |
 | [Elite (c64-elite-flicker-free (Mark Moxon))](https://github.com/markmoxon/c64-elite-flicker-free) | BBC Micro/Acorn | 97 | 2.6 | 2026-10-01 | — | A patch for Commodore 64 and Plus/4 Elite that removes the flicker |
+| [God Hand](https://github.com/LucasPicoli/god-hand-decomp) | PS2 | 96 | 2.6 | 2026-11-06 | — | A work-in-progress matching decompilation of God Hand (PS2, NTSC-U, SLUS-21503). |
 | [Super Mario Galaxy 2](https://github.com/SMGCommunity/Garigari) | Wii | 96 | 2.6 | 2026-11-05 | — | Super Mario Galaxy 2 decompilation. |
-| [God Hand](https://github.com/LucasPicoli/god-hand-decomp) | PS2 | 95 | 2.6 | 2026-11-04 | — | A work-in-progress matching decompilation of God Hand (PS2, NTSC-U, SLUS-21503). |
 | [The Legend of Zelda: Ocarina of Time (Wii Virtual Console)](https://github.com/zeldaret/oot-vc) | Wii | 95 | 2.6 | 2026-09-06 | — | Decompilation of the Wii Virtual Console Emulator for Ocarina of Time (JP) |
-| [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp) | PS1 | 93 | 2.6 | 2026-10-23 | — | Matching decompilation of Brave Fencer Musashi (PS1, SLUS-00726): 218 binaries rebuild byte-identical from C |
-| [Sonic Advance 3](https://github.com/SAT-R/sa3) | GBA | 93 | 2.6 | 2026-11-05 | — | A decompilation of Sonic Advance 3 |
-| [Mother 3](https://github.com/Kurausukun/mother3) | GBA | 91 | 2.6 | 2026-09-14 | — |  |
+| [Sonic Advance 3](https://github.com/SAT-R/sa3) | GBA | 94 | 2.6 | 2026-11-06 | — | A decompilation of Sonic Advance 3 |
+| [Brave Fencer Musashi](https://github.com/Druthulu/BFM-decomp) | PS1 | 93 | 2.6 | 2026-11-06 | — | Matching decompilation of Brave Fencer Musashi (PS1, SLUS-00726): 218 binaries rebuild byte-identical from C |
+| [Mother 3](https://github.com/Kurausukun/mother3) | GBA | 92 | 2.6 | 2026-09-14 | — |  |
 | [The Legend of Zelda: Ocarina of Time 3D](https://github.com/zeldaret/oot3d) | 3DS | 91 | 2.6 | 2026-09-04 | — | Decompilation of The Legend of Zelda: Ocarina of Time 3D |
 | [Digimon World (dw_decomp)](https://github.com/jype0/dw_decomp) | PS1 | 89 | 2.6 | 2026-10-19 | — |  |
-| [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re) | PS1 | 88 | 2.6 | 2026-09-21 | — | Reverse-engineering project of the 1999 PlayStation game Legacy of Kain: Soul Reaver, from MIPS to C. |
-| [Pokémon Black 2 and White 2 (pokebw2)](https://github.com/fuddlesworth/pokebw2) | DS | 85 | 2.6 | 2026-11-04 | — | Decompilation of Pokémon Black 2 and White 2 |
-| [Pilotwings 64 (Pilotwings64Decomp (gcsmith))](https://github.com/n64decomp/pw64) | N64 | 84 | 2.6 | 2026-10-24 | — | Decompilation of Pilotwings 64. |
+| [Legacy of Kain: Soul Reaver](https://github.com/fmil95/soul-re) | PS1 | 88 | 2.6 | 2026-11-06 | — | Reverse-engineering project of the 1999 PlayStation game Legacy of Kain: Soul Reaver, from MIPS to C. |
+| [Pokémon Black 2 and White 2 (pokebw2)](https://github.com/fuddlesworth/pokebw2) | DS | 86 | 2.6 | 2026-11-07 | — | Decompilation of Pokémon Black 2 and White 2 |
+| [Pilotwings 64 (Pilotwings64Decomp (gcsmith))](https://github.com/n64decomp/pw64) | N64 | 84 | 2.6 | 2026-11-06 | — | Decompilation of Pilotwings 64. |
 | [Dr. Mario 64](https://github.com/AngheloAlf/drmario64) | N64 | 82 | 2.6 | 2026-08-13 | — | Dr. Mario 64 decomp |
 | [Metroid Fusion](https://github.com/metroidret/mf) | GBA | 79 | 2.6 | 2026-10-31 | — | Metroid Fusion Decompilation |
 | [Mario Party 3](https://github.com/mariopartyrd/marioparty3) | N64 | 77 | 2.6 | 2026-10-23 | — | Decompilation of Mario Party 3 for N64 |
@@ -292,87 +293,89 @@
 | [Parasite Eve (parasite-eve-decomp)](https://github.com/khasinski/parasite-eve-decomp) | PS1 | 70 | 2.6 | 2026-11-02 | — | Source-only Parasite Eve PS1 decompilation |
 | [Pokemon Black](https://github.com/squiddonaut/pokeblack) | DS | 69 | 2.6 | 2026-10-17 | — | Decompilation of English Pokémon Black |
 | [Space Station Silicon Valley](https://github.com/mkst/sssv) | N64 | 66 | 2.6 | 2026-10-28 | — | WIP Space Station Silicon Valley N64 Decomp |
+| [Space Rangers HD: A War Apart](https://github.com/pakompom/SpaceRangersHD_decomp) | PC | 63 | 2.6 | 2026-10-16 | — | A matching Delphi decompilation of Space Rangers HD: A War Apart - Космические рейнджеры HD: Революция |
 | [Touhou 7: Perfect Cherry Blossom (th07)](https://github.com/some100/th07) | PC | 63 | 2.6 | 2026-10-07 | — | A decompilation of 東方妖々夢　～ Perfect Cherry Blossom 1.00b (Touhou 7) |
-| [Space Rangers HD: A War Apart](https://github.com/pakompom/SpaceRangersHD_decomp) | PC | 62 | 2.6 | 2026-10-16 | — | A matching Delphi decompilation of Space Rangers HD: A War Apart - Космические рейнджеры HD: Революция |
-| [Final Fantasy VIII (ff8-decomp)](https://github.com/roengstrom/ff8-decomp) | PS1 | 61 | 2.6 | 2026-11-05 | — | Work-in-progress Final Fantasy VIII decompilation project for the PS1 |
-| [Need for Speed: High Stakes (PS1)](https://github.com/Caesar0007/NFSHS-PSX-decomp) | PS1 | 61 | 2.6 | 2026-11-05 | — | Byte-matching decompilation of Need for Speed High Stakes (PSX) - splat + maspsx + objdiff |
+| [Final Fantasy VIII (ff8-decomp)](https://github.com/roengstrom/ff8-decomp) | PS1 | 62 | 2.6 | 2026-11-06 | — | Work-in-progress Final Fantasy VIII decompilation project for the PS1 |
+| [Need for Speed: High Stakes (PS1)](https://github.com/Caesar0007/NFSHS-PSX-decomp) | PS1 | 61 | 2.6 | 2026-11-07 | — | Byte-matching decompilation of Need for Speed High Stakes (PSX) - splat + maspsx + objdiff |
 | [Elite (elite-a-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | BBC Micro/Acorn | 60 | 2.6 | 2026-10-08 | — | Fully documented source code for Angus Duggan's classic game Elite-A on the BBC Micro |
+| [Kingdom Hearts: Chain of Memories](https://github.com/Pheenoh/khcom) | GBA | 60 | 2.6 | 2026-10-12 | — | Decompilation of Kingdom Hearts: Chain of Memories (GBA) |
 | [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | 60 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
 | [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
 | [Dragon Quest IX](https://github.com/DQIX/dqix-decomp) | DS | 59 | 2.6 | 2026-11-06 | — | Decompilation project for Dragon Quest IX for the Nintendo DS using dsd |
-| [Kingdom Hearts: Chain of Memories](https://github.com/Pheenoh/khcom) | GBA | 59 | 2.6 | 2026-10-12 | — | Decompilation of Kingdom Hearts: Chain of Memories (GBA) |
 | [Phoenix Wright: Ace Attorney](https://github.com/atasro2/pwaa1) | GBA | 59 | 2.6 | 2026-09-12 | — | A Decompilation of Gyakuten Saiban (Japan) |
 | [Mario Kart Wii (mkw)](https://github.com/doldecomp/mkw) | Wii | 58 | 2.6 | 2026-10-16 | — | A work-in-progress matching decompilation of Mario Kart Wii. |
 | [Snowboard Kids (snowboardkids-decomp (cdlewis))](https://github.com/cdlewis/snowboardkids-decomp) | N64 | 58 | 2.6 | 2026-10-31 | — | Decompilation of snowboard kids (N64) |
 | [Jet Force Gemini](https://github.com/Ryan-Myers/Jet-Force-Gemini) | N64 | 57 | 2.6 | 2026-09-02 | — |  |
 | [Kirby's Epic Yarn](https://github.com/Swiftshine/key) | Wii | 57 | 2.6 | 2026-10-14 | — | Kirby's Epic Yarn decompilation. |
-| [Peggle Deluxe (Thunderball)](https://github.com/teampopwork/Thunderball) | PC | 56 | 2.6 | 2026-10-31 | — | WIP Decompilation of Peggle Deluxe 1.01 |
+| [Peggle Deluxe (Thunderball)](https://github.com/teampopwork/Thunderball) | PC | 57 | 2.6 | 2026-10-31 | — | WIP Decompilation of Peggle Deluxe 1.01 |
 | [Harvest Moon: Back to Nature (hmbtn-decomp)](https://github.com/coalslav/hmbtn-decomp) | PS1 | 55 | 2.6 | 2026-10-13 | — | Harvest Moon: Back To Nature Decomp |
 | [Animal Forest e+](https://github.com/ACreTeam/afe-decomp) | GameCube | 54 | 2.6 | 2026-10-24 | — | Decompilation of Animal Forest e+ (JP) |
 | [Shin Megami Tensei: Persona 4 (Persona4-Decompilation)](https://github.com/Raikaru/Persona4-Decompilation) | PS2 | 54 | 2.6 | 2026-10-27 | — | Matching decompilation of Shin Megami Tensei: Persona 4 for PlayStation 2 |
 | [Elite (elite-source-code-bbc-micro-disc (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-micro-disc) | BBC Micro/Acorn | 53 | 2.6 | 2026-10-08 | — | Fully documented source code for the disc version of the classic game Elite on the BBC Micro |
-| [Total Annihilation (TA: Byte Tactics)](https://github.com/HectorBailey/byte-tactics) | PC | 53 | 2.6 | 2026-11-04 | — | TA: Byte Tactics, a matching decompilation of Total Annihilation |
-| [Ratchet & Clank (Lombyte)](https://github.com/lombyte-project/Lombyte) | PS2 | 50 | 2.6 | 2026-11-03 | — | Preserving Ratchet & Clank (2002) through decompilation |
+| [Total Annihilation (TA: Byte Tactics)](https://github.com/HectorBailey/byte-tactics) | PC | 53 | 2.6 | 2026-11-06 | — | TA: Byte Tactics, a matching decompilation of Total Annihilation |
+| [Pokémon Colosseum (pkmn-colosseum)](https://github.com/dougchansan/pkmn-colosseum) | GameCube | 51 | 2.6 | 2026-10-30 | — | completely unhinged ai decompilation project for pokemon colosseum. you hate to see it. |
+| [Ratchet & Clank (Lombyte)](https://github.com/lombyte-project/Lombyte) | PS2 | 51 | 2.6 | 2026-11-06 | — | Preserving Ratchet & Clank (2002) through decompilation |
+| [Dark Cloud 2 (Chronicle Two)](https://github.com/TheMoonPeople/ChronicleTwo) | PS2 | 50 | 2.6 | 2026-11-03 | — | Chronicle Two is a work-in-progress decompilation project for Dark Chronicle for the PlayStation 2. |
 | [Star Fox 64 (sf64-dc)](https://github.com/jnmartin84/sf64-dc) | N64 | 50 | 2.6 | 2026-08-24 | — | Sega Dreamcast port of Star Fox 64 decompilation |
 | [Battlefield 2](https://github.com/kiwidoggie/breadflowerdos) | PC | 49 | 2.6 | 2026-10-01 | — | Decompilation of Battlefield 2/2142 |
-| [Dark Cloud 2 (Chronicle Two)](https://github.com/TheMoonPeople/ChronicleTwo) | PS2 | 49 | 2.6 | 2026-11-03 | — | Chronicle Two is a work-in-progress decompilation project for Dark Chronicle for the PlayStation 2. |
 | [New Super Mario Bros. U](https://github.com/aboood40091/red-pro2) | Wii U | 49 | 2.6 | 2026-10-06 | — | Decompilation of New Super Mario Bros. U v1.3.0 US. |
-| [Legend of Mana](https://github.com/celophi/lom-decomp) | PS1 | 48 | 2.6 | 2026-11-06 | — | Matching decompilation of Legend of Mana / 聖剣伝説 LEGEND OF MANA (PS1) - NTSC-U / NTSC-J |
+| [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp) | GameCube | 49 | 2.6 | 2026-10-31 | — | A decompilation of Pokemon XD for the Nintendo GameCube |
+| [Legend of Mana](https://github.com/celophi/lom-decomp) | PS1 | 48 | 2.6 | 2026-11-07 | — | Matching decompilation of Legend of Mana / 聖剣伝説 LEGEND OF MANA (PS1) - NTSC-U / NTSC-J |
 | [Monster Hunter](https://github.com/2Tie/mh1j) | PS2 | 47 | 2.6 | 2026-11-05 | — | A decompilation project for the initial Japanese release of Monster Hunter for PS2. |
-| [Pokémon Colosseum (pkmn-colosseum)](https://github.com/dougchansan/pkmn-colosseum) | GameCube | 47 | 2.6 | 2026-10-30 | — | completely unhinged ai decompilation project for pokemon colosseum. you hate to see it. |
 | [Sonic Rush Adventure](https://github.com/RushRE/SonicRushAdventure-Decomp) | DS | 47 | 2.6 | 2026-10-27 | — |  |
 | [Crash Twinsanity (twinsanity-reversed)](https://github.com/Smartkin/twinsanity-reversed) | PS2 | 46 | 2.6 | 2026-10-05 | — | Crash Twinsanity for PS2 reverse engineered |
-| [Final Fantasy Crystal Chronicles](https://github.com/zcanann/FFCC-Decomp) | GameCube | 46 | 2.6 | 2026-11-01 | — | Final Fantasy Crystal Chronicles Decompilation |
-| [XD: Gale of Darkness](https://github.com/TeamOrre/xd-decomp) | GameCube | 46 | 2.6 | 2026-10-31 | — | A decompilation of Pokemon XD for the Nintendo GameCube |
+| [Final Fantasy Crystal Chronicles](https://github.com/zcanann/FFCC-Decomp) | GameCube | 46 | 2.6 | 2026-11-06 | — | Final Fantasy Crystal Chronicles Decompilation |
 | [Banjo-Kazooie: Grunty's Revenge](https://github.com/jellees/bkgr) | GBA | 45 | 2.6 | 2026-10-19 | — | A decompilation of Banjo Kazooie Grunty's Revenge for GBA |
-| [Dance Central 3](https://github.com/rjkiv/dc3-decomp) | Xbox 360 | 45 | 2.6 | 2026-11-06 | — | A decompilation of Dance Central 3. |
+| [Dance Central 3](https://github.com/rjkiv/dc3-decomp) | Xbox 360 | 45 | 2.6 | 2026-11-07 | — | A decompilation of Dance Central 3. |
+| [Aidyn Chronicles: The First Mage](https://github.com/blackgamma7/Aidyn) | N64 | 44 | 2.6 | 2026-10-26 | — | Decompilation of Aidyn Chronicles: the First Mage on the Nintendo 64. |
 | [Pokemon Puzzle League](https://github.com/AngheloAlf/puzzleleague64) | Game Boy Color | 44 | 2.6 | 2026-11-01 | — | Matching decomp of Pokémon Puzzle League |
 | [Shin Megami Tensei: Digital Devil Saga (dds-decomp)](https://github.com/Megami-Decomps/dds-decomp) | PS2 | 44 | 2.6 | 2026-10-29 | — | Matching decompilation of Shin Megami Tensei: Digital Devil Saga 1 & 2 (PS2) |
-| [Aidyn Chronicles: The First Mage](https://github.com/blackgamma7/Aidyn) | N64 | 43 | 2.6 | 2026-10-26 | — | Decompilation of Aidyn Chronicles: the First Mage on the Nintendo 64. |
 | [Elite (elite-source-code-apple-ii (Mark Moxon))](https://github.com/markmoxon/elite-source-code-apple-ii) | BBC Micro/Acorn | 43 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Apple II |
+| [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re) | PC | 43 | 2.6 | 2026-11-05 | — | Decompilation of Mafia: The City of Lost Heaven |
 | [Mario Party 5](https://github.com/mariopartyrd/marioparty5) | GameCube | 43 | 2.6 | 2026-10-31 | — |  |
-| [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re) | PC | 42 | 2.6 | 2026-11-05 | — | Decompilation of Mafia: The City of Lost Heaven |
 | [Mario Strikers Charged](https://github.com/yannicksuter/mscharged-decomp) | Wii | 42 | 2.6 | 2026-10-29 | — | Decompilation of Mario Strikers Charged |
 | [Monster Hunter Portable 2nd G](https://github.com/tclamb/mhp2g-decomp) | PSP | 42 | 2.6 | 2026-10-30 | — | Byte-matching decompilation project for Monster Hunter Portable 2nd G |
 | [Revs (revs-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/revs-source-code-bbc-micro) | BBC Micro/Acorn | 42 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Revs on the BBC Micro |
 | [SSX 3](https://github.com/ssxdecomp/ssx3) | PS2 | 42 | 2.6 | 2026-10-18 | — | Decompilation of SSX 3 (2003). |
 | [Elite (elite-source-code-6502-second-processor (Mark Moxon))](https://github.com/markmoxon/elite-source-code-6502-second-processor) | BBC Micro/Acorn | 41 | 2.6 | 2026-10-25 | — | Fully documented source code for the classic game Elite on the BBC Micro with a 6502 Second Processor |
+| [Sonic Heroes](https://github.com/Jovinull/sonicheroes) | GameCube | 41 | 2.6 | 2026-11-02 | — | Matching decompilation of Sonic Heroes (2003) for the Nintendo GameCube: C/C++ source that rebuilds the retail game byte for byte |
 | [Mario & Luigi: Superstar Saga](https://github.com/jellees/mlss) | GBA | 40 | 2.6 | 2026-11-02 | — | Decompilation of Mario & Luigi Superstar Saga |
-| [Sonic Heroes](https://github.com/Jovinull/sonicheroes) | GameCube | 40 | 2.6 | 2026-11-02 | — | Matching decompilation of Sonic Heroes (2003) for the Nintendo GameCube: C/C++ source that rebuilds the retail game byte for byte |
 | [Mega Man X4](https://github.com/sozud/mmx4) | PS1 | 39 | 2.6 | 2026-10-28 | — | A WIP decompilation of Mega Man X4 for the PS1. |
-| [SSX 3 (ssx3-decomp)](https://github.com/andersfischernielsen/ssx3-decomp) | PS2 | 39 | 2.6 | 2026-11-06 | — | A decompilation/port of SSX 3 in Rust. |
-| [Fire Emblem: The Blazing Blade](https://github.com/MokhaLeee/FireEmblem7J) | GBA | 38 | 2.6 | 2026-11-04 | — | Decompilation of: Fire Emblem - Rekka no Ken (Japan) (FE7J) |
-| [Icewind Dale II (iwd2r (Icewind Dale 2 Resurrected))](https://github.com/thierbig/iwd2r) | PC | 37 | 2.6 | 2026-11-06 | — | Icewind Dale 2 Resurrected: a cross-platform engine built on the decompiled IWD2 source. Bring your own GOG copy. |
+| [SSX 3 (ssx3-decomp)](https://github.com/andersfischernielsen/ssx3-decomp) | PS2 | 39 | 2.6 | 2026-11-07 | — | A decompilation/port of SSX 3 in Rust. |
+| [Fire Emblem: The Blazing Blade](https://github.com/MokhaLeee/FireEmblem7J) | GBA | 38 | 2.6 | 2026-11-06 | — | Decompilation of: Fire Emblem - Rekka no Ken (Japan) (FE7J) |
+| [Icewind Dale II (iwd2r (Icewind Dale 2 Resurrected))](https://github.com/thierbig/iwd2r) | PC | 38 | 2.6 | 2026-11-07 | — | Icewind Dale 2 Resurrected: a cross-platform engine built on the decompiled IWD2 source. Bring your own GOG copy. |
 | [LEGO Racers (racers-portable)](https://github.com/isledecomp/racers-portable) | PC | 37 | 2.6 | 2026-10-26 | — | A portable version of LEGO Racers (1999) |
+| [Ratchet & Clank: Going Commando (rac2-gc-decomp (OpenRAC))](https://github.com/OpenRAC/rac2-decomp) | PS2 | 37 | 2.6 | 2026-11-07 | — | Going Commando USA v1.01: byte-exact reconstruction tools and native-port research. No game assets. |
 | [Tokyo Bus Guide](https://github.com/lhsazevedo/tbg-decomp) | Dreamcast | 37 | 2.6 | 2026-10-25 | — | Decompiling Tokyo Bus Guide (東京バス案内) for the Sega Dreamcast |
 | [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) | GameCube | 37 | 2.6 | 2026-10-08 | — | Decompilation of Ty the Tasmanian Tiger |
 | [Fallout: New Vegas (fnv)](https://github.com/ieee802dot11ac/fnv) | PC | 36 | 2.6 | 2026-08-30 | — |  |
 | [Ratchet & Clank: Up Your Arsenal (rac3-uya-decomp (OpenRAC))](https://github.com/vetusmagnus/rac3-uya-decomp) | PS2 | 36 | 2.6 | 2026-10-22 | — | Ratchet & Clank 3: Up Your Arsenal PS2 C Source Code Decompilation Project |
-| [Conker's Bad Fur Day (DevOldSchool)](https://github.com/DevOldSchool/conkers-bfd-decomp) | N64 | 35 | 2.6 | 2026-11-06 | — | Decompilation of Conker's Bad Fur Day for Nintendo 64 (N64), with asset extraction tools, model-preview generation, and asset-format research. |
+| [Xenosaga Episode I: Der Wille zur Macht (xsg-i-decomp)](https://github.com/OpokXeno/xsg-i-decomp) | PS2 | 36 | 2.6 | 2026-11-06 | — | Matching decompilation of Xenosaga Episode I: Der Wille zur Macht for the PS2 |
+| [Conker's Bad Fur Day (DevOldSchool)](https://github.com/DevOldSchool/conkers-bfd-decomp) | N64 | 35 | 2.6 | 2026-11-07 | — | Decompilation of Conker's Bad Fur Day for Nintendo 64 (N64), with asset extraction tools, model-preview generation, and asset-format research. |
 | [Elite (elite-source-code-bbc-master (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-master) | BBC Micro/Acorn | 35 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the BBC Master |
 | [The World Ends with You](https://github.com/Yotona/twewy) | DS | 35 | 2.6 | 2026-10-30 | — | A reverse engineered implementation of "The World Ends With You" for the Nintendo DS |
 | [Dragon Ball Z: Budokai Tenkaichi 3 (BT3-Decompiled)](https://github.com/z3xox/BT3-Decompiled) | PS2 | 34 | 2.6 | 2026-10-25 | — | Matching decompilation of Dragon Ball Z: Budokai Tenkaichi 3 (PS2, SLUS-21678). |
 | [Elite (elite-source-code-acorn-electron (Mark Moxon))](https://github.com/markmoxon/elite-source-code-acorn-electron) | BBC Micro/Acorn | 34 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Acorn Electron |
 | [Rage Racer](https://github.com/khasinski/rage-racer-decomp) | PS1 | 33 | 2.6 | 2026-10-25 | — | Rage Racer byte-matching decompilation |
+| [Command & Conquer: Red Alert 2 (gagarin)](https://github.com/r-melvin/gagarin) | PC | 32 | 2.6 | 2026-11-07 | — | Decompilation of the Red Alert 2 / Yuri's Revenge engine (gamemd.exe v1.001, MSVC 6.0) for software preservation |
 | [Final Fantasy Tactics (fft_decomp)](https://github.com/adamrt/fft_decomp) | PS1 | 32 | 2.6 | 2026-10-22 | — | Decompilation of North American PlayStation Final Fantasy Tactics |
 | [Monster Hunter 4 Ultimate (mh4u-decomp)](https://github.com/mhvuze/mh4u-decomp) | 3DS | 32 | 2.6 | 2026-11-03 | — | Progress tracking for a matching decompilation of Monster Hunter 4 Ultimate (Nintendo 3DS, EU v1.1). |
-| [Ratchet & Clank: Going Commando (rac2-gc-decomp (OpenRAC))](https://github.com/OpenRAC/rac2-decomp) | PS2 | 32 | 2.6 | 2026-11-06 | — | Going Commando USA v1.01: byte-exact reconstruction tools and native-port research. No game assets. |
 | [Rhythm Heaven Fever](https://github.com/conhlee/rhf) | Wii | 32 | 2.6 | 2026-10-24 | — | Rhythm Heaven Fever decompilation |
 | [Lego City Undercover](https://github.com/Nintendocustom/Lego-City-Undercover-Decompilation) | Switch | 31 | 2.6 | 2026-10-24 | — |  |
 | [Metal Gear Solid 3](https://github.com/GirianSeed/mgs3) | PS2 | 31 | 2.6 | 2026-11-01 | — | Work in progress. |
 | [Touhou 08: Imperishable Night](https://github.com/GensokyoClub/th08) | PC | 31 | 2.6 | 2026-10-06 | — |  |
-| [Command & Conquer: Red Alert 2 (gagarin)](https://github.com/r-melvin/gagarin) | PC | 30 | 2.6 | 2026-11-06 | — | Decompilation of the Red Alert 2 / Yuri's Revenge engine (gamemd.exe v1.001, MSVC 6.0) for software preservation |
+| [Vagrant Story (rood-boi)](https://github.com/noprompt/rood-boi) | PS1 | 31 | 2.6 | 2026-11-06 | — | Native PC port of Vagrant Story on the rood-reverse decompilation: Vulkan ray tracing, path-traced GI, live editor. Bring your own disc. |
+| [Gex 64: Enter the Gecko](https://github.com/MatBourgon/Gex64Decomp) | PS1 | 30 | 2.6 | 2026-09-03 | — | Decompilation of Gex 64 |
 | [Mother 1+2 (Japan)](https://github.com/Normmatt/m12) | GBA | 30 | 2.6 | 2026-09-24 | — |  |
-| [Vagrant Story (rood-boi)](https://github.com/noprompt/rood-boi) | PS1 | 30 | 2.6 | 2026-11-06 | — | Native PC port of Vagrant Story on the rood-reverse decompilation: Vulkan ray tracing, path-traced GI, live editor. Bring your own disc. |
 | [Doom II RPG (DoomIIRPG-RE)](https://github.com/Erick194/DoomIIRPG-RE) | Mobile | 100 | 2.45 | 2025-07-09 | ✅ | Doom II RPG Reverse Engineering By [GEC] |
 | [Indiana Jones and the Infernal Machine (OpenJones3D)](https://github.com/smlu/OpenJones3D) | PC | 72 | 2.45 | 2025-07-08 | ✅ | Open-source dig site for the LucasArts Jones3D game engine that powers Indiana Jones and the Infernal Machine |
 | [Frontier: Elite II (fe2-intro)](https://github.com/watsonmw/fe2-intro) | Amiga | 52 | 2.45 | 2025-01-05 | ✅ | "Frontier: Elite 2" renderer & audio reverse engineered.  Runs on Amigas with RTG.  Also comes with SDL bindings so it can be run on PC. |
-| [Super ZZT (Reconstruction of Super ZZT)](https://github.com/asiekierka/reconstruction-of-super-zzt) | DOS | 45 | 2.45 | 2025-06-30 | ✅ | The Reconstruction of Super ZZT |
+| [Super ZZT (Reconstruction of Super ZZT)](https://github.com/asiekierka/reconstruction-of-super-zzt) | DOS | 46 | 2.45 | 2025-06-30 | ✅ | The Reconstruction of Super ZZT |
 | [Grand Theft Auto IV (LibertyFlux)](https://github.com/monstercameron/LibertyFlux) | Xbox 360 | 24 | 2.45 | 2026-10-12 | — | Grand Theft Auto IV's engine, being rewritten in Rust one function at a time by AI agents, for 64-bit Windows, Windows on ARM and macOS. Contains no… |
 | [Ghosts And Graves](https://github.com/AnthonyBongers/GhostsAndGraves) | NES | 21 | 2.45 | 2025-11-22 | ✅ | Ghosts and Graves is a Tents And Trees demake in 6502 assembly for the NES. |
 | [Ultima Online (uo-client)](https://github.com/xrip/uo-client) | PC | 21 | 2.45 | 2026-06-01 | ✅ | Ultima Online T2A client recreated from Origin's 2.0.7 client decompilation |
+| [Baroque (Baroque-Decomp)](https://github.com/Arch61s/Baroque-Decomp) | PS2 | 20 | 2.45 | 2026-10-18 | ✅ | A faithful decompilation for Baroque 2004 with added QOL features and keyboard controls. |
 | [Fallout Tactics: Brotherhood of Steel (FTSE)](https://github.com/melindil/FTSE) | PC | 19 | 2.45 | 2026-03-27 | ✅ | Fallout Tactics Scripting Engine |
-| [Baroque (Baroque-Decomp)](https://github.com/Arch61s/Baroque-Decomp) | PS2 | 18 | 2.45 | 2026-10-18 | ✅ | A faithful decompilation for Baroque 2004 with added QOL features and keyboard controls. |
 | [Jackal (UEFI_Jackal)](https://github.com/MikeWuPing/UEFI_Jackal) | Arcade | 16 | 2.45 | 2026-07-22 | ✅ | UEFI Shell 环境下用 C 语言完整复刻红白机游戏《赤色要塞》（Jackal）：不模拟 NES 硬件，而是把原游戏的 6502 反汇编逐行翻译成平台无关的 C 核心，再以 UEFI GOP 做图形输出、UEFI 服务做输入与定时，在 QEMU（或真实 UEFI 环境）中原生运行 |
 | [Evo's Space Adventures](https://github.com/mkst/esa) | PS1 | 14 | 2.45 | 2026-05-10 | ✅ | Evo's Space Adventures for PSX. A proof of concept, matching PSX decompilation, leveraging tools from N64 decomp projects. |
 | [DOMA Days](https://github.com/iestyn129/DOMADays) | — | 3 | 2.45 | 2025-11-07 | ✅ | A decompilation of the Big Blue Bubble game `DOMA Days` (v1.01). |
@@ -382,7 +385,7 @@
 | [Arcanum: Of Steamworks and Magick Obscura (Arcanum Community Edition)](https://github.com/alexbatalov/arcanum-ce) | PC | 180 | 2.4 | 2026-05-13 | — | Arcanum for modern operating systems |
 | [Banjo-Tooie](https://github.com/Mr-Wiseguy/banjo-tooie) | N64 | 156 | 2.4 | 2025-11-29 | — | WIP Banjo Tooie Decompilation w/ Splat |
 | [Xenoblade](https://github.com/xbret/xenoblade) | Wii | 152 | 2.4 | 2026-06-28 | — | Decompilation of Xenoblade (JP) |
-| [Shadow of the Colossus](https://github.com/Fantaskink/SOTC) | PS2 | 150 | 2.4 | 2026-02-15 | — | An  in-progress decompilation of the preview version of Shadow of the Colossus on the PlayStation 2 |
+| [Shadow of the Colossus](https://github.com/Fantaskink/SOTC) | PS2 | 149 | 2.4 | 2026-02-15 | — | An  in-progress decompilation of the preview version of Shadow of the Colossus on the PlayStation 2 |
 | [Zuma Deluxe](https://github.com/alula/CircleShootApp) | PC | 105 | 2.4 | 2025-12-06 | — | Zuma Deluxe (1.0.0) decompilation |
 | [Lode Runner (lode_runner_reveng (literate programming))](https://github.com/XekriRedmane/lode_runner_reveng) | Apple II | 98 | 2.4 | 2026-07-09 | — | Reverse engineering of Lode Runner for the Apple II series |
 | [Pizza Tower](https://github.com/femloy/OpenTower) | — | 91 | 2.4 | 2026-01-24 | — | The good Pizza Tower decompilation by the most innocent person you know |
@@ -390,7 +393,7 @@
 | [Star Fox Adventures (Retail)](https://github.com/zcanann/SFA-Decomp) | GameCube | 84 | 2.4 | 2026-11-03 | — | Decomp of Star Fox Adventures for the GameCube |
 | [DX-Ball (dx-ball (REA showcase))](https://github.com/N0zoM1z0/dx-ball) | PC | 83 | 2.4 | 2026-10-31 | — | Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles. |
 | [Yoshi's Story](https://github.com/decompals/yoshis-story) | N64 | 83 | 2.4 | 2026-04-19 | — | In-progress decompilation of Yoshi's Story |
-| [Xenogears (non-matching)](https://github.com/yaz0r/Noah) | PS1 | 80 | 2.4 | 2026-04-22 | — | Decompilation of Xenogears. |
+| [Xenogears (non-matching)](https://github.com/yaz0r/Noah) | PS1 | 81 | 2.4 | 2026-04-22 | — | Decompilation of Xenogears. |
 | [Halo Reach](https://github.com/ChimpsAtSea/Reach) | Xbox 360 | 75 | 2.4 | 2026-07-31 | — | Halo: Reach Reverse Engineering Project |
 | [Pokémon Red and Blue (pokemon-claude-red)](https://github.com/levy-street/pokemon-claude-red) | Game Boy | 73 | 2.4 | 2026-09-30 | — | Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser. |
 | [MediEvil](https://github.com/MediEvilDecompilation/medievil-decomp) | PS1 | 72 | 2.4 | 2026-02-23 | — | Decompilation of MediEvil 1 |
@@ -401,83 +404,80 @@
 | [Maniac Mansion](https://github.com/pditincho/mm-explained) | Commodore 64/8-bit | 50 | 2.4 | 2025-12-11 | — | Maniac Mansion C64 explained |
 | [Harvest Moon: Friends Of Mineral Town](https://github.com/StanHash/fomt) | GBA | 47 | 2.4 | 2026-02-08 | — | Decompilation of Harvest Moon (Story of Seasons): Friends of Mineral Town |
 | [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) | N64 | 46 | 2.4 | 2026-11-06 | — |  |
+| [Digimon World 3](https://github.com/markisha64/ddw3) | PS1 | 46 | 2.4 | 2026-04-06 | — | Digimon world 3/2003 decompilation |
 | [Fire Emblem: The Binding Blade](https://github.com/StanHash/fe6) | GBA | 46 | 2.4 | 2026-07-11 | — | Continued at https://github.com/FireEmblemUniverse/fireemblem6j |
-| [Digimon World 3](https://github.com/markisha64/ddw3) | PS1 | 45 | 2.4 | 2026-04-06 | — | Digimon world 3/2003 decompilation |
 | [Sinistar](https://github.com/synamaxmusic/sinistar) | Arcade | 45 | 2.4 | 2025-11-16 | — | A source code rewrite to the 1983 arcade game. |
 | [Jurassic Park: Operation Genesis](https://github.com/AdventureT/OpenJPOG) | PC | 44 | 2.4 | 2026-01-20 | — | Decompilation of Jurassic Park: Operation Genesis (JPOG) and the Toshi Engine version 1.0. |
+| [The Legend of Zelda: The Wind Waker HD (wwhd (verified decompilation))](https://github.com/ZeldaWWHDDecomp/wwhd) | Wii U | 43 | 2.4 | 2026-11-03 | — |  |
 | [Resident Evil - Code: Veronica](https://github.com/fmil95/recv-dc-decomp) | Dreamcast | 41 | 2.4 | 2026-01-20 | — | Decompilation project of Resident Evil - Code: Veronica (DC) which aims to reconstruct the source code of the game. |
-| [The Legend of Zelda: The Wind Waker HD (wwhd (verified decompilation))](https://github.com/ZeldaWWHDDecomp/wwhd) | Wii U | 41 | 2.4 | 2026-11-03 | — |  |
 | [Carmageddon (dethrace-ported-to-web)](https://github.com/Carter54git/dethrace-ported-to-web) | DOS | 39 | 2.4 | 2026-07-05 | — | Reverse engineering the 1997 game "Carmageddon" ported to web browser |
 | [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug) | GameCube | 39 | 2.4 | 2026-02-04 | — |  |
 | [Resident Evil - Code: Veronica X (recvx-gc-decomp)](https://github.com/fmil95/recvx-gc-decomp) | PS2 | 38 | 2.4 | 2026-08-05 | — | Decompilation project of Resident Evil - Code: Veronica X (GC) which aims to reconstruct the source code of the game. |
+| [Shadow of the Colossus (sotc-decomp)](https://github.com/TheRealestNwah/sotc-decomp) | PS2 | 37 | 2.4 | 2026-11-07 | — | Matching decompilation of Shadow of the Colossus (PS2, NTSC-U) aiming for a native PC port |
 | [Bomberman 64](https://github.com/Bomberhackers/bm64) | N64 | 36 | 2.4 | 2026-03-08 | — |  |
 | [Resident Evil Outbreak File #2 (REOF2)](https://github.com/caprado/REOF2) | PS2 | 35 | 2.4 | 2026-05-26 | — | PS2 Resident Evil Outbreak File #2 decompilation and preservation project |
 | [Ico](https://github.com/RossyDoubleUnderscore/ICO-decomp) | PS2 | 34 | 2.4 | 2026-01-08 | — | Decompilation project for the PS2 game ICO, targeting 1:1 matching |
-| [Shadow of the Colossus (sotc-decomp)](https://github.com/TheRealestNwah/sotc-decomp) | PS2 | 34 | 2.4 | 2026-11-06 | — | Matching decompilation of Shadow of the Colossus (PS2, NTSC-U) aiming for a native PC port |
+| [Gauntlet Legends](https://github.com/Drahsid/gauntlet-legends) | Arcade | 33 | 2.4 | 2026-04-30 | — | in-progress decompilation of Gauntlet Legends for the N64 |
 | [Yakuza](https://github.com/Hamzaxx370/Ogre-Decomp) | PS2 | 33 | 2.4 | 2026-07-15 | — | Yakuza 1 Decompilation |
 | [AeroGauge](https://github.com/LLONSIT/AeroGauge) | N64 | 32 | 2.4 | 2026-01-23 | — | Decompilation of a speedy game ! |
 | [FUEL](https://github.com/widberg/FUELDecompilation) | PC | 32 | 2.4 | 2026-03-14 | — | A decompilation project for the video game FUEL (2009) by Asobo Studio |
-| [Gauntlet Legends](https://github.com/Drahsid/gauntlet-legends) | Arcade | 32 | 2.4 | 2026-04-30 | — | in-progress decompilation of Gauntlet Legends for the N64 |
 | [Mario Party 7](https://github.com/mariopartyrd/marioparty7) | GameCube | 32 | 2.4 | 2026-06-03 | — |  |
 | [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit) | N64 | 31 | 2.4 | 2026-01-06 | — | F-Zero X Expansion Kit Decompilation |
 | [Castlevania: Aria of Sorrow](https://github.com/testyourmine/cvaos) | GBA | 30 | 2.4 | 2026-08-02 | — | Castlevania: Aria of Sorrow Decompilation |
 | [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/AKI-Club/vpw2) | N64 | 30 | 2.4 | 2026-03-26 | — | Virtual Pro-Wrestling 2 decompilation project. |
-| [Colin McRae Rally 2.0 (CMR2Decomp (pablocpas))](https://github.com/pablocpas/CMR2Decomp) | PS1 | 29 | 2.4 | 2026-11-02 | — | Matching decompilation of Colin McRae Rally 2.0 (PC, 2000), rebuilt with MSVC6 and verified byte-for-byte with reccmp. Playable; SDL3 port planned. |
-| [Gex 64: Enter the Gecko](https://github.com/MatBourgon/Gex64Decomp) | PS1 | 29 | 2.4 | 2026-09-03 | — | Decompilation of Gex 64 |
+| [Colin McRae Rally 2.0 (CMR2Decomp (pablocpas))](https://github.com/pablocpas/CMR2Decomp) | PS1 | 29 | 2.4 | 2026-11-07 | — | Matching decompilation of Colin McRae Rally 2.0 (PC, 2000), rebuilt with MSVC6 and verified byte-for-byte with reccmp. Playable; SDL3 port planned. |
 | [The Legend of Zelda: Ocarina of Time (oot-dc)](https://github.com/jnmartin84/oot-dc) | N64 | 29 | 2.4 | 2026-09-11 | — | A port of the Ocarina of Time decompilation to the Sega Dreamcast. |
 | [Gauntlet Dark Legacy](https://github.com/sabishii-bit/Gauntlet-Dark-Legacy-Decompilation) | Arcade | 28 | 2.4 | 2026-09-25 | — | Decompilation project of Gauntlet: Dark Legacy for the Nintendo Gamecube. |
 | [Mario Party 6](https://github.com/mariopartyrd/marioparty6) | GameCube | 28 | 2.4 | 2026-10-14 | — |  |
 | [Pokemon Moon](https://github.com/gradenGnostic/pokemoon) | 3DS | 28 | 2.4 | 2026-09-16 | — | Decompilation of Pokémon Moon |
-| [Spyro: Year of the Dragon (spyro-3)](https://github.com/TheMobyCollective/spyro-3) | PS1 | 28 | 2.4 | 2026-11-05 | — | Spyro: Year of the Dragon Decompilation Project |
-| [Tomba!](https://github.com/hansbonini/psx_tomba) | PS1 | 28 | 2.4 | 2026-11-06 | — | This is a WIP decompilation project of the Tomba! game (known as Ore! Tomba in Japan and Tombi! in Europe) for the original PlayStation. |
+| [Sid Meier's Civilization (civd)](https://github.com/sjmelia/civd) | DOS | 28 | 2.4 | 2026-11-04 | — | Reverse-engineered source code for the MS-DOS version of the 1991 game "Sid Meier's Civilization". |
+| [Spyro: Year of the Dragon (spyro-3)](https://github.com/TheMobyCollective/spyro-3) | PS1 | 28 | 2.4 | 2026-11-07 | — | Spyro: Year of the Dragon Decompilation Project |
+| [Tomba!](https://github.com/hansbonini/psx_tomba) | PS1 | 28 | 2.4 | 2026-11-07 | — | This is a WIP decompilation project of the Tomba! game (known as Ore! Tomba in Japan and Tombi! in Europe) for the original PlayStation. |
 | [Twisted Metal](https://github.com/OpenTrac/tm1_Re-Arc) | — | 28 | 2.4 | 2026-10-25 | — | Archaeology & source code reconstruction project for Twisted Metal (1995) (NTSC-J) |
 | [Eternal Darkness: Sanity's Requiem (Eternal-Darkness---Decompile)](https://github.com/psdwizzard/Eternal-Darkness---Decompile) | GameCube | 27 | 2.4 | 2026-11-04 | — | Matching decompilation of Eternal Darkness: Sanity's Requiem (GEDE01) — dtk/objdiff pipeline |
 | [Insaniquarium Deluxe (WinFish)](https://github.com/Vindirect/WinFish) | PC | 27 | 2.4 | 2026-10-08 | — | Insaniquarium Deluxe (1.1) decompilation |
 | [Pokemon Battle Revolution](https://github.com/pbr-ret/pbr-decomp) | Wii | 27 | 2.4 | 2026-11-02 | — | A matching decompilation project for Pokémon Battle Revolution. |
-| [Sid Meier's Civilization (civd)](https://github.com/sjmelia/civd) | DOS | 27 | 2.4 | 2026-11-04 | — | Reverse-engineered source code for the MS-DOS version of the 1991 game "Sid Meier's Civilization". |
 | [Jumping Flash](https://github.com/NotExactlySiev/aloha) | PS1 | 26 | 2.4 | 2026-11-04 | — | A decompilation and reverse engineering of Jumping Flash for PSX |
-| [The Incredibles](https://github.com/seilc/incredibles) | GameCube | 26 | 2.4 | 2026-11-04 | — | Decompilation project for The Incredibles (GameCube) |
+| [The Incredibles](https://github.com/seilc/incredibles) | GameCube | 26 | 2.4 | 2026-11-06 | — | Decompilation project for The Incredibles (GameCube) |
+| [The SpongeBob SquarePants Movie](https://github.com/bfbbdecomp/tssm) | GameCube | 26 | 2.4 | 2026-10-26 | — |  |
 | [Uridium (uridium (+ UridiumFraktion))](https://github.com/mwenge/uridium) | Commodore 64/8-bit | 26 | 2.4 | 2026-10-03 | — | Uridium (1986) by Andrew Braybrook |
 | [Zoids Legacy (ZoidsLegacyDecomp)](https://github.com/jmacato/ZoidsLegacyDecomp) | GBA | 26 | 2.4 | 2026-10-26 | — | Matched Decompilation of Zoids Legacy (USA) GBA game. |
-| [The SpongeBob SquarePants Movie](https://github.com/bfbbdecomp/tssm) | GameCube | 25 | 2.4 | 2026-10-26 | — |  |
 | [Twisted Metal: Black](https://github.com/OpenTrac/tmb_Re-Arc) | — | 25 | 2.4 | 2026-10-25 | — | Archaeology & source code reconstruction project for Twisted Metal: Black (2001) |
-| [Xenosaga Episode I: Der Wille zur Macht (xsg-i-decomp)](https://github.com/OpokXeno/xsg-i-decomp) | PS2 | 25 | 2.4 | 2026-11-05 | — | Matching decompilation of Xenosaga Episode I: Der Wille zur Macht for the PS2 |
 | [Crash Bandicoot: The Wrath of Cortex (PS2)](https://github.com/denzi-gh/crashwoc-decomp-ps2) | PS2 | 24 | 2.4 | 2026-11-03 | — | This is a WIP decompilation of Crash Bandicoot: The Wrath of Cortex for Playstation 2 |
-| [Ratchet: Deadlocked (rac-deadlocked-decomp (OpenRAC))](https://github.com/OpenRAC/rac4-decomp) | PS2 | 23 | 2.4 | 2026-11-06 | — | Matching decompilation of Ratchet: Deadlocked (2005, PS2) |
+| [Ratchet: Deadlocked (rac-deadlocked-decomp (OpenRAC))](https://github.com/OpenRAC/rac4-decomp) | PS2 | 23 | 2.4 | 2026-11-07 | — | Matching decompilation of Ratchet: Deadlocked (2005, PS2) |
 | [Stunts (Restunts)](https://github.com/4d-stunts/restunts) | DOS | 23 | 2.4 | 2026-08-13 | — | A clone of clvn's restunts SVN repository |
-| [Aliens versus Predator 2 (AVP2-Reconstructed)](https://github.com/lemiur/AVP2-Reconstructed) | PC | 22 | 2.4 | 2026-10-10 | — | Reconstruction of AVP2 |
+| [Aliens versus Predator 2 (AVP2-Reconstructed)](https://github.com/lemiur/AVP2-Reconstructed) | PC | 22 | 2.4 | 2026-11-06 | — | Reconstruction of AVP2 |
 | [Blast Corps](https://github.com/SlaveOfIDO/blastcorps) | N64 | 22 | 2.4 | 2026-10-22 | — |  |
 | [Crash Bandicoot: XS (The Huge Adventure)](https://github.com/Almamu/CrashBandicootXS-decomp) | GBA | 22 | 2.4 | 2026-10-21 | — |  |
-| [F-Zero GX (karamzov123)](https://github.com/karamzov123/fzero-gx-decomp) | GameCube | 22 | 2.4 | 2026-11-06 | — | F-Zero GX NTSC-U matching decompilation (GFZE01) |
+| [F-Zero GX (karamzov123)](https://github.com/karamzov123/fzero-gx-decomp) | GameCube | 22 | 2.4 | 2026-11-07 | — | F-Zero GX NTSC-U matching decompilation (GFZE01) |
 | [New Play Control! Pikmin 2](https://github.com/projectPiki/pik2wii) | Wii | 22 | 2.4 | 2026-10-12 | — | A decompilation of New Play Control! Pikmin 2 (USA) brought to you by fans of the series. |
+| [SSX](https://github.com/ssxdecomp/ssx) | PS2 | 22 | 2.4 | 2026-10-06 | — | Decompilation of SSX (2000). |
 | [Animal Crossing: Wild World (acww-decomp)](https://github.com/7ucina/acww-decomp) | DS | 21 | 2.4 | 2026-10-14 | — | Matching decompilation of Animal Crossing: Wild World (Nintendo DS, USA) |
-| [Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!](https://github.com/CacaBueno64/ie3ogres) | DS | 21 | 2.4 | 2026-11-05 | — | Decompilation of Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!! (nds) |
+| [Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!!](https://github.com/CacaBueno64/ie3ogres) | DS | 21 | 2.4 | 2026-11-06 | — | Decompilation of Inazuma Eleven 3 - Sekai e no Chousen: The Ogre!! (nds) |
 | [King's Field: The Ancient City (kfiv-decomp)](https://github.com/Voicedrew11/kfiv-decomp) | PS2 | 21 | 2.4 | 2026-10-21 | — | Decompilation of "King's Field: The Ancient City" |
 | [Psychonauts (psychonauts-decomp)](https://github.com/DrDecki/psychonauts-decomp) | PC | 21 | 2.4 | 2026-10-26 | — | A decompilation of Psychonauts |
-| [SSX](https://github.com/ssxdecomp/ssx) | PS2 | 21 | 2.4 | 2026-10-06 | — | Decompilation of SSX (2000). |
 | [Star Wars: Rogue Squadron](https://github.com/Tmcg2/rogue_squadron64) | N64 | 21 | 2.4 | 2026-11-02 | — | The beginning of a Rogue Squadron decompilation project |
 | [Klonoa: Empire of Dreams (kleod)](https://github.com/testyourmine/kleod) | GBA | 20 | 2.4 | 2026-11-06 | — | Decompilation of Klonoa: Empire of Dreams |
 | [Twisted Metal: Harbor City](https://github.com/jacobleeharris/tmhc) | PS2 | 20 | 2.4 | 2026-08-30 | — | Matching decompilation of Twisted Metal: Harbor City (PS2) |
 | [Beetle Adventure Racing!](https://github.com/synamaxmusic/bar-decomp) | N64 | 19 | 2.4 | 2026-10-20 | — | Decompilation of Beetle Adventure Racing! |
+| [Mortal Kombat: Deception](https://github.com/ShulkMaster/mk-deception) | PS2 | 19 | 2.4 | 2026-11-07 | — | Decomp of Mortal Kombat Deception for the Gamecube |
 | [Space Rangers (SpaceRangers1_decomp)](https://github.com/pakompom/SpaceRangers1_decomp) | PC | 19 | 2.4 | 2026-09-29 | — | A matching Delphi decompilation of Space Rangers 1 - Космические рейнджеры |
 | [Wii Play (Rhae)](https://github.com/akiramusic000/Rhae) | Wii | 19 | 2.4 | 2026-10-03 | — | Decompilation of Wii Play (RHAE01) |
 | [1080° Snowboarding](https://github.com/djsaunde/1080-decomp) | N64 | 18 | 2.4 | 2026-11-06 | — |  |
 | [Digimon World 3 (Digimon World 3 decompilation)](https://github.com/ReGame-Labs/dw3_decomp) | PS1 | 18 | 2.4 | 2026-10-16 | — | Digimon World 3 (2003) |
 | [Kirby: Nightmare in Dream Land (knidl)](https://github.com/overjt/knidl) | GBA | 18 | 2.4 | 2026-10-05 | — |  |
+| [Luigi's Mansion (lm-decomp)](https://github.com/SomeJakeGuy/lm-decomp) | GameCube | 18 | 2.4 | 2026-10-26 | — | A decompilation of Luigi's Mansion brought to you by a bunch of clever folks. |
 | [Magic: The Gathering (microprose-shandalar-source)](https://github.com/benprew/microprose-shandalar-source) | PC | 18 | 2.4 | 2026-09-01 | — | A decompilation of the original Microprose Magic the Gathering game aka Shandalar |
-| [Mortal Kombat: Deception](https://github.com/ShulkMaster/mk-deception) | PS2 | 18 | 2.4 | 2026-10-18 | — | Decomp of Mortal Kombat Deception for the Gamecube |
 | [Phoenix Wright: Ace Attorney – Justice for All](https://github.com/atasro2/pwaa2) | GBA | 18 | 2.4 | 2026-09-12 | — | A Decompilation of Gyakuten Saiban 2 (Japan) |
 | [Pokepark Wii: Pikachu's Adventure](https://github.com/SephDB/pokepark-wii-decomp) | Wii | 18 | 2.4 | 2026-10-03 | — |  |
 | [Sonic Adventure 2: Battle](https://github.com/roeming/SA2B) | GameCube | 18 | 2.4 | 2026-10-07 | — | A WIP decomp of Sonic Adventure 2: Battle for GameCube |
-| [Star Ocean: Till the End of Time (so3-decomp)](https://github.com/celophi/so3-decomp) | PS2 | 18 | 2.4 | 2026-11-05 | — | Matching decompilation of Star Ocean: Till the End of Time (PS2) |
+| [Star Ocean: Till the End of Time (so3-decomp)](https://github.com/celophi/so3-decomp) | PS2 | 18 | 2.4 | 2026-11-07 | — | Matching decompilation of Star Ocean: Till the End of Time (PS2) |
 | [Tiger Woods PGA Tour 2004](https://github.com/mitsevox/tw2004) | GameCube | 18 | 2.4 | 2026-10-28 | — | Tiger Woods PGA Tour 2004 (GameCube, 2003) decompilation |
 | [Crash Tag Team Racing](https://github.com/bluisblu/cttr) | GameCube | 17 | 2.4 | 2026-10-15 | — | Decompilation of Crash Tag Team Racing (US) for Gamecube |
 | [Disney Piglet's Big Game](https://github.com/tgsm/pbg) | GameCube | 17 | 2.4 | 2026-10-27 | — | Decompilation of Piglet's Big Game (GC) |
 | [Dog's Life](https://github.com/IWILLCRAFT-M0d/dogcomp) | PS2 | 17 | 2.4 | 2026-11-03 | — | Dog's Life Decompilation Project. |
 | [Dragon Quest IV](https://github.com/GoldieLeGenie/DQIV-DECOMP) | DS | 17 | 2.4 | 2026-10-18 | — | Decompilation project for Dragon Quest IV Nintendo DS using dsd |
 | [Fire Emblem: Shadow Dragon](https://github.com/Eebit/fe11-us) | DS | 17 | 2.4 | 2026-11-02 | — |  |
-| [Luigi's Mansion (lm-decomp)](https://github.com/SomeJakeGuy/lm-decomp) | GameCube | 17 | 2.4 | 2026-10-26 | — | A decompilation of Luigi's Mansion brought to you by a bunch of clever folks. |
-| [Marvel vs. Capcom 2](https://github.com/g-guthrie/mvc2-ps2-decomp) | Arcade | 17 | 2.4 | 2026-11-05 | — |  |
 | [Resident Evil Outbreak (Biohazard Outbreak decomp)](https://github.com/GalaxyNostalgia/Outbreak-decomp) | PS2 | 17 | 2.4 | 2026-11-05 | — | Biohazard: outbreak decomp |
 | [Zuma Deluxe (ZumaTAS)](https://github.com/9933fa/Zuma-Deluxe-TAS) | PC | 17 | 2.4 | 2026-11-04 | — | A line-by-line JavaScript port of Zuma Deluxe based on the decompilation with Claude TAS of the whole Adventure mode |
 | [Crash Bandicoot: The Wrath of Cortex (crashwoc-decomp-gc)](https://github.com/denzi-gh/crashwoc-decomp-gc) | PS2 | 16 | 2.4 | 2026-10-27 | — | This is a WIP decompilation of Crash Bandicoot: The Wrath of Cortex for GameCube. |
@@ -485,63 +485,65 @@
 | [Fable: The Lost Chapters (FableDecomp)](https://github.com/BuffJesus/FableDecomp) | PC | 16 | 2.4 | 2026-10-24 | — | Evidence-gated reconstruction of Fable: The Lost Chapters for native 32-bit Windows, with C/C++ recovery, verification, and modding research. |
 | [Kingdom Hearts Re:coded (khrecoded-decomp (Yokimitsuro))](https://github.com/Yokimitsuro/khrecoded-decomp) | DS | 16 | 2.4 | 2026-10-05 | — | Work-in-progress matching decompilation of Kingdom Hearts Re:coded (Nintendo DS) |
 | [Mario & Luigi - Partners in Time](https://github.com/Rainchus/PartnersInTime-Decomp) | DS | 16 | 2.4 | 2026-09-29 | — |  |
-| [Silent Hill 2 (mirror of alessa (SH2 engine))](https://github.com/dreamingmoths/mirror-of-alessa) | PS2 | 16 | 2.4 | 2026-11-06 | — | Artifact mirror for the Memory of Alessa project |
-| [Animal Crossing: New Leaf - Welcome amiibo](https://github.com/RedShyGuy/acnl-decomp) | 3DS | 15 | 2.4 | 2026-11-06 | — | WIP Decompilation of Animal Crossing: New Leaf - Welcome amiibo (3DS, USA, version 1.5). |
+| [Silent Hill 2 (mirror of alessa (SH2 engine))](https://github.com/dreamingmoths/mirror-of-alessa) | PS2 | 16 | 2.4 | 2026-11-07 | — | Artifact mirror for the Memory of Alessa project |
+| [Animal Crossing: New Leaf - Welcome amiibo](https://github.com/RedShyGuy/acnl-decomp) | 3DS | 15 | 2.4 | 2026-11-07 | — | WIP Decompilation of Animal Crossing: New Leaf - Welcome amiibo (3DS, USA, version 1.5). |
 | [Gran Turismo 3: A-Spec (gt3-decomp)](https://github.com/gustavocanepa/gt3-decomp) | PS2 | 15 | 2.4 | 2026-10-16 | — | Matching decompilation of Gran Turismo 3: A-Spec (PS2), sister project of the Gran Turismo 4 decompilation |
 | [Need for Speed: Underground 2 (nfsu2-decomp)](https://github.com/cobanov/nfsu2-decomp) | PC | 15 | 2.4 | 2026-10-09 | — | Educational matching decompilation of Need for Speed: Underground 2 (GameCube + PC), aiming at a native PC port |
-| [Silent Storm (Silent Storm source reconstruction)](https://github.com/met-nikita/Silent-Storm-Reconstruction) | PC | 15 | 2.4 | 2026-11-04 | — | Silent Storm source reconstruction |
+| [Silent Storm (Silent Storm source reconstruction)](https://github.com/met-nikita/Silent-Storm-Reconstruction) | PC | 15 | 2.4 | 2026-11-06 | — | Silent Storm source reconstruction |
 | [Sonic the Hedgehog (2006)](https://github.com/rjkiv/sonic06) | Xbox 360 | 15 | 2.4 | 2026-10-31 | — | A decompilation of Sonic the Hedgehog (2006). |
 | [SpongeBob Moves In!](https://github.com/Juanen100/SBMI-Decomp) | Mobile | 15 | 2.4 | 2026-09-01 | — | A decompilation of the Android client of SpongeBob Moves In! |
 | [The Legend of Zelda: Spirit Tracks](https://github.com/Yanis002/st) | DS | 15 | 2.4 | 2026-11-05 | — | Decompilation of The Legend of Zelda: Spirit Tracks |
 | [Kirby's Dream Collection - Special Edition](https://github.com/Swiftshine/kdc) | Wii | 14 | 2.4 | 2026-10-31 | — | Kirby's Dream Collection |
 | [Megami Ibunroku Persona](https://github.com/daanhenke/persona-psx) | PS1 | 14 | 2.4 | 2026-10-03 | — |  |
 | [New Play Control! Pikmin](https://github.com/projectPiki/pik1wii) | Wii | 14 | 2.4 | 2026-10-24 | — | A decompilation of New Play Control! Pikmin 1 (USA) brought to you by fans of the series. |
-| [Yu-Gi-Oh! Forbidden Memories (memories-decomp)](https://github.com/krystalgamer/memories-decomp) | PS1 | 14 | 2.4 | 2026-11-06 | — | Yu-Gi-Oh! Foribidden Memories decompilation (all regions) |
+| [Yu-Gi-Oh! Forbidden Memories (memories-decomp)](https://github.com/krystalgamer/memories-decomp) | PS1 | 14 | 2.4 | 2026-11-07 | — | Yu-Gi-Oh! Foribidden Memories decompilation (all regions) |
 | [Alice in Wonderland](https://github.com/Alice-2010/Decomp) | Wii | 13 | 2.4 | 2026-10-22 | — | A decompilation of Alice in Wonderland (Wii 2010) by Étranges Libellules |
+| [Chameleon Twist](https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP) | N64 | 13 | 2.4 | 2026-09-26 | — |  |
 | [Halo 2 (Halo-2-Decompiled)](https://github.com/TheRunaway5/Halo-2-Decompiled) | Xbox | 13 | 2.4 | 2026-11-02 | — |  |
 | [Mario & Luigi: Dream Team (MILLI4C)](https://github.com/Mario-and-Luigi-3Ds-R-D/MILLI4C) | 3DS | 13 | 2.4 | 2026-08-12 | — | A starting work in progress decomp of Mario & Luigi Dream Team [1.0 US REV0] [TitleID: 00040000000D5A00]] |
 | [Prototype (prototype-decomp)](https://github.com/pablopenna/prototype-decomp) | PC | 13 | 2.4 | 2026-10-18 | — | a prototype decomp |
 | [Sonic Battle](https://github.com/cypressru/SonicBattleDecomp) | GBA | 13 | 2.4 | 2026-09-16 | — | Matching decompilation of Sonic Battle for Game Boy Advance |
 | [Sonic Mania (Sonic-Mania-25MB)](https://github.com/ThisKwasior/Sonic-Mania-25MB) | PC | 13 | 2.4 | 2026-08-23 | — | RSDKv5 and Sonic Mania decompilation with added VP9 video and OPUS audio capabilities to make the game 25MB |
 | [WarioWare, Inc.: Mega Microgames!](https://github.com/ShaffySwitcher/wariowareinc) | GBA | 13 | 2.4 | 2026-10-30 | — | WarioWare, Inc. GBA decompilation |
-| [Chameleon Twist](https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP) | N64 | 12 | 2.4 | 2026-09-26 | — |  |
-| [LEGO Star Wars: The Video Game (lsw1-decomp)](https://github.com/ellierocks/lsw1-decomp) | GameCube | 12 | 2.4 | 2026-11-04 | — | A work-in-progress decompilation of LEGO Star Wars: The Video Game for the Nintendo GameCube. |
-| [Spyro 2: Ripto's Rage!](https://github.com/TheMobyCollective/spyro-2) | PS1 | 12 | 2.4 | 2026-10-25 | — | Spyro 2 decompilation project |
+| [LEGO Star Wars: The Video Game (lsw1-decomp)](https://github.com/ellierocks/lsw1-decomp) | GameCube | 12 | 2.4 | 2026-11-07 | — | A work-in-progress decompilation of LEGO Star Wars: The Video Game for the Nintendo GameCube. |
+| [Spyro 2: Ripto's Rage!](https://github.com/TheMobyCollective/spyro-2) | PS1 | 12 | 2.4 | 2026-11-06 | — | Spyro 2 decompilation project |
 | [SSX Tricky](https://github.com/ssxdecomp/ssxtricky) | — | 12 | 2.4 | 2026-10-27 | — | A work-in-progress matching decompilation of SSX Tricky (2001). |
-| [Turok 2: Seeds of Evil (turok2-decomp (mgrz18))](https://github.com/mgrz18/turok2-decomp) | N64 | 12 | 2.4 | 2026-11-05 | — | Work-in-progress decompilation of Turok 2: Seeds of Evil (N64). Stepping stone toward native macOS/Android ports of the Acclaim Studios London engine. |
+| [Turok 2: Seeds of Evil (turok2-decomp (mgrz18))](https://github.com/mgrz18/turok2-decomp) | N64 | 12 | 2.4 | 2026-11-06 | — | Work-in-progress decompilation of Turok 2: Seeds of Evil (N64). Stepping stone toward native macOS/Android ports of the Acclaim Studios London engine. |
 | [Crackdown 2](https://github.com/matty45/Crackdown2-Decomp) | Xbox 360 | 11 | 2.4 | 2026-11-06 | — | Crackdown 2 - byte matching decomp. |
 | [F-Zero GX (rayanht)](https://github.com/rayanht/fzgx) | GameCube | 11 | 2.4 | 2026-09-16 | — |  |
 | [LEGOLAND](https://github.com/marijnvdwerf/legoland) | PC | 11 | 2.4 | 2026-09-26 | — |  |
 | [Mario Kart Wii (mkw)](https://github.com/vabold/mkw) | Wii | 11 | 2.4 | 2026-09-19 | — |  |
-| [Medal of Honor: Rising Sun (moh-rising-sun)](https://github.com/lifewillbeokay/moh-rising-sun) | GameCube | 11 | 2.4 | 2026-11-06 | — | Matching decompilation of Medal of Honor: Rising Sun (GameCube, USA / GR8E69). AI-assisted contributors welcome. |
+| [Medal of Honor: Rising Sun (moh-rising-sun)](https://github.com/lifewillbeokay/moh-rising-sun) | GameCube | 11 | 2.4 | 2026-11-07 | — | Matching decompilation of Medal of Honor: Rising Sun (GameCube, USA / GR8E69). AI-assisted contributors welcome. |
 | [Super Mario Galaxy (MacioGalaxy)](https://github.com/classicrob/MacioGalaxy) | Wii | 11 | 2.4 | 2026-10-23 | — | Unofficial native macOS (Apple Silicon) port of Super Mario Galaxy, built on the Petari decompilation. Bring your own disc. |
-| [Digimon World 4](https://github.com/ivanno4317/dw4-gc) | GameCube | 10 | 2.4 | 2026-11-04 | — |  |
+| [Animal Crossing: Wild World](https://github.com/banatic/acww-decomp) | DS | 10 | 2.4 | 2026-11-07 | — | Matching decompilation of Animal Crossing: Wild World (Korea, NDS) ARM9 game code |
+| [Azure Dreams](https://github.com/forestbelton/azure) | — | 10 | 2.4 | 2026-11-04 | — | WIP decompilation of Azure Dreams |
+| [Digimon World 4](https://github.com/ivanno4317/dw4-gc) | GameCube | 10 | 2.4 | 2026-11-06 | — |  |
 | [Eternal Darkness: Sanity's Requiem](https://github.com/PattyTrish/unending-occlusion) | GameCube | 10 | 2.4 | 2026-10-16 | — |  |
 | [Yu-Gi-Oh! 5D's Tag Force 5 (ygo-tf-5-decomp)](https://github.com/angelof-exe/ygo-tf-5-decomp) | PSP | 10 | 2.4 | 2026-08-16 | — | decompilation of Yu-Gi-Oh! 5D's Tag Force 5 (PSP, ULES-01474) |
-| [Azure Dreams](https://github.com/forestbelton/azure) | — | 9 | 2.4 | 2026-11-04 | — | WIP decompilation of Azure Dreams |
 | [Custom Robo GX](https://github.com/pizdex/robogx) | — | 9 | 2.4 | 2026-10-20 | — | Decompilation of Custom Robo GX |
 | [Cut The Rope](https://github.com/Bingies24/cuttherope-dx) | — | 9 | 2.4 | 2026-10-09 | — | Fork of a CtRDX developer that may expand beyond 3.X.X. If you want this fork taken down for any reason, please send a message using a contact method… |
 | [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/adipocira/doraemon1) | — | 9 | 2.4 | 2026-10-25 | — |  |
+| [KKND: Krush Kill 'n Destroy](https://github.com/Wyrelade/KKND-Decomp) | DOS | 9 | 2.4 | 2026-09-24 | — | Matching decompilation of KKND: Krush Kill 'n Destroy (DOS, 1997) - Watcom C, byte-identical rebuild |
 | [Rugrats: Scavenger Hunt](https://github.com/TheGh0stShip/Rugrats-Scavenger-Hunt) | N64 | 9 | 2.4 | 2026-10-26 | — | Matching decompilation of Rugrats: Scavenger Hunt for Nintendo 64 (USA Rev 0) |
 | [Beyblade VForce: Ultimate Blader Jam](https://github.com/marijnvdwerf/gba-beyblade-vforce) | GBA | 8 | 2.4 | 2026-09-24 | — |  |
-| [KKND: Krush Kill 'n Destroy](https://github.com/Wyrelade/KKND-Decomp) | DOS | 8 | 2.4 | 2026-09-24 | — | Matching decompilation of KKND: Krush Kill 'n Destroy (DOS, 1997) - Watcom C, byte-identical rebuild |
 | [Shaun Palmer's Pro Snowboarder](https://github.com/Daniel-McCarthy/SPPS) | — | 8 | 2.4 | 2026-10-12 | — |  |
 | [Team Buddies](https://github.com/hcbt/tbuddies-decomp) | — | 8 | 2.4 | 2026-09-15 | — | Team Buddies (SLUS-008.69) matching decompilation |
 | [Wonder Project J2: Josette of the Corlo Forest](https://github.com/LLONSIT-glitch/wonder) | N64 | 8 | 2.4 | 2026-09-03 | — | A work in progress decompilation of Wonder Project J2 |
-| [Bomberman Land Touch 2](https://github.com/gamemasterplc/bltouch2) | DS | 7 | 2.4 | 2026-10-24 | — | A reverse engineered implementation of "Bomberman Land Touch 2" for the Nintendo DS |
+| [Bomberman Land Touch 2](https://github.com/gamemasterplc/bltouch2) | DS | 7 | 2.4 | 2026-11-07 | — | A reverse engineered implementation of "Bomberman Land Touch 2" for the Nintendo DS |
+| [Chameleon Twist 2](https://github.com/chameleonTwistRet/chameleonTwist2v1.0-JP) | — | 7 | 2.4 | 2026-09-13 | — |  |
 | [Frogger's Adventures: Temple of the Frog](https://github.com/JRickey/frog-adv-temple-decomp) | — | 7 | 2.4 | 2026-09-08 | — | A work in progress matching decompilation of Frogger's Adventures - Temple of the Frog |
 | [Tony Hawk's Pro Skater 2 Demo](https://github.com/emoluvjd2/thps2-demo-decomp) | — | 7 | 2.4 | 2026-10-12 | — | WIP Decomplication of the competition demo for Tony Hawk's Pro Skater 2 |
-| [Chameleon Twist 2](https://github.com/chameleonTwistRet/chameleonTwist2v1.0-JP) | — | 6 | 2.4 | 2026-09-13 | — |  |
 | [Kinect Sports](https://github.com/SebaaMG/Kinect-Sports-Decomp) | Xbox 360 | 6 | 2.4 | 2026-09-30 | — | Matching decompilation of Kinect Sports for Xbox 360. |
 | [Nintendo Puzzle Collection: Dr. Mario 64](https://github.com/NewGBAXL/drmario64-gc) | GameCube | 6 | 2.4 | 2026-08-10 | — | Dr. Mario 64 (Nintendo Puzzle Collection) decomp |
-| [Toy Story 2](https://github.com/woodys-workshop/toy2-pc-decomp) | PC | 6 | 2.4 | 2026-11-05 | — | A faithful Toy Story 2: Buzz Lightyear to the Rescue PC decompilation. |
+| [Toy Story 2](https://github.com/woodys-workshop/toy2-pc-decomp) | PC | 6 | 2.4 | 2026-11-07 | — | A faithful Toy Story 2: Buzz Lightyear to the Rescue PC decompilation. |
 | [Wild 9](https://github.com/plinkr/Wild9-Decompilation) | PS1 | 6 | 2.4 | 2026-11-04 | — | Matching decompilation of `Wild 9` for the Sony PlayStation 1, targeting the NTSC-U SLUS_004.25 executable, built with a reproducible GCC 2.8.1 PSX a… |
 | [Nagano Winter Olympics '98](https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64) | N64 | 5 | 2.4 | 2026-10-30 | — | Matching decompilation of Nagano Winter Olympics '98 (N64, USA Rev 0) with byte-verified code/data and audited ROM inventory |
 | [The Italian Job](https://github.com/dashr9230/Caper) | — | 5 | 2.4 | 2026-08-28 | — | A work-in-progress non-matching decompilation of The Italian Job (2001) video game |
 | [Zone of the Enders 3 (Guy Savage from Metal Gear Solid 3)](https://github.com/GirianSeed/zoe3) | — | 5 | 2.4 | 2026-09-20 | — | Work in progress. |
 | [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) | GameCube | 3 | 2.4 | 2026-08-12 | — | Chibi-Robo: PIA Decompilation |
 | [Creatures 2](https://github.com/adamcolquhoun/Creatures-2-Decompilation) | — | 3 | 2.4 | 2026-10-07 | — | The goal of this project is to reverse engineer Creatures 2 reproducing the 1:1 source code. |
-| [Excite Truck](https://github.com/orangedude27/excite-truck) | Wii | 3 | 2.4 | 2026-11-06 | — |  |
+| [Dark Rift](https://github.com/Unnunu/darkrift) | — | 3 | 2.4 | 2026-11-06 | — | Dark Rift Decomp Project |
+| [Excite Truck](https://github.com/orangedude27/excite-truck) | — | 3 | 2.4 | 2026-11-07 | — |  |
 | [HOVER!](https://github.com/Link4Electronics/FlyingDodgem) | — | 3 | 2.4 | 2026-10-20 | — | Decomp and native port of HOVER! |
 | [Stretch Panic](https://github.com/Harskov/stretch-panic-usa) | PS2 | 3 | 2.4 | 2026-11-04 | — | Matching decompilation of Stretch Panic (USA, SLUS_201.82) for PlayStation 2 |
 | [Chulip](https://github.com/aaaaaaaaaaway/chulip-decomp) | PS2 | 2 | 2.4 | 2026-09-29 | — | Matching decompilation of Chulip (USA) for PlayStation 2 |
@@ -568,10 +570,9 @@
 | [Cobra (Paul Hughes ZXSpectrumCobra)](https://github.com/Paulie68000/ZXSpectrumCobra) | ZX Spectrum | 47 | 2.2 | 2024-11-17 | — | Full reverse engineered source code of Jonathan "Joffa" Smith's Cobra |
 | [Klonoa 2: Lunatea's Veil](https://github.com/entriphy/kl2_lv_decomp) | PS2 | 45 | 2.2 | 2025-03-07 | — | Decompilation project for Klonoa 2: Lunatea's Veil (PS2) |
 | [Final Doom (PSXFINALDOOM-RE)](https://github.com/Erick194/PSXFINALDOOM-RE) | DOS | 41 | 2.2 | 2025-05-30 | — | Psx Final Doom Reverse Engineering By [GEC] |
-| [MapleStory (shroom95-decomp)](https://github.com/jon-zu/shroom95-decomp) | PC | 38 | 2.2 | 2025-07-11 | — |  |
+| [MapleStory (shroom95-decomp)](https://github.com/jon-zu/shroom95-decomp) | PC | 39 | 2.2 | 2025-07-11 | — |  |
 | [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) | N64 | 38 | 2.2 | 2025-07-13 | — | WIP Decompilation of the only anime game on N64 |
 | [Castlevania: Order of Ecclesia](https://github.com/LagoLunatic/ooe) | DS | 35 | 2.2 | 2025-05-04 | — | Decompilation of Castlevania: Order of Ecclesia |
-| [Final Fantasy VII (ff7-worldmap)](https://github.com/ergonomy-joe/ff7-worldmap) | PS1 | 31 | 2.2 | 2024-11-06 | — | FF7 world map engine (decompiled) |
 | [Metal Gear Solid: The Twin Snakes](https://github.com/GirianSeed/mgstts) | GameCube | 29 | 2.2 | 2026-06-29 | — | Work in progress. |
 | [Final Fantasy VII (q-gears_reverse)](https://github.com/Akari1982/q-gears_reverse) | PS1 | 28 | 2.2 | 2026-07-24 | — | Final fantasy and xenogears reverse data and code. |
 | [Mario Party 8](https://github.com/mariopartyrd/marioparty8) | Wii | 28 | 2.2 | 2026-05-01 | — |  |
@@ -579,23 +580,23 @@
 | [Fortnite (OT6-Reconstruction)](https://github.com/ApfelTeeSaft/OT6-Reconstruction) | PC | 25 | 2.2 | 2026-01-08 | — | Fortnite Alpha (2016, Online Test 6.5) Decompilation of Gameserver Specific Logic. |
 | [Mario Golf](https://github.com/monde-lointain/mariogolf64) | N64 | 25 | 2.2 | 2026-06-29 | — | Decompilation of Mario Golf for the Nintendo 64. |
 | [Banjo-Kazooie (X360)](https://github.com/banjo360/bk360) | Xbox 360 | 24 | 2.2 | 2026-03-07 | — | Decompilation research of Banjo-Kazooie for the xbox 360 |
-| [Burnout Paradise (b5-decomp)](https://github.com/BurnoutDecomp/b5-decomp) | PC | 23 | 2.2 | 2026-11-04 | — | Burnout Paradise decompilation effort |
+| [Burnout Paradise (b5-decomp)](https://github.com/BurnoutDecomp/b5-decomp) | PC | 24 | 2.2 | 2026-11-06 | — | Burnout Paradise decompilation effort |
+| [Indiana Jones and the Infernal Machine (infernal-machine-decomp)](https://github.com/andrewspode/infernal-machine-decomp-public) | PC | 21 | 2.2 | 2026-10-20 | — | Byte-matched Decompile / Reverse Engineer of Indiana Jones and the Infernal Machine. |
 | [Lego Star Wars III: The Clone Wars](https://github.com/ThePlayerRolo/LegoCloneWarsWii) | Wii | 21 | 2.2 | 2025-12-07 | — | A decompilation of Lego Star Wars III: The Clone Wars on Wii brought to you by a bunch of clever folks. |
 | [Resident Evil: Dead Aim](https://github.com/cakehonolulu/Bullseye) | PS2 | 21 | 2.2 | 2026-08-01 | — | A work-in-progress decompilation of Capcom's Sony PlayStation 2 game, Resident Evil: Dead Aim |
-| [Indiana Jones and the Infernal Machine (infernal-machine-decomp)](https://github.com/andrewspode/infernal-machine-decomp-public) | PC | 20 | 2.2 | 2026-10-20 | — | Byte-matched Decompile / Reverse Engineer of Indiana Jones and the Infernal Machine. |
 | [The Sims 2: Castaway](https://github.com/HaydnTrigg/Castaway) | Wii | 20 | 2.2 | 2026-01-21 | — | A work-in-progress matching decompilation of The Sims 2: Castaway |
 | [Rayman (rayman-ps1-decomp)](https://github.com/fuerchter/rayman-ps1-decomp) | Atari Jaguar | 19 | 2.2 | 2026-01-21 | — |  |
 | [Super Smash Bros. Ultimate (ssbu-decomp)](https://github.com/sbergeron42/ssbu-decomp) | Switch | 19 | 2.2 | 2026-04-13 | — | Matching decompilation of Super Smash Bros. Ultimate (Switch, AArch64) |
+| [The Legend of Zelda: A Link Between Worlds (albw-decomp-ai)](https://github.com/7akeem0/albw-decomp-ai) | 3DS | 19 | 2.2 | 2026-10-28 | — | Matching decompilation of The Legend of Zelda: A Link Between Worlds (3DS, USA) - work in progress, 63.7% of functions matched byte-exact |
 | [Hagi (GameCube & Wii emulator from Super Mario 3D All-Stars)](https://github.com/GRAnimated/Hagi) | GameCube | 18 | 2.2 | 2026-05-10 | — | Decompilation of the Hagi GameCube and Wii Emulator |
 | [Quest 64](https://github.com/Rainchus/Quest64-Decomp) | N64 | 18 | 2.2 | 2026-02-03 | — |  |
-| [The Legend of Zelda: A Link Between Worlds (albw-decomp-ai)](https://github.com/7akeem0/albw-decomp-ai) | 3DS | 18 | 2.2 | 2026-10-28 | — | Matching decompilation of The Legend of Zelda: A Link Between Worlds (3DS, USA) - work in progress, 63.7% of functions matched byte-exact |
-| [Touhou 10.5: Scarlet Weather Rhapsody (th105)](https://github.com/N0zoM1z0/th105) | PC | 17 | 2.2 | 2026-11-06 | — | Source reconstruction of 東方緋想天 ～ Scarlet Weather Rhapsody 1.06a |
+| [Touhou 10.5: Scarlet Weather Rhapsody (th105)](https://github.com/N0zoM1z0/th105) | PC | 17 | 2.2 | 2026-11-07 | — | Source reconstruction of 東方緋想天 ～ Scarlet Weather Rhapsody 1.06a |
 | [LEGO Rock Raiders](https://github.com/ProjectReversio/LegoRockRaiders) | PC | 16 | 2.2 | 2026-02-23 | — | Reverse Engineering Lego Rock Raiders |
 | [Mario Superstar Baseball](https://github.com/roeming/mssb-dtk) | GameCube | 16 | 2.2 | 2026-07-12 | — | A decompilation of Mario Superstar Baseball using dtk |
 | [Minecraft: Pocket Edition](https://github.com/BrentDaMage/mcpe-engine) | Mobile | 16 | 2.2 | 2026-02-11 | — | A decompilation of the Minecraft: Pocket Edition (0.12.1) rendering Hardware Abstraction Layer (HAL) |
 | [Bomberman 64: The Second Attack!](https://github.com/Bomberhackers/bm64tsa) | N64 | 15 | 2.2 | 2026-04-04 | — |  |
+| [Diamond Rush](https://github.com/palaceswitcher/Diamond-Rush-Decomp) | Mobile | 15 | 2.2 | 2026-07-14 | — | Decompilation of Diamond Rush |
 | [Virtua Cop 2 (re-virtua-cop-2)](https://github.com/jevarg/re-virtua-cop-2) | Arcade | 15 | 2.2 | 2026-05-19 | — | Reverse engineering of Virtua Cop 2 PC (1997) |
-| [Diamond Rush](https://github.com/palaceswitcher/Diamond-Rush-Decomp) | Mobile | 14 | 2.2 | 2026-07-14 | — | Decompilation of Diamond Rush |
 | [LEGO Stunt Rally (OpenLSR)](https://github.com/OpenLSR/OpenLSR) | PC | 14 | 2.2 | 2026-05-10 | — | LEGO Stunt Rally, done right. |
 | [Robot Poncots (Robopon) Sun / Star](https://github.com/PikalaxALT/robopon) | Game Boy Color | 14 | 2.2 | 2026-03-01 | — | Robot Poncots (ロボポン) Sun and Star (Japanese) |
 | [Rumble](https://github.com/KooShnoo/pokemon-rumble) | Wii | 14 | 2.2 | 2026-04-24 | — | A WIP decompilation of the Wii game Pokémon Rumble. |
@@ -618,7 +619,6 @@
 | [Zone of the Enders 1](https://github.com/GirianSeed/zoe1) | — | 7 | 2.2 | 2026-05-13 | — | Work in progress. |
 | [Princess Maker 4](https://github.com/Yanis002/pm4) | — | 5 | 2.2 | 2026-01-30 | — | Princess Maker 4 decompilation |
 | [Zone of the Enders 2](https://github.com/GirianSeed/zoe2) | — | 5 | 2.2 | 2026-06-04 | — | Work in progress. |
-| [Dark Rift](https://github.com/Unnunu/darkrift) | — | 4 | 2.2 | 2026-06-23 | — | Dark Rift Decomp Project |
 | [Onegai Monsters](https://github.com/Ryan-Myers/onegaimonsters) | — | 4 | 2.2 | 2025-11-20 | — |  |
 | [Sonic Generations](https://github.com/Luigi587/GenerationsDecomp) | PC | 4 | 2.2 | 2025-11-17 | — | A decompilation of Sonic Generations 2011 for PC. |
 | [Ford Racing](https://github.com/dashr9230/Gt2) | — | 3 | 2.2 | 2026-07-30 | — | A work-in-progress non-matching decompilation of Ford Racing (2000) video game |
@@ -627,6 +627,7 @@
 | [Mickey Saves the Day 3D Adventure](https://github.com/Japabu/mickey-saves-the-day-3d-adventure) | — | 2 | 2.2 | 2026-10-23 | — | Native port engine for Mickey Saves the Day 3D Adventure (2001); reads game data from your own disc |
 | [The Journeyman Project Turbo!](https://github.com/disinvite/jman-decomp) | — | 2 | 2.2 | 2026-07-04 | — | Decompilation of "The Journeyman Project Turbo!" (1994) |
 | [Wario Land: Shake It!](https://github.com/Swiftshine/wlsi) | Wii | 1 | 2.2 | 2025-12-01 | — | Wario Land: Shake It! decompilation. |
+| [Final Fantasy VII (ff7-worldmap)](https://github.com/ergonomy-joe/ff7-worldmap) | PS1 | 31 | 2 | 2024-11-06 | — | FF7 world map engine (decompiled) |
 | [Deltarune](https://github.com/TeamBlossomDevs/DeltaruneDecomp_beta) | — | 29 | 2 | 2025-10-17 | — | DELTARUNE Decompilation |
 | [Mario Party DS](https://github.com/mariopartyrd/mariopartyDS) | DS | 27 | 2 | 2025-04-17 | — |  |
 | [Diamond Rush (DiamondRushSource)](https://github.com/kubikaugustyn/DiamondRushSource) | Mobile | 25 | 2 | 2025-06-07 | — | Decompilation of Gamelofts' Diamond Rush (2006) video game for Nokia mobile devices. |
@@ -641,10 +642,10 @@
 | [Star Ocean: Blue Sphere](https://github.com/animaone/star-ocean-blue-sphere-source-code) | Game Boy Color | 19 | 2 | 2025-10-08 | — | star ocean blue sphere source code |
 | [Splatoon](https://github.com/Dexx-io/Splatoon-Decomp) | Wii U | 18 | 2 | 2024-12-18 | — | Decompilation of Splatoon for the Wii U, all credit goes to Nintendo! |
 | [Skies of Arcadia Legends](https://github.com/Rainchus/SkiesOfArcadiaLegends) | GameCube | 17 | 2 | 2025-05-07 | — | A matching decompilation of Skies Of Arcadia Legends |
+| [Advance Wars 2: Black Hole Rising](https://github.com/Eebit/aw2bhr) | GBA | 16 | 2 | 2025-06-11 | — | Decompilation of Advance Wars 2: Black Hole Rising (GBA) |
 | [Bio Menace](https://github.com/lethal-guitar/BioMenaceDecomp) | DOS | 16 | 2 | 2024-12-27 | — | Work in progress BioMenace decompilation |
 | [Brave Frontier](https://github.com/decompfrontier/client) | Mobile | 16 | 2 | 2025-05-30 | — | Decompilation of Brave Frontier client |
 | [FlatOut: Ultimate Carnage](https://github.com/ZackWilde27/FlatOut-UC-Decomp) | PC | 16 | 2 | 2025-10-22 | — | My attempted decompilation of FlatOut: Ultimate Carnage |
-| [Advance Wars 2: Black Hole Rising](https://github.com/Eebit/aw2bhr) | GBA | 15 | 2 | 2025-06-11 | — | Decompilation of Advance Wars 2: Black Hole Rising (GBA) |
 | [Crash Bandicoot: The Wrath of Cortex](https://github.com/calmsacibis995/crash-ps2) | PS2 | 15 | 2 | 2025-10-05 | — | Decompilation project for Crash Bandicoot: The Wrath of Cortex (PS2) |
 | [Okami HD](https://github.com/Shintensu/OkamiHD-Decomp) | PS3 | 14 | 2 | 2024-12-27 | — | A decompilation project for OkamiHD. The main focus is modding for now, but a full decomp is the end goal |
 | [Final Fantasy VII (ff7-coaster)](https://github.com/ergonomy-joe/ff7-coaster) | PS1 | 13 | 2 | 2024-11-25 | — | Decompiled code from the FF7 minigame "Jet Coaster" (and it builds with Visual Studio 2008) |
@@ -717,17 +718,17 @@
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
 | [Super Mario 64](https://github.com/n64decomp/sm64) | N64 | 9.0k | 3.8 | 2023-08-17 | ✅ | A Super Mario 64 decompilation, brought to you by a bunch of clever folks. |
-| [Super Mario World (snesrev: smw)](https://github.com/snesrev/smw) | SNES | 651 | 3.4 | 2023-08-16 | ✅ | Smw |
-| [Doom (PsyDoom)](https://github.com/BodbDearg/PsyDoom) | PS1 | 550 | 3.4 | 2023-06-13 | ✅ | A backport of PSX Doom to PC |
+| [Super Mario World (snesrev: smw)](https://github.com/snesrev/smw) | SNES | 652 | 3.4 | 2023-08-16 | ✅ | Smw |
+| [Doom (PsyDoom)](https://github.com/BodbDearg/PsyDoom) | PS1 | 552 | 3.4 | 2023-06-13 | ✅ | A backport of PSX Doom to PC |
 | [The Legend of Zelda: Majora's Mask 3D (Project Restoration)](https://github.com/leoetlino/project-restoration) | 3DS | 811 | 3.2 | 2022-01-02 | ✅ | A Majora's Mask 3D patch that restores some mechanics from the original game to get the best of both worlds |
-| [Fallout 2](https://github.com/alexbatalov/fallout2-re) | PC | 414 | 3.15 | 2023-01-20 | — | Reverse engineered Fallout 2 |
+| [Fallout 2](https://github.com/alexbatalov/fallout2-re) | PC | 415 | 3.15 | 2023-01-20 | — | Reverse engineered Fallout 2 |
 | [Legacy of Kain: Soul Reaver (Legacy of Kain: Soul Reaver Decompile)](https://github.com/Gh0stBlade/KAIN2) | PS1 | 176 | 2.85 | 2024-04-24 | — | Legacy of Kain: Soul Reaver Decompile |
 | [Tomb Raider III (tomb3)](https://github.com/Trxyebeep/tomb3) | PC | 119 | 2.85 | 2023-09-03 | ✅ |  |
 | [Tomb Raider: The Last Revelation (TOMB4)](https://github.com/Trxyebeep/TOMB4) | PC | 98 | 2.85 | 2023-09-03 | ✅ |  |
 | [Tomb Raider Chronicles (TOMB5)](https://github.com/Trxyebeep/TOMB5) | PC | 96 | 2.85 | 2023-09-03 | ✅ |  |
 | [Bedlam 2: Absolute Bedlam](https://github.com/8street/Bedlam2) | DOS | 23 | 2.65 | 2023-02-18 | ✅ | Source code for Bedlam 2 (1997) game executable file. |
-| [Super Metroid (sm)](https://github.com/snesrev/sm) | SNES | 564 | 2.45 | 2023-04-17 | — | early version |
-| [Halo: Combat Evolved](https://github.com/halo-re/halo) | Xbox | 462 | 2.45 | 2023-07-07 | — | Halo: Combat Evolved (for original Xbox) Decompilation Research Project |
+| [Super Metroid (sm)](https://github.com/snesrev/sm) | SNES | 565 | 2.45 | 2023-04-17 | — | early version |
+| [Halo: Combat Evolved](https://github.com/halo-re/halo) | Xbox | 463 | 2.45 | 2023-07-07 | — | Halo: Combat Evolved (for original Xbox) Decompilation Research Project |
 | [Sonic Runners](https://github.com/itsmattkc/RunnersDecomp) | Mobile | 246 | 2.45 | 2023-09-06 | — |  |
 | [Lunar 2: Eternal Blue](https://github.com/Zackmon/lunar2-psx-decomp) | PS1 | 15 | 2.45 | 2022-04-14 | — | a decompilation project for Lunar 2: Eternal Blue Complete on PSX |
 | [Conker's Bad Fur Day](https://github.com/mkst/conker) | N64 | 239 | 2.25 | 2026-05-10 | — | Work-in-progress decompilation of Conker's Bad Fur Day for N64 |
@@ -752,8 +753,8 @@
 | [Lode Runner (Piddewitt Loderunner)](https://github.com/Piddewitt/Loderunner) | Apple II | 68 | 2 | 2024-04-14 | — | Reverse engineered C64 assembler source code to recreate a bit for bit identical version of the original game. |
 | [Super Monkey Ball](https://github.com/camthesaxman/smb-decomp) | GameCube | 65 | 2 | 2023-01-06 | — |  |
 | [Total Overdose (TOD_tools)](https://github.com/Michael0ne/TOD_tools) | PC | 58 | 2 | 2024-08-14 | — | Total Overdose (2005, PC) reversed. engine & tools |
-| [Sonic Adventure DX](https://github.com/doldecomp/sadx) | GameCube | 52 | 2 | 2024-08-01 | — | Sonic Adventure DX |
-| [Bounce Tales](https://github.com/HelloOO7/BounceTales) | Mobile | 51 | 2 | 2023-02-07 | — | Decompilation of Rovio's Bounce Tales (2008) video game for Nokia mobile devices. |
+| [Sonic Adventure DX](https://github.com/doldecomp/sadx) | GameCube | 53 | 2 | 2024-08-01 | — | Sonic Adventure DX |
+| [Bounce Tales](https://github.com/HelloOO7/BounceTales) | Mobile | 52 | 2 | 2023-02-07 | — | Decompilation of Rovio's Bounce Tales (2008) video game for Nokia mobile devices. |
 | [Mario Kart Wii (mkw-structures)](https://github.com/SeekyCt/mkw-structures) | Wii | 47 | 2 | 2024-08-13 | — | Documentation of various parts of Mario Kart Wii |
 | [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) | N64 | 46 | 2 | 2023-01-15 | — | Decompilation of the N64 game "Rocket: Robot on Wheels" |
 | [Gran Turismo 2](https://github.com/ginryuoku/gt2-reversing) | PS1 | 42 | 2 | 2024-09-14 | — | RE repo for Gran Turismo 2 (PS1) |
@@ -776,18 +777,18 @@
 | [Super Mario Galaxy (SMGDecompilation)](https://github.com/snailspeed3/SMGDecompilation) | Wii | 97 | 1.8 | 2020-12-18 | — | (WIP) 1:1 Decompilation of Super Mario Galaxy |
 | [Crash Bandicoot 2: Cortex Strikes back](https://github.com/ughman/c2c) | PS1 | 95 | 1.8 | 2015-04-20 | — | Crash 2 in C |
 | [Dangerous Dave in the Haunted Mansion (dangerous-dave-re)](https://github.com/gmegidish/dangerous-dave-re) | DOS | 91 | 1.8 | 2018-02-20 | — | Reverse-engineering of Dangerous Dave In The Haunted Mansion for MSDOS |
-| [Frontier: Elite II (GLFrontier)](https://github.com/pcercuei/glfrontier) | Amiga | 89 | 1.8 | 2014-03-24 | — | Reverse-engineered version of Frontier: Elite II |
+| [Frontier: Elite II (GLFrontier)](https://github.com/pcercuei/glfrontier) | Amiga | 90 | 1.8 | 2014-03-24 | — | Reverse-engineered version of Frontier: Elite II |
 | [Sonic Advance 1](https://github.com/SAT-R/sa1) | GBA | 77 | 1.8 | 2026-03-28 | — | Merged into https://github.com/SAT-R/sa2 |
 | [Hitman: Codename 47](https://github.com/0danny/re47) | — | 74 | 1.8 | 2026-07-29 | — | Hitman Codename 47 (2000) decompilation project. |
 | [Pokemon Emerald (JP)](https://github.com/pret/pokeemerald-jp) | GBA | 70 | 1.8 | 2021-10-08 | — | Decompilation of Pokemon Emerald (JP) |
 | [Ultima VI: The False Prophet (u6-decompiled)](https://github.com/ergonomy-joe/u6-decompiled) | DOS | 58 | 1.8 | 2022-04-07 | — | Decompiled code for PC/MSDOS version of Ultima VI - The False Prophet |
 | [Blast Corps](https://github.com/retroplastic/blastcorps) | N64 | 45 | 1.8 | 2021-12-28 | — | A Blast Corps decompilation. |
-| [Pokémon Stadium (pokemonstadium)](https://github.com/ethteck/pokemonstadium) | N64 | 41 | 1.8 | 2021-10-17 | — | Decompilation of Pokemon Stadium |
+| [Pokémon Stadium (pokemonstadium)](https://github.com/ethteck/pokemonstadium) | N64 | 42 | 1.8 | 2021-10-17 | — | Decompilation of Pokemon Stadium |
 | [Sonic the Hedgehog (J2ME)](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation) | Mobile | 36 | 1.8 | 2021-02-19 | — | Decompile of the 2005 mobile port of Sonic 1. |
 | [Pokémon Red and Blue (Pokémon Anniversary Red)](https://github.com/TwitchPlaysPokemon/pokemonAnniversaryRed) | Game Boy | 35 | 1.8 | 2015-05-27 | — | Anniversary Red dissassembly |
 | [PaRappa the Rapper (PaRappaSource)](https://github.com/cuckydev/PaRappaSource) | PS1 | 34 | 1.8 | 2021-10-30 | — | PaRappa the Rapper Decompilation |
+| [Mario Kart: Super Circuit (mksc-decompilation)](https://github.com/XOlifreX/mksc-decompilation) | GBA | 33 | 1.8 | 2021-12-28 | — | A pret styled decompilation project of Mario Kart Super Circuit for the GBA. |
 | [Head Over Heels (simon-frankau head-over-heels)](https://github.com/simon-frankau/head-over-heels) | ZX Spectrum | 32 | 1.8 | 2017-06-28 | — | A reverse-engineering of the classic isometric ZX Spectrum game "Head Over Heels" |
-| [Mario Kart: Super Circuit (mksc-decompilation)](https://github.com/XOlifreX/mksc-decompilation) | GBA | 32 | 1.8 | 2021-12-28 | — | A pret styled decompilation project of Mario Kart Super Circuit for the GBA. |
 | [Commander Keen in Goodbye, Galaxy! (Keen 4-6 reconstructed source (mirror))](https://github.com/sparky4/keen4-6) | DOS | 26 | 1.8 | 2023-10-07 | — | Commander Keen source code reproduction mirror |
 | [Tactics Ogre: The Knight of Lodis (totkol)](https://github.com/jiangzhengwenjz/totkol) | GBA | 26 | 1.8 | 2024-01-02 | — | WIP Decompilation of Tactics Ogre: The Knight of Lodis (USA) |
 | [Crash Bash](https://github.com/mateusfavarin/crashbash) | PS1 | 24 | 1.8 | 2024-05-17 | — | Reverse engineering project of Crash Bash (PSX) |

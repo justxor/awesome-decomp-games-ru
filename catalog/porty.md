@@ -1,19 +1,19 @@
-# 🔧 Порты на исходниках — полный список (305)
+# 🔧 Порты на исходниках — полный список (306)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **06.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **07.11.2026**.
 
 Нативные порты для ПК и портативок на основе декомпиляции или официально открытого кода.
 
-## Активные проекты (269)
+## Активные проекты (270)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
 | [Warzone 2100](https://github.com/Warzone2100/warzone2100) | PC | 4.0k | 4.8 | 2026-11-02 | ✅ | Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open… |
 | [VVVVV](https://github.com/TerryCavanagh/VVVVVV) | PC | 8.1k | 4.75 | 2026-10-19 | ✅ | The source code to VVVVVV! http://thelettervsixtim.es/ |
-| [The Legend of Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) | GameCube | 6.2k | 4.75 | 2026-10-20 | ✅ | Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements. |
-| [God of War III Remastered (PC port)](https://github.com/FelipePrado0/SpartanPort) | PS4 | 4.6k | 4.55 | 2026-11-05 | ✅ | SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU wi… |
+| [The Legend of Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) | GameCube | 6.3k | 4.75 | 2026-10-20 | ✅ | Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements. |
+| [God of War III Remastered (PC port)](https://github.com/FelipePrado0/SpartanPort) | PS4 | 4.7k | 4.55 | 2026-11-05 | ✅ | SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU wi… |
 | [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) | DOS | 2.5k | 4.55 | 2026-10-25 | ✅ | Chocolate Doom is a Doom source port that is minimalist and historically accurate. |
 | [OpenJK](https://github.com/JACoders/OpenJK) | PC | 2.3k | 4.55 | 2026-09-29 | ✅ | Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software |
 | [vkQuake](https://github.com/Novum/vkQuake) | DOS | 2.3k | 4.55 | 2026-11-03 | ✅ | Vulkan Quake port based on QuakeSpasm |
@@ -22,7 +22,7 @@
 | [Brogue (Brogue CE)](https://github.com/tmewett/BrogueCE) | PC | 1.5k | 4.55 | 2026-11-06 | ✅ | Brogue: Community Edition - a community-lead fork of the much-loved minimalist roguelike game |
 | [GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) | PC | 1.5k | 4.55 | 2026-11-05 | ✅ | Command and Conquer: Generals - Zero Hour |
 | [Beats of Rage (OpenBOR)](https://github.com/DCurrent/openbor) | PC | 1.3k | 4.55 | 2026-10-18 | ✅ | OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more! |
-| [Bloodborne (bbport)](https://github.com/deadinside28/bloodborne_pc) | PS4 | 3.9k | 4.35 | 2026-10-28 | ✅ | Bloodborne (v1.09) running natively on Linux and Windows: the game's x86-64 code runs as is, GPU side translated to Vulkan; FSR 4 / DLSS, co-op (BBSC… |
+| [Bloodborne (bbport)](https://github.com/deadinside28/bloodborne_pc) | PS4 | 4.0k | 4.35 | 2026-10-28 | ✅ | Bloodborne (v1.09) running natively on Linux and Windows: the game's x86-64 code runs as is, GPU side translated to Vulkan; FSR 4 / DLSS, co-op (BBSC… |
 | [Mario Kart 64 (SpaghettiKart)](https://github.com/HarbourMasters/SpaghettiKart) | N64 | 2.5k | 4.35 | 2026-10-22 | ✅ | I have spaghetti, now i just need a kart |
 | [Uncharted: The Nathan Drake Collection (uncharted_pc)](https://github.com/Supermedo/uncharted_pc) | PS4 | 2.2k | 4.35 | 2026-11-04 | ✅ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo |
 | [Shadow of the Colossus (ShadowOfTheColossus-PC)](https://github.com/AjncSystem/ShadowOfTheColossus-PC) | PS4 | 1.8k | 4.35 | 2026-11-06 | ✅ | Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC. |
@@ -32,114 +32,115 @@
 | [LEGO Island (isle-portable)](https://github.com/isledecomp/isle-portable) | PC | 1.1k | 4.35 | 2026-11-04 | ✅ | A portable version of LEGO Island (1997) |
 | [Quake II (Batocera port package 'vkquake2')](https://github.com/kondrak/vkQuake2) | PC | 1.0k | 4.35 | 2026-08-04 | ✅ | id Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, macOS, FreeBSD, Raspberry Pi 4) |
 | [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) | DOS | 968 | 4.35 | 2026-10-12 | ✅ | Crispy Doom is a limit-removing enhanced-resolution Doom source port based on Chocolate Doom. |
+| [Super Mario 64 (Ghostship)](https://github.com/HarbourMasters/Ghostship) | N64 | 896 | 4.35 | 2026-10-27 | ✅ | Super Mario 64 reimplementation for PC. |
 | [Raze](https://github.com/ZDoom/Raze) | — | 892 | 4.35 | 2026-11-01 | ✅ | Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed. |
-| [Super Mario 64 (Ghostship)](https://github.com/HarbourMasters/Ghostship) | N64 | 890 | 4.35 | 2026-10-27 | ✅ | Super Mario 64 reimplementation for PC. |
 | [NBlood](https://github.com/NBlood/NBlood) | — | 821 | 4.35 | 2026-09-14 | ✅ | Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhumed) |
 | [DoomRetro](https://github.com/bradharding/doomretro) | DOS | 783 | 4.35 | 2026-11-06 | ✅ | The classic, refined DOOM source port. For Windows PC. |
-| [The Legend of Zelda: A Link to the Past (3DS port)](https://github.com/EstebanPdN/zelda-alttp-3ds) | SNES | 780 | 4.35 | 2026-11-05 | ✅ | Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3 |
-| [Pokémon Emerald (pokeemerald-3Ds-dualscreen)](https://github.com/ZallaxDev/emerald-3ds) | GBA | 719 | 4.35 | 2026-10-30 | ✅ | Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world. |
+| [The Legend of Zelda: A Link to the Past (3DS port)](https://github.com/EstebanPdN/zelda-alttp-3ds) | SNES | 779 | 4.35 | 2026-11-05 | ✅ | Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3 |
+| [Pokémon Emerald (pokeemerald-3Ds-dualscreen)](https://github.com/ZallaxDev/emerald-3ds) | GBA | 724 | 4.35 | 2026-10-30 | ✅ | Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world. |
 | [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) | PC | 648 | 4.35 | 2026-11-06 | ✅ | DOOM III/Quake 4/Prey(2006)/ETQW GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/Skin Deep/Quadril… |
-| [Doom (dsda-doom)](https://github.com/dsda-org/dsda-doom) | DOS | 523 | 4.35 | 2026-11-02 | ✅ | This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life. |
-| [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) | PC | 504 | 4.35 | 2026-11-05 | ✅ | Origin Repository for SCP FreeSpace 2 Open |
+| [Doom (dsda-doom)](https://github.com/dsda-org/dsda-doom) | DOS | 524 | 4.35 | 2026-11-02 | ✅ | This is a successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life. |
+| [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) | PC | 505 | 4.35 | 2026-11-06 | ✅ | Origin Repository for SCP FreeSpace 2 Open |
 | [MadnessPatch](https://github.com/Wemino/MadnessPatch) | PC | 463 | 4.35 | 2026-10-31 | ✅ | A patch that fixes various issues in the PC port of Alice: Madness Returns |
 | [Doom (Woof)](https://github.com/fabiangreffrath/woof) | DOS | 336 | 4.35 | 2026-11-04 | ✅ | Woof! is a continuation of the Boom/MBF bloodline of Doom source ports |
 | [Zero Hour Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) | PC | 314 | 4.35 | 2026-11-06 | ✅ | Zero Hour rebuilt from EA's source: x64, Direct3D 11, VS2022/CMake, ~60 original bugs fixed, an AI that builds a base. Bring your own game. |
 | [Odamex](https://github.com/odamex/odamex) | DOS | 306 | 4.35 | 2026-11-02 | ✅ | Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements. |
-| [Mario Kart Wii (MKW-3DS)](https://github.com/MiniBandit/MKW-3DS) | Wii | 281 | 4.35 | 2026-10-24 | ✅ | Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows). |
+| [Mario Kart Wii (MKW-3DS)](https://github.com/MiniBandit/MKW-3DS) | Wii | 282 | 4.35 | 2026-10-24 | ✅ | Mario Kart Wii for 3DS: a native port continued from dudewhat's original. Builds a CIA from your own disc (Mac & Windows). |
 | [The Eternity Engine](https://github.com/team-eternity/eternity) | DOS | 273 | 4.35 | 2026-11-05 | ✅ | The Eternity Engine |
 | [Half-Life (Lambda1VR (Xash3D VR port))](https://github.com/Team-Beef-Studios/Lambda1VR) | PC | 252 | 4.35 | 2026-09-02 | ✅ | Port of the Xash3D-FWGS Half Life Engine to Oculus Quest |
 | [Chocolate Quake](https://github.com/Henrique194/chocolate-quake) | DOS | 230 | 4.35 | 2026-09-07 | ✅ | A purist Quake source port that restores the original look and feel of v1.09 and earlier. |
 | [Marble Blast Gold (MBHaxe)](https://github.com/RandomityGuy/MBHaxe) | PC | 225 | 4.35 | 2026-10-28 | ✅ | An optimized port of Marble Blast Gold, Platinum, Ultra and PlatinumQuest with 99% identical physics and cross platform multiplayer, runs on Windows,… |
 | [Crash Team Racing (High Octane)](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) | PS1 | 221 | 4.35 | 2026-10-31 | ✅ | Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser. |
 | [Super Mario 64 (libsm64-godot)](https://github.com/Brawmario/libsm64-godot) | N64 | 219 | 4.35 | 2026-10-29 | ✅ | Addon that binds libsm64 to Godot via GDExtension, allowing to integrate Mario from the Super Mario 64 engine into any Godot 4 project. |
-| [Minecraft: Java Edition (Minecraft PSP)](https://github.com/Pencea-Flavius/Minecraft-PE-PSP) | PC | 213 | 4.35 | 2026-09-25 | ✅ |  |
+| [Minecraft: Java Edition (Minecraft PSP)](https://github.com/Pencea-Flavius/Minecraft-PE-PSP) | PC | 215 | 4.35 | 2026-09-25 | ✅ |  |
 | [Perfect Dark (Perfect Dark PC Port)](https://github.com/perfect-dark-pc-port/perfect_dark) | N64 | 2.1k | 4.3 | 2026-10-27 | ✅ | work in progress port of n64decomp/perfect_dark to modern platforms |
 | [ioquake3](https://github.com/ioquake/ioq3) | — | 2.9k | 4.2 | 2026-11-04 | — | The ioquake3 community effort to continue supporting/developing id's Quake III Arena |
 | [Yamagi Quake II](https://github.com/yquake2/yquake2) | PC | 1.0k | 4.2 | 2026-11-02 | — | The Yamagi Quake II client |
-| [Pokémon Fulldex](https://github.com/mamesj/pokemon-fulldex) | DS | 853 | 4.15 | 2026-11-06 | ✅ | Fulldex: all your favourite Pokémon games in one launcher, in widescreen at 60 fps on PC, Mac, Steam Deck, Android, iPhone and Switch. DS: Black 2, W… |
-| [Uncharted: The Nathan Drake Collection (Uncharted: The Nathan Drake Collection - PC port)](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) | PS4 | 756 | 4.15 | 2026-11-06 | ✅ | Uncharted: The Nathan Drake Collection PC port (no game files) |
-| [Mario Kart Wii (KartPad)](https://github.com/chrissotraidis/kartpad) | Wii | 738 | 4.15 | 2026-11-01 | ✅ | Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android. |
-| [Crash Team Racing: Nitro-Fueled (CTR-NitroFueled-PC)](https://github.com/GetLostIn/CTR-NitroFueled-PC) | PS4 | 717 | 4.15 | 2026-10-19 | ✅ | Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4. No game files inclu… |
-| [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) | GameCube | 659 | 4.15 | 2026-11-05 | ✅ | Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets include… |
-| [Crash Team Racing Nitro-Fueled (OCTR: Online CTR Nitro-Fueled PC)](https://github.com/Ryu7w7/OCTR-NitroFueled-PC) | PS4 | 652 | 4.15 | 2026-11-06 | ✅ | Experimental Online Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4.… |
-| [Bloodborne (bloodborne_pc_windows_port)](https://github.com/Mrsuss60/bloodborne_pc_windows_port) | PS4 | 617 | 4.15 | 2026-11-06 | ✅ | Native x86-64 Windows loader for Bloodborne (CUSA03173) with native CPU execution, Win32 runtime, and shadPS4-based Vulkan GPU rendering. Based on de… |
-| [The Last Guardian (The Last Guardian — native PC port)](https://github.com/HayatoG/tlg_pc) | PS4 | 554 | 4.15 | 2026-10-27 | ✅ | Native PC port (Linux/Windows) of The Last Guardian (PS4, CUSA03627) — runs your own game dump; no game or firmware files included. Mouse/keyboard, o… |
-| [FIFA Street (ReStreet)](https://github.com/samuelit0davila/fifa-street-pc-port) | Xbox 360 | 490 | 4.15 | 2026-10-31 | ✅ | ReStreet: FIFA Street (2012) recompiled for Windows PC, with online play, a launcher with friends, chat and rooms. Bring your own game. |
-| [Nanosaur](https://github.com/jorio/Nanosaur) | PC | 475 | 4.15 | 2026-04-27 | ✅ | Nanosaur source port 🦖 |
-| [Tekken 6 (Tekken6-native-online)](https://github.com/Ekspym/Tekken6-native-online) | Xbox 360 | 459 | 4.15 | 2026-10-18 | ✅ | Tekken 6 (Xbox 360) native on Windows with rollback netcode - build from your own ISO |
-| [The Order: 1886 (The Order: 1886 PC Native Port)](https://github.com/mateussmeneses/theorder1886-port) | PS4 | 397 | 4.15 | 2026-11-01 | ✅ | theorder1886-port is a Windows PC port of The Order: 1886 that runs the game's native executable and translates its graphics to Vulkan. |
-| [Super Mario Strikers (PC Port)](https://github.com/new-coke/strikers) | GameCube | 383 | 4.15 | 2026-11-05 | ✅ | Super Mario Strikers for PC, Mac, Linux & Nintendo Switch. Ported from decompiled code. Not a recompilation. |
-| [Dragon's Crown Pro (Dragon's Crown Pro PC Port)](https://github.com/saulob/dragons-crown-pro-pc) | PS4 | 363 | 4.15 | 2026-11-04 | ✅ | Dragon's Crown Pro native PC port for Windows, with direct PS4 PKG installation, TRG launcher and modern graphics options |
-| [Killzone Shadow Fall (killzone-shadowfall-pc)](https://github.com/lesca-191204/killzone-shadowfall-pc) | PS4 | 344 | 4.15 | 2026-11-05 | ✅ | Killzone Shadow Fall for PC is a native Windows port of the PlayStation 4 game that runs the game's code directly on your CPU and translates graphics… |
-| [Gravity Rush Remastered (Gravity Rush Remastered Native PC Port)](https://github.com/LucaPazienza/gravityrush_pc) | PS4 | 333 | 4.15 | 2026-11-05 | ✅ | Gravity Rush PC Native Port A community-driven project aiming to bring Gravity Rush to PC as a native port, building upon the technical foundation an… |
-| [Super Mario 64 (SM64CoopDX for Android)](https://github.com/ManIsCat2/sm64coopdx) | N64 | 322 | 4.15 | 2026-06-01 | ✅ | sm64coopdx is an online multiplayer project for the Super Mario 64 PC port that synchronizes all entities and levels for multiple players and allows… |
-| [Pikmin & Pikmin 2 (Open Nectar)](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) | GameCube | 307 | 4.15 | 2026-11-06 | ✅ | Native Pikmin Windows/Linux/Android Port |
-| [GoldenEye PC Port](https://github.com/jkdansereau/goldeneye-pc-port) | N64 | 304 | 4.15 | 2026-10-07 | ✅ | GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, mouse and… |
-| [Shadow of the Colossus (ShadowOfTheColossus-PC)](https://github.com/Oussama268/ShadowOfTheColossus-PC) | PS4 | 265 | 4.15 | 2026-11-06 | ✅ | Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC. |
-| [Ratchet & Clank (RAC-RS)](https://github.com/AsobiCodes/rac-rs) | PS2 | 244 | 4.15 | 2026-11-05 | ✅ | RAC-RS is a PC port of Ratchet & Clank for Windows that supports widescreen, keyboard and mouse controls, and optional modern graphics. |
-| [Jet Set Radio Future (Jet Set Radio Future Unleashed)](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) | og xbox | 241 | 4.15 | 2026-11-05 | ✅ | Jet Set Radio Future for all |
-| [Resident Evil Code: Veronica X (RECVX Enhanced Port)](https://github.com/aikatore/recvx-enhanced-port) | PS2 | 238 | 4.15 | 2026-11-04 | — | A enhanced RE CVX port/recompilation including online co-op and enhanced rendering options |
-| [WipEout Omega Collection (wipeout_pc)](https://github.com/AbdelmoumenDeghbouche/wipeout_pc) | PS4 | 238 | 4.15 | 2026-11-06 | ✅ | WipEout Omega Collection (PS4) native PC port for Windows: the game's own x86-64 code on the CPU, a PS4 runtime and the shadPS4 Vulkan video core. Pl… |
-| [EA Sports UFC 3 (UFC 3 — native PS4 port for Linux and Windows)](https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS) | PS4 | 236 | 4.15 | 2026-10-26 | ✅ | EA SPORTS UFC 3 (PS4) native port for Linux and Windows — SacredFire/bbport runtime + shadPS4-derived Vulkan renderer |
-| [Kingdom Hearts 358/2 Days (khdays-port)](https://github.com/Yokimitsuro/khdays-port) | DS | 232 | 4.15 | 2026-11-06 | ✅ | Experimental native PC runtime for Kingdom Hearts 358/2 Days, developed alongside the matching Nintendo DS decompilation. No copyrighted game data in… |
-| [MediEvil (MediEvil (PS4) for PC)](https://github.com/bc160201983/medievil_2019_pc_port) | PS4 | 228 | 4.15 | 2026-10-29 | ✅ | MediEvil (PS4, CUSA11227) native PC port on the gow3_pc runtime: PKG install, up to 4K, launcher. No game files included. |
-| [Saints Row (Saints Reborn)](https://github.com/whompay/SaintsReborn) | Xbox 360 | 215 | 4.15 | 2026-10-28 | ✅ | Saints Reborn is a native Windows port of Saints Row that runs the game at 60 FPS and higher resolutions with keyboard and mouse support. |
+| [Pokémon Fulldex](https://github.com/mamesj/pokemon-fulldex) | DS | 868 | 4.15 | 2026-11-06 | ✅ | Fulldex: all your favourite Pokémon games in one launcher, in widescreen at 60 fps on PC, Mac, Steam Deck, Android, iPhone and Switch. DS: Black 2, W… |
+| [Uncharted: The Nathan Drake Collection (Uncharted: The Nathan Drake Collection - PC port)](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port) | PS4 | 761 | 4.15 | 2026-11-06 | ✅ | Uncharted: The Nathan Drake Collection PC port (no game files) |
+| [Mario Kart Wii (KartPad)](https://github.com/chrissotraidis/kartpad) | Wii | 740 | 4.15 | 2026-11-07 | ✅ | Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android. |
+| [Crash Team Racing: Nitro-Fueled (CTR-NitroFueled-PC)](https://github.com/GetLostIn/CTR-NitroFueled-PC) | PS4 | 724 | 4.15 | 2026-10-19 | ✅ | Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4. No game files inclu… |
+| [Metroid Prime Port](https://github.com/Odrannnn/MetroidPrimePort) | GameCube | 664 | 4.15 | 2026-11-07 | ✅ | Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets include… |
+| [Crash Team Racing Nitro-Fueled (OCTR: Online CTR Nitro-Fueled PC)](https://github.com/Ryu7w7/OCTR-NitroFueled-PC) | PS4 | 661 | 4.15 | 2026-11-07 | ✅ | Experimental Online Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4.… |
+| [Bloodborne (bloodborne_pc_windows_port)](https://github.com/Mrsuss60/bloodborne_pc_windows_port) | PS4 | 621 | 4.15 | 2026-11-07 | ✅ | Native x86-64 Windows loader for Bloodborne (CUSA03173) with native CPU execution, Win32 runtime, and shadPS4-based Vulkan GPU rendering. Based on de… |
+| [The Last Guardian (The Last Guardian — native PC port)](https://github.com/HayatoG/tlg_pc) | PS4 | 559 | 4.15 | 2026-10-27 | ✅ | Native PC port (Linux/Windows) of The Last Guardian (PS4, CUSA03627) — runs your own game dump; no game or firmware files included. Mouse/keyboard, o… |
+| [FIFA Street (ReStreet)](https://github.com/samuelit0davila/fifa-street-pc-port) | Xbox 360 | 495 | 4.15 | 2026-10-31 | ✅ | ReStreet: FIFA Street (2012) recompiled for Windows PC, with online play, a launcher with friends, chat and rooms. Bring your own game. |
+| [Nanosaur](https://github.com/jorio/Nanosaur) | PC | 476 | 4.15 | 2026-04-27 | ✅ | Nanosaur source port 🦖 |
+| [Tekken 6 (Tekken6-native-online)](https://github.com/Ekspym/Tekken6-native-online) | Xbox 360 | 460 | 4.15 | 2026-10-18 | ✅ | Tekken 6 (Xbox 360) native on Windows with rollback netcode - build from your own ISO |
+| [The Order: 1886 (The Order: 1886 PC Native Port)](https://github.com/mateussmeneses/theorder1886-port) | PS4 | 400 | 4.15 | 2026-11-01 | ✅ | theorder1886-port is a Windows PC port of The Order: 1886 that runs the game's native executable and translates its graphics to Vulkan. |
+| [Super Mario Strikers (PC Port)](https://github.com/new-coke/strikers) | GameCube | 388 | 4.15 | 2026-11-05 | ✅ | Super Mario Strikers for PC, Mac, Linux & Nintendo Switch. Ported from decompiled code. Not a recompilation. |
+| [Dragon's Crown Pro (Dragon's Crown Pro PC Port)](https://github.com/saulob/dragons-crown-pro-pc) | PS4 | 378 | 4.15 | 2026-11-06 | ✅ | Dragon's Crown Pro native PC port for Windows, with direct PS4 PKG installation, TRG launcher and modern graphics options |
+| [Killzone Shadow Fall (killzone-shadowfall-pc)](https://github.com/lesca-191204/killzone-shadowfall-pc) | PS4 | 348 | 4.15 | 2026-11-05 | ✅ | Killzone Shadow Fall for PC is a native Windows port of the PlayStation 4 game that runs the game's code directly on your CPU and translates graphics… |
+| [Gravity Rush Remastered (Gravity Rush Remastered Native PC Port)](https://github.com/LucaPazienza/gravityrush_pc) | PS4 | 337 | 4.15 | 2026-11-06 | ✅ | Gravity Rush PC Native Port A community-driven project aiming to bring Gravity Rush to PC as a native port, building upon the technical foundation an… |
+| [Super Mario 64 (SM64CoopDX for Android)](https://github.com/ManIsCat2/sm64coopdx) | N64 | 323 | 4.15 | 2026-06-01 | ✅ | sm64coopdx is an online multiplayer project for the Super Mario 64 PC port that synchronizes all entities and levels for multiple players and allows… |
+| [Pikmin & Pikmin 2 (Open Nectar)](https://github.com/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port) | GameCube | 310 | 4.15 | 2026-11-07 | ✅ | Native Pikmin Windows/Linux/Android Port |
+| [GoldenEye PC Port](https://github.com/jkdansereau/goldeneye-pc-port) | N64 | 305 | 4.15 | 2026-10-07 | ✅ | GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, mouse and… |
+| [Shadow of the Colossus (ShadowOfTheColossus-PC)](https://github.com/Oussama268/ShadowOfTheColossus-PC) | PS4 | 271 | 4.15 | 2026-11-06 | ✅ | Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC. |
+| [Ratchet & Clank (RAC-RS)](https://github.com/AsobiCodes/rac-rs) | PS2 | 256 | 4.15 | 2026-11-05 | ✅ | RAC-RS is a PC port of Ratchet & Clank for Windows that supports widescreen, keyboard and mouse controls, and optional modern graphics. |
+| [Jet Set Radio Future (Jet Set Radio Future Unleashed)](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) | og xbox | 246 | 4.15 | 2026-11-05 | ✅ | Jet Set Radio Future for all |
+| [WipEout Omega Collection (wipeout_pc)](https://github.com/AbdelmoumenDeghbouche/wipeout_pc) | PS4 | 246 | 4.15 | 2026-11-06 | ✅ | WipEout Omega Collection (PS4) native PC port for Windows: the game's own x86-64 code on the CPU, a PS4 runtime and the shadPS4 Vulkan video core. Pl… |
+| [Resident Evil Code: Veronica X (RECVX Enhanced Port)](https://github.com/aikatore/recvx-enhanced-port) | PS2 | 242 | 4.15 | 2026-11-06 | — | A enhanced RE CVX port/recompilation including online co-op and enhanced rendering options |
+| [EA Sports UFC 3 (UFC 3 — native PS4 port for Linux and Windows)](https://github.com/GNSB/UFC-3-PS4-PORT-LINUX-WINDOWS) | PS4 | 237 | 4.15 | 2026-10-26 | ✅ | EA SPORTS UFC 3 (PS4) native port for Linux and Windows — SacredFire/bbport runtime + shadPS4-derived Vulkan renderer |
+| [Kingdom Hearts 358/2 Days (khdays-port)](https://github.com/Yokimitsuro/khdays-port) | DS | 236 | 4.15 | 2026-11-06 | ✅ | Experimental native PC runtime for Kingdom Hearts 358/2 Days, developed alongside the matching Nintendo DS decompilation. No copyrighted game data in… |
+| [MediEvil (MediEvil (PS4) for PC)](https://github.com/bc160201983/medievil_2019_pc_port) | PS4 | 232 | 4.15 | 2026-10-29 | ✅ | MediEvil (PS4, CUSA11227) native PC port on the gow3_pc runtime: PKG install, up to 4K, launcher. No game files included. |
+| [Saints Row (Saints Reborn)](https://github.com/whompay/SaintsReborn) | Xbox 360 | 216 | 4.15 | 2026-10-28 | ✅ | Saints Reborn is a native Windows port of Saints Row that runs the game at 60 FPS and higher resolutions with keyboard and mouse support. |
+| [Unicorn Overlord (Unicorn Overlord PC)](https://github.com/hachi23/unicorn_overlord_pc) | PS4 | 214 | 4.15 | 2026-10-31 | ✅ | Unicorn Overlord (PS4) native PC port |
 | [Burnout 3: Takedown (Burnout 3: Takedown - PC port)](https://github.com/danielgomesvieira2000/burnout3-pc) | PS2 | 207 | 4.15 | 2026-10-31 | — | Burnout 3: Takedown as a native Windows port, through a PS2 decompilation toolchain. Unofficial; bring your own disc. No game content included. |
-| [Unicorn Overlord (Unicorn Overlord PC)](https://github.com/hachi23/unicorn_overlord_pc) | PS4 | 207 | 4.15 | 2026-10-31 | ✅ | Unicorn Overlord (PS4) native PC port |
-| [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) | DOS | 198 | 4.15 | 2026-11-05 | — | CatacombGL is a source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb A… |
-| [Mario Strikers Charged (mscharged-port)](https://github.com/previouslevelgames/recharged) | Wii | 183 | 4.15 | 2026-10-30 | ✅ | Mario Strikers Charged for PC, Mac & Linux. Ported from decompiled code. Not a recompilation. |
+| [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) | DOS | 198 | 4.15 | 2026-11-06 | — | CatacombGL is a source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb A… |
+| [Mario Strikers Charged (mscharged-port)](https://github.com/previouslevelgames/recharged) | Wii | 193 | 4.15 | 2026-11-07 | ✅ | Mario Strikers Charged for PC, Mac & Linux. Ported from decompiled code. Not a recompilation. |
 | [Descent 3 (Piccu Engine)](https://github.com/InsanityBringer/PiccuEngine) | PC | 167 | 4.15 | 2026-08-27 | ✅ | Descent 3: Piccu Engine, a version of the game Descent 3 focused on quality-of-life improvements. |
-| [EarthBound (Phase Distorter)](https://github.com/TheRunaway5/Phase-Distorter) | SNES | 141 | 4.15 | 2026-10-19 | ✅ | A Mother 2/EarthBound PC Port |
+| [EarthBound (Phase Distorter)](https://github.com/TheRunaway5/Phase-Distorter) | SNES | 144 | 4.15 | 2026-10-19 | ✅ | A Mother 2/EarthBound PC Port |
 | [Doom 3 (Doom3Quest)](https://github.com/Team-Beef-Studios/Doom3Quest) | PC | 136 | 4.15 | 2026-09-05 | ✅ | Doom 3 based on a combination of the excellent dhewm3 and d3wasm projects, with multithreaded backend renderering from emileb, OpenGLES MultiView fro… |
 | [BuildLauncher](https://github.com/fgsfds/BuildLauncher) | PC | 127 | 4.15 | 2026-11-06 | ✅ | BuildLauncher is THE frontend for Build Engine games |
-| [Star Wars: Episode III – Revenge of the Sith (SWROTS-PC)](https://github.com/jedijosh920/SWROTS-PC) | og xbox | 111 | 4.15 | 2026-11-05 | — | Unofficial native Windows port of Star Wars: Episode III - Revenge of the Sith (Xbox). Bring your own copy. |
+| [Star Wars: Episode III – Revenge of the Sith (SWROTS-PC)](https://github.com/jedijosh920/SWROTS-PC) | og xbox | 116 | 4.15 | 2026-11-07 | — | Unofficial native Windows port of Star Wars: Episode III - Revenge of the Sith (Xbox). Bring your own copy. |
 | [Starbound (OpenStarbound Mobile)](https://github.com/RohanBhattacharyya/oSBM) | PC | 106 | 4.15 | 2026-09-23 | ✅ | An OpenStarbound port to mobile devices. |
-| [Banjo-Tooie (banjo-tooie-scurvy-dog-port)](https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port) | N64 | 104 | 4.15 | 2026-10-27 | — | Banjo-Tooie Scurvy Dog Port: a static PC recompilation of Banjo-Tooie. **Not affiliated with the Banjo: Recompiled team** |
+| [Banjo-Tooie (banjo-tooie-scurvy-dog-port)](https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port) | N64 | 105 | 4.15 | 2026-10-27 | — | Banjo-Tooie Scurvy Dog Port: a static PC recompilation of Banjo-Tooie. **Not affiliated with the Banjo: Recompiled team** |
 | [EDGE-classic](https://github.com/edge-classic/EDGE-classic) | DOS | 103 | 4.15 | 2026-10-19 | ✅ | Cross-Platform OpenGL Doom Source Port with powerful modding features |
+| [The Legend of Zelda: Ocarina of Time (Ship of Harkinian - Android)](https://github.com/linkzenic/Shipwright-Ports) | N64 | 100 | 4.15 | 2026-10-29 | ✅ | Ship of Harkinian Android and iOS |
 | [The Legend of Zelda: The Wind Waker (SwitchWaker)](https://github.com/centollOS/SwitchWaker) | GameCube | 100 | 4.15 | 2026-11-02 | ✅ | Native Nintendo Switch port of The Legend of Zelda: The Wind Waker (GameCube). Bring your own game files. |
 | [Star Fox Adventures (Foxhollow)](https://github.com/JackPriceBurns/foxhollow) | GameCube | 88 | 4.15 | 2026-10-25 | ✅ | Foxhollow: a native port of Star Fox Adventures built on the SFA decompilation and Aurora |
 | [dxx-redux](https://github.com/dxx-redux/dxx-redux) | PC | 79 | 4.15 | 2026-09-15 | ✅ | Descent 1&2 source port based on DXX-Retro |
-| [Armored Core: For Answer (ACFA-Port)](https://github.com/SulphurS16/ACFA-Port) | Xbox 360 | 72 | 4.15 | 2026-11-04 | ✅ | Unofficial native Windows port of ARMORED CORE for Answer (PS3), built from your own copy of the game. Part of Project Glintburn. |
-| [Naughty Bear Gold Edition (ReStuff)](https://github.com/MaxDeadBear/NaughtyBear_ReStuff) | Xbox 360 | 70 | 4.15 | 2026-10-22 | ✅ | ReStuff brings Naughty Bear Gold Edition to PC. |
-| [WWE '12 (wwe12-pc)](https://github.com/iMrBurn/wwe12-pc) | Xbox 360 | 64 | 4.15 | 2026-11-06 | ✅ | WWE '12 for PC and Android. Native port, no emulator. Vulkan, DirectX 12 and 11. Bring your own game. |
-| [Shin Megami Tensei: Persona 3 Portable (P3P3DS)](https://github.com/endercodezz/P3P3DS) | PSP | 59 | 4.15 | 2026-11-05 | ✅ | Persona 3 Portable port for New Nintendo 3DS |
+| [Armored Core: For Answer (ACFA-Port)](https://github.com/SulphurS16/ACFA-Port) | Xbox 360 | 73 | 4.15 | 2026-11-04 | ✅ | Unofficial native Windows port of ARMORED CORE for Answer (PS3), built from your own copy of the game. Part of Project Glintburn. |
+| [Naughty Bear Gold Edition (ReStuff)](https://github.com/MaxDeadBear/NaughtyBear_ReStuff) | Xbox 360 | 72 | 4.15 | 2026-10-22 | ✅ | ReStuff brings Naughty Bear Gold Edition to PC. |
+| [WWE '12 (wwe12-pc)](https://github.com/iMrBurn/wwe12-pc) | Xbox 360 | 66 | 4.15 | 2026-11-06 | ✅ | WWE '12 for PC and Android. Native port, no emulator. Vulkan, DirectX 12 and 11. Bring your own game. |
+| [Shin Megami Tensei: Persona 3 Portable (P3P3DS)](https://github.com/endercodezz/P3P3DS) | PSP | 61 | 4.15 | 2026-11-06 | ✅ | Persona 3 Portable port for New Nintendo 3DS |
 | [Tribal Trouble](https://github.com/Tribal-Trouble/tribaltrouble) | PC | 51 | 4.15 | 2026-11-03 | ✅ | Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license. |
-| [Super Smash Bros. Melee (web ports (Melee-X Xbox, Melee360, Vita, webmelee.gg))](https://github.com/TechProGabe/Melee-X) | GameCube | 32 | 4.15 | 2026-10-26 | ✅ | Native original Xbox port of Super Smash Bros. Melee |
-| [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) | DOS | 306 | 4.1 | 2026-11-02 | ✅ | A portable, enhanced source port of Doom, Heretic and Hexen. |
-| [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | 251 | 4.1 | 2026-11-05 | ✅ | Repository for the NeoClassical Habitat Server Project |
+| [Super Smash Bros. Melee (web ports (Melee-X Xbox, Melee360, Vita, webmelee.gg))](https://github.com/TechProGabe/Melee-X) | GameCube | 33 | 4.15 | 2026-10-26 | ✅ | Native original Xbox port of Super Smash Bros. Melee |
+| [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) | DOS | 307 | 4.1 | 2026-11-02 | ✅ | A portable, enhanced source port of Doom, Heretic and Hexen. |
+| [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | 251 | 4.1 | 2026-11-07 | ✅ | Repository for the NeoClassical Habitat Server Project |
 | [Vangers](https://github.com/KranX/Vangers) | PC | 744 | 4 | 2026-10-24 | ✅ | The video game that combines elements of the racing and role-playing genres. |
-| [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) | DOS | 645 | 4 | 2026-10-11 | — | Descent-Rebirth and Descent II-Rebirth |
-| [The Return of the King (Athelas)](https://github.com/Shagg88/Athelas) | PC | 195 | 3.95 | 2026-11-04 | ✅ | Play The Return of the King (PC and Xbox) and The Two Towers (Xbox) on a modern PC |
-| [Need for Speed: Underground 2 (Switch port)](https://github.com/antoxa2584x/nfsu2-sw) | Xbox | 194 | 3.95 | 2026-10-18 | ✅ | Need For Speed Underground 2 Xbox Original port for Nintendo Switch |
+| [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) | DOS | 645 | 4 | 2026-11-01 | — | Descent-Rebirth and Descent II-Rebirth |
+| [The Return of the King (Athelas)](https://github.com/Shagg88/Athelas) | PC | 198 | 3.95 | 2026-11-06 | ✅ | Play The Return of the King (PC and Xbox) and The Two Towers (Xbox) on a modern PC |
+| [Need for Speed: Underground 2 (Switch port)](https://github.com/antoxa2584x/nfsu2-sw) | Xbox | 196 | 3.95 | 2026-10-18 | ✅ | Need For Speed Underground 2 Xbox Original port for Nintendo Switch |
 | [The Simpsons: Hit & Run (The Simpsons: Hit & Run Android)](https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android) | PC | 193 | 3.95 | 2026-08-05 | ✅ | Unofficial Android port of The Simpsons: Hit & Run. Requires legally owned game files. No assets included. |
-| [God of War: Sons of Sparta (Sons Of Sparta PS5 Native)](https://github.com/OverkillLabs3/SoS-PS5) | PS5 | 188 | 3.95 | 2026-10-12 | ✅ | God of War Sons of Sparta Native on Windows |
+| [God of War: Sons of Sparta (Sons Of Sparta PS5 Native)](https://github.com/OverkillLabs3/SoS-PS5) | PS5 | 190 | 3.95 | 2026-10-12 | ✅ | God of War Sons of Sparta Native on Windows |
 | [Wipeout (wipeout-dc)](https://github.com/jnmartin84/wipeout-dc) | PS1 | 180 | 3.95 | 2026-04-01 | ✅ | Dreamcast port of wipeout-rewrite |
-| [openQ4](https://github.com/themuffinator/openQ4) | PC | 178 | 3.95 | 2026-11-05 | ✅ | The modern way to play QUAKE 4. |
-| [Uncharted: The Nathan Drake Collection (Uncharted_Collection_PC)](https://github.com/zorde23/Uncharted_Collection_PC) | PS4 | 173 | 3.95 | 2026-11-05 | ✅ | Unofficial native Windows port of Uncharted: The Nathan Drake Collection (PS4). UC3 at 60 FPS, UC2 playable, UC1 experimental. No game files included. |
-| [Gravity Rush 2 (Gravity Rush 2 Native PC Port)](https://github.com/HayatoG/gr2_pc) | PS4 | 172 | 3.95 | 2026-10-24 | ✅ | Native PC port (Linux/Windows) of Gravity Rush 2 (PS4, CUSA03694) — runs your own game dump; no game or firmware files included. Bilingual launcher (… |
-| [God of War (GoW PC port)](https://github.com/danielalves96/gow-pc-port) | PS2 | 167 | 3.95 | 2026-11-05 | ✅ | Unofficial native PC port of God of War (2005, PS2) for Windows, with experimental Linux support. Statically recompiled to C++, not an emulator. Open… |
-| [WWE SmackDown vs. Raw 2011 (WWE SmackDown vs. Raw 2011 - PC Port)](https://github.com/KaikoClanworth1/wwe-svr2011-pc) | Xbox 360 | 164 | 3.95 | 2026-11-06 | ✅ | Unofficial native PC port of WWE SmackDown vs. Raw 2011 (Xbox 360). Bring your own disc. |
+| [openQ4](https://github.com/themuffinator/openQ4) | PC | 178 | 3.95 | 2026-11-06 | ✅ | The modern way to play QUAKE 4. |
+| [Gravity Rush 2 (Gravity Rush 2 Native PC Port)](https://github.com/HayatoG/gr2_pc) | PS4 | 177 | 3.95 | 2026-10-24 | ✅ | Native PC port (Linux/Windows) of Gravity Rush 2 (PS4, CUSA03694) — runs your own game dump; no game or firmware files included. Bilingual launcher (… |
+| [God of War (GoW PC port)](https://github.com/danielalves96/gow-pc-port) | PS2 | 175 | 3.95 | 2026-11-07 | ✅ | Unofficial native PC port of God of War (2005, PS2) for Windows, with experimental Linux support. Statically recompiled to C++, not an emulator. Open… |
+| [Uncharted: The Nathan Drake Collection (Uncharted_Collection_PC)](https://github.com/zorde23/Uncharted_Collection_PC) | PS4 | 174 | 3.95 | 2026-11-05 | ✅ | Unofficial native Windows port of Uncharted: The Nathan Drake Collection (PS4). UC3 at 60 FPS, UC2 playable, UC1 experimental. No game files included. |
+| [Odin Sphere Leifthrasir (Odin Sphere Leifthrasir PC Port)](https://github.com/saulob/odin-sphere-leifthrasir-pc) | PS4 | 169 | 3.95 | 2026-11-04 | ✅ | Odin Sphere Leifthrasir native PC port for Windows, with direct PS4 PKG installation, TRG launcher and modern graphics options |
+| [WWE SmackDown vs. Raw 2011 (WWE SmackDown vs. Raw 2011 - PC Port)](https://github.com/KaikoClanworth1/wwe-svr2011-pc) | Xbox 360 | 167 | 3.95 | 2026-11-06 | ✅ | Unofficial native PC port of WWE SmackDown vs. Raw 2011 (Xbox 360). Bring your own disc. |
 | [NetHack (NetHack (Android))](https://github.com/gurrhack/NetHack-Android) | PC | 161 | 3.95 | 2025-12-01 | ✅ | Android port of NetHack |
-| [Odin Sphere Leifthrasir (Odin Sphere Leifthrasir PC Port)](https://github.com/saulob/odin-sphere-leifthrasir-pc) | PS4 | 161 | 3.95 | 2026-11-04 | ✅ | Odin Sphere Leifthrasir native PC port for Windows, with direct PS4 PKG installation, TRG launcher and modern graphics options |
 | [Quake (QuakeQuest)](https://github.com/Team-Beef-Studios/QuakeQuest) | DOS | 146 | 3.95 | 2026-08-01 | ✅ | The first (and only I think!) 6DoF implementation of Quake, using the DarkPlaces Engine for the OpenXR Standalone VR HMDs |
-| [Pokémon Brilliant Diamond (Strahlender XNU)](https://github.com/Veemyu/strahlender-xnu) | Switch | 139 | 3.95 | 2026-11-05 | ✅ | Strahlender XNU is a native port of Pokémon Brilliant Diamond for Windows, Linux, and macOS that supports file and code mods. |
-| [Bloodborne (Bloodborne for Linux)](https://github.com/ayozetr/bloodborne_linux) | PS4 | 135 | 3.95 | 2026-11-04 | ✅ | Bloodborne running natively on Linux and the Steam Deck, built on bbport: online play and Seamless Co-op, unlocked FPS, ultrawide, FSR and DLSS, any… |
-| [inFAMOUS First Light (inFAMOUS First Light — native PC port)](https://github.com/VantageEX/infamous-first-light-pc) | PS4 | 131 | 3.95 | 2026-10-25 | ✅ | Unofficial native PC port of inFAMOUS First Light (PS4). Bring your own game dump - no game files included. |
-| [F-Zero GX (F-ZERO GLINUX)](https://github.com/Mabec-games/F-ZERO-GLINUX) | GameCube | 121 | 3.95 | 2026-10-30 | ✅ | F-ZERO GX on Linux & Windows: controller-friendly launcher, Full Widescreen support with AA & FXAA, Online gameplay and more! |
-| [TimeSplitters: Future Perfect (TimeSplitters: Future Perfect PC)](https://github.com/TheDoffman/timesplitters-future-perfect-pc) | og xbox | 121 | 3.95 | 2026-11-05 | ✅ | Experimental TimeSplitters: Future Perfect PC integration: keyboard and mouse controls, source patches, and build instructions. Requires your own Xbo… |
+| [Pokémon Brilliant Diamond (Strahlender XNU)](https://github.com/Veemyu/strahlender-xnu) | Switch | 143 | 3.95 | 2026-11-05 | ✅ | Strahlender XNU is a native port of Pokémon Brilliant Diamond for Windows, Linux, and macOS that supports file and code mods. |
+| [Bloodborne (Bloodborne for Linux)](https://github.com/ayozetr/bloodborne_linux) | PS4 | 139 | 3.95 | 2026-11-04 | ✅ | Bloodborne running natively on Linux and the Steam Deck, built on bbport: online play and Seamless Co-op, unlocked FPS, ultrawide, FSR and DLSS, any… |
+| [inFAMOUS First Light (inFAMOUS First Light — native PC port)](https://github.com/VantageEX/infamous-first-light-pc) | PS4 | 136 | 3.95 | 2026-10-25 | ✅ | Unofficial native PC port of inFAMOUS First Light (PS4). Bring your own game dump - no game files included. |
+| [F-Zero GX (F-ZERO GLINUX)](https://github.com/Mabec-games/F-ZERO-GLINUX) | GameCube | 125 | 3.95 | 2026-10-30 | ✅ | F-ZERO GX on Linux & Windows: controller-friendly launcher, Full Widescreen support with AA & FXAA, Online gameplay and more! |
+| [TimeSplitters: Future Perfect (TimeSplitters: Future Perfect PC)](https://github.com/TheDoffman/timesplitters-future-perfect-pc) | og xbox | 125 | 3.95 | 2026-11-07 | ✅ | Experimental TimeSplitters: Future Perfect PC integration: keyboard and mouse controls, source patches, and build instructions. Requires your own Xbo… |
 | [The Legend of Zelda: Oracle of Seasons / Oracle of Ages (The Oracles Project)](https://github.com/thibautbus/top) | Game Boy Color | 115 | 3.95 | 2026-11-05 | ✅ | The Oracles Project - A faithful, moddable port of Oracle of Ages and Oracle of Seasons for Windows, macOS, Linux and Android: your own ROM runs unmo… |
 | [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Mobile | 113 | 3.95 | 2026-09-25 | ✅ | Hollow Knight: Silksong Dual-Screen Android port (+Steam integration) |
+| [Dead or Alive 2 Ultimate (DOA2U Native PC Port)](https://github.com/NoRain211/doa2u-re) | og xbox | 104 | 3.95 | 2026-11-07 | ✅ | Native Windows port of Dead or Alive 2 Ultimate (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game. |
 | [Mario Kart Wii - Service Pack (mkw-sp)](https://github.com/mkw-sp/mkw-sp) | Wii | 103 | 3.95 | 2025-12-11 | ✅ | Mario Kart Wii - Service Pack |
-| [Dead or Alive 2 Ultimate (DOA2U Native PC Port)](https://github.com/NoRain211/doa2u-re) | og xbox | 102 | 3.95 | 2026-11-06 | ✅ | Native Windows port of Dead or Alive 2 Ultimate (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game. |
 | [Quake II (Quake2Quest)](https://github.com/Team-Beef-Studios/Quake2Quest) | PC | 98 | 3.95 | 2026-06-16 | ✅ | Quake 2 on the Oculus Quest |
 | [Return to Castle Wolfenstein (RTCWQuest)](https://github.com/Team-Beef-Studios/RTCWQuest) | PC | 80 | 3.95 | 2026-06-15 | ✅ | Return to Castle Wolfenstein for the Oculus Quest |
-| [Mario Party 4 (Party Board (zeranemesis port))](https://github.com/zeranemesis/Marioparty4) | GameCube | 77 | 3.95 | 2026-10-30 | — | Partyboard is a Windows port of Mario Party 4 that allows online play with synchronized input and automatic updates. |
+| [Mario Party 4 (Party Board (zeranemesis port))](https://github.com/zeranemesis/Marioparty4) | GameCube | 78 | 3.95 | 2026-11-06 | — | Partyboard is a Windows port of Mario Party 4 that allows online play with synchronized input and automatic updates. |
 | [Doom (QuestZDoom)](https://github.com/Team-Beef-Studios/QuestZDoom) | DOS | 72 | 3.95 | 2026-08-03 | ✅ | Quest VR Port of the popular LZDoom/GZDoom Engine with full 6DoF |
 | [Taradino](https://github.com/fabiangreffrath/taradino) | DOS | 59 | 3.95 | 2026-03-20 | ✅ | SDL2 port of Rise of the Triad |
-| [Vandal Hearts (Vandal Hearts PC)](https://github.com/HalmyLyseas/VandalHearts-PcPort) | PS1 | 58 | 3.95 | 2026-08-31 | ✅ | Native PC port of the PlayStation game Vandal Hearts, built on a byte-exact matching decompilation. Windows & Linux; bring your own disc. |
-| [Buffy the Vampire Slayer: Chaos Bleeds (Buffy Chaos Bleeds PC)](https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc) | og xbox | 51 | 3.95 | 2026-10-02 | ✅ | Unofficial native PC port of Buffy the Vampire Slayer: Chaos Bleeds (Xbox). Bring your own disc. |
+| [Vandal Hearts (Vandal Hearts PC)](https://github.com/HalmyLyseas/VandalHearts-PcPort) | PS1 | 59 | 3.95 | 2026-08-31 | ✅ | Native PC port of the PlayStation game Vandal Hearts, built on a byte-exact matching decompilation. Windows & Linux; bring your own disc. |
+| [Buffy the Vampire Slayer: Chaos Bleeds (Buffy Chaos Bleeds PC)](https://github.com/KaikoClanworth1/buffy-chaos-bleeds-pc) | og xbox | 54 | 3.95 | 2026-10-02 | ✅ | Unofficial native PC port of Buffy the Vampire Slayer: Chaos Bleeds (Xbox). Bring your own disc. |
 | [Barrett](https://github.com/lunarmeadow/barrett) | DOS | 34 | 3.95 | 2026-06-07 | ✅ | Advanced and featureful Rise of the Triad source port for modern systems |
-| [Crusader: No Remorse (Crusader: No Remorse - SDL port)](https://github.com/sebsebseb1982/crusader-no-remorse-decomp) | DOS | 24 | 3.95 | 2026-11-06 | ✅ |  |
+| [Crusader: No Remorse (Crusader: No Remorse - SDL port)](https://github.com/sebsebseb1982/crusader-no-remorse-decomp) | DOS | 26 | 3.95 | 2026-11-06 | ✅ |  |
 | [Star Trek: Voyager - Elite Force (Star Trek: Voyager - Elite Force (Android))](https://github.com/imjustadudegamer/VoyagerSP-Android) | PC | 21 | 3.95 | 2026-11-03 | ✅ | Android single-player port of Star Trek: Voyager - Elite Force (idTech3/Quake3e, Vulkan). |
 | [The Legend of Zelda: A Link to the Past (ALTTP-DX)](https://github.com/YeOldPress/alttp-dx) | SNES | 21 | 3.95 | 2026-11-01 | ✅ | PC Port of The Legend of Zelda: A Link to the Past |
 | [Super Mario Sunshine (sms-port (zeranemesis, PAL))](https://github.com/zeranemesis/sms-port) | GameCube | 18 | 3.95 | 2026-11-05 | ✅ | Port PC de Super Mario Sunshine, base sur la decompilation doldecomp/sms (version PAL GMSP01) |
@@ -148,21 +149,21 @@
 | [Descent (D1X 3DS)](https://github.com/iNdioNicarao/dxx-3ds) | DOS | 12 | 3.95 | 2026-10-24 | ✅ | Nintendo 3DS (New 3DS) port of Descent I with hardware picaGL rendering and stereoscopic 3D. |
 | [Forza Motorsport 4 (hl360-forza4)](https://github.com/0herculabs/hl360-forza4) | Xbox 360 | 199 | 3.9 | 2026-10-31 | ✅ | Forza Motorsport 4 native on PC |
 | [GoldenEye 007 ( goldeneye-vr (Quest))](https://github.com/chrissotraidis/goldenpad) | N64 | 190 | 3.9 | 2026-11-01 | ✅ | GoldenEye 007, native for iPhone, iPad, and Apple Silicon Mac. Metal, touch controls, and user-supplied retail data. |
-| [Gears of War 2 (Gears of War 2 PC port)](https://github.com/santiquiroz/gears-of-war-2-pc-port) | Xbox 360 | 152 | 3.9 | 2026-11-05 | ✅ | Gears of War 2 native PC port: the Xbox 360 game statically recompiled to x64 (not an emulator). 1440p/4K, FSR, 4K texture packs, keyboard & mouse, A… |
-| [Vagrant Story (VS-NativePort)](https://github.com/JEschete/VS-NativePort) | PS1 | 80 | 3.9 | 2026-11-01 | ✅ |  |
-| [Metal Gear Solid (mgs-reintegral)](https://github.com/Drommedhar/mgs-reintegral) | PS1 | 60 | 3.9 | 2026-10-17 | ✅ |  |
-| [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | Mobile | 56 | 3.9 | 2026-08-23 | ✅ | A native Android port of Hollow Knight (GOG/Steam, v1.5.12620 "Voidheart") for the AYN Thor dual-screen handheld. |
-| [Animal Crossing (ACGC-Android-Port)](https://github.com/zwaetschge/ACGC-Android-Port) | GameCube | 48 | 3.9 | 2026-10-06 | ✅ | Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations… |
+| [Gears of War 2 (Gears of War 2 PC port)](https://github.com/santiquiroz/gears-of-war-2-pc-port) | Xbox 360 | 156 | 3.9 | 2026-11-06 | ✅ | Gears of War 2 native PC port: the Xbox 360 game statically recompiled to x64 (not an emulator). 1440p/4K, FSR, 4K texture packs, keyboard & mouse, A… |
+| [Vagrant Story (VS-NativePort)](https://github.com/JEschete/VS-NativePort) | PS1 | 82 | 3.9 | 2026-11-01 | ✅ |  |
+| [Metal Gear Solid (mgs-reintegral)](https://github.com/Drommedhar/mgs-reintegral) | PS1 | 62 | 3.9 | 2026-11-07 | ✅ |  |
+| [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | Mobile | 57 | 3.9 | 2026-08-23 | ✅ | A native Android port of Hollow Knight (GOG/Steam, v1.5.12620 "Voidheart") for the AYN Thor dual-screen handheld. |
+| [Animal Crossing (ACGC-Android-Port)](https://github.com/zwaetschge/ACGC-Android-Port) | GameCube | 50 | 3.9 | 2026-10-06 | ✅ | Android port of the Animal Crossing (GameCube) PC port, built with Z.ai, OpenAI Codex and Claude – bring your own disc; HD textures and translations… |
 | [The Terminator: SkyNET (skynet-godot)](https://github.com/nautilusbits/skynet-godot) | DOS | 48 | 3.9 | 2026-10-13 | ✅ | A Godot 4 port of Bethesda's 1996 XnGine shooters SkyNET and Future Shock - plays your own copy of the original game data. |
 | [Animal Crossing ( animalcrossing-visionos)](https://github.com/chrissotraidis/bellpad) | GameCube | 40 | 3.9 | 2026-10-30 | ✅ | Animal Crossing for MacOS, iOS, and iPadOS. |
-| [No One Lives Forever 2 (nolf2src)](https://github.com/nolffan/nolf2src) | PC | 38 | 3.9 | 2026-11-02 | — | No One Lives Forever 2: A Spy in H.A.R.M.'s Way source code |
+| [No One Lives Forever 2 (nolf2src)](https://github.com/nolffan/nolf2src) | PC | 38 | 3.9 | 2026-11-06 | — | No One Lives Forever 2: A Spy in H.A.R.M.'s Way source code |
 | [Super Mario 64 (SM64-PC-Port-WebGL)](https://github.com/NotAn127/SM64-PC-Port-WebGL) | N64 | 32 | 3.9 | 2026-10-09 | ✅ | Here is the link ig, took a while to do this, believe me |
 | [Super Mario 64 (sm64ex)](https://github.com/sm64pc/sm64ex) | N64 | 1.9k | 3.8 | 2024-12-17 | — | Fork of https://github.com/sm64-port/sm64-port with additional features. |
 | [Quake (DarkPlaces)](https://github.com/DarkPlacesEngine/DarkPlaces) | DOS | 455 | 3.75 | 2026-11-05 | ✅ | The DarkPlaces Quake engine, created by LadyHavoc. Official Git repository (replaces SVN). |
-| [Quake (q1.pieter.com (FTE QuakeWorld))](https://github.com/fte-team/fteqw) | DOS | 364 | 3.75 | 2026-11-02 | ✅ | This is the official GitHub mirror for the FTEQW project. |
-| [Need for Speed: Most Wanted (nfsmw-nx)](https://github.com/StevensND/nfsmw-nx) | PC | 261 | 3.75 | 2026-11-03 | ✅ | A native Nintendo Switch port of Need For Speed Most Wanted 2005 (Xbox 360 Version) |
-| [Race into Space](https://github.com/raceintospace/raceintospace) | — | 237 | 3.75 | 2026-10-31 | ✅ | This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions a… |
-| [Mario Party 6 (Starlit Party)](https://github.com/iirg4x/mp6-native-port) | GameCube | 24 | 3.75 | 2026-10-23 | ✅ | Native PC (Windows) and Android port of Mario Party 6, built on the byte-accurate GC decompilation. Game files are NOT included — supply your own dis… |
+| [Quake (q1.pieter.com (FTE QuakeWorld))](https://github.com/fte-team/fteqw) | DOS | 365 | 3.75 | 2026-11-02 | ✅ | This is the official GitHub mirror for the FTEQW project. |
+| [Need for Speed: Most Wanted (nfsmw-nx)](https://github.com/StevensND/nfsmw-nx) | PC | 262 | 3.75 | 2026-11-03 | ✅ | A native Nintendo Switch port of Need For Speed Most Wanted 2005 (Xbox 360 Version) |
+| [Race into Space](https://github.com/raceintospace/raceintospace) | PC | 237 | 3.75 | 2026-10-31 | ✅ | This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions a… |
+| [Mario Party 6 (Starlit Party)](https://github.com/iirg4x/mp6-native-port) | GameCube | 25 | 3.75 | 2026-10-23 | ✅ | Native PC (Windows) and Android port of Mario Party 6, built on the byte-accurate GC decompilation. Game files are NOT included — supply your own dis… |
 | [Speed-Academy](https://github.com/kugelrund/Speed-Academy) | PC | 22 | 3.75 | 2026-07-26 | ✅ | Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy |
 | [Apocalypse (Project Repocalypse)](https://github.com/MustafaSamer93/Apocalypse-PC-Native-Port) | PS1 | 20 | 3.75 | 2026-10-20 | ✅ | A Static Recomplation of PSX Game Apocalypse |
 | [BattleTanx: Global Assault (Native PC Port)](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port) | N64 | 20 | 3.75 | 2026-10-15 | ✅ | Native Windows and Linux port of BattleTanx: Global Assault using N64Recomp, N64ModernRuntime, RT64, and SDL2 |
@@ -170,47 +171,46 @@
 | [Crash Team Racing (CTR-PC-Port)](https://github.com/NyperYuhgard/CTR-PC-Port) | PS1 | 16 | 3.75 | 2026-08-03 | — | A PC Port From Crash Team Racing |
 | [Star Trek: Voyager - Elite Force (Star Trek: Voyager - Elite Force Holomatch)](https://github.com/imjustadudegamer/VoyagerHM-Android) | PC | 13 | 3.75 | 2026-07-11 | ✅ | Star Trek: Voyager - Elite Force Holomatch for Android (Vulkan renderer, touch controls, gamepad) |
 | [Parasite Eve (parasite-eve-decomp-port)](https://github.com/Blizz127/parasite-eve-decomp-port) | PS1 | 12 | 3.75 | 2026-10-30 | ✅ | A port and decompile of Parasite Ever for Linux and Windows. 1:1 Accuracy and preservation minded mods and upgrades soon too. |
-| [Brave Fencer Musashi (brave-fencer-musashi-decomp-port)](https://github.com/Blizz127/Brave-Fencer-Musashi-decomp-port) | PS1 | 10 | 3.75 | 2026-10-30 | ✅ | brave-fencer-musashi-decomp-port is an experimental PC port of Brave Fencer Musashi for PlayStation, playable on Linux and Windows. |
+| [Brave Fencer Musashi (brave-fencer-musashi-decomp-port)](https://github.com/Blizz127/Brave-Fencer-Musashi-decomp-port) | PS1 | 11 | 3.75 | 2026-10-30 | ✅ | brave-fencer-musashi-decomp-port is an experimental PC port of Brave Fencer Musashi for PlayStation, playable on Linux and Windows. |
 | [Star Wars Jedi Knight II: Jedi Outcast (JK XR)](https://github.com/Team-Beef-Studios/JKXR) | PC | 166 | 3.7 | 2026-06-10 | ✅ | Jedi Knight games on OpenXR devices (Meta Quest, Pico 4, and PCVR) |
-| [Forza Motorsport 3 (hl360-forza3)](https://github.com/0herculabs/hl360-forza3) | Xbox 360 | 115 | 3.7 | 2026-10-17 | ✅ | Forza Motorsport 3 native on PC |
-| [NHL 24 (nhl24pc)](https://github.com/HajDEO/nhl24pc) | PS4 | 90 | 3.7 | 2026-11-05 | ✅ | nhl24pc is a native PC port of NHL 24 for Windows that runs the game's x86-64 code directly on your processor via Vulkan. |
-| [Diablo III (Souls-of-the-Reaper)](https://github.com/Boron853/Souls-of-the-Reaper) | PC | 67 | 3.7 | 2026-07-25 | ✅ | A port of Diablo 3 based on RexGlue using AI |
-| [King's Field II (Verdite3)](https://github.com/Voicedrew11/verdite3) | PS1 | 38 | 3.7 | 2026-10-18 | ✅ | AI driven attempt at porting King's Field II (SLUS-00255) to PC with a variety of improvements |
+| [Forza Motorsport 3 (hl360-forza3)](https://github.com/0herculabs/hl360-forza3) | Xbox 360 | 117 | 3.7 | 2026-10-17 | ✅ | Forza Motorsport 3 native on PC |
+| [NHL 24 (nhl24pc)](https://github.com/HajDEO/nhl24pc) | PS4 | 92 | 3.7 | 2026-11-05 | ✅ | nhl24pc is a native PC port of NHL 24 for Windows that runs the game's x86-64 code directly on your processor via Vulkan. |
+| [Diablo III (Souls-of-the-Reaper)](https://github.com/Boron853/Souls-of-the-Reaper) | PC | 69 | 3.7 | 2026-07-25 | ✅ | A port of Diablo 3 based on RexGlue using AI |
+| [King's Field II (Verdite3)](https://github.com/Voicedrew11/verdite3) | PS1 | 43 | 3.7 | 2026-10-18 | ✅ | AI driven attempt at porting King's Field II (SLUS-00255) to PC with a variety of improvements |
 | [Super Mario Strikers (BallPad)](https://github.com/chrissotraidis/ballpad) | GameCube | 27 | 3.7 | 2026-10-30 | ✅ | Super Mario Strikers native for iOS and iPadOS. |
-| [Breath of Fire III (Breath of Fire III - PC Port)](https://github.com/kerokline/BreathOfFire3PCPort) | PS1 | 25 | 3.7 | 2026-11-05 | — | A renovation of the 2001 Chinese PC port of Breath of Fire III |
+| [Breath of Fire III (Breath of Fire III - PC Port)](https://github.com/kerokline/BreathOfFire3PCPort) | PS1 | 25 | 3.7 | 2026-11-07 | — | A renovation of the 2001 Chinese PC port of Breath of Fire III |
 | [Area 51 (Area 51 (Source Restoration))](https://github.com/ProjectDreamland/area51) | PC | 581 | 3.6 | 2025-08-02 | ✅ | Source code for Area 51 (2005) |
 | [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) | PC | 473 | 3.55 | 2026-07-16 | — | Vanilla Conquer provides clean, cross-platform builds of the C&C Remastered Collection and the standalone legacy games. |
-| [BLACK (black-pc)](https://github.com/Spark198rus/black-pc) | og xbox | 376 | 3.55 | 2026-10-24 | ✅ | Unofficial native Windows port of BLACK (Xbox, NTSC-U). Runs your own copy of the game's code on the PC; no game data included. |
-| [Paper Mario (Paper Mario ReCut)](https://github.com/SMCGames/Paper-Mario-ReCut-Deprecated) | N64 | 303 | 3.55 | 2026-10-21 | — | A PC Port of Paper Mario for N64 |
-| [The Legend of Zelda: Ocarina of Time (oot-PSP)](https://github.com/z2442/oot-PSP) | N64 | 93 | 3.55 | 2026-11-06 | ✅ |  |
+| [BLACK (black-pc)](https://github.com/Spark198rus/black-pc) | og xbox | 379 | 3.55 | 2026-10-24 | ✅ | Unofficial native Windows port of BLACK (Xbox, NTSC-U). Runs your own copy of the game's code on the PC; no game data included. |
+| [Paper Mario (Paper Mario ReCut)](https://github.com/SMCGames/Paper-Mario-ReCut-Deprecated) | N64 | 304 | 3.55 | 2026-10-21 | — | A PC Port of Paper Mario for N64 |
+| [The Legend of Zelda: Ocarina of Time (oot-PSP)](https://github.com/z2442/oot-PSP) | N64 | 95 | 3.55 | 2026-11-07 | ✅ |  |
 | [Gish (freegish)](https://github.com/freegish/freegish) | PC | 90 | 3.55 | 2026-10-20 | ✅ | A free version of the game Gish |
-| [Armored Core 4 (AC4-Port)](https://github.com/SulphurS16/AC4-Port) | PS3 | 56 | 3.55 | 2026-10-29 | ✅ | Unofficial native Windows port of ARMORED CORE 4 (PS3), built from your own copy of the game. Part of Project Glintburn. |
+| [Armored Core 4 (AC4-Port)](https://github.com/SulphurS16/AC4-Port) | PS3 | 57 | 3.55 | 2026-10-29 | ✅ | Unofficial native Windows port of ARMORED CORE 4 (PS3), built from your own copy of the game. Part of Project Glintburn. |
 | [Mario Party 4 (Party Board)](https://github.com/mariopartyrd/partyboard) | GameCube | 56 | 3.55 | 2026-10-27 | — | A WIP PC port of Mario Party 4. |
 | [The Legend of Zelda: Majora's Mask (MaskPad)](https://github.com/chrissotraidis/maskpad) | N64 | 54 | 3.55 | 2026-10-24 | ✅ | The Legend of Zelda: Majora's Mask via 2 Ship 2 Harkinian, rebuilt for iPhone and iPad. |
 | [Legend of Doom (legend-of-doom-3ds)](https://github.com/EstebanPdN/legend-of-doom-3ds) | Others | 41 | 3.55 | 2026-11-05 | ✅ | Legend of Doom port for New Nintendo 3DS, New Nintendo 3DS XL and New Nintendo 2DS XL, based on GZDoom 4.7.1. |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Amiga | 39 | 3.55 | 2026-11-06 | ✅ |  |
 | [Prehistorik 2 (missingno7 pre2_port (dos_re))](https://github.com/missingno7/pre2_port) | DOS | 22 | 3.55 | 2026-07-16 | ✅ | Prehistorik 2 DOS_RE Source-Port Workbench |
-| [ClayFighter 64](https://github.com/djultra64/ClayFighter64) | N64 | 11 | 3.5 | 2026-10-27 | ✅ | ClayFighter 64: native Linux and Windows fusion of ClayFighter 63⅓ gameplay and Sculptor's Cut characters, by djultra64 |
+| [ClayFighter 64](https://github.com/djultra64/ClayFighter64) | N64 | 12 | 3.5 | 2026-10-27 | ✅ | ClayFighter 64: native Linux and Windows fusion of ClayFighter 63⅓ gameplay and Sculptor's Cut characters, by djultra64 |
 | [NetHack (Amphitere (NetHack))](https://github.com/fancypantalons/Amphitere) | PC | 10 | 3.5 | 2026-06-21 | ✅ | An Android port of NetHack with a specific focus on dual-screen devices |
-| [Meridian 59](https://github.com/Meridian59/Meridian59) | PC | 522 | 3.4 | 2026-11-05 | — | The MMORPG Meridian 59 |
-| [Quake (quakespasm)](https://github.com/sezero/quakespasm) | DOS | 406 | 3.4 | 2026-10-28 | — | QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. |
-| [Crash Bandicoot](https://github.com/wurlyfox/c1) | PS1 | 251 | 3.4 | 2026-10-30 | — | Port of Crash Bandicoot to C |
+| [Meridian 59](https://github.com/Meridian59/Meridian59) | PC | 522 | 3.4 | 2026-11-07 | — | The MMORPG Meridian 59 |
+| [Quake (quakespasm)](https://github.com/sezero/quakespasm) | DOS | 408 | 3.4 | 2026-10-28 | — | QuakeSpasm -- A modern, cross-platform Quake game engine based on FitzQuake. |
 | [Command & Conquer: Red Alert (ra-port)](https://github.com/dk8827/ra-port) | DOS | 250 | 3.4 | 2026-10-31 | — | Unofficial working port of Command & Conquer: Red Alert running natively on iOS, Android, Linux and macOS. SDL2 video/audio/input. No game assets inc… |
+| [Crash Bandicoot](https://github.com/wurlyfox/c1) | PS1 | 250 | 3.4 | 2026-10-30 | — | Port of Crash Bandicoot to C |
 | [Doom (DOOM 32X: Resurrection)](https://github.com/viciious/d32xr) | DOS | 222 | 3.4 | 2026-11-04 | — | A modern port of Doom for the Sega 32X |
 | [Silent Hill (SilentEngine)](https://github.com/Sezzary/SilentEngine) | PS1 | 222 | 3.4 | 2026-11-04 | — | WIP multi-platform port of Silent Hill 1 with a future-proof foundation. |
-| [Call of Duty: Finest Hour (Finest Hour Remastered)](https://github.com/crazyriddler/FinestHourRemastered) | og xbox | 175 | 3.35 | 2026-11-04 | ✅ | A native PC port of Call of Duty: Finest Hour (original Xbox) with a remastered renderer |
+| [Call of Duty: Finest Hour (Finest Hour Remastered)](https://github.com/crazyriddler/FinestHourRemastered) | og xbox | 180 | 3.35 | 2026-11-04 | ✅ | A native PC port of Call of Duty: Finest Hour (original Xbox) with a remastered renderer |
 | [Star Fox 64 (Starship [Android Port])](https://github.com/izzy2lost/Starship) | N64 | 116 | 3.35 | 2025-11-16 | ✅ | SF64 Android Port |
 | [Quake III Arena (Batocera port package 'vkquake3')](https://github.com/suijingfeng/vkQuake3) | PC | 113 | 3.35 | 2026-06-14 | — | Its based on ioq3，I add a vulkan based modular render back end which originally from https://github.com/kennyalive/Quake-III-Arena-Kenny-Edition |
 | [Rockman EXE Phantom of Network (PoN PC)](https://github.com/StraDaMa/PoN_PC) | Mobile | 86 | 3.35 | 2026-02-17 | ✅ | PoN PC is a native Windows PC port of the previously mobile-exclusive game Rockman EXE Phantom of Network. |
-| [Lollipop Chainsaw (Re-Cherry)](https://github.com/MaxDeadBear/Re-Cherry) | Xbox 360 | 69 | 3.35 | 2026-04-01 | — | Re-Cherry is a Windows port of Lollipop Chainsaw for Xbox 360. |
+| [Lollipop Chainsaw (Re-Cherry)](https://github.com/MaxDeadBear/Re-Cherry) | Xbox 360 | 71 | 3.35 | 2026-04-01 | — | Re-Cherry is a Windows port of Lollipop Chainsaw for Xbox 360. |
 | [Anodyne ( AnodyneFNA)](https://github.com/PixieCatSupreme/AnodyneSharp) | PC | 56 | 3.35 | 2026-02-04 | — | A rewrite of the game Anodyne in Monogame |
-| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Dreamcast | 41 | 3.35 | 2026-11-02 | — | Work-in-progress Resident Evil 4 port for Sega Dreamcast, with native PowerVR rendering, VMU saves and Flycast-tested play builds. |
+| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Dreamcast | 41 | 3.35 | 2026-11-06 | — | Work-in-progress Resident Evil 4 port for Sega Dreamcast, with native PowerVR rendering, VMU saves and Flycast-tested play builds. |
 | [Super Mario Bros. (UEFI_SuperMario)](https://github.com/MikeWuPing/UEFI_SuperMario) | NES | 36 | 3.35 | 2026-05-03 | ✅ | 将红白机（NES）《超级马力欧兄弟》（Super Mario Bros）移植到 **UEFI Shell** 环境下运行。图形输出使用 UEFI GOP（Graphics Output Protocol），纯软件渲染，无音频依赖。可在 QEMU + OVMF 或真机 UEFI Shell 下运行。… |
 | [The Legend of Zelda: The Wind Waker (WindowWaker)](https://github.com/MaskeZenY/WindowWaker) | GameCube | 31 | 3.35 | 2026-10-10 | ✅ | Native Window port of The Legend of Zelda: The Wind Waker (GameCube). Bring your own game files. |
 | [Tiny Toon Adventures: Buster Busts Loose! (Buster Busts Loose! (PC port))](https://github.com/Darhkfox/BusterBustsLoose) | SNES | 31 | 3.35 | 2026-10-07 | ✅ | Windows PC port of Tiny Toon Adventures: Buster Busts Loose! (SNES) with true widescreen, HUD re-anchoring, display options, cheats, level select and… |
 | [Daikatana (Daikatana Restoration Project)](https://github.com/atsb/daikatana-restoration-project) | PC | 20 | 3.35 | 2026-10-18 | ✅ | Daikatana restoration aiming to have a clean 1.2 source and to support modern systems |
-| [The Dishwasher: Dead Samurai (DishSoap)](https://github.com/Hdmaniak/DishSoap) | Xbox 360 | 13 | 3.35 | 2026-10-21 | ✅ |  |
-| [Animal Crossing gcNX](https://github.com/digdat0/ACGC-Switch-Port) | GameCube | 11 | 3.35 | 2026-11-05 | — | Animal Crossing Gamecube Switch Port |
+| [The Dishwasher: Dead Samurai (DishSoap)](https://github.com/Hdmaniak/DishSoap) | Xbox 360 | 14 | 3.35 | 2026-10-21 | ✅ |  |
 | [Carmageddon (Carmageddon Android Port)](https://github.com/armac911/Carmageddon-Android-Port) | DOS | 10 | 3.35 | 2026-10-26 | — | AndroGaming.com Carmageddon Android Port, native ARM64 Dethrace-based engine, touch/controller support, graphics improvements and full AI development… |
 | [The Legend of Zelda: Skyward Sword (Skybreak)](https://github.com/Kyra422/skybreak) | Wii | 6 | 3.35 | 2026-10-05 | — | An experimental native PC port project for The Legend of Zelda: Skyward Sword (Wii). No game assets included; your own game copy is required. |
 | [Defender (Falcon)](https://github.com/therealsark02/defender) | Arcade | 13 | 3.3 | 2025-08-17 | ✅ | A port of Williams Defender for the Atari ST/STE/Falcon |
@@ -218,7 +218,7 @@
 | [Perfect Dark (Perfect Dark Port [Android])](https://github.com/izzy2lost/perfect_dark) | N64 | 108 | 3.15 | 2025-08-20 | ✅ | Android Port!! work in progress port of n64decomp/perfect_dark to modern platforms |
 | [Bugdom 2](https://github.com/jorio/Bugdom2) | PC | 72 | 3.15 | 2025-03-08 | ✅ | Pangea Software’s Bugdom 2 for modern systems 🦗 |
 | [Sonic the Hedgehog (s1-port)](https://github.com/foreverWIP/s1-port) | Genesis | 35 | 3.15 | 2025-06-23 | — | A full reimplementation of Sonic 1 in C. (WIP) |
-| [Zombies Ate My Neighbors (Zombies Ate My Neighbors PC Port)](https://github.com/moshferatu/zombies-ate-my-neighbors-pc-port) | SNES | 26 | 3.15 | 2026-10-30 | ✅ | Zombies Ate My Neighbors PC Port is a Windows port of the SNES game Zombies Ate My Neighbors with widescreen support, smoother motion, and twin-stick… |
+| [Zombies Ate My Neighbors (Zombies Ate My Neighbors PC Port)](https://github.com/moshferatu/zombies-ate-my-neighbors-pc-port) | SNES | 28 | 3.15 | 2026-10-30 | ✅ | Zombies Ate My Neighbors PC Port is a Windows port of the SNES game Zombies Ate My Neighbors with widescreen support, smoother motion, and twin-stick… |
 | [Xenogears (xenogears-decomp-port)](https://github.com/Blizz127/xenogears-decomp-port) | PS1 | 13 | 3.15 | 2026-10-29 | ✅ | Xenogears Decomp and Port |
 | [SimCity (micropolisJS)](https://github.com/graememcc/micropolisJS) | Mac | 736 | 3 | 2025-07-13 | — | A port of Micropolis to JS/HTML5 |
 | [Super Smash Bros. Melee (OpenSmash (Melee engine: opensmash-melee-pc))](https://github.com/turtlesoupy/opensmash) | GameCube | 161 | 2.95 | 2026-10-30 | — |  |
@@ -227,10 +227,10 @@
 | [Duke Nukem 3D (JFDuke3D)](https://github.com/jonof/jfduke3d) | DOS | 142 | 2.75 | 2026-01-02 | — | Port of the 3D Realms game "Duke Nukem 3D" |
 | [jfsw](https://github.com/jonof/jfsw) | DOS | 102 | 2.75 | 2026-01-02 | — | Port of the 3D Realms game "Shadow Warrior" |
 | [Wolfenstein 3D (Iron Wolf)](https://github.com/Ragnaroek/iron-wolf) | DOS | 88 | 2.6 | 2026-09-19 | — | wolf3D in Rust |
-| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | 71 | 2.6 | 2026-11-06 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
-| [Diablo (diablo_web))](https://github.com/JohnImril/diablo_web) | PC | 70 | 2.6 | 2026-11-04 | — | Play the original Diablo in your browser. Powered by React, TypeScript, Vite, and WebAssembly, with local saves, a free shareware demo, and support f… |
-| [God of War (Tobiichi-Port)](https://github.com/YYOzcan/Tobiichi-Port) | PS2 | 61 | 2.6 | 2026-10-15 | — | God of War PS2 → PC static recompilation port |
-| [God of War (God of War - Native Port)](https://github.com/Waffle565/God-Of-War-Native-Port) | PS2 | 57 | 2.6 | 2026-10-18 | — | A native PC port of God of War (PS2, NTSC-U SCUS-97399): the game's code is statically recompiled to C++, and the PS2 hardware it talked to is replac… |
+| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | 72 | 2.6 | 2026-11-07 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
+| [Diablo (diablo_web))](https://github.com/JohnImril/diablo_web) | PC | 71 | 2.6 | 2026-11-04 | — | Play the original Diablo in your browser. Powered by React, TypeScript, Vite, and WebAssembly, with local saves, a free shareware demo, and support f… |
+| [God of War (Tobiichi-Port)](https://github.com/YYOzcan/Tobiichi-Port) | PS2 | 62 | 2.6 | 2026-10-15 | — | God of War PS2 → PC static recompilation port |
+| [God of War (God of War - Native Port)](https://github.com/Waffle565/God-Of-War-Native-Port) | PS2 | 59 | 2.6 | 2026-10-18 | — | A native PC port of God of War (PS2, NTSC-U SCUS-97399): the game's code is statically recompiled to C++, and the PS2 hardware it talked to is replac… |
 | [Plants vs. Zombies (pvz-ps2-wii)](https://github.com/OptiJuegos/pvz-ps2-wii) | PC | 57 | 2.6 | 2026-09-01 | — | PvZ ported for the PS2 and the Wii! |
 | [Quake II Mission Pack: Ground Zero (Ground Zero for Yamagi Quake II)](https://github.com/yquake2/rogue) | PC | 53 | 2.6 | 2026-10-06 | — | 'Ground Zero' for Yamagi Quake II |
 | [Quake II Mission Pack: The Reckoning (The Reckoning for Yamagi Quake II)](https://github.com/yquake2/xatrix) | PC | 51 | 2.6 | 2026-10-04 | — | 'The Reckoning' for Yamagi Quake II |
@@ -238,18 +238,18 @@
 | [Wolfenstein 3D (Wolf4SDL)](https://github.com/fabiangreffrath/wolf4sdl) | DOS | 43 | 2.6 | 2026-11-02 | — | SDL-Port of Wolfenstein 3-D and Spear of Destiny |
 | [Call of Duty 4: Modern Warfare (kisakcod-port (web))](https://github.com/slqntdevss/kisakcod-port) | PC | 42 | 2.6 | 2026-10-07 | — | port of kisakcod (cod 4 2007 reimpl) to the web |
 | [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Atari Jaguar | 35 | 2.6 | 2026-11-01 | — | A modern port of Rayman 1 for PC |
+| [God of War II (God of War II: native PC port)](https://github.com/cxldsakeb/GoW2-nativo-PS2) | PS2 | 30 | 2.6 | 2026-10-28 | — | Port nativo de God of War II (PS2) a PC con PS2Recomp. WIP: ya llega a la primera zona jugable a ~60 FPS. Sin archivos del juego: necesitas tu propia… |
 | [Quake II: Zaero (Zaero for Yamagi Quake II)](https://github.com/yquake2/zaero) | PC | 30 | 2.6 | 2026-10-04 | — | A port of Team Evolves Zaero to Yamagi Quake II |
 | [Super Smash Bros. (Smash64DS_Port)](https://github.com/rockenrooster/Smash64DS_Port) | N64 | 30 | 2.6 | 2026-10-29 | — | Nintendo DS source port of Super Smash Bros. 64 via the BattleShip decomp. |
 | [Animal Crossing (forest (ACreTeam official PC port))](https://github.com/ACreTeam/forest) | GameCube | 91 | 2.4 | 2026-04-15 | — | PC Port of Animal Crossing |
 | [NearChuckle](https://github.com/rohit-n/NearChuckle) | PC | 64 | 2.4 | 2026-08-04 | — | A Linux port of Far Cry 1 |
 | [Quake II (Qwasm2)](https://github.com/GMH-Code/Qwasm2) | PC | 64 | 2.4 | 2026-04-18 | — | Play the Quake 2 first-person shooter engine in your browser! Supports WebGL 2 and software-rendered modes. |
 | [Wolfenstein 3D (ECWolf)](https://github.com/ECWolfEngine/ECWolf) | DOS | 59 | 2.4 | 2026-02-23 | — | Advanced port of Wolfenstein 3D based off of Wolf4SDL. Intends to back port some of the moding features of ZDoom to Wolfenstein 3D. |
-| [Super Mario 64 in Scratch (sm64-scratch)](https://github.com/naegoxdev/sm64-scratch) | N64 | 53 | 2.4 | 2026-10-16 | — | A Super Mario 64 demake built in Scratch |
+| [Super Mario 64 in Scratch (sm64-scratch)](https://github.com/naegoxdev/sm64-scratch) | N64 | 54 | 2.4 | 2026-10-16 | — | A Super Mario 64 demake built in Scratch |
 | [Super Mario 64 (libsm64-rust)](https://github.com/nickmass/libsm64-rust) | N64 | 45 | 2.4 | 2025-11-16 | — |  |
 | [Doom (Silent Space Marine)](https://github.com/GMH-Code/Dwasm) | DOS | 41 | 2.4 | 2026-04-14 | — | Play the DOOM engine in your browser with PrBoom+ and PrBoomX enhancements! |
 | [Doom 64 (doom64-dc)](https://github.com/jnmartin84/doom64-dc) | N64 | 31 | 2.4 | 2026-05-21 | — | Doom 64 port for Sega Dreamcast / KallistiOS |
 | [jfwhaven](https://github.com/jonof/jfwhaven) | DOS | 31 | 2.4 | 2025-12-27 | — | No-promises port of the Capstone Software game "Witchaven" |
-| [God of War II (God of War II: native PC port)](https://github.com/cxldsakeb/GoW2-nativo-PS2) | PS2 | 28 | 2.4 | 2026-10-28 | — | Port nativo de God of War II (PS2) a PC con PS2Recomp. WIP: ya llega a la primera zona jugable a ~60 FPS. Sin archivos del juego: necesitas tu propia… |
 | [Castlevania (castlevania-snes)](https://github.com/rumbleminze/castlevania-snes) | NES | 26 | 2.4 | 2026-09-15 | — | Native port of Castlevania to the SNES |
 | [Command & Conquer: Generals Zero Hour (NewShoes)](https://github.com/Agusx1211/NewShoes) | PC | 25 | 2.4 | 2026-09-23 | — | The original Command & Conquer: Generals Zero Hour engine, ported to WebAssembly and playable in the browser. |
 | [Twisted Metal (twisted-metal-2012-ps3-native-port)](https://github.com/franklincg/twisted-metal-2012-ps3-native-port) | PS3 | 25 | 2.4 | 2026-09-15 | — | Community-driven native PC recompilation/port of Twisted Metal (2012) for PlayStation 3. Initiated by FrankCG 🇧🇷. |
@@ -257,6 +257,7 @@
 | [Super Mario Bros. (Super Mario Bros. Atari Lynx Port)](https://github.com/pwsqrd/lynx_smb) | NES | 23 | 2.4 | 2026-10-20 | — | Clean source port of Super Mario Brothers NES to the Atari Lynx |
 | [Super Mario World (Hummer Team NES port)](https://github.com/palaceswitcher/SMW-NES-Disassembly) | NES | 20 | 2.4 | 2026-10-18 | — | WIP disassembly of Hummer Team's port of SMW. |
 | [Sonic CD (SonicCD-DC)](https://github.com/DCRSDK/SonicCD-DC) | PC | 18 | 2.4 | 2026-09-16 | — | A port of Sonic CD/RSDKv3 for SEGA Dreamcast |
+| [Marvel vs. Capcom 2](https://github.com/g-guthrie/mvc2-port-and-decomp) | Arcade | 17 | 2.4 | 2026-11-06 | — | Marvel vs. Capcom 2: a native port built from a byte-exact PS2 decompilation, plus the arcade (NAOMI) decompilation. Bring your own disc. |
 | [Super Smash Bros. (ssb64-dc)](https://github.com/beigeceleron/ssb64-dc) | N64 | 16 | 2.4 | 2026-10-10 | — | A fully native port of Super Smash Bros. (N64) for the Sega Dreamcast. |
 | [Animal Forest (animal_forest_psp)](https://github.com/bruder-grimm/animal_forest_psp) | N64 | 14 | 2.4 | 2026-10-24 | — | Port of animal forest to the psp |
 | [Double Dragon (double-dragon-snes)](https://github.com/rumbleminze/double-dragon-snes) | Arcade | 13 | 2.4 | 2026-10-08 | — | SNES port of the NES game Double Dragon |
@@ -286,19 +287,19 @@
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
-| [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) | PS1 | 990 | 3.75 | 2024-08-21 | ✅ | An enhanced PC source port of the original WipeOut. |
+| [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) | PS1 | 991 | 3.75 | 2024-08-21 | ✅ | An enhanced PC source port of the original WipeOut. |
 | [iortcw](https://github.com/iortcw/iortcw) | PC | 769 | 3.75 | 2024-05-26 | ✅ | Merge of ioquake3 features and fixes into RTCW code bases |
 | [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) | — | 202 | 3.55 | 2024-01-05 | — | [ARCHIVED] Cortex Command - Open Source under GNU AGPL v3 (no game data included) |
-| [Super Mario World (SMAS_Launcher)](https://github.com/stephini/SMAS_Launcher) | SNES | 63 | 3.55 | 2023-07-20 | — |  |
+| [Super Mario World (SMAS_Launcher)](https://github.com/stephini/SMAS_Launcher) | SNES | 64 | 3.55 | 2023-07-20 | — |  |
 | [Descent (DXX Retro)](https://github.com/CDarrow/DXX-Retro) | DOS | 52 | 3.55 | 2022-12-16 | ✅ | A source port of Descent 1 and 2, focused on quality competitive play.  Uncompromising commitment to original gameplay (except where the original suc… |
 | [The Legend of Zelda: A Link to the Past (zelda3-android)](https://github.com/Waterdish/zelda3-android) | SNES | 208 | 3.5 | 2024-06-03 | ✅ | A port of Zelda3 to Android |
 | [Quake III Arena (quakejs)](https://github.com/inolen/quakejs) | PC | 1.6k | 3.4 | 2019-03-26 | — |  |
 | [Cube 2: Sauerbraten (BananaBread)](https://github.com/kripken/BananaBread) | PC | 1.4k | 3.4 | 2021-10-29 | — | BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML |
 | [Commander Keen in Goodbye, Galaxy! (keensource456tandy)](https://github.com/FrenkelS/keensource456tandy) | DOS | 24 | 3.35 | 2024-01-14 | — | Commander Keen 4 Tandy 320x200 16 color source code port |
-| [Marble Blast Gold (OpenMBG)](https://github.com/The-New-Platinum-Team/OpenMBG) | PC | 18 | 3.35 | 2024-08-25 | ✅ | MBG but reverse engineered |
+| [Marble Blast Gold (OpenMBG)](https://github.com/The-New-Platinum-Team/OpenMBG) | PC | 19 | 3.35 | 2024-08-25 | ✅ | MBG but reverse engineered |
 | [Doom (64doom)](https://github.com/jnmartin84/64doom) | DOS | 98 | 3.3 | 2024-03-17 | ✅ | Source port of the original Doom to the Nintendo 64 |
 | [Signus: The Artefact Wars](https://github.com/signus-game/signus) | DOS | 70 | 3.3 | 2023-12-23 | ✅ | Signus: The Artefact Wars. Czech turn-based strategy game similar to Battle Isle series |
-| [Marathon (Marathon (Android))](https://github.com/daniele-rapagnani/alephone-android) | Mac | 70 | 3.1 | 2021-05-21 | ✅ | Port of the AlephOne engine on Android |
+| [Marathon (Marathon (Android))](https://github.com/daniele-rapagnani/alephone-android) | Mac | 71 | 3.1 | 2021-05-21 | ✅ | Port of the AlephOne engine on Android |
 | [Gish (Gish (Android))](https://github.com/EXL/Gish) | PC | 57 | 3.1 | 2022-08-12 | ✅ | A port of the Gish game for Android OS using SDL2, OpenAL, Ogg Vorbis and GL4ES libraries. |
 | [Grand Theft Auto III (re3)](https://github.com/leanndroguedes/re3-19feb21) | PC | 203 | 2.95 | 2021-02-19 | ✅ | GTA III, Vice City |
 | [Doom (Calico (Jaguar Doom backport))](https://github.com/team-eternity/calico-doom) | DOS | 57 | 2.95 | 2024-01-10 | ✅ | Backport of Jaguar Doom to the PC |
@@ -306,15 +307,15 @@
 | [Abuse (Abuse 1996 20th anniversary port)](https://github.com/antrad/Abuse_1996) | DOS | 157 | 2.75 | 2016-05-08 | ✅ | SDL2 port of Abuse by Crack dot Com |
 | [Rise of the Triad (rottexpr)](https://github.com/LTCHIPS/rottexpr) | DOS | 110 | 2.75 | 2021-01-04 | ✅ | A Rise Of The Triad Source Port with additional gameplay options and more... |
 | [In Pursuit of Greed (xGreed)](https://github.com/jval1972/xGreed) | DOS | 37 | 2.75 | 2022-03-19 | ✅ | xGreed - Source Port of the game "In Pursuit of Greed" |
-| [Gish (gish (blinry fork))](https://github.com/blinry/gish) | PC | 357 | 2.6 | 2017-01-12 | — | Open Source version of the award-winning physics platformer |
+| [Gish (gish (blinry fork))](https://github.com/blinry/gish) | PC | 358 | 2.6 | 2017-01-12 | — | Open Source version of the award-winning physics platformer |
 | [Tyrian (opentyrian-nx)](https://github.com/theflippedbit/opentyrian-nx) | DOS | 13 | 2.55 | 2021-02-10 | ✅ | Port of OpenTryian to the Nintendo Switch |
 | [Balloon Fight (Balloon-fight-VS-for-NES)](https://github.com/tvoybro/Balloon-fight-VS-for-NES) | NES | 12 | 2.55 | 2021-04-05 | ✅ | Alternative port of VS system game to the NES. |
 | [Descent (DXX 3DS)](https://github.com/RossMeikleham/DXX-3DS) | DOS | 12 | 2.55 | 2018-12-07 | — | A Nintendo 3DS source port of Descent 1 and Descent 2 |
 | [Homeworld (HomeworldSDL)](https://github.com/HomeworldSDL/HomeworldSDL) | PC | 146 | 2.35 | 2024-10-13 | — |  |
 | [Super Mario 64 (libsm64-unity)](https://github.com/libsm64/libsm64-unity) | N64 | 64 | 1.8 | 2022-04-15 | — | Unity engine demo client of libsm64 |
 | [Arx Fatalis (Arxwasm)](https://github.com/gabrielcuvillier/arxwasm) | PC | 42 | 1.8 | 2019-12-03 | — | Port of Arx Libertatis to WebAssembly using Emscripten |
+| [SimCity (micropolis-java)](https://github.com/jason17055/micropolis-java) | Mac | 40 | 1.8 | 2015-01-25 | — | Micropolis game, written in Java |
 | [Knightmare (KnightmareAmiga (h0ffman))](https://github.com/djh0ffman/KnightmareAmiga) | Amiga | 39 | 1.8 | 2022-05-05 | — | Knightmare - Amiga Port |
-| [SimCity (micropolis-java)](https://github.com/jason17055/micropolis-java) | Mac | 39 | 1.8 | 2015-01-25 | — | Micropolis game, written in Java |
 | [Duke Nukem 3D: 20th Anniversary World Tour (EDuke32 (AWO wrapper))](https://github.com/Hendricks266/e32wt) | PC | 37 | 1.8 | 2021-01-16 | — | Duke Nukem 3D: 20th Anniversary World Tour - Stopgap Compatibility Layer for EDuke32 |
 | [Super Mario 64 (SMUE5)](https://github.com/TheEnbyWitch/SMUE5) | N64 | 27 | 1.8 | 2022-12-20 | — | A port of libsm64 to UE5 |
 | [Duke Nukem 3D (duke3d (icculus.org port))](https://github.com/icculus/duke3d) | DOS | 20 | 1.6 | 2021-07-12 | — | The icculus.org port of Duke Nukem 3D. |
