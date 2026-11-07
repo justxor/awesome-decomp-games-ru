@@ -595,6 +595,7 @@ shasum -a 1 game.z64
 | [Ports Launcher](https://github.com/Nyaldee/Ports-Launcher) | Ещё один менеджер портов и рекомпиляций |
 | [decomp.dev](https://decomp.dev/) | Прогресс матчинг-декомпиляций в процентах |
 | [recompiledgames.com](https://recompiledgames.com/) · [recomp.fyi](https://recomp.fyi/) | Каталоги рекомпиляций |
+| [recompgames.net](https://recompgames.net/) | Каталог рекомпиляций, декомпиляций и браузерных портов: метод, статус и нужны ли свои файлы игры |
 | [Thunderstore](https://thunderstore.io/) | Моды для Zelda64Recomp, BanjoRecomp и других рекомпиляций |
 
 ### Для исследователей
