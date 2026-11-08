@@ -2,13 +2,13 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **07.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **08.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) — порт, ⭐ 251, score 4.1
 2. [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) — порт, ⭐ 39, score 3.55
-3. [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) — декомпиляция, ⭐ 46, score 3.25
+3. [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) — декомпиляция, ⭐ 47, score 3.25
 4. [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) — декомпиляция, ⭐ 77, score 3.05
 5. [Prince of Persia (SDLPoP-Dreamcast)](https://github.com/Memorix101/SDLPoP-Dreamcast) — дизасм, ⭐ 27, score 2.85
 6. [Iridis Alpha (iridisalpha (Llamasoft Source Code Project))](https://github.com/mwenge/iridisalpha) — дизасм, ⭐ 30, score 2.8
@@ -22,7 +22,7 @@
 | [Prince of Persia](https://github.com/NagyD/SDLPoP) | Apple II | ремейк движка | 1.3k | 4 | 2025-12-24 | — | An open-source port of Prince of Persia, based on the disassembly of the DOS version. |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Amiga | порт | 39 | 3.55 | 2026-11-06 | ✅ |  |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | браузер | 20 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
-| [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Amiga | декомпиляция | 46 | 3.25 | 2026-06-01 | ✅ | Stunt Car Racer for the Amiga, Framerate Unleashed |
+| [Stunt Car Racer (Vesuri stuntcarracer (Framerate Unleashed))](https://github.com/Vesuri/stuntcarracer) | Amiga | декомпиляция | 47 | 3.25 | 2026-06-01 | ✅ | Stunt Car Racer for the Amiga, Framerate Unleashed |
 | [Elite (elite-source-code-commodore-64 (Mark Moxon))](https://github.com/markmoxon/elite-source-code-commodore-64) | BBC Micro/Acorn | декомпиляция | 477 | 3.05 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Commodore 64 |
 | [Elite (elite-source-code-nes)](https://github.com/markmoxon/elite-source-code-nes) | BBC Micro/Acorn | декомпиляция | 413 | 3.05 | 2026-10-01 | — | Fully documented source code for the classic game Elite on the Nintendo Entertainment System (NES) |
 | [Ultima IV: Quest of the Avatar (u4remasteredA2)](https://github.com/sean-gugler/u4remasteredA2) | Apple II | декомпиляция | 77 | 3.05 | 2025-01-25 | ✅ | Ultima IV Remastered for the Apple II |
@@ -37,19 +37,19 @@
 | [Crossroads II: Pandemonium (crossroads-2-disassembly)](https://github.com/MarkRdgOx/crossroads-2-disassembly) | Commodore 64/8-bit | дизасм | 14 | 2.75 | 2026-08-21 | — | Attempt at commented disassembly of C64 Crossroads 2. |
 | [Batman: The Movie (MarkyTurtle Batman---Amiga)](https://github.com/MarkyTurtle/Batman---Amiga) | Amiga | дизасм | 12 | 2.75 | 2026-09-18 | — | Full disassembly of the game ‘Batman The Movie’, Amiga, 2 Disk Europe, Ocean |
 | [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | дизасм | 12 | 2.75 | 2026-10-26 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
-| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 35 | 2.65 | 2026-10-28 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
-| [Lander (lander-source-code-acorn-archimedes (Mark Moxon))](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | BBC Micro/Acorn | декомпиляция | 112 | 2.6 | 2026-10-29 | — | Fully documented source code for the classic game Lander on the Acorn Archimedes |
+| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 35 | 2.65 | 2026-11-08 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
+| [Lander (lander-source-code-acorn-archimedes (Mark Moxon))](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | BBC Micro/Acorn | декомпиляция | 113 | 2.6 | 2026-10-29 | — | Fully documented source code for the classic game Lander on the Acorn Archimedes |
 | [Elite (c64-elite-flicker-free (Mark Moxon))](https://github.com/markmoxon/c64-elite-flicker-free) | BBC Micro/Acorn | декомпиляция | 97 | 2.6 | 2026-10-01 | — | A patch for Commodore 64 and Plus/4 Elite that removes the flicker |
-| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 72 | 2.6 | 2026-11-07 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
+| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 74 | 2.6 | 2026-11-08 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
+| [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 61 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
+| [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
 | [Elite (elite-a-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-08 | — | Fully documented source code for Angus Duggan's classic game Elite-A on the BBC Micro |
-| [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
-| [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 59 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
 | [Elite (elite-source-code-bbc-micro-disc (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-micro-disc) | BBC Micro/Acorn | декомпиляция | 53 | 2.6 | 2026-10-08 | — | Fully documented source code for the disc version of the classic game Elite on the BBC Micro |
 | [Elite (elite-source-code-apple-ii (Mark Moxon))](https://github.com/markmoxon/elite-source-code-apple-ii) | BBC Micro/Acorn | декомпиляция | 43 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Apple II |
-| [Revs (revs-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/revs-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 42 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Revs on the BBC Micro |
+| [Revs (revs-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/revs-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 43 | 2.6 | 2026-10-01 | — | Fully documented source code for the classic game Revs on the BBC Micro |
 | [Elite (elite-source-code-6502-second-processor (Mark Moxon))](https://github.com/markmoxon/elite-source-code-6502-second-processor) | BBC Micro/Acorn | декомпиляция | 41 | 2.6 | 2026-10-25 | — | Fully documented source code for the classic game Elite on the BBC Micro with a 6502 Second Processor |
 | [Elite (elite-source-code-bbc-master (Mark Moxon))](https://github.com/markmoxon/elite-source-code-bbc-master) | BBC Micro/Acorn | декомпиляция | 35 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the BBC Master |
-| [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Atari Jaguar | порт | 35 | 2.6 | 2026-11-01 | — | A modern port of Rayman 1 for PC |
+| [Rayman (Rayverse)](https://github.com/Falcury/rayverse) | Atari Jaguar | порт | 35 | 2.6 | 2026-11-07 | — | A modern port of Rayman 1 for PC |
 | [Elite (elite-source-code-acorn-electron (Mark Moxon))](https://github.com/markmoxon/elite-source-code-acorn-electron) | BBC Micro/Acorn | декомпиляция | 34 | 2.6 | 2026-10-08 | — | Fully documented source code for the classic game Elite on the Acorn Electron |
 | [Mercenary (mikedailly MercenaryDisassembly)](https://github.com/mikedailly/MercenaryDisassembly) | Atari 8-bit | дизасм | 15 | 2.55 | 2026-03-13 | — | Disassembly of the ZX Spectrum game Mercenary |
 | [River Raid (river-raid-disasm (Sergei Morozov))](https://github.com/river-raid/river-raid-disasm) | Atari 2600 | дизасм | 15 | 2.55 | 2026-04-05 | — | Disassembly of River Raid for ZX Spectrum |
@@ -83,7 +83,7 @@
 | [Deathchase (Ritchie333 deathchase)](https://github.com/Ritchie333/deathchase) | ZX Spectrum | дизасм | 10 | 2.15 | 2023-11-07 | — | Disassembly and annotation of the classic 1983 computer game "Deathchase" |
 | [Lotus Esprit Turbo Challenge (lotus-ste)](https://github.com/jonathanopalise/lotus-ste) | Atari ST | декомпиляция | 42 | 2.05 | 2021-04-10 | ✅ | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features |
 | [Choplifter (ChoplifterReverse (Blondihacks))](https://github.com/blondie7575/ChoplifterReverse) | Apple II | декомпиляция | 100 | 2 | 2024-10-24 | — | A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin |
-| [Ultima IV: Quest of the Avatar (u4-decompiled)](https://github.com/ergonomy-joe/u4-decompiled) | Apple II | декомпиляция | 82 | 2 | 2023-10-05 | — | Decompiled source code for the PC version of Ultima IV - Quest Of The Avatar |
+| [Ultima IV: Quest of the Avatar (u4-decompiled)](https://github.com/ergonomy-joe/u4-decompiled) | Apple II | декомпиляция | 83 | 2 | 2023-10-05 | — | Decompiled source code for the PC version of Ultima IV - Quest Of The Avatar |
 | [Lode Runner (Piddewitt Loderunner)](https://github.com/Piddewitt/Loderunner) | Apple II | декомпиляция | 68 | 2 | 2024-04-14 | — | Reverse engineered C64 assembler source code to recreate a bit for bit identical version of the original game. |
 | [Chip's Challenge (CHIPS.EXE)](https://github.com/magical/CHIPS.EXE) | Atari Lynx | дизасм | 23 | 1.95 | 2021-05-20 | — | Disassembly of Chip's Challenge for Windows (1992) aka MSCC |
 | [Ghost Town (Esshahn Ghost-Town)](https://github.com/Esshahn/Ghost-Town) | Commodore 64/8-bit | дизасм | 23 | 1.95 | 2020-04-01 | — | Disassembly of the Commodore 16 game |

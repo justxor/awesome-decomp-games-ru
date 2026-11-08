@@ -1,8 +1,8 @@
-# 🌐 Браузерные порты — полный список (57)
+# 🌐 Браузерные порты — полный список (56)
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **07.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **08.11.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -46,7 +46,6 @@
 | Super Mario 64 Multiplayer | N64 | [▶ открыть](https://olivers.tools/play/) | да | ✅ |
 | Super Mario Zombies | PC | [▶ открыть](https://smz.fun/) | да | — |
 | Tekken 5 | PS2 | [▶ открыть](https://tekken5.online/) | да | ✅ |
-| Terraria | PC | [▶ открыть](https://playterraria.lol/) | да | ✅ |
 | The Simpsons: Hit & Run | PC | [▶ открыть](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | да | — |
 | Urban Terror (ut.pieter.com) | PC | [▶ открыть](http://ut.pieter.com) | да | — |
 | Diablo (diabloweb) | PC | [▶ открыть](https://d07riv.github.io/diabloweb/) | — | — |
@@ -56,17 +55,17 @@
 
 ⚠️ Сайты сторонние. Никогда не устанавливай лаунчеры и расширения, которые они предлагают.
 
-## Активные проекты (53)
+## Активные проекты (52)
 
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
 | [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 318 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
+| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 208 | 4.35 | 2026-11-08 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
 | [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 289 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
-| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 195 | 4.15 | 2026-10-22 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
-| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 177 | 4.15 | 2026-11-05 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
-| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 171 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
+| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 177 | 4.15 | 2026-11-07 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
+| [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 172 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 57 | 4.15 | 2026-11-04 | — | Custom frontend for the Emscripten port of isle-portable |
-| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 49 | 3.95 | 2026-11-04 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
+| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 51 | 3.95 | 2026-11-08 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Red Alert 2](https://chronodivide.com) | PC | — | 3.95 | — | — |  |
@@ -103,7 +102,6 @@
 | [Super Mario 64 Multiplayer](https://olivers.tools/play) | N64 | — | 3.95 | — | — |  |
 | [Super Mario Zombies](https://smz.fun) | PC | — | 3.95 | — | — |  |
 | [Tekken 5](https://tekken5.online) | PS2 | — | 3.95 | — | — |  |
-| [Terraria](https://playterraria.lol) | PC | — | 3.95 | — | — |  |
 | [The Simpsons: Hit & Run](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | PC | — | 3.95 | — | — |  |
 | [Urban Terror (ut.pieter.com)](http://ut.pieter.com) | PC | — | 3.95 | — | — | Urban Terror multiplayer in the browser. The X post lists it as 'Unreal Tournament'. |
 | [Diablo (diabloweb)](https://github.com/d07RiV/diabloweb) | PC | 2.9k | 3.75 | 2022-05-17 | — | Diablo 1 for web browsers |
@@ -123,7 +121,7 @@
 | [Doom (doom-wasm)](https://github.com/cloudflare/doom-wasm) | DOS | 421 | 3.75 | 2024-09-20 | — | Chocolate Doom WebAssembly port with WebSockets support |
 | [Urban Terror (ut.pieter.com (ioUrbanTerror -> WebAssembly))](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) | PC | 152 | 3.55 | 2023-02-03 | ✅ | The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | 147 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
-| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 120 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
+| [Half-Life (hl (Xash3D FWGS Emscripten port))](https://github.com/Pixelsuft/hl) | PC | 121 | 3.35 | 2021-06-22 | — | Half Life Browser Port |
 
 </details>
 
