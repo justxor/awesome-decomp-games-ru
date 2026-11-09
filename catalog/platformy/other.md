@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **08.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **09.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -22,57 +22,56 @@
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
 | [openage](https://github.com/SFTtech/openage) | — | ремейк движка | 14.6k | 4.75 | 2026-10-20 | ✅ | Clone of the Age of Empires II engine 🚀 |
-| [Space Station 14](https://github.com/space-wizards/space-station-14) | — | ремейк движка | 3.9k | 4.55 | 2026-11-06 | ✅ | A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13. |
-| [ScummVM](https://github.com/scummvm/scummvm) | — | ремейк движка | 2.9k | 4.55 | 2026-11-07 | ✅ | ScummVM main repository |
+| [Space Station 14](https://github.com/space-wizards/space-station-14) | — | ремейк движка | 3.9k | 4.55 | 2026-11-09 | ✅ | A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13. |
+| [ScummVM](https://github.com/scummvm/scummvm) | — | ремейк движка | 2.9k | 4.55 | 2026-11-09 | ✅ | ScummVM main repository |
 | [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) | — | ремейк движка | 1.7k | 4.55 | 2026-09-30 | ✅ | DUNE, REINVENTED |
 | [openblack](https://github.com/openblack/openblack) | — | ремейк движка | 1.6k | 4.55 | 2026-11-01 | ✅ | openblack is an open-source game engine that supports playing Black & White (2001). |
-| [triplea](https://github.com/triplea-game/triplea) | — | ремейк движка | 1.6k | 4.55 | 2026-11-05 | ✅ | TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk. |
-| [Freedoom](https://github.com/freedoom/freedoom) | — | ремейк движка | 1.4k | 4.55 | 2026-10-02 | ✅ | Freedoom is an entirely free software game based on the Doom engine. |
+| [triplea](https://github.com/triplea-game/triplea) | — | ремейк движка | 1.6k | 4.55 | 2026-11-09 | ✅ | TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk. |
+| [Freedoom](https://github.com/freedoom/freedoom) | — | ремейк движка | 1.4k | 4.55 | 2026-11-08 | ✅ | Freedoom is an entirely free software game based on the Doom engine. |
 | [GemRB](https://github.com/gemrb/gemrb) | — | ремейк движка | 1.3k | 4.55 | 2026-11-07 | ✅ | GemRB is a portable open-source implementation of Bioware’s Infinity Engine. |
 | [xoreos](https://github.com/xoreos/xoreos) | — | ремейк движка | 1.2k | 4.55 | 2026-09-04 | ✅ | A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P |
-| [SurrealEngine](https://github.com/dpjudas/SurrealEngine) | — | ремейк движка | 1.1k | 4.55 | 2026-11-08 | ✅ | Unreal Engine 1 Reimplementation |
+| [SurrealEngine](https://github.com/dpjudas/SurrealEngine) | — | ремейк движка | 1.1k | 4.55 | 2026-11-09 | ✅ | Unreal Engine 1 Reimplementation |
 | [Unvanquished](https://github.com/Unvanquished/Unvanquished) | — | ремейк движка | 1.1k | 4.55 | 2026-11-07 | ✅ | Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with… |
 | [Diablo](https://github.com/diasurgical/devilution) | — | ремейк движка | 9.0k | 4.35 | 2025-09-15 | — | Diablo devolved - magic behind the 1996 computer game |
 | [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) | — | ремейк движка | 1.7k | 4.35 | 2025-12-16 | — | OpenSAGE is a free, open source re-implementation of SAGE, the 3D real time strategy (RTS) engine used in Command & Conquer: Generals and other RTS t… |
 | [Raze](https://github.com/ZDoom/Raze) | — | порт | 892 | 4.35 | 2026-11-01 | ✅ | Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed. |
 | [NBlood](https://github.com/NBlood/NBlood) | — | порт | 823 | 4.35 | 2026-09-14 | ✅ | Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhumed) |
-| [GLSMAC](https://github.com/afwbkbc/glsmac) | — | ремейк движка | 652 | 4.35 | 2026-11-01 | ✅ | Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ) |
+| [GLSMAC](https://github.com/afwbkbc/glsmac) | — | ремейк движка | 653 | 4.35 | 2026-11-08 | ✅ | Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ) |
 | [Open Fodder](https://github.com/OpenFodder/openfodder) | ami | ремейк движка | 618 | 4.35 | 2026-10-30 | ✅ | Open Fodder: An open source port of Cannon Fodder |
 | [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) | — | ремейк движка | 602 | 4.35 | 2026-11-05 | ✅ | Return To The Roots (Settlers II(R) Clone) |
 | [Carnage3D](https://github.com/codenamecpp/carnage3d) | — | ремейк движка | 574 | 4.35 | 2026-08-09 | — | Reimplementation of Grand Theft Auto 1 [GTA1] |
 | [NXEngine-evo](https://github.com/nxengine/nxengine-evo) | — | ремейк движка | 554 | 4.35 | 2026-10-23 | ✅ | nxengine refactoring |
 | [Vange-rs](https://github.com/kvark/vange-rs) | — | ремейк движка | 489 | 4.35 | 2026-11-03 | ✅ | Rusty Vangers clone |
 | [sfall](https://github.com/sfall-team/sfall) | — | ремейк движка | 450 | 4.35 | 2026-11-06 | ✅ | sfall - Engine modifications for Fallout 2 |
-| [ezQuake](https://github.com/QW-Group/ezquake-source) | — | ремейк движка | 421 | 4.35 | 2026-11-06 | ✅ | main ezQuake source code base |
-| [The Settlers I](https://github.com/freeserf/freeserf) | — | ремейк движка | 346 | 4.35 | 2026-10-23 | ✅ | Settlers 1 (Serf City) clone. |
-| [VorpalFix](https://github.com/Wemino/VorpalFix) | — | ремейк движка | 343 | 4.35 | 2026-11-07 | ✅ | A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice |
-| [vera20k](https://github.com/YuriPlanet/vera20k) | — | ремейк движка | 307 | 4.35 | 2026-11-08 | ✅ | Red Alert 2: Yuri's Revenge rebuilt in Rust / 用 Rust 重写的《红警2：尤里的复仇》 |
+| [ezQuake](https://github.com/QW-Group/ezquake-source) | — | ремейк движка | 421 | 4.35 | 2026-11-08 | ✅ | main ezQuake source code base |
+| [The Settlers I](https://github.com/freeserf/freeserf) | — | ремейк движка | 347 | 4.35 | 2026-10-23 | ✅ | Settlers 1 (Serf City) clone. |
+| [VorpalFix](https://github.com/Wemino/VorpalFix) | — | ремейк движка | 344 | 4.35 | 2026-11-07 | ✅ | A patch that addresses various technical issues and adds quality-of-life improvements to the 2011 remaster of American McGee's Alice |
 | [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) | — | ремейк движка | 3.4k | 4.2 | 2026-10-21 | — | Collection of Games that have the source code available on GitHub |
 | [ioquake3](https://github.com/ioquake/ioq3) | — | порт | 2.9k | 4.2 | 2026-11-04 | — | The ioquake3 community effort to continue supporting/developing id's Quake III Arena |
 | [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) | — | ремейк движка | 2.8k | 4.2 | 2026-10-06 | — | An OpenGL RTS game engine written in C |
 | [OpenXcom](https://github.com/OpenXcom/OpenXcom) | — | ремейк движка | 2.2k | 4.2 | 2026-09-28 | — | Open-source clone of the original X-Com 👽 |
-| [freeciv](https://github.com/freeciv/freeciv) | — | ремейк движка | 1.6k | 4.2 | 2026-11-08 | — | Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone… |
-| [Awesome Reverse-Engineered: Game Decompilations & Reimplementations](https://github.com/alexgaoth/awesome-reverse-engineered) | — | ремейк движка | 1.3k | 4.2 | 2026-11-07 | — | Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games an… |
+| [freeciv](https://github.com/freeciv/freeciv) | — | ремейк движка | 1.6k | 4.2 | 2026-11-09 | — | Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone… |
+| [Awesome Reverse-Engineered: Game Decompilations & Reimplementations](https://github.com/alexgaoth/awesome-reverse-engineered) | — | ремейк движка | 1.3k | 4.2 | 2026-11-08 | — | Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games an… |
 | [KeeperRL](https://github.com/miki151/keeperrl) | — | ремейк движка | 1.0k | 4.15 | 2025-10-27 | ✅ | Source code of KeeperRL |
 | [Need For Speed 1-6](https://github.com/OpenNFS/OpenNFS) | — | ремейк движка | 864 | 4.15 | 2026-06-21 | — | An attempt to recreate the classic Need for Speed Games (1-6), unpacking their original data files into a modern, scratch built engine. |
-| [Barony](https://github.com/TurningWheel/Barony) | — | ремейк движка | 725 | 4.15 | 2026-02-21 | ✅ | Barony Open Source Release |
+| [Barony](https://github.com/TurningWheel/Barony) | — | ремейк движка | 726 | 4.15 | 2026-02-21 | ✅ | Barony Open Source Release |
 | [spearmint](https://github.com/clover-moe/spearmint) | — | ремейк движка | 281 | 4.15 | 2026-05-25 | ✅ | Spearmint — an updated id Tech 3 engine for continuing the classics and creating new games. |
 | [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) | — | ремейк движка | 231 | 4.15 | 2026-06-25 | ✅ | Mr.Boom is an 8 player Bomberman clone for RetroArch/Libretro |
 | [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | браузер | 172 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
-| [OPHD](https://github.com/OutpostUniverse/OPHD) | — | ремейк движка | 147 | 4.15 | 2026-10-29 | ✅ | OutpostHD - Open source remake of Sierra On-Line's Outpost |
-| [Little Big Adventure 2 (Twinsen's Odyssey)](https://github.com/LBALab/lba2-classic-community) | — | ремейк движка | 116 | 4.15 | 2026-11-02 | ✅ | Community-maintained source port of the original Little Big Adventure 2 (Twinsen’s Odyssey) engine. |
-| [simutrans](https://github.com/simutrans/simutrans) | — | ремейк движка | 105 | 4.15 | 2026-11-06 | ✅ | Simutrans is a freeware and open-source transportation simulator. :flower_playing_cards: |
+| [OPHD](https://github.com/OutpostUniverse/OPHD) | — | ремейк движка | 148 | 4.15 | 2026-10-29 | ✅ | OutpostHD - Open source remake of Sierra On-Line's Outpost |
+| [Little Big Adventure 2 (Twinsen's Odyssey)](https://github.com/LBALab/lba2-classic-community) | — | ремейк движка | 116 | 4.15 | 2026-11-08 | ✅ | Community-maintained source port of the original Little Big Adventure 2 (Twinsen’s Odyssey) engine. |
+| [simutrans](https://github.com/simutrans/simutrans) | — | ремейк движка | 106 | 4.15 | 2026-11-06 | ✅ | Simutrans is a freeware and open-source transportation simulator. :flower_playing_cards: |
 | [Rotp-Fusion](https://github.com/BrokenRegistry/Rotp-Fusion) | — | ремейк движка | 74 | 4.15 | 2026-11-06 | ✅ | Created by Ray Fowler, Remnants of the Precursors is an open-source modernization of the original 1993 Master of Orion. |
 | [maxr](https://github.com/maxr-dot-org/maxr) | — | ремейк движка | 51 | 4.15 | 2026-11-06 | ✅ | A turn based strategy game |
 | [OpenReliant](https://github.com/OpenReliant/openreliant) | — | ремейк движка | 46 | 4.15 | 2026-11-03 | ✅ | An open-source reimplementation of StarLancer's engine, in Zig on SDL3. Needs your own copy of the game. |
+| [d2d](https://github.com/psi29a/d2decomped) | — | ремейк движка | 45 | 4.15 | 2026-11-09 | ✅ | Diablo 2: Decomped |
 | [heretic2](https://github.com/0lvin/heretic2) | — | ремейк движка | 33 | 4.15 | 2026-11-05 | ✅ | Heretic2 playground sandbox. Can contain non GPL code. Be careful!!!! |
 | [Omnispeak](https://github.com/sulix/omnispeak) | — | ремейк движка | 320 | 4.1 | 2026-10-27 | ✅ | An open-source re-implementation of "Commander Keen in Goodbye Galaxy" |
 | [OpenKeeper](https://github.com/tonihele/OpenKeeper) | — | ремейк движка | 514 | 4 | 2026-11-08 | — | Dungeon Keeper II remake |
-| [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) | — | ремейк движка | 345 | 3.95 | 2025-07-26 | ✅ | Romanov's Vengeance is an OpenRA mod based on Red Alert 2. |
+| [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) | — | ремейк движка | 346 | 3.95 | 2025-07-26 | ✅ | Romanov's Vengeance is an OpenRA mod based on Red Alert 2. |
 | [DGEngine](https://github.com/dgcor/DGEngine) | — | ремейк движка | 272 | 3.95 | 2025-07-21 | ✅ | An implementation of the Diablo 1 game engine |
 | [God of War: Sons of Sparta (Sons Of Sparta PS5 Native)](https://github.com/OverkillLabs3/SoS-PS5) | PS5 | порт | 190 | 3.95 | 2026-11-08 | ✅ | God of War Sons of Sparta Native on Windows |
 | [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) | — | ремейк движка | 181 | 3.95 | 2025-12-09 | ✅ | Tools for reverse-engineering of game "Chasm: The Rift" |
-| [Bak-Again](https://github.com/stellargames/bakagain) | Unknown | ремейк движка | 14 | 3.95 | 2026-11-08 | — | A modern, moddable remake of the 1993 role-playing game Betrayal at Krondor, built in Unity. It runs the original game's story, world, rules and art… |
 | [GLKeeper](https://github.com/codenamecpp/GLKeeper) | — | ремейк движка | 47 | 3.9 | 2026-10-17 | — | Open Source Dungeon Keeper 2 Reimplementation |
 | [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) | — | ремейк движка | 335 | 3.75 | 2026-11-05 | — | Engine recreation for Ultima Underworld and Ultima Underworld 2 using the Godot Engine |
 | [Resident Evil 2](https://github.com/OpenBiohazard2/OpenBiohazard2) | — | ремейк движка | 305 | 3.75 | 2026-08-17 | — | Open source re-implementation of the original Resident Evil 2 / Biohazard 2 |
@@ -81,22 +80,22 @@
 | [q2tools-220](https://github.com/qbism/q2tools-220) | — | ремейк движка | 82 | 3.7 | 2026-06-14 | ✅ | Quake 2 map compiler tools with v220 map support, automatic phong, enhancements, and fixes. |
 | [Thirdeye](https://github.com/psi29a/thirdeye) | — | ремейк движка | 29 | 3.7 | 2026-08-11 | ✅ | ThirdEye is an open source AESOP replacement to play Eye of the Beholder 3 and Dungeon Hack |
 | [lilium-voyager](https://github.com/clover-moe/lilium-voyager) | — | ремейк движка | 61 | 3.55 | 2026-10-31 | ✅ | An engine replacement for Star Trek Voyager: Elite Force Holomatch (multiplayer). |
-| [Lost (iPodClickWheelRecomps)](https://github.com/DogParty/iPodClickWheelRecomps) | Other | рекомпиляция | 60 | 3.55 | 2026-09-06 | ✅ | An assortment of iPod Classic games that have been recompiled to run on modern systems |
+| [Lost (iPodClickWheelRecomps)](https://github.com/DogParty/iPodClickWheelRecomps) | Other | рекомпиляция | 61 | 3.55 | 2026-09-06 | ✅ | An assortment of iPod Classic games that have been recompiled to run on modern systems |
 | [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) | — | ремейк движка | 55 | 3.55 | 2026-10-17 | ✅ | Monogame implementation of Prince of Persia 2 |
 | [Legend of Doom (legend-of-doom-3ds)](https://github.com/EstebanPdN/legend-of-doom-3ds) | Others | порт | 41 | 3.55 | 2026-11-05 | ✅ | Legend of Doom port for New Nintendo 3DS, New Nintendo 3DS XL and New Nintendo 2DS XL, based on GZDoom 4.7.1. |
 | [Unity Underground](https://github.com/Kweepa/OpenUnderground) | — | ремейк движка | 35 | 3.55 | 2026-11-07 | ✅ | Modern update of Ultima Underworld. Optional new models and look. |
 | [O21](https://github.com/ForNeVeR/O21) | — | ремейк движка | 31 | 3.55 | 2026-10-26 | ✅ | FOSS remake of U95, an old submarine arcade game from 1995. |
 | [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) | — | ремейк движка | 48 | 3.5 | 2024-11-15 | ✅ | Zelda Classic is a 2D game engine and editor for creating custom Legend of Zelda quests. |
 | [SeriousSamAlphaRemake](https://github.com/tx00100xt/SeriousSamAlphaRemake) | — | ремейк движка | 34 | 3.5 | 2025-02-05 | ✅ | Serious Sam Alpha Remake open source project based on https://github.com/Croteam-official/Serious-Engine and linux port https://github.com/icculus/Se… |
-| [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | — | декомпиляция | 161 | 3.45 | 2026-11-06 | ✅ | Open source port of Test Drive Unlimited (2006) |
+| [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | — | декомпиляция | 164 | 3.45 | 2026-11-06 | ✅ | Open source port of Test Drive Unlimited (2006) |
 | [Zero-K](https://github.com/ZeroK-RTS/Zero-K) | — | ремейк движка | 883 | 3.4 | 2026-11-07 | — | Open source RTS game running on the Spring/Recoil engine |
 | [Ryzom Core](https://github.com/ryzom/ryzomcore) | — | ремейк движка | 477 | 3.4 | 2026-11-06 | — | Ryzom Core is the open-source MMORPG framework built on the NeL engine, maintained by the Ryzom Core community. The commercial Ryzom game is develope… |
 | [The Legend of Zelda Oracle of Ages & Seasons](https://github.com/Stewmath/oracles-disasm) | — | дизасм | 224 | 3.4 | 2026-10-02 | — | Disassembly of Oracle of Ages and Seasons |
 | [FreeFT](https://github.com/nadult/FreeFT) | — | ремейк движка | 195 | 3.35 | 2025-11-29 | ✅ | Isometric action game engine |
 | [OpenMB](https://github.com/cookgreen/OpenMB) | — | ремейк движка | 146 | 3.35 | 2026-07-21 | ✅ | Open Source role-playing game engine for Taleworlds' Mount&Blade Series written in C# using Ogre3d Engine |
-| [Aces of the Pacific Enhanced](https://github.com/kylofon/acesofthepacific-enhanced) | — | ремейк движка | 23 | 3.35 | 2026-10-29 | ✅ | Enhanced native SDL3 port of Aces of the Pacific (1992) - smooth high-resolution 3D view, longer view distance, distance haze, key bindings. Requires… |
+| [Aces of the Pacific Enhanced](https://github.com/kylofon/acesofthepacific-enhanced) | — | ремейк движка | 25 | 3.35 | 2026-10-29 | ✅ | Enhanced native SDL3 port of Aces of the Pacific (1992) - smooth high-resolution 3D view, longer view distance, distance haze, key bindings. Requires… |
 | [Call of Duty: United Offensive (Multiplayer)](https://github.com/opencoduo/coduomp) | — | декомпиляция | 16 | 3.25 | 2026-11-02 | ✅ |  |
-| [Halo: Combat Evolved](https://github.com/punpckhdq/halo) | — | декомпиляция | 208 | 3.05 | 2026-11-07 | — | Halo 1 decompilation |
+| [Halo: Combat Evolved](https://github.com/punpckhdq/halo) | — | декомпиляция | 208 | 3.05 | 2026-11-08 | — | Halo 1 decompilation |
 | [OpenTPW](https://github.com/OpenTPW/OpenTPW) | — | ремейк движка | 162 | 2.95 | 2026-09-07 | — | An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999) |
 | [war1](https://github.com/acoto87/war1) | — | ремейк движка | 156 | 2.95 | 2026-08-09 | — | A remake of Warcraft: Orcs & Humans written in C |
 | [Antares](https://github.com/arescentral/antares) | — | ремейк движка | 113 | 2.95 | 2026-11-03 | — | A tactical space combat game |
@@ -109,9 +108,8 @@
 | [Final Fantasy V](https://github.com/everything8215/ff5) | — | дизасм | 21 | 2.75 | 2026-09-21 | — | Disassembly and ROM info for Final Fantasy V |
 | [Armored Unit](https://github.com/Normmatt/unarmoredunit) | — | дизасм | 3 | 2.75 | 2026-11-05 | — | Disassembly/Decompilation for the Armored Unit game for the Wonderswan. |
 | [Race Driver: GRID](https://github.com/PipeKnight/drig-race-driver) | — | декомпиляция | 6 | 2.65 | 2026-11-05 | — | WIP: approach to decompile Race Driver: Grid (2008) game and patch it for modern systems |
-| [qfusion](https://github.com/Warsow/qfusion) | — | ремейк движка | 80 | 2.6 | 2026-11-04 | — | Source code for cross-platform OpenGL gaming engine |
+| [qfusion](https://github.com/Warsow/qfusion) | — | ремейк движка | 80 | 2.6 | 2026-11-08 | — | Source code for cross-platform OpenGL gaming engine |
 | [quakeforge](https://github.com/quakeforge/quakeforge) | — | ремейк движка | 72 | 2.6 | 2026-10-10 | — | QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeW… |
-| [DOMA Days](https://github.com/iestyn129/DOMADays) | — | декомпиляция | 3 | 2.45 | 2025-11-07 | ✅ | A decompilation of the Big Blue Bubble game `DOMA Days` (v1.01). |
 | [Ninja Master - Shinobi III](https://github.com/krazyjakee/ninja-master) | — | декомпиляция | 3 | 2.45 | 2026-10-26 | ✅ |  |
 | [Legends of Future Past (lofp)](https://github.com/metavert-io/lofp) | Other | декомпиляция | 185 | 2.4 | 2026-10-17 | — | Legends of Future Past, the classic commercial MUD form the 1990's |
 | [Pizza Tower](https://github.com/femloy/OpenTower) | — | декомпиляция | 91 | 2.4 | 2026-01-24 | — | The good Pizza Tower decompilation by the most innocent person you know |
@@ -125,7 +123,7 @@
 | [Azure Dreams](https://github.com/forestbelton/azure) | — | декомпиляция | 10 | 2.4 | 2026-11-08 | — | WIP decompilation of Azure Dreams |
 | [Custom Robo GX](https://github.com/pizdex/robogx) | — | декомпиляция | 9 | 2.4 | 2026-10-20 | — | Decompilation of Custom Robo GX |
 | [Cut The Rope](https://github.com/Bingies24/cuttherope-dx) | — | декомпиляция | 9 | 2.4 | 2026-10-09 | — | Fork of a CtRDX developer that may expand beyond 3.X.X. If you want this fork taken down for any reason, please send a message using a contact method… |
-| [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/adipocira/doraemon1) | — | декомпиляция | 9 | 2.4 | 2026-10-25 | — |  |
+| [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/adipocira/doraemon1) | — | декомпиляция | 9 | 2.4 | 2026-11-08 | — |  |
 | [Shaun Palmer's Pro Snowboarder](https://github.com/Daniel-McCarthy/SPPS) | — | декомпиляция | 9 | 2.4 | 2026-10-12 | — |  |
 | [Team Buddies](https://github.com/hcbt/tbuddies-decomp) | — | декомпиляция | 8 | 2.4 | 2026-09-15 | — | Team Buddies (SLUS-008.69) matching decompilation |
 | [Chameleon Twist 2](https://github.com/chameleonTwistRet/chameleonTwist2v1.0-JP) | — | декомпиляция | 7 | 2.4 | 2026-09-13 | — |  |
@@ -141,6 +139,7 @@
 | [Kuon (Mulberry)](https://github.com/weirdbeardgame/Mulberry) | — | декомпиляция | 2 | 2.4 | 2026-10-26 | — |  |
 | [TwinBee PARADISE in Donburi Shima](https://github.com/Jhuyghue/donburi-recomp) | — | рекомпиляция | 1 | 2.4 | 2026-10-17 | — | Researching of TwinBee PARADISE in Donburi Island. Doing research and documentation on how the game operates in the orginal engine and works on diffe… |
 | [The Sims: Bustin' Out](https://github.com/SimsAdvanceRet/BustinOutGBADecomp) | — | дизасм | 7 | 2.35 | 2025-06-12 | — | A WIP disassembly/decompilation project of The Sims: Bustin' Out on the Game Boy Advance. |
+| [DOMA Days](https://github.com/iestyn129/DOMADays) | — | декомпиляция | 3 | 2.25 | 2025-11-07 | ✅ | A decompilation of the Big Blue Bubble game `DOMA Days` (v1.01). |
 | [twin-e](https://github.com/LBALab/twin-e) | — | ремейк движка | 92 | 2.2 | 2025-08-31 | — | TwinEngine: a Little Big Adventure engine |
 | [Dragon Warrior Monsters](https://github.com/NiyaDev/DWM) | — | декомпиляция | 10 | 2.2 | 2026-02-02 | — | A decompilation of Dragon Warrior Monsters |
 | [Soulcalibur II](https://github.com/Soulcalibur-II-Research-Group/scII_re) | — | декомпиляция | 9 | 2.2 | 2025-11-08 | — | Soulcalibur II Decompilation Research Project |
@@ -149,10 +148,10 @@
 | [Zone of the Enders 1](https://github.com/GirianSeed/zoe1) | — | декомпиляция | 7 | 2.2 | 2026-05-13 | — | Work in progress. |
 | [Princess Maker 4](https://github.com/Yanis002/pm4) | — | декомпиляция | 5 | 2.2 | 2026-01-30 | — | Princess Maker 4 decompilation |
 | [Zone of the Enders 2](https://github.com/GirianSeed/zoe2) | — | декомпиляция | 5 | 2.2 | 2026-06-04 | — | Work in progress. |
+| [Freedom Fighters](https://github.com/kaustubhxd/ReFreedomFighters) | — | декомпиляция | 4 | 2.2 | 2026-11-09 | — | Format decoders, specs, script VM and loaders for Freedom Fighters (2003). No game data. |
+| [Freedom Fighters](https://github.com/andresj-sanchez/frfi-decomp) | — | декомпиляция | 4 | 2.2 | 2025-11-12 | — | Decompilation project of Freedom Fighters |
 | [Onegai Monsters](https://github.com/Ryan-Myers/onegaimonsters) | — | декомпиляция | 4 | 2.2 | 2025-11-20 | — |  |
 | [Ford Racing](https://github.com/dashr9230/Gt2) | — | декомпиляция | 3 | 2.2 | 2026-07-30 | — | A work-in-progress non-matching decompilation of Ford Racing (2000) video game |
-| [Freedom Fighters](https://github.com/kaustubhxd/ReFreedomFighters) | — | декомпиляция | 3 | 2.2 | 2026-10-28 | — | Format decoders, specs, script VM and loaders for Freedom Fighters (2003). No game data. |
-| [Freedom Fighters](https://github.com/andresj-sanchez/frfi-decomp) | — | декомпиляция | 3 | 2.2 | 2025-11-12 | — | Decompilation project of Freedom Fighters |
 | [Mickey Saves the Day 3D Adventure](https://github.com/Japabu/mickey-saves-the-day-3d-adventure) | — | декомпиляция | 2 | 2.2 | 2026-10-23 | — | Native port engine for Mickey Saves the Day 3D Adventure (2001); reads game data from your own disc |
 | [The Journeyman Project Turbo!](https://github.com/disinvite/jman-decomp) | — | декомпиляция | 2 | 2.2 | 2026-07-04 | — | Decompilation of "The Journeyman Project Turbo!" (1994) |
 | [Deltarune](https://github.com/TeamBlossomDevs/DeltaruneDecomp_beta) | — | декомпиляция | 29 | 2 | 2025-10-17 | — | DELTARUNE Decompilation |
@@ -190,6 +189,7 @@
 | [Sonic the Hedgehog CD (Sonic Gems Collection version)](https://git.sr.ht/~benoitren/soniccddecompilation) | — | декомпиляция | — | 1.8 | — | — |  |
 | [Streets Of Rage 2](https://www.sor2newera.com) | — | декомпиляция | — | 1.8 | — | — |  |
 | [Super Cat Tales: PAWS](https://codeberg.org/heathercat123/PAWS-Decomp) | — | декомпиляция | — | 1.8 | — | — |  |
+| [Super Mario Bros.](https://gist.github.com/1wErt3r/4048722) | — | декомпиляция | — | 1.8 | — | — |  |
 | [The Spongebob Squarepants Movie](https://decomp.dev/bfbbdecomp/tssm) | — | декомпиляция | — | 1.8 | — | — |  |
 
 ## Неактивные и архивные (52)
@@ -207,7 +207,7 @@
 | [Open Kick-Off](https://github.com/ssenegas/kickoff) | — | ремейк движка | 62 | 3.3 | 2024-08-01 | — | Open Kick-Off is a fun rewriting attempt of the cult football game Kick Off 2 designed by Dino Dini and released in 1990 by Anco for the Atari ST and… |
 | [Falltergeist](https://github.com/falltergeist/falltergeist) | — | ремейк движка | 883 | 3.2 | 2022-07-15 | ✅ | Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. |
 | [Reburn 3](https://github.com/reburndev/reburn3) | — | ремейк движка | 196 | 2.95 | 2023-12-07 | ✅ | An open source reimplementation of Burnout 3: Takedown |
-| [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) | — | ремейк движка | 330 | 2.8 | 2024-04-20 | — | Abyss Engine clean-room reimplementation of Diablo 2, written in C. The goal is to recreate the original game engine, but on a portable platform that… |
+| [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) | — | ремейк движка | 331 | 2.8 | 2024-04-20 | — | Abyss Engine clean-room reimplementation of Diablo 2, written in C. The goal is to recreate the original game engine, but on a portable platform that… |
 | [Sourcehold](https://github.com/sourcehold/Sourcehold) | — | ремейк движка | 283 | 2.8 | 2024-07-08 | — | Open source re-implementation of Stronghold 1 |
 | [DreeRally](https://github.com/enriquesomolinos/DreeRally) | — | ремейк движка | 101 | 2.75 | 2021-09-10 | — | Death Rally engine reimplementation |
 | [REGoth](https://github.com/REGoth-project/REGoth-bs) | — | ремейк движка | 502 | 2.6 | 2020-05-29 | — | Reimplementation of Gothic I and II using modern technologies. |
