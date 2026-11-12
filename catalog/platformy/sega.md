@@ -2,15 +2,15 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **11.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **12.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [Flycast](https://github.com/flyinghead/flycast) — рекомпиляция, ⭐ 2.7k, score 4.35
 2. [Sega Saturn (Ymir)](https://github.com/ymir-emu/Ymir) — декомпиляция, ⭐ 1.1k, score 4.2
-3. [Sonic Adventure](https://github.com/sonicfreak1337/SARecomp) — рекомпиляция, ⭐ 124, score 4.2
+3. [Sonic Adventure](https://github.com/sonicfreak1337/SARecomp) — рекомпиляция, ⭐ 125, score 4.2
 4. [Tails Adventure (Tails Adventure Remake)](https://github.com/mechakotik/tails-adventure) — ремейк движка, ⭐ 161, score 4.15
-5. [SoulCalibur (voldorium)](https://github.com/enrique363/voldorium) — рекомпиляция, ⭐ 83, score 3.95
+5. [SoulCalibur (voldorium)](https://github.com/enrique363/voldorium) — рекомпиляция, ⭐ 84, score 3.95
 6. [Shining Force III (Shining Force III Native)](https://github.com/mattkuhnQAAI/sfiii-native) — рекомпиляция, ⭐ 15, score 3.95
 7. [Sonic R (sonic-r (jnmartin84))](https://github.com/jnmartin84/sonic-r) — ремейк движка, ⭐ 37, score 3.7
 8. [Sonic CD (Little Planet)](https://github.com/carl0srmz/littleplanet) — рекомпиляция, ⭐ 53, score 3.55
@@ -22,17 +22,17 @@
 |---|---|---|---|---|---|---|---|
 | [Flycast](https://github.com/flyinghead/flycast) | Dreamcast | рекомпиляция | 2.7k | 4.35 | 2026-11-09 | ✅ | Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator |
 | [Sega Saturn (Ymir)](https://github.com/ymir-emu/Ymir) | Saturn | декомпиляция | 1.1k | 4.2 | 2026-11-07 | ✅ | Sega Saturn emulator |
-| [Sonic Adventure](https://github.com/sonicfreak1337/SARecomp) | Dreamcast | рекомпиляция | 124 | 4.2 | 2026-10-18 | ✅ | A fully playable, work-in-progress native Sonic Adventure port for Windows, Linux and Steam Deck. Powered by KatanaRecomp. |
+| [Sonic Adventure](https://github.com/sonicfreak1337/SARecomp) | Dreamcast | рекомпиляция | 125 | 4.2 | 2026-10-18 | ✅ | A fully playable, work-in-progress native Sonic Adventure port for Windows, Linux and Steam Deck. Powered by KatanaRecomp. |
 | [Tails Adventure (Tails Adventure Remake)](https://github.com/mechakotik/tails-adventure) | Game Gear | ремейк движка | 161 | 4.15 | 2026-08-26 | ✅ | Tails Adventure remade from the ground up for PC and Android |
-| [SoulCalibur (voldorium)](https://github.com/enrique363/voldorium) | Dreamcast | рекомпиляция | 83 | 3.95 | 2026-11-09 | ✅ | Native Windows and Linux port of SoulCalibur (Dreamcast) by static recompilation: 16:9, online versus with rollback netcode (Windows and Linux play t… |
+| [SoulCalibur (voldorium)](https://github.com/enrique363/voldorium) | Dreamcast | рекомпиляция | 84 | 3.95 | 2026-11-09 | ✅ | Native Windows and Linux port of SoulCalibur (Dreamcast) by static recompilation: 16:9, online versus with rollback netcode (Windows and Linux play t… |
 | [Shining Force III (Shining Force III Native)](https://github.com/mattkuhnQAAI/sfiii-native) | Saturn | рекомпиляция | 15 | 3.95 | 2026-11-09 | ✅ | Shining Force III Recomp (Shining Force 3 Recomp): native PC static recompilation of Sega Saturn Scenarios 1–3. v0.8.0 official widescreen release fo… |
-| [Bomberman Online](https://github.com/nvd123-YT/BombermanOnlineRecomp) | Dreamcast | рекомпиляция | 12 | 3.95 | 2026-11-11 | — | Recomp of Bomberman Online for the Dreamcast with full online support via DCNet |
 | [Blue Stinger (Blue Stinger Recompiled)](https://github.com/DCRecomp/BlueStingerRecomp) | Dreamcast | рекомпиляция | 11 | 3.95 | 2026-11-09 | — | Open-source static recompilation of Blue Stinger (Dreamcast, SH-4) into native Windows x64 C++20, focused on game preservation, hardware replacement,… |
+| [Bomberman Online](https://github.com/nvd123-YT/BombermanOnlineRecomp) | Dreamcast | рекомпиляция | 17 | 3.75 | 2026-11-11 | — | Recomp of Bomberman Online for the Dreamcast with full online support via DCNet |
 | [Sonic R (sonic-r (jnmartin84))](https://github.com/jnmartin84/sonic-r) | Saturn | ремейк движка | 37 | 3.7 | 2026-11-10 | ✅ | A reimplementation of Sonic R for multiple platforms. |
 | [Sonic the Hedgehog (8-bit) (SonicTheHedgehogSMSRecomp)](https://github.com/mstan/SonicTheHedgehogSMSRecomp) | Master System/Game Gear | рекомпиляция | 11 | 3.7 | 2026-11-02 | — | Sonic the Hedgehog recompiled for the Sega Master System using smsggrecomp · Part of the R.A.I.D. community |
 | [Sonic CD (Little Planet)](https://github.com/carl0srmz/littleplanet) | Sega CD/32X | рекомпиляция | 53 | 3.55 | 2026-10-19 | ✅ | Sonic the Hedgehog CD recompilation |
-| [Sonic Adventure](https://github.com/reshaped/sonic-adventure) | Dreamcast | декомпиляция | 42 | 3.45 | 2026-10-31 | — | A complete matching decompilation of the original Dreamcast release of Sonic Adventure |
-| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Dreamcast | порт | 44 | 3.35 | 2026-11-11 | — | Work-in-progress Resident Evil 4 port for Sega Dreamcast, with native PowerVR rendering, VMU saves and Flycast-tested play builds. |
+| [Sonic Adventure](https://github.com/reshaped/sonic-adventure) | Dreamcast | декомпиляция | 43 | 3.45 | 2026-10-31 | — | A complete matching decompilation of the original Dreamcast release of Sonic Adventure |
+| [Resident Evil 4 (Dreamcast port, re4dc)](https://github.com/lamb2k/re4dc) | Dreamcast | порт | 45 | 3.35 | 2026-11-11 | — | Work-in-progress Resident Evil 4 port for Sega Dreamcast, with native PowerVR rendering, VMU saves and Flycast-tested play builds. |
 | [Space Channel 5](https://github.com/ZoomiesZaggy/Space-Channel-5) | Dreamcast | рекомпиляция | 27 | 3.35 | 2026-10-18 | ✅ | Unofficial native Space Channel 5 port for Windows, Linux and macOS. Compiler-free downloads, display options, controller support and modding. |
 | [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | Sega CD/32X | дизасм | 187 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
 | [Panzer Dragoon Saga](https://github.com/yaz0r/Azel) | Saturn | декомпиляция | 191 | 2.6 | 2026-10-29 | — | Reverse engineering of Panzer Dragoon Saga |
