@@ -1,47 +1,48 @@
-# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (48)
+# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (49)
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **14.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **15.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [Retro Engine (RSDKv4 (Sonic 1 and 2 Mobile and Origins))](https://github.com/RSDKModding/RSDKv4-Decompilation) — декомпиляция, ⭐ 1.2k, score 4.45
 2. [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) — порт, ⭐ 659, score 4.35
-3. [Jazz² Resurrection](https://github.com/deathkiller/jazz2) — ремейк движка, ⭐ 591, score 4.35
+3. [Jazz² Resurrection](https://github.com/deathkiller/jazz2) — ремейк движка, ⭐ 592, score 4.35
 4. [Lemuroid](https://github.com/Swordfish90/Lemuroid) — декомпиляция, ⭐ 4.5k, score 4.2
-5. [Skate 3 (Skate3-Mobile)](https://github.com/Buku313/Skate3-Mobile) — рекомпиляция, ⭐ 274, score 4.15
-6. [iOS Apps (touchHLE)](https://github.com/touchHLE/touchHLE) — ремейк движка, ⭐ 4.1k, score 4.1
-7. [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) — рекомпиляция, ⭐ 216, score 4.1
+5. [Skate 3 (Skate3-Mobile)](https://github.com/Buku313/Skate3-Mobile) — рекомпиляция, ⭐ 277, score 4.15
+6. [touchHLE](https://github.com/touchHLE/touchHLE) — ремейк движка, ⭐ 4.1k, score 4.1
+7. [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) — рекомпиляция, ⭐ 218, score 4.1
 8. [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) — декомпиляция, ⭐ 719, score 4
-9. [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) — декомпиляция, ⭐ 500, score 4
+9. [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) — декомпиляция, ⭐ 502, score 4
 10. [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) — декомпиляция, ⭐ 223, score 4
 
-## Все активные проекты (40)
+## Все активные проекты (41)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
 | [Retro Engine (RSDKv4 (Sonic 1 and 2 Mobile and Origins))](https://github.com/RSDKModding/RSDKv4-Decompilation) | Mobile | декомпиляция | 1.2k | 4.45 | 2026-10-28 | ✅ | A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4) |
 | [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) | Mobile | порт | 659 | 4.35 | 2026-11-10 | ✅ | DOOM III/Quake 4/Prey(2006)/ETQW GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/Skin Deep/Quadril… |
-| [Jazz² Resurrection](https://github.com/deathkiller/jazz2) | Mobile | ремейк движка | 591 | 4.35 | 2026-10-17 | ✅ | 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2 |
+| [Jazz² Resurrection](https://github.com/deathkiller/jazz2) | Mobile | ремейк движка | 592 | 4.35 | 2026-10-17 | ✅ | 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2 |
 | [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Mobile | декомпиляция | 4.5k | 4.2 | 2026-10-16 | ✅ | All in one emulator on Android! |
 | [Riiablo](https://github.com/collinsmith/riiablo) | Mobile | ремейк движка | 1.1k | 4.15 | 2025-01-13 | — | Diablo II remade using Java and LibGDX |
-| [Skate 3 (Skate3-Mobile)](https://github.com/Buku313/Skate3-Mobile) | Mobile | рекомпиляция | 274 | 4.15 | 2026-09-16 | ✅ | Play Skate 3 natively on Android. Download one APK, select your own ISO, and skate. ARM64 recompilation with Vulkan rendering. |
-| [Ultimate MK3 iOS](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | рекомпиляция | 71 | 4.15 | 2026-11-14 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
-| [iOS Apps (touchHLE)](https://github.com/touchHLE/touchHLE) | Mobile | ремейк движка | 4.1k | 4.1 | 2026-10-13 | ✅ | High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/tou… |
-| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 216 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
+| [Skate 3 (Skate3-Mobile)](https://github.com/Buku313/Skate3-Mobile) | Mobile | рекомпиляция | 277 | 4.15 | 2026-09-16 | ✅ | Play Skate 3 natively on Android. Download one APK, select your own ISO, and skate. ARM64 recompilation with Vulkan rendering. |
+| [Ultimate MK3 iOS](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | рекомпиляция | 72 | 4.15 | 2026-11-14 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
+| [touchHLE](https://github.com/touchHLE/touchHLE) | Mobile | ремейк движка | 4.1k | 4.1 | 2026-10-13 | ✅ | High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/tou… |
+| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 218 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
 | [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | декомпиляция | 719 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
-| [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) | Mobile | декомпиляция | 500 | 4 | 2026-11-06 | ✅ | KEmulator nnmod |
+| [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) | Mobile | декомпиляция | 502 | 4 | 2026-11-06 | ✅ | KEmulator nnmod |
 | [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) | Mobile | декомпиляция | 223 | 4 | 2026-11-13 | ✅ | A free J2ME emulator with libretro, awt and sdl2 frontends. |
 | [FreeSO](https://github.com/riperiperi/FreeSO) | Mobile | ремейк движка | 991 | 3.95 | 2025-08-22 | ✅ | Re-implementation of The Sims Online. |
-| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Mobile | порт | 123 | 3.95 | 2026-11-09 | ✅ | Hollow Knight: Silksong Dual-Screen Android port (+Steam integration) |
-| [The Legend of Zelda: Link's Awakening (LAS Recomp for Android)](https://github.com/mamcjr/LASRecompAndroid) | Mobile | рекомпиляция | 109 | 3.95 | 2026-11-14 | — | Static recompilation of Link's Awakening (Switch) to native Android |
-| [CTW-Native](https://github.com/official-kryo-to/ctw-native) | Mobile | рекомпиляция | 76 | 3.95 | 2026-11-01 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
+| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | Mobile | порт | 124 | 3.95 | 2026-11-09 | ✅ | Hollow Knight: Silksong Dual-Screen Android port (+Steam integration) |
+| [The Legend of Zelda: Link's Awakening (LAS Recomp for Android)](https://github.com/mamcjr/LASRecompAndroid) | Mobile | рекомпиляция | 113 | 3.95 | 2026-11-14 | — | Static recompilation of Link's Awakening (Switch) to native Android |
+| [CTW-Native](https://github.com/official-kryo-to/ctw-native) | Mobile | рекомпиляция | 78 | 3.95 | 2026-11-01 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
+| [Angry Birds](https://github.com/romoney5/angry-birds-love2d) | Mobile | порт | 15 | 3.95 | 2026-11-14 | — | Work-in-progress port of the Angry Birds engine to the LÖVE game framework |
 | [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | Mobile | порт | 62 | 3.9 | 2026-08-23 | ✅ | A native Android port of Hollow Knight (GOG/Steam, v1.5.12620 "Voidheart") for the AYN Thor dual-screen handheld. |
 | [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) | Mobile | ремейк движка | 88 | 3.7 | 2026-05-24 | ✅ | Java remake of Lionheart amiga game |
-| [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) | Mobile | рекомпиляция | 27 | 3.5 | 2025-12-04 | ✅ | Decompilation of Samurai Vs Zombies by Glu |
+| [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) | Mobile | рекомпиляция | 28 | 3.5 | 2025-12-04 | ✅ | Decompilation of Samurai Vs Zombies by Glu |
 | [Doom RPG (Mobile RPG Pack)](https://github.com/andreyvelsk/com.mobilerpgpack.phone) | Mobile | ремейк движка | 18 | 3.5 | 2026-06-10 | ✅ | Android port of UZDoom, with second screen support |
-| [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | декомпиляция | 141 | 3.45 | 2026-10-09 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
+| [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | декомпиляция | 142 | 3.45 | 2026-10-09 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
 | [Rockman EXE Phantom of Network (PoN PC)](https://github.com/StraDaMa/PoN_PC) | Mobile | порт | 87 | 3.35 | 2026-02-17 | ✅ | PoN PC is a native Windows PC port of the previously mobile-exclusive game Rockman EXE Phantom of Network. |
 | [Mirror's Edge (Glassline)](https://github.com/MoonCellar-Team/Glassline) | Mobile | декомпиляция | 55 | 3.25 | 2026-10-30 | ✅ | Unofficial port of Mirror's Edge (iPad, 2010) to Linux, Windows, Steam Deck and Android |
 | [Backstab HD (BackStabRecomp (AndroidRecomp))](https://github.com/jessicanataliagta/BackStabRecomp) | Mobile | рекомпиляция | 14 | 3.15 | 2026-07-31 | ✅ | A Windows x64 port of the Android ARMv7 version of BackStab HD, powered by AndroidRecomp. |
@@ -68,12 +69,12 @@
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [OpenVIII](https://github.com/MaKiPL/OpenVIII-monogame) | Mobile | ремейк движка | 671 | 2.6 | 2024-10-15 | — | Open source Final Fantasy VIII engine implementation in C# working on Windows and Linux (Android and iOS planned too!) [Monogame] |
+| [OpenVIII](https://github.com/MaKiPL/OpenVIII-monogame) | Mobile | ремейк движка | 672 | 2.6 | 2024-10-15 | — | Open source Final Fantasy VIII engine implementation in C# working on Windows and Linux (Android and iOS planned too!) [Monogame] |
 | [Sonic Runners](https://github.com/itsmattkc/RunnersDecomp) | Mobile | декомпиляция | 246 | 2.45 | 2023-09-06 | — |  |
-| [Doom RPG (DoomRPG-RE)](https://github.com/Erick194/DoomRPG-RE) | Mobile | декомпиляция | 165 | 2.25 | 2024-04-23 | ✅ | Doom RPG Reverse Engineering By [GEC] |
+| [Doom RPG (DoomRPG-RE)](https://github.com/Erick194/DoomRPG-RE) | Mobile | декомпиляция | 166 | 2.25 | 2024-04-23 | ✅ | Doom RPG Reverse Engineering By [GEC] |
 | [Angry Birds](https://github.com/jooapa/Angry_Birds_Decompilation) | Mobile | декомпиляция | 58 | 2.25 | 2024-07-05 | ✅ | decomp instructions/script for all 6 Angry Birds Games' |
 | [Dragon Ball Legends](https://github.com/GodkuHacking/Dragon-Ball-Legends) | Mobile | декомпиляция | 17 | 2.05 | 2024-05-09 | ✅ | a apk decompilation of Dragon Ball legends with tweaks and tutorials on how to compile and more. |
-| [Bounce Tales](https://github.com/HelloOO7/BounceTales) | Mobile | декомпиляция | 53 | 2 | 2023-02-07 | — | Decompilation of Rovio's Bounce Tales (2008) video game for Nokia mobile devices. |
+| [Bounce Tales](https://github.com/HelloOO7/BounceTales) | Mobile | декомпиляция | 54 | 2 | 2023-02-07 | — | Decompilation of Rovio's Bounce Tales (2008) video game for Nokia mobile devices. |
 | [Sonic the Hedgehog (J2ME)](https://github.com/Iso-Kilo/Sonic-1-J2ME-Decompilation) | Mobile | декомпиляция | 36 | 1.8 | 2021-02-19 | — | Decompile of the 2005 mobile port of Sonic 1. |
 | [Bounce (nokia-bounce-decomp)](https://github.com/rndtrash/nokia-bounce-decomp) | Mobile | декомпиляция | 19 | 1.8 | 2023-04-02 | — | Decompiled and commented source code of the legendary Bounce |
 
