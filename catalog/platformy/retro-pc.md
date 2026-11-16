@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **15.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **16.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -37,10 +37,10 @@
 | [Crossroads II: Pandemonium (crossroads-2-disassembly)](https://github.com/MarkRdgOx/crossroads-2-disassembly) | Commodore 64/8-bit | дизасм | 14 | 2.75 | 2026-08-21 | — | Attempt at commented disassembly of C64 Crossroads 2. |
 | [Batman: The Movie (MarkyTurtle Batman---Amiga)](https://github.com/MarkyTurtle/Batman---Amiga) | Amiga | дизасм | 12 | 2.75 | 2026-09-18 | — | Full disassembly of the game ‘Batman The Movie’, Amiga, 2 Disk Europe, Ocean |
 | [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | дизасм | 12 | 2.75 | 2026-11-09 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
-| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 38 | 2.65 | 2026-11-10 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
+| [Touhou 4: Lotus Land Story (th04 (REA showcase))](https://github.com/N0zoM1z0/th04) | PC-98/PC-88 | декомпиляция | 39 | 2.65 | 2026-11-10 | — | Source reconstruction of 東方幻想郷 ～ Lotus Land Story |
 | [Lander (lander-source-code-acorn-archimedes (Mark Moxon))](https://github.com/markmoxon/lander-source-code-acorn-archimedes) | BBC Micro/Acorn | декомпиляция | 114 | 2.6 | 2026-11-12 | — | Fully documented source code for the classic game Lander on the Acorn Archimedes |
 | [Elite (c64-elite-flicker-free (Mark Moxon))](https://github.com/markmoxon/c64-elite-flicker-free) | BBC Micro/Acorn | декомпиляция | 98 | 2.6 | 2026-11-08 | — | A patch for Commodore 64 and Plus/4 Elite that removes the flicker |
-| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 81 | 2.6 | 2026-11-15 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
+| [Sensible World of Soccer 96/97 (OpenSWOS)](https://github.com/benbaker76/OpenSWOS) | Amiga | порт | 81 | 2.6 | 2026-11-16 | — | An open-source C port of Sensible World of Soccer (Amiga), for Windows, macOS, Linux, Amiga and the web, with online multiplayer. |
 | [The Sentinel (the-sentinel-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/the-sentinel-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 62 | 2.6 | 2026-11-08 | — | Fully documented source code for the classic game The Sentinel on the BBC Micro |
 | [Aviator (aviator-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/aviator-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-11-08 | — | Fully documented source code for the classic game Aviator on the BBC Micro |
 | [Elite (elite-a-source-code-bbc-micro (Mark Moxon))](https://github.com/markmoxon/elite-a-source-code-bbc-micro) | BBC Micro/Acorn | декомпиляция | 60 | 2.6 | 2026-11-13 | — | Fully documented source code for Angus Duggan's classic game Elite-A on the BBC Micro |
@@ -74,14 +74,14 @@
 | [Gridrunner (gridrunner (Llamasoft Source Code Project))](https://github.com/mwenge/gridrunner) | Commodore 64/8-bit | дизасм | 76 | 2.6 | 2023-05-19 | ✅ | Gridrunner (1982) by Jeff Minter |
 | [Castle Master II: The Crypt (santiontanon castlemaster2-disassembly)](https://github.com/santiontanon/castlemaster2-disassembly) | ZX Spectrum | дизасм | 30 | 2.35 | 2023-07-16 | — | Disassembly of the original 1990 Castle Master II: The Crypt ZX Spectrum game |
 | [Maniac Mansion (Maniac.Mansion.Disassembly)](https://github.com/segrax/Maniac.Mansion.Disassembly) | Commodore 64/8-bit | дизасм | 43 | 2.15 | 2020-04-23 | — | Commented disassembly of game scripts, and spreadsheets which detail room objects, variables and their usage |
-| [Nether Earth (santiontanon netherearth-disassembly)](https://github.com/santiontanon/netherearth-disassembly) | ZX Spectrum | дизасм | 34 | 2.15 | 2022-04-06 | — | Disassembly of the original 1986 Nether Earth ZX Spectrum game |
+| [Nether Earth (santiontanon netherearth-disassembly)](https://github.com/santiontanon/netherearth-disassembly) | ZX Spectrum | дизасм | 35 | 2.15 | 2022-04-06 | — | Disassembly of the original 1986 Nether Earth ZX Spectrum game |
 | [Booga-Boo (mcolom boogaboo_disasm_msx)](https://github.com/mcolom/boogaboo_disasm_msx) | ZX Spectrum | дизасм | 20 | 2.15 | 2024-01-28 | — | Disassembly of the code of the MSX-1 BOOGA-BOO game |
 | [Manic Miner (TobyLobster ManicMiner)](https://github.com/TobyLobster/ManicMiner) | ZX Spectrum | дизасм | 17 | 2.15 | 2024-03-04 | — | Disassembly of the original BBC Micro version of Manic Miner |
 | [The Lords of Midnight (mrcook lords-of-midnight-disassembly (Spectrum + DOS))](https://github.com/mrcook/lords-of-midnight-disassembly) | ZX Spectrum | дизасм | 17 | 2.15 | 2023-12-04 | — | The Lords of Midnight source code: ZX Spectrum and DOS disassembly |
 | [Exolon (rusarh exolon-esl)](https://github.com/rusarh/exolon-esl) | ZX Spectrum | дизасм | 15 | 2.15 | 2023-10-17 | — | zx-spectrum game disassembly |
 | [The Hobbit (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/hobbit) | ZX Spectrum | дизасм | 13 | 2.15 | 2023-10-14 | — | A disassembly of The Hobbit, created using SkoolKit. |
 | [Deathchase (Ritchie333 deathchase)](https://github.com/Ritchie333/deathchase) | ZX Spectrum | дизасм | 10 | 2.15 | 2023-11-07 | — | Disassembly and annotation of the classic 1983 computer game "Deathchase" |
-| [Lotus Esprit Turbo Challenge (lotus-ste)](https://github.com/jonathanopalise/lotus-ste) | Atari ST | декомпиляция | 43 | 2.05 | 2021-04-10 | ✅ | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features |
+| [Lotus Esprit Turbo Challenge (lotus-ste)](https://github.com/jonathanopalise/lotus-ste) | Atari ST | декомпиляция | 44 | 2.05 | 2021-04-10 | ✅ | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features |
 | [Choplifter (ChoplifterReverse (Blondihacks))](https://github.com/blondie7575/ChoplifterReverse) | Apple II | декомпиляция | 100 | 2 | 2024-10-24 | — | A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin |
 | [Ultima IV: Quest of the Avatar (u4-decompiled)](https://github.com/ergonomy-joe/u4-decompiled) | Apple II | декомпиляция | 83 | 2 | 2023-10-05 | — | Decompiled source code for the PC version of Ultima IV - Quest Of The Avatar |
 | [Lode Runner (Piddewitt Loderunner)](https://github.com/Piddewitt/Loderunner) | Apple II | декомпиляция | 68 | 2 | 2024-04-14 | — | Reverse engineered C64 assembler source code to recreate a bit for bit identical version of the original game. |
