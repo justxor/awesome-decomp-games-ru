@@ -2,19 +2,19 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **17.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **18.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [The Legend of Zelda: A Link to the Past (zelda3)](https://github.com/snesrev/zelda3) — ремейк движка, ⭐ 5.0k, score 4.75
 2. [Super Mario Bros. [Remastered]](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) — ремейк движка, ⭐ 3.3k, score 4.55
 3. [bsnes](https://github.com/bsnes-emu/bsnes) — рекомпиляция, ⭐ 2.0k, score 4.55
-4. [The Legend of Zelda: A Link to the Past (3DS port)](https://github.com/EstebanPdN/zelda-alttp-3ds) — порт, ⭐ 798, score 4.35
-5. [Sonic 3 & Knuckles (Sonic 3 A.I.R.)](https://github.com/Eukaryot/sonic3air) — ремейк движка, ⭐ 689, score 4.35
+4. [The Legend of Zelda: A Link to the Past (3DS port)](https://github.com/EstebanPdN/zelda-alttp-3ds) — порт, ⭐ 801, score 4.35
+5. [Sonic 3 & Knuckles (Sonic 3 A.I.R.)](https://github.com/Eukaryot/sonic3air) — ремейк движка, ⭐ 691, score 4.35
 6. [The Legend of Zelda (ZQuest Classic)](https://github.com/ZQuestClassic/ZQuestClassic) — ремейк движка, ⭐ 569, score 4.15
-7. [Donkey Kong Country (DKC1Recomp)](https://github.com/elliotttate/DKC1Recomp) — рекомпиляция, ⭐ 306, score 4.15
-8. [Mega Man X (Mega Man X SNES Recomp)](https://github.com/mstan/MegaManXSNESRecomp) — рекомпиляция, ⭐ 231, score 4.15
-9. [Zelda II: The Adventure of Link (z2rs)](https://github.com/troyedwardsjr/z2rs) — ремейк движка, ⭐ 212, score 4.15
+7. [Donkey Kong Country (DKC1Recomp)](https://github.com/elliotttate/DKC1Recomp) — рекомпиляция, ⭐ 307, score 4.15
+8. [Mega Man X (Mega Man X SNES Recomp)](https://github.com/mstan/MegaManXSNESRecomp) — рекомпиляция, ⭐ 233, score 4.15
+9. [Zelda II: The Adventure of Link (z2rs)](https://github.com/troyedwardsjr/z2rs) — ремейк движка, ⭐ 214, score 4.15
 10. [Donkey Kong Country 2: Diddy's Kong Quest (DKC2Recomp)](https://github.com/elliotttate/DKC2Recomp) — рекомпиляция, ⭐ 203, score 4.15
 
 ## Все активные проекты (115)
@@ -24,62 +24,62 @@
 | [The Legend of Zelda: A Link to the Past (zelda3)](https://github.com/snesrev/zelda3) | SNES | ремейк движка | 5.0k | 4.75 | 2026-10-02 | ✅ | This is a reverse engineered clone of Zelda 3 - A Link to the Past. |
 | [Super Mario Bros. [Remastered]](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) | NES | ремейк движка | 3.3k | 4.55 | 2026-11-14 | ✅ | A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor /… |
 | [bsnes](https://github.com/bsnes-emu/bsnes) | SNES | рекомпиляция | 2.0k | 4.55 | 2026-10-07 | ✅ | bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use. |
-| [The Legend of Zelda: A Link to the Past (3DS port)](https://github.com/EstebanPdN/zelda-alttp-3ds) | SNES | порт | 798 | 4.35 | 2026-11-12 | ✅ | Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3 |
-| [Sonic 3 & Knuckles (Sonic 3 A.I.R.)](https://github.com/Eukaryot/sonic3air) | Genesis | ремейк движка | 689 | 4.35 | 2026-10-24 | ✅ | Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine |
+| [The Legend of Zelda: A Link to the Past (3DS port)](https://github.com/EstebanPdN/zelda-alttp-3ds) | SNES | порт | 801 | 4.35 | 2026-11-12 | ✅ | Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3 |
+| [Sonic 3 & Knuckles (Sonic 3 A.I.R.)](https://github.com/Eukaryot/sonic3air) | Genesis | ремейк движка | 691 | 4.35 | 2026-10-24 | ✅ | Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine |
 | [The Legend of Zelda (ZQuest Classic)](https://github.com/ZQuestClassic/ZQuestClassic) | NES | ремейк движка | 569 | 4.15 | 2026-11-17 | ✅ | ZQuest Classic is a game engine for creating games similar to the original NES Zelda |
-| [Donkey Kong Country (DKC1Recomp)](https://github.com/elliotttate/DKC1Recomp) | SNES | рекомпиляция | 306 | 4.15 | 2026-09-15 | ✅ | Static recompilation of Donkey Kong Country (SNES USA v1.0) with native widescreen presentation and deterministic debugging tools |
-| [Mega Man X (Mega Man X SNES Recomp)](https://github.com/mstan/MegaManXSNESRecomp) | SNES | рекомпиляция | 231 | 4.15 | 2026-11-11 | ✅ | Mega Man X recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
-| [Zelda II: The Adventure of Link (z2rs)](https://github.com/troyedwardsjr/z2rs) | NES | ремейк движка | 212 | 4.15 | 2026-10-22 | ✅ | Clean-room reconstruction of Zelda II: The Adventure of Link (NES) in Rust. Desktop and browser, bring your own ROM. |
+| [Donkey Kong Country (DKC1Recomp)](https://github.com/elliotttate/DKC1Recomp) | SNES | рекомпиляция | 307 | 4.15 | 2026-09-15 | ✅ | Static recompilation of Donkey Kong Country (SNES USA v1.0) with native widescreen presentation and deterministic debugging tools |
+| [Mega Man X (Mega Man X SNES Recomp)](https://github.com/mstan/MegaManXSNESRecomp) | SNES | рекомпиляция | 233 | 4.15 | 2026-11-18 | ✅ | Mega Man X recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
+| [Zelda II: The Adventure of Link (z2rs)](https://github.com/troyedwardsjr/z2rs) | NES | ремейк движка | 214 | 4.15 | 2026-10-22 | ✅ | Clean-room reconstruction of Zelda II: The Adventure of Link (NES) in Rust. Desktop and browser, bring your own ROM. |
 | [Donkey Kong Country 2: Diddy's Kong Quest (DKC2Recomp)](https://github.com/elliotttate/DKC2Recomp) | SNES | рекомпиляция | 203 | 4.15 | 2026-09-13 | ✅ | DKC2Recomp brings Donkey Kong Country 2: Diddy's Kong Quest to PC. |
-| [EarthBound (Phase Distorter)](https://github.com/TheRunaway5/Phase-Distorter) | SNES | порт | 150 | 4.15 | 2026-10-19 | ✅ | A Mother 2/EarthBound PC Port |
+| [EarthBound (Phase Distorter)](https://github.com/TheRunaway5/Phase-Distorter) | SNES | порт | 153 | 4.15 | 2026-10-19 | ✅ | A Mother 2/EarthBound PC Port |
 | [Streets of Rage (StreetsOfRageProject)](https://github.com/RuiNelson/StreetsOfRageProject) | Genesis | рекомпиляция | 42 | 4.15 | 2026-11-16 | ✅ | Streets of Rage recompilation project |
 | [Starfox Recomp](https://github.com/mstan/StarFoxSNESRecomp) | SNES | рекомпиляция | 40 | 4.15 | 2026-11-06 | ✅ | Star Fox recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
 | [Metroid (MetroidNESRecomp)](https://github.com/mstan/MetroidNESRecomp) | NES | рекомпиляция | 33 | 4.15 | 2026-11-14 | ✅ | Metroid recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
 | [Sonic the Hedgehog (SonicTheHedgehogRecomp)](https://github.com/mstan/SonicTheHedgehogRecomp) | Genesis | рекомпиляция | 32 | 4.15 | 2026-11-16 | ✅ | Sonic the Hedgehog recompiled for the Sega Genesis using segagenesisrecomp · Part of the R.A.I.D. community |
-| [Mesen (MesenCE)](https://github.com/nesdev-org/MesenCE) | NES | рекомпиляция | 661 | 4 | 2026-11-15 | ✅ | Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS |
+| [Mesen (MesenCE)](https://github.com/nesdev-org/MesenCE) | NES | рекомпиляция | 666 | 4 | 2026-11-15 | ✅ | Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS |
 | [jgenesis](https://github.com/jsgroth/jgenesis) | Genesis | декомпиляция | 412 | 4 | 2026-11-16 | ✅ | Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator |
-| [Super Mario World (SuperMarioWorldRecomp)](https://github.com/mstan/SuperMarioWorldRecomp) | SNES | рекомпиляция | 180 | 3.95 | 2026-11-15 | ✅ | Super Mario World recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
-| [Donkey Kong Country 3: Dixie Kong's Double Trouble! (DKC3Recomp)](https://github.com/elliotttate/DKC3Recomp) | SNES | рекомпиляция | 164 | 3.95 | 2026-09-13 | ✅ | Native recompilation of Donkey Kong Country 3 (SNES), built the DKC2Recomp way on snesrecomp |
-| [Super Metroid (SuperMetroidSNESRecomp)](https://github.com/mstan/SuperMetroidRecomp) | SNES | рекомпиляция | 158 | 3.95 | 2026-11-09 | ✅ | Super Metroid recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
-| [F-Zero (FZeroSNESRecomp)](https://github.com/RetroPortingToolKit/F-ZeroForever) | SNES | рекомпиляция | 120 | 3.95 | 2026-11-17 | ✅ | FZeroSNESRecomp brings F-Zero to PC. |
+| [Super Mario World (SuperMarioWorldRecomp)](https://github.com/mstan/SuperMarioWorldRecomp) | SNES | рекомпиляция | 184 | 3.95 | 2026-11-15 | ✅ | Super Mario World recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
+| [Donkey Kong Country 3: Dixie Kong's Double Trouble! (DKC3Recomp)](https://github.com/elliotttate/DKC3Recomp) | SNES | рекомпиляция | 165 | 3.95 | 2026-09-13 | ✅ | Native recompilation of Donkey Kong Country 3 (SNES), built the DKC2Recomp way on snesrecomp |
+| [Super Metroid (SuperMetroidSNESRecomp)](https://github.com/mstan/SuperMetroidRecomp) | SNES | рекомпиляция | 159 | 3.95 | 2026-11-09 | ✅ | Super Metroid recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
+| [F-Zero (FZeroSNESRecomp)](https://github.com/RetroPortingToolKit/F-ZeroForever) | SNES | рекомпиляция | 121 | 3.95 | 2026-11-17 | ✅ | FZeroSNESRecomp brings F-Zero to PC. |
 | [The Legend of Zelda: A Link to the Past (ZeldaAlttPSNESRecomp)](https://github.com/mstan/ZeldaAlttPSNESRecomp) | SNES | рекомпиляция | 75 | 3.95 | 2026-11-06 | ✅ | The Legend of Zelda: A Link to the Past recompiled for the Super Nintendo using snesrecomp · Part of the R.A.I.D. community |
-| [The Legend of Zelda (LegendOfZeldaNESRecomp)](https://github.com/mstan/LegendOfZeldaNESRecomp) | NES | рекомпиляция | 62 | 3.95 | 2026-11-16 | ✅ | The Legend of Zelda recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
+| [The Legend of Zelda (LegendOfZeldaNESRecomp)](https://github.com/mstan/LegendOfZeldaNESRecomp) | NES | рекомпиляция | 63 | 3.95 | 2026-11-16 | ✅ | The Legend of Zelda recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
 | [Super Mario Bros. (SuperMarioBrosNESRecomp)](https://github.com/mstan/SuperMarioBrosNESRecomp) | NES | рекомпиляция | 60 | 3.95 | 2026-11-16 | ✅ | Super Mario Bros. recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
 | [Earthbound Companion](https://github.com/rages4calm/earthbound-companion) | SNES | рекомпиляция | 55 | 3.95 | 2026-11-14 | ✅ | EarthBound Companion 1.0: native Windows port with Original and MaternalBound Redux, widescreen/4K, MSU music, controllers, Story Shuffle and 46 offl… |
-| [Mega Man X2 (MegaManX2SNESRecomp)](https://github.com/mstan/MegaManX2Recomp) | SNES | рекомпиляция | 52 | 3.95 | 2026-11-06 | ✅ | Static recompilation of Mega Man X2 (SNES) via snesrecomp |
+| [Mega Man X2 (MegaManX2SNESRecomp)](https://github.com/mstan/MegaManX2Recomp) | SNES | рекомпиляция | 53 | 3.95 | 2026-11-06 | ✅ | Static recompilation of Mega Man X2 (SNES) via snesrecomp |
 | [F-Zero (F-Zero Recomp)](https://github.com/craigshaw/FZeroRecomp) | SNES | рекомпиляция | 48 | 3.95 | 2026-10-18 | ✅ | F-Zero recompiled |
-| [International Superstar Soccer Deluxe (ISSD Native)](https://github.com/sergiomanzur/issd-native) | SNES | рекомпиляция | 44 | 3.95 | 2026-10-22 | — | AI-driven native recompilation project for ISS Deluxe on SNES |
-| [Sonic the Hedgehog 2 (SonicTheHedgehog2Recomp)](https://github.com/mstan/SonicTheHedgehog2Recomp) | Genesis | рекомпиляция | 43 | 3.95 | 2026-11-17 | ✅ | Sonic the Hedgehog 2 recompiled for the Sega Genesis using segagenesisrecomp · Part of the R.A.I.D. community |
-| [Sonic 3 & Knuckles (Sonic3AndKnucklesRecomp)](https://github.com/mstan/Sonic3AndKnucklesRecomp) | Genesis | рекомпиляция | 34 | 3.95 | 2026-11-17 | ✅ | Sonic 3 & Knuckles recompiled for the Sega Genesis using segagenesisrecomp · Part of the R.A.I.D. community |
-| [The Legend of Zelda: A Link to the Past (ALTTP-DX)](https://github.com/YeOldPress/alttp-dx) | SNES | порт | 25 | 3.95 | 2026-11-01 | ✅ | PC Port of The Legend of Zelda: A Link to the Past |
+| [International Superstar Soccer Deluxe (ISSD Native)](https://github.com/sergiomanzur/issd-native) | SNES | рекомпиляция | 45 | 3.95 | 2026-10-22 | — | AI-driven native recompilation project for ISS Deluxe on SNES |
+| [Sonic the Hedgehog 2 (SonicTheHedgehog2Recomp)](https://github.com/mstan/SonicTheHedgehog2Recomp) | Genesis | рекомпиляция | 44 | 3.95 | 2026-11-18 | ✅ | Sonic the Hedgehog 2 recompiled for the Sega Genesis using segagenesisrecomp · Part of the R.A.I.D. community |
+| [Sonic 3 & Knuckles (Sonic3AndKnucklesRecomp)](https://github.com/mstan/Sonic3AndKnucklesRecomp) | Genesis | рекомпиляция | 34 | 3.95 | 2026-11-18 | ✅ | Sonic 3 & Knuckles recompiled for the Sega Genesis using segagenesisrecomp · Part of the R.A.I.D. community |
+| [The Legend of Zelda: A Link to the Past (ALTTP-DX)](https://github.com/YeOldPress/alttp-dx) | SNES | порт | 24 | 3.95 | 2026-11-01 | ✅ | PC Port of The Legend of Zelda: A Link to the Past |
 | [Duck Hunt (DuckHuntNESRecomp)](https://github.com/mstan/DuckHuntNESRecomp) | NES | рекомпиляция | 19 | 3.95 | 2026-11-13 | ✅ | Duck Hunt recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
 | [Faxanadu (FaxanaduRecomp)](https://github.com/mstan/FaxanaduRecomp) | NES | рекомпиляция | 18 | 3.95 | 2026-11-06 | ✅ | Faxanadu recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
 | [Mega Man X3 (MegamanX3SNESRecomp)](https://github.com/mstan/MegamanX3SNESRecomp) | SNES | рекомпиляция | 15 | 3.95 | 2026-11-06 | ✅ | Static recompilation of Mega Man X3 (SNES) via snesrecomp |
 | [Mega Man 3 (Megaman3NESRecomp)](https://github.com/mstan/Megaman3NESRecomp) | NES | рекомпиляция | 12 | 3.95 | 2026-11-13 | ✅ | Mega Man 3 recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
 | [The Lion King (TLKRecomp)](https://github.com/kinduff/TLKRecomp) | NES | рекомпиляция | 10 | 3.95 | 2026-11-02 | ✅ | TLKRecomp is a static recompilation of The Lion King (SNES), built with snesrecomp |
-| [Super Mario All-Stars (Super Mario All-Stars — PC Port)](https://github.com/Darhkfox/SuperMarioAllStars) | SNES | порт | 370 | 3.9 | 2026-11-06 | ✅ | Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filter… |
+| [Super Mario All-Stars (Super Mario All-Stars — PC Port)](https://github.com/Darhkfox/SuperMarioAllStars) | SNES | порт | 378 | 3.9 | 2026-11-06 | ✅ | Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filter… |
 | [ActRaiser](https://github.com/DerrickGold/ar-recomp) | SNES | рекомпиляция | 29 | 3.75 | 2026-11-17 | — | ActRaiser (SNES) Recompilation Project |
-| [Dragon Ball Z: Super Saiya Densetsu](https://github.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust) | SNES | рекомпиляция | 25 | 3.75 | 2026-11-16 | — | Dragon Ball Z: Super Saiya Densetsu (SNES) — Classic, Recompiled and HD Remastered, rewritten in Rust. Bring your own ROM. |
+| [Dragon Ball Z: Super Saiya Densetsu](https://github.com/JackRushante/DBZ-Super-Saiya-Densetsu-Rust) | SNES | рекомпиляция | 29 | 3.75 | 2026-11-16 | — | Dragon Ball Z: Super Saiya Densetsu (SNES) — Classic, Recompiled and HD Remastered, rewritten in Rust. Bring your own ROM. |
 | [Mario's Tennis (MarioTennisVirtualBoyRecomp)](https://github.com/mstan/MarioTennisVirtualBoyRecomp) | Virtual Boy | рекомпиляция | 23 | 3.75 | 2026-11-13 | ✅ | Mario's Tennis recompiled for the Virtual Boy using vbrecomp · Part of the R.A.I.D. community |
-| [Streets of Rage Collection](https://github.com/OriginalSwayze/Streets-of-Rage-Collection-Recomp) | Genesis | рекомпиляция | 21 | 3.75 | 2026-11-16 | ✅ | Streets of Rage Collection is a native PC port of Streets of Rage, Streets of Rage 2 and Streets of Rage 3 with widescreen, high frame rate and inter… |
-| [Super Mario RPG: Legend of the Seven Stars (SuperMarioRPGRecomp)](https://github.com/mstan/SuperMarioRPGRecomp) | SNES | рекомпиляция | 21 | 3.75 | 2026-11-06 | ✅ | SuperMarioRPGRecomp is a native PC port of Super Mario RPG: Legend of the Seven Stars that supports widescreen. |
-| [Dr. Mario (DrMarioNesRecomp)](https://github.com/mstan/DrMarioNesRecomp) | NES | рекомпиляция | 18 | 3.75 | 2026-11-06 | ✅ | Dr. Mario recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
-| [Yoshi (YoshiNESRecomp)](https://github.com/mstan/YoshiNESRecomp) | NES | рекомпиляция | 14 | 3.75 | 2026-11-06 | ✅ | Yoshi recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
-| [Beyond Oasis (Beyond Oasis Recomp)](https://github.com/OriginalSwayze/beyond-oasis-recomp) | SNES | рекомпиляция | 12 | 3.75 | 2026-11-13 | ✅ | Beyond Oasis Recomp is a native PC port of Beyond Oasis for the Sega Genesis that runs the game as C code. |
-| [Lufia II: Rise of the Sinistrals (Lufia2SNESRecomp)](https://github.com/Cellenseres/Lufia2SNESRecomp) | SNES | рекомпиляция | 16 | 3.7 | 2026-11-17 | — | Lufia2SNESRecomp is a native recompilation of Lufia II: Rise of the Sinistrals for Windows and Linux with support for multiple video renderers and va… |
-| [Jungle Strike (Jungle-Strike-SNES-Static-Recomp)](https://github.com/Junior-Jones/Jungle-Strike-SNES-Static-Recomp) | SNES | рекомпиляция | 11 | 3.7 | 2026-11-17 | ✅ | Static recompilation of Jungle Strike (SNES) for Windows 10 and 11. ROM not included. |
+| [Streets of Rage Collection](https://github.com/OriginalSwayze/Streets-of-Rage-Collection-Recomp) | Genesis | рекомпиляция | 22 | 3.75 | 2026-11-16 | ✅ | Streets of Rage Collection is a native PC port of Streets of Rage, Streets of Rage 2 and Streets of Rage 3 with widescreen, high frame rate and inter… |
+| [Super Mario RPG: Legend of the Seven Stars (SuperMarioRPGRecomp)](https://github.com/mstan/SuperMarioRPGRecomp) | SNES | рекомпиляция | 22 | 3.75 | 2026-11-06 | ✅ | SuperMarioRPGRecomp is a native PC port of Super Mario RPG: Legend of the Seven Stars that supports widescreen. |
+| [Dr. Mario (DrMarioNesRecomp)](https://github.com/mstan/DrMarioNesRecomp) | NES | рекомпиляция | 19 | 3.75 | 2026-11-06 | ✅ | Dr. Mario recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
+| [Yoshi (YoshiNESRecomp)](https://github.com/mstan/YoshiNESRecomp) | NES | рекомпиляция | 15 | 3.75 | 2026-11-06 | ✅ | Yoshi recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
+| [Beyond Oasis (Beyond Oasis Recomp)](https://github.com/OriginalSwayze/beyond-oasis-recomp) | SNES | рекомпиляция | 14 | 3.75 | 2026-11-13 | ✅ | Beyond Oasis Recomp is a native PC port of Beyond Oasis for the Sega Genesis that runs the game as C code. |
+| [Lufia II: Rise of the Sinistrals (Lufia2SNESRecomp)](https://github.com/Cellenseres/Lufia2SNESRecomp) | SNES | рекомпиляция | 17 | 3.7 | 2026-11-17 | — | Lufia2SNESRecomp is a native recompilation of Lufia II: Rise of the Sinistrals for Windows and Linux with support for multiple video renderers and va… |
+| [Jungle Strike (Jungle-Strike-SNES-Static-Recomp)](https://github.com/Junior-Jones/Jungle-Strike-SNES-Static-Recomp) | SNES | рекомпиляция | 11 | 3.7 | 2026-11-18 | ✅ | Static recompilation of Jungle Strike (SNES) for Windows 10 and 11. ROM not included. |
 | [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | браузер | 14 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
-| [Yoshi's Cookie (YoshisCookieRecomp)](https://github.com/mstan/YoshisCookieRecomp) | NES | рекомпиляция | 14 | 3.5 | 2026-11-06 | ✅ | Yoshi's Cookie recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
-| [SuperSnes9x](https://github.com/shanytc/snes9x) | SNES | декомпиляция | 125 | 3.45 | 2026-11-15 | ✅ | SuperSnes9x - Portable Super Nintendo Entertainment System (TM) emulator based on Snes9x |
+| [Yoshi's Cookie (YoshisCookieRecomp)](https://github.com/mstan/YoshisCookieRecomp) | NES | рекомпиляция | 15 | 3.5 | 2026-11-06 | ✅ | Yoshi's Cookie recompiled for the NES using nesrecomp · Part of the R.A.I.D. community |
+| [SuperSnes9x](https://github.com/shanytc/snes9x) | SNES | декомпиляция | 126 | 3.45 | 2026-11-15 | ✅ | SuperSnes9x - Portable Super Nintendo Entertainment System (TM) emulator based on Snes9x |
 | [Sonic 3 & Knuckles (Sonic Clean Engine (S.C.E.))](https://github.com/TheBlad768/Sonic-Clean-Engine-S.C.E.-) | Genesis | дизасм | 62 | 3.45 | 2026-11-15 | ✅ | Cleaned up the Sonic 3 & Knuckles Disassembly (S.C.E.) |
 | [Sonic the Hedgehog (s1disasm)](https://github.com/sonicretro/s1disasm) | Genesis | дизасм | 463 | 3.4 | 2026-11-12 | ✅ | Sonic 1 Disassembly |
-| [Sonic the Hedgehog 2 (s2disasm)](https://github.com/sonicretro/s2disasm) | Genesis | дизасм | 322 | 3.4 | 2026-11-15 | — | Sonic 2 Disassembly |
+| [Sonic the Hedgehog 2 (s2disasm)](https://github.com/sonicretro/s2disasm) | Genesis | дизасм | 322 | 3.4 | 2026-11-18 | — | Sonic 2 Disassembly |
 | [Sonic & Knuckles](https://github.com/sonicretro/skdisasm) | Genesis | дизасм | 267 | 3.4 | 2026-10-11 | — | Sonic and Knuckles Disassembly |
 | [Super Mario Bros. (UEFI_SuperMario)](https://github.com/MikeWuPing/UEFI_SuperMario) | NES | порт | 36 | 3.35 | 2026-05-03 | ✅ | 将红白机（NES）《超级马力欧兄弟》（Super Mario Bros）移植到 **UEFI Shell** 环境下运行。图形输出使用 UEFI GOP（Graphics Output Protocol），纯软件渲染，无音频依赖。可在 QEMU + OVMF 或真机 UEFI Shell 下运行。… |
 | [Tiny Toon Adventures: Buster Busts Loose! (Buster Busts Loose! (PC port))](https://github.com/Darhkfox/BusterBustsLoose) | SNES | порт | 33 | 3.35 | 2026-10-07 | ✅ | Windows PC port of Tiny Toon Adventures: Buster Busts Loose! (SNES) with true widescreen, HUD re-anchoring, display options, cheats, level select and… |
 | [Super Bomberman (BombermanRecomp)](https://github.com/elliotttate/BombermanRecomp) | SNES | рекомпиляция | 15 | 3.35 | 2026-08-26 | ✅ | Native recompilation of Super Bomberman (USA) for Windows using snesrecomp |
-| [Star Fox [Enhanced]](https://github.com/kandowontu2/starfox-enhanced) | SNES | декомпиляция | 146 | 3.25 | 2026-11-01 | ✅ | Star Fox Enhanced source and portable platform builds (Assisted by Codex AI) |
-| [Super Metroid (SuperMetroidDecomp)](https://github.com/MrJackSpade/SuperMetroidDecomp) | SNES | декомпиляция | 17 | 3.25 | 2026-11-17 | ✅ |  |
+| [Star Fox [Enhanced]](https://github.com/kandowontu2/starfox-enhanced) | SNES | декомпиляция | 149 | 3.25 | 2026-11-01 | ✅ | Star Fox Enhanced source and portable platform builds (Assisted by Codex AI) |
+| [Super Metroid (SuperMetroidDecomp)](https://github.com/MrJackSpade/SuperMetroidDecomp) | SNES | декомпиляция | 17 | 3.25 | 2026-11-18 | ✅ |  |
 | [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City) | NES | дизасм | 311 | 3.2 | 2026-08-12 | — | Source code of some NES games |
 | [Danny Sullivan's Indy heat](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Danny%20Sullivan's%20Indy%20Heat) | NES | дизасм | 311 | 3.2 | 2026-08-12 | — | Source code of some NES games |
 | [Double Dragon II: The Revenge](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Double%20Dragon%20II) | NES | дизасм | 311 | 3.2 | 2026-08-12 | — | Source code of some NES games |
@@ -123,7 +123,7 @@
 | [Super Mario Bros. (Super Mario Bros. Atari Lynx Port)](https://github.com/pwsqrd/lynx_smb) | NES | порт | 24 | 2.4 | 2026-10-20 | — | Clean source port of Super Mario Brothers NES to the Atari Lynx |
 | [Super Mario World (Hummer Team NES port)](https://github.com/palaceswitcher/SMW-NES-Disassembly) | NES | порт | 20 | 2.4 | 2026-11-10 | — | WIP disassembly of Hummer Team's port of SMW. |
 | [Super Mario Bros. (smb (nathsou))](https://github.com/nathsou/smb) | NES | рекомпиляция | 16 | 2.4 | 2026-11-15 | — | Super Mario Bros. static recompilation in C |
-| [Chrono Trigger](https://github.com/zdiemer/chrono-trigger-reimplemented) | SNES | ремейк движка | 13 | 2.4 | 2026-11-17 | — | Native PC reimplementation of Chrono Trigger (SNES), validated frame-by-frame against the original ROM |
+| [Chrono Trigger](https://github.com/zdiemer/chrono-trigger-reimplemented) | SNES | ремейк движка | 13 | 2.4 | 2026-11-18 | — | Native PC reimplementation of Chrono Trigger (SNES), validated frame-by-frame against the original ROM |
 | [Rings of Power (RROP)](https://github.com/kruzeman/RROP) | Genesis | рекомпиляция | 11 | 2.4 | 2026-11-02 | — | Static recompilation of Rings of Power for Linux and Windows, with widescreen, smooth scrolling, external fonts, mouse controls, and saves. |
 | [Shining Force (SF1DISASM)](https://github.com/ShiningForceCentral/SF1DISASM) | Genesis | дизасм | 23 | 2.35 | 2025-09-11 | — | A disassembly of the game "Shining Force" for documentation and fan-project purposes. |
 | [Super Mario Bros. 2: The Lost Levels](https://github.com/threecreepio/smb2j-disassembly) | NES | дизасм | 18 | 2.35 | 2025-01-09 | — | ca65 version of doppelgangers fantastic smb2j disassembly |
@@ -144,7 +144,7 @@
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
 | [Super Mario World (SMAS_Launcher)](https://github.com/stephini/SMAS_Launcher) | SNES | порт | 63 | 3.55 | 2023-07-20 | — |  |
-| [The Legend of Zelda: A Link to the Past (zelda3-android)](https://github.com/Waterdish/zelda3-android) | SNES | порт | 210 | 3.5 | 2024-06-03 | ✅ | A port of Zelda3 to Android |
+| [The Legend of Zelda: A Link to the Past (zelda3-android)](https://github.com/Waterdish/zelda3-android) | SNES | порт | 211 | 3.5 | 2024-06-03 | ✅ | A port of Zelda3 to Android |
 | [Super Mario World (snesrev: smw)](https://github.com/snesrev/smw) | SNES | декомпиляция | 653 | 3.4 | 2023-08-16 | ✅ | Smw |
 | [Super Mario World (Super Mario World Remastered)](https://github.com/JHDev2006/Super-Mario-World-Remastered-Public) | SNES | ремейк движка | 282 | 2.95 | 2025-05-14 | ✅ | A Remake / Remaster of the original Super Mario World, in Godot. Adds new features / improvements! |
 | [The Legend Of Zelda](https://github.com/aldonunez/zelda1-disassembly) | NES | дизасм | 283 | 2.85 | 2021-02-20 | — | A complete disassembly of The Legend of Zelda |
@@ -186,7 +186,6 @@
 | [Ristar](https://github.com/sonicretro/ristar) | Genesis | дизасм | 34 | 2.15 | 2013-12-07 | — | Ristar Disassembly |
 | [Sonic 3D Blast](https://github.com/sonicretro/s3ddisasm) | Genesis | дизасм | 33 | 2.15 | 2013-12-02 | — | Sonic 3D Blast Disassembly |
 | [Mega Man 4](https://github.com/refreshing-lemonade/megaman4-disassembly) | NES | дизасм | 30 | 2.15 | 2020-12-23 | — | Full disassembly of Mega Man 4 (NES) |
-| [Shin Megami Tensei (smt1dasm)](https://github.com/spannerisms/smt1dasm) | SNES | дизасм | 26 | 2.15 | 2022-11-17 | — | Disassembly of Shin Megami Tensei J1.0 for the SNES |
 | [Final Fantasy II](https://github.com/everything8215/ff2) | NES | дизасм | 23 | 2.15 | 2022-12-06 | — | Disassembly and ROM Info for Final Fantasy II (NES) |
 | [Harvest Moon (HM-Decomp)](https://github.com/ElisaS-Codes/HM-Decomp) | SNES | дизасм | 19 | 2.15 | 2024-06-10 | — | Decompilation/Dissasemble of Harvest Moon for SNES |
 | [Mystery Dungeon: Shiren the Wanderer](https://github.com/CelestialAmber/shiren) | SNES | дизасм | 16 | 2.15 | 2023-07-13 | — | Disassembly of Fushigi no Dungeon 2: Fuurai no Shiren |
@@ -194,6 +193,7 @@
 | [Super Mario Bros. 2 (smb2)](https://github.com/Xkeeper0/smb2) | NES | декомпиляция | 105 | 2 | 2023-02-21 | — | Super Mario Bros. 2, discombobulated |
 | [Game Genie](https://github.com/qalle2/nes-gg-disassembly) | NES | дизасм | 29 | 1.95 | 2025-06-22 | — | NES Game Genie disassembly |
 | [Super Mario Bros. (smb-disassembly)](https://github.com/threecreepio/smb-disassembly) | NES | дизасм | 29 | 1.95 | 2021-05-16 | — | ca65 version of doppelgangers fantastic smb1 disassembly |
+| [Shin Megami Tensei (smt1dasm)](https://github.com/spannerisms/smt1dasm) | SNES | дизасм | 26 | 1.95 | 2022-11-17 | — | Disassembly of Shin Megami Tensei J1.0 for the SNES |
 | [Final Fantasy III](https://github.com/everything8215/ff3) | NES | дизасм | 25 | 1.95 | 2022-05-28 | — | Disassembly and ROM info for Final Fantasy III (NES) |
 | [Super Mario World (SMWDisC (All.log++))](https://github.com/gnaghi/SMWDisC) | SNES | дизасм | 24 | 1.95 | 2015-01-21 | — | Super Mario World disassembly |
 | [Dr.Mario](https://github.com/Nostaljipi/dr-mario-disassembly) | NES | дизасм | 23 | 1.95 | 2021-11-27 | — | Disassembly of Dr. Mario (NES) |
