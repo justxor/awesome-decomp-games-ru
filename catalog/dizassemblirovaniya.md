@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **20.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **21.11.2026**.
 
 Читаемый ассемблер, который собирается в идентичный ROM; основа ромхаков и переводов.
 
@@ -27,30 +27,30 @@
 | [The Legend of Zelda Oracle of Ages & Seasons](https://github.com/Stewmath/oracles-disasm) | — | 225 | 3.4 | 2026-10-02 | — | Disassembly of Oracle of Ages and Seasons |
 | [Pokemon Stadium 1](https://github.com/pret/pokestadium) | N64 | 216 | 3.4 | 2026-10-03 | — | Disassembly and decompilation of Pokémon Stadium |
 | [Pokemon Pinball](https://github.com/pret/pokepinball) | Game Boy Color | 207 | 3.4 | 2026-10-30 | — | Disassembly of Pokémon Pinball |
-| [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Danny Sullivan's Indy heat](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Danny%20Sullivan's%20Indy%20Heat) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Double Dragon II: The Revenge](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Double%20Dragon%20II) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [ExciteBike](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Excitebike) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Ice Climber](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Ice%20Climber) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Kunio-kun no Nekketsu Soccer League](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Kunio-kun%20no%20Nekketsu%20Soccer%20League) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Mappy](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Mappy) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Nuts & Milk](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Nuts%20%26%20Milk) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Pac Man](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Pac-Man) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Solstice: The Quest for the Staff of Demnos](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Solstice) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [SonSon](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Son%20Son) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Tecmo World Cup Soccer](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tecmo%20World%20Cup%20Soccer) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [The Bugs Bunny Crazy Castle](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Bugs%20Bunny%20Crazy%20Castle) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
-| [Yie Ar Kung Fu](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Yie%20Ar%20Kung-Fu) | NES | 310 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Danny Sullivan's Indy heat](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Danny%20Sullivan's%20Indy%20Heat) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Double Dragon II: The Revenge](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Double%20Dragon%20II) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [ExciteBike](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Excitebike) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Ice Climber](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Ice%20Climber) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Kunio-kun no Nekketsu Soccer League](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Kunio-kun%20no%20Nekketsu%20Soccer%20League) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Mappy](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Mappy) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Nuts & Milk](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Nuts%20%26%20Milk) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Pac Man](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Pac-Man) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Solstice: The Quest for the Staff of Demnos](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Solstice) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [SonSon](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Son%20Son) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Tecmo World Cup Soccer](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Tecmo%20World%20Cup%20Soccer) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [The Bugs Bunny Crazy Castle](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Bugs%20Bunny%20Crazy%20Castle) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
+| [Yie Ar Kung Fu](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Yie%20Ar%20Kung-Fu) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
 | [Contra](https://github.com/vermiceli/nes-contra-us) | Arcade | 249 | 3.2 | 2026-06-07 | — | An annotated disassembly with supplemental materials of the Contra (US) and Probotector NES game. |
 | [Barnyard](https://github.com/InfiniteC0re/OpenBarnyard) | PC | 107 | 3.2 | 2026-11-17 | ✅ | Decompilation of Barnyard the video game and TOSHI 2.0 game engine developed by Blue Tongue Entertainment. |
 | [Keitai Denjuu Telefang](https://github.com/telefang/telefang) | Game Boy Color | 103 | 3.05 | 2025-10-19 | ✅ | Partial Telefang disassembly and English translation (on the patch branch) |
 | [Super Mario Bros. 3](https://github.com/captainsouthbird/smb3) | NES | 259 | 3 | 2025-05-01 | — | Disassembly of Super Mario Bros 3 |
-| [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | Sega CD/32X | 188 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
+| [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | Sega CD/32X | 189 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
 | [Super Bomberman](https://github.com/LIJI32/superbomberman) | SNES | 112 | 3 | 2026-07-05 | ✅ | Disassembly and remade build system for SNES game Super Bomberman |
 | [Pokemon TCG 2](https://github.com/pret/poketcg2) | Game Boy Color | 98 | 2.95 | 2026-10-31 | — | Disassembly of Pokémon TCG 2 |
 | [Final Fantasy VI](https://github.com/everything8215/ff6) | — | 96 | 2.95 | 2026-09-14 | — | Disassembly and ROM info for Final Fantasy VI |
 | [Pokemon Puzzle Challenge](https://github.com/pret/pokepuzzle) | Game Boy Color | 83 | 2.95 | 2026-10-31 | — | Disassembly of Pokémon Puzzle Challenge |
-| [Shining Force II (SF2DISASM)](https://github.com/ShiningForceCentral/SF2DISASM) | Genesis | 56 | 2.95 | 2026-11-15 | — | A disassembly of the game "Shining Force II" for documentation and fan-project purposes. |
+| [Shining Force II (SF2DISASM)](https://github.com/ShiningForceCentral/SF2DISASM) | Genesis | 57 | 2.95 | 2026-11-15 | — | A disassembly of the game "Shining Force II" for documentation and fan-project purposes. |
 | [Kid Chameleon](https://github.com/sonicretro/kid-chameleon-disasm) | Genesis | 43 | 2.95 | 2026-10-28 | — | Split disassembly of Kid Chameleon |
 | [Pokéwalker (firmware/minigames) (pw)](https://github.com/lumirth/pw) | Other | 42 | 2.95 | 2026-09-14 | — | A human-readable matching decompilation of the Pokéwalker firmware. |
 | [The Legend of Zelda: A Link to the Past (jpdasm)](https://github.com/spannerisms/jpdasm) | SNES | 40 | 2.95 | 2026-09-15 | — | Accurate and annotated disassembly of Zelda no Densetsu: Kamigami no Triforce |
@@ -71,14 +71,13 @@
 | [Knuckles Chaotix](https://github.com/sonicretro/chaotix) | — | 41 | 2.75 | 2026-02-27 | — | Knuckles' Chaotix Disassembly & Toolkit |
 | [Mario Bros. (Mario-Bros.-Dis)](https://github.com/RussianManSMWC/Mario-Bros.-Dis) | Arcade | 36 | 2.75 | 2026-06-17 | — | Mario Bros. (NES) Disassembly |
 | [Thrust (kieranhj thrust-disassembly)](https://github.com/kieranhj/thrust-disassembly) | BBC Micro/Acorn | 27 | 2.75 | 2026-10-15 | — | Reverse engineered source to BBC Thrust |
-| [Manic Miner (manicminer (skoolkit.ca))](https://github.com/skoolkid/manicminer) | ZX Spectrum | 26 | 2.75 | 2026-11-19 | — | A disassembly of Manic Miner, created using SkoolKit. |
+| [Manic Miner (manicminer (skoolkit.ca))](https://github.com/skoolkid/manicminer) | ZX Spectrum | 26 | 2.75 | 2026-11-20 | — | A disassembly of Manic Miner, created using SkoolKit. |
 | [Super Metroid (sm_disassembly)](https://github.com/InsaneFirebat/sm_disassembly) | SNES | 25 | 2.75 | 2026-10-02 | — | A relocatable disassembly of Super Metroid (SNES) based on P.JBoy's bank logs |
 | [Final Fantasy Adventure (FFA-Disassembly)](https://github.com/daid/FFA-Disassembly) | Game Boy | 23 | 2.75 | 2026-11-04 | — |  |
 | [Final Fantasy V](https://github.com/everything8215/ff5) | — | 21 | 2.75 | 2026-09-21 | — | Disassembly and ROM info for Final Fantasy V |
 | [EarthBound Beginnings (mother)](https://github.com/Nathan-R-Og/mother) | NES | 20 | 2.75 | 2026-11-08 | — | Disassembly of Mother/Earthbound Zero/Earthbound Beginnings for the NES |
 | [Jet Set Willy (jetsetwilly (skoolkit.ca))](https://github.com/skoolkid/jetsetwilly) | ZX Spectrum | 20 | 2.75 | 2026-11-19 | — | A disassembly of Jet Set Willy, created using SkoolKit. |
 | [Super Ghouls ‘n Ghosts](https://github.com/FredYeye/Super-Ghouls-n-Ghosts-Disassembly) | SNES | 17 | 2.75 | 2026-11-20 | — |  |
-| [Crossroads II: Pandemonium (crossroads-2-disassembly)](https://github.com/MarkRdgOx/crossroads-2-disassembly) | Commodore 64/8-bit | 14 | 2.75 | 2026-08-21 | — | Attempt at commented disassembly of C64 Crossroads 2. |
 | [Metroid (m1disasm)](https://github.com/metroidret/m1disasm) | NES | 14 | 2.75 | 2026-11-15 | — |  |
 | [Pokémon Red and Blue (Pokered-Pro)](https://github.com/Kamy41/Pokered-Pro) | Game Boy | 14 | 2.75 | 2026-09-08 | — | Disassembly of Pokémon Red/Blue with some fixies and improvements (and a little surprise at Vermilion Dock if you talk to Giovanni after the fight in… |
 | [Mega Man II (rw2)](https://github.com/Kak2X/rw2) | Game Boy | 13 | 2.75 | 2026-10-09 | — | Rockman World 2 / Mega Man II disassembly |
@@ -101,12 +100,13 @@
 | [Pokémon Red and Blue (pokeblue)](https://github.com/Narishma-gb/pokeblue) | Game Boy | 15 | 2.55 | 2026-08-16 | — | Disassembly of JPN Pokémon Blue |
 | [River Raid (river-raid-disasm (Sergei Morozov))](https://github.com/river-raid/river-raid-disasm) | Atari 2600 | 15 | 2.55 | 2026-04-05 | — | Disassembly of River Raid for ZX Spectrum |
 | [Wario Land 3 (warioland3 (ElectroDeoxys))](https://github.com/ElectroDeoxys/warioland3) | Game Boy Color | 15 | 2.55 | 2026-08-16 | — | Wario Land 3 Disassembly |
+| [Crossroads II: Pandemonium (crossroads-2-disassembly)](https://github.com/MarkRdgOx/crossroads-2-disassembly) | Commodore 64/8-bit | 14 | 2.55 | 2026-08-21 | — | Attempt at commented disassembly of C64 Crossroads 2. |
 | [Mega Man (mm1dasm)](https://github.com/TheRealQuantam/mm1dasm) | NES | 14 | 2.55 | 2026-01-04 | — | Compilable Disassembly of Mega Man / Rockman |
 | [Milon's Secret Castle](https://github.com/jasonmray/MilonsSecretCastle) | NES | 14 | 2.55 | 2026-05-05 | — | A Thorough Reverse-Engineering of Milon's Secret Castle for the NES |
 | [Pokémon Gold and Silver (pokesilver)](https://github.com/Narishma-gb/pokesilver) | Game Boy Color | 12 | 2.55 | 2026-06-13 | — | Disassembly of JPN Pokémon Gold/Silver |
 | [Pokémon Yellow (pokeyellow-jp)](https://github.com/Narishma-gb/pokeyellow-jp) | Game Boy | 11 | 2.55 | 2026-01-18 | — | Disassembly of JPN Pokémon Yellow |
 | [Sonic the Hedgehog 2 (Sonic-2-Nick-Arcade-Disassembly)](https://github.com/AlexField442/Sonic-2-Nick-Arcade-Disassembly) | Genesis | 11 | 2.55 | 2026-06-05 | — | Sonic 2 Nick Arcade Disassembly |
-| [Shining Force (SF1DISASM)](https://github.com/ShiningForceCentral/SF1DISASM) | Genesis | 23 | 2.35 | 2025-09-11 | — | A disassembly of the game "Shining Force" for documentation and fan-project purposes. |
+| [Shining Force (SF1DISASM)](https://github.com/ShiningForceCentral/SF1DISASM) | Genesis | 24 | 2.35 | 2025-09-11 | — | A disassembly of the game "Shining Force" for documentation and fan-project purposes. |
 | [Sonic CD (scddisasm)](https://github.com/sonicretro/scddisasm) | Sega CD/32X | 22 | 2.35 | 2025-07-28 | — |  |
 | [Super Mario Bros. 2: The Lost Levels](https://github.com/threecreepio/smb2j-disassembly) | NES | 18 | 2.35 | 2025-01-09 | — | ca65 version of doppelgangers fantastic smb2j disassembly |
 | [Puyo Puyo (puyodisasm)](https://github.com/Nasina7/puyodisasm) | Genesis | 16 | 2.35 | 2025-11-16 | — | A work-in-progress disassembly of Puyo Puyo for the Sega Megadrive |
@@ -209,8 +209,8 @@
 | [Game Genie](https://github.com/qalle2/nes-gg-disassembly) | NES | 29 | 1.95 | 2025-06-22 | — | NES Game Genie disassembly |
 | [Donkey Kong '94](https://github.com/CelestialAmber/DKGBDisasm) | Game Boy | 28 | 1.95 | 2022-03-16 | — | Disassembly of Donkey Kong '94 |
 | [Sonic Adventure](https://github.com/sonicretro/sad_disasm) | Dreamcast | 27 | 1.95 | 2013-12-02 | — | Sonic Adventure DC Disassembly |
+| [Final Fantasy III](https://github.com/everything8215/ff3) | NES | 26 | 1.95 | 2022-05-28 | — | Disassembly and ROM info for Final Fantasy III (NES) |
 | [Shin Megami Tensei (smt1dasm)](https://github.com/spannerisms/smt1dasm) | SNES | 26 | 1.95 | 2022-11-17 | — | Disassembly of Shin Megami Tensei J1.0 for the SNES |
-| [Final Fantasy III](https://github.com/everything8215/ff3) | NES | 25 | 1.95 | 2022-05-28 | — | Disassembly and ROM info for Final Fantasy III (NES) |
 | [Sonic & Knuckles Collection (PC) (skc_disasm)](https://github.com/sonicretro/skc_disasm) | PC | 25 | 1.95 | 2018-08-03 | — | Sonic and Knuckles Collection Disassembly |
 | [Pokémon Crystal (pokekuristaru)](https://github.com/PikalaxALT/pokekuristaru) | Game Boy Color | 24 | 1.95 | 2017-08-02 | — | Disassembly of Pokemon Crystal (J) |
 | [Super Mario World (SMWDisC (All.log++))](https://github.com/gnaghi/SMWDisC) | SNES | 24 | 1.95 | 2015-01-21 | — | Super Mario World disassembly |
