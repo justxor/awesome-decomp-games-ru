@@ -2,46 +2,46 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **21.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **22.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [Pokemon RBY / GSC / FRLF / RSE (G1R Deluxe)](https://github.com/bryanthaboi/gen1recomp) — рекомпиляция, ⭐ 4.2k, score 4.35
-2. [Pokémon Emerald (pokeemerald-3Ds-dualscreen)](https://github.com/ZallaxDev/emerald-3ds) — порт, ⭐ 800, score 4.35
+2. [Pokémon Emerald (pokeemerald-3Ds-dualscreen)](https://github.com/ZallaxDev/emerald-3ds) — порт, ⭐ 804, score 4.35
 3. [GB Enhanced+ (GBE Plus)](https://github.com/shonumi/gbe-plus) — рекомпиляция, ⭐ 601, score 4.35
-4. [Pokemon Gold / Silver / Crystal (Gen2Recomped)](https://github.com/UNDERdecoded/Gen2Recomped) — рекомпиляция, ⭐ 473, score 4.35
+4. [Pokemon Gold / Silver / Crystal (Gen2Recomped)](https://github.com/UNDERdecoded/Gen2Recomped) — рекомпиляция, ⭐ 475, score 4.35
 5. [Pokémon Gold and Silver (Pokémon Polished Crystal)](https://github.com/Rangi42/polishedcrystal) — декомпиляция, ⭐ 1.7k, score 4.2
 6. [The Legend of Zelda: The Minish Cap (MinishCapRecomp)](https://github.com/mstan/MinishCapRecomp) — рекомпиляция, ⭐ 42, score 4.15
 7. [Fire Emblem: The Sacred Stones (SacredStonesRecomp)](https://github.com/Lordingard/SacredStonesRecomp) — рекомпиляция, ⭐ 32, score 4.15
-8. [The Legend of Zelda: The Minish Cap (zelda-tmc-3ds)](https://github.com/EstebanPdN/zelda-tmc-3ds) — декомпиляция, ⭐ 831, score 4
+8. [The Legend of Zelda: The Minish Cap (zelda-tmc-3ds)](https://github.com/EstebanPdN/zelda-tmc-3ds) — декомпиляция, ⭐ 832, score 4
 9. [MOTHER 3 (MOTHER 3 Recomp)](https://github.com/josiahg2502-glitch/Mother3Recomp) — рекомпиляция, ⭐ 131, score 3.95
-10. [The Legend of Zelda: Oracle of Seasons / Oracle of Ages (The Oracles Project)](https://github.com/thibautbus/top) — порт, ⭐ 130, score 3.95
+10. [The Legend of Zelda: Oracle of Seasons / Oracle of Ages (The Oracles Project)](https://github.com/thibautbus/top) — порт, ⭐ 131, score 3.95
 
 ## Все активные проекты (120)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
 | [Pokemon RBY / GSC / FRLF / RSE (G1R Deluxe)](https://github.com/bryanthaboi/gen1recomp) | Game Boy | рекомпиляция | 4.2k | 4.35 | 2026-11-17 | ✅ | Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke |
-| [Pokémon Emerald (pokeemerald-3Ds-dualscreen)](https://github.com/ZallaxDev/emerald-3ds) | GBA | порт | 800 | 4.35 | 2026-10-30 | ✅ | Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world. |
+| [Pokémon Emerald (pokeemerald-3Ds-dualscreen)](https://github.com/ZallaxDev/emerald-3ds) | GBA | порт | 804 | 4.35 | 2026-10-30 | ✅ | Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world. |
 | [GB Enhanced+ (GBE Plus)](https://github.com/shonumi/gbe-plus) | Game Boy | рекомпиляция | 601 | 4.35 | 2026-10-01 | ✅ | DMG/GBC/GBA emulator and experimental NDS emulator. |
-| [Pokemon Gold / Silver / Crystal (Gen2Recomped)](https://github.com/UNDERdecoded/Gen2Recomped) | Game Boy Color | рекомпиляция | 473 | 4.35 | 2026-11-12 | ✅ | Generation 2 Pokemon Recomp forked from Gen1Recomp and modified |
+| [Pokemon Gold / Silver / Crystal (Gen2Recomped)](https://github.com/UNDERdecoded/Gen2Recomped) | Game Boy Color | рекомпиляция | 475 | 4.35 | 2026-11-12 | ✅ | Generation 2 Pokemon Recomp forked from Gen1Recomp and modified |
 | [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | браузер | 323 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
 | [Pokémon Gold and Silver (Pokémon Polished Crystal)](https://github.com/Rangi42/polishedcrystal) | Game Boy Color | декомпиляция | 1.7k | 4.2 | 2026-11-21 | ✅ | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. |
 | [The Legend of Zelda: The Minish Cap (MinishCapRecomp)](https://github.com/mstan/MinishCapRecomp) | GBA | рекомпиляция | 42 | 4.15 | 2026-11-17 | ✅ | The Legend of Zelda: The Minish Cap recompiled for the Game Boy Advance using gbarecomp · Part of the R.A.I.D. community |
 | [Fire Emblem: The Sacred Stones (SacredStonesRecomp)](https://github.com/Lordingard/SacredStonesRecomp) | GBA | рекомпиляция | 32 | 4.15 | 2026-10-17 | ✅ | Playable Windows and Android ARM64 recompilation of Fire Emblem: The Sacred Stones (GBA). |
 | [Pokemon Red](https://github.com/pret/pokered) | Game Boy | дизасм | 5.0k | 4.05 | 2026-11-14 | — | Disassembly of Pokémon Red/Blue |
-| [The Legend of Zelda: The Minish Cap (zelda-tmc-3ds)](https://github.com/EstebanPdN/zelda-tmc-3ds) | GBA | декомпиляция | 831 | 4 | 2026-11-19 | ✅ | Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori |
+| [The Legend of Zelda: The Minish Cap (zelda-tmc-3ds)](https://github.com/EstebanPdN/zelda-tmc-3ds) | GBA | декомпиляция | 832 | 4 | 2026-11-19 | ✅ | Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori |
 | [MOTHER 3 (MOTHER 3 Recomp)](https://github.com/josiahg2502-glitch/Mother3Recomp) | GBA | рекомпиляция | 131 | 3.95 | 2026-10-28 | ✅ | MOTHER 3 for Windows, Linux and Android, with fan translation patch support. |
-| [The Legend of Zelda: Oracle of Seasons / Oracle of Ages (The Oracles Project)](https://github.com/thibautbus/top) | Game Boy Color | порт | 130 | 3.95 | 2026-11-15 | ✅ | The Oracles Project - A faithful, moddable port of Oracle of Ages and Oracle of Seasons for Windows, macOS, Linux and Android: your own ROM runs unmo… |
-| [Pokemon Emerald (Bravely Emerald HD-2D)](https://github.com/marcoscodas/bravely-emerald) | GBA | ремейк движка | 121 | 3.95 | 2026-11-20 | ✅ | Pokémon Emerald, reimagined as a Square Enix HD-2D game |
-| [Golden Sun (GSRecomp)](https://github.com/Shmargus/GSRecomp) | GBA | рекомпиляция | 108 | 3.95 | 2026-11-18 | — | GSRecomp is a native PC port of Golden Sun for Windows and Linux that translates the game's code ahead of time into C++. |
+| [The Legend of Zelda: Oracle of Seasons / Oracle of Ages (The Oracles Project)](https://github.com/thibautbus/top) | Game Boy Color | порт | 131 | 3.95 | 2026-11-15 | ✅ | The Oracles Project - A faithful, moddable port of Oracle of Ages and Oracle of Seasons for Windows, macOS, Linux and Android: your own ROM runs unmo… |
+| [Pokemon Emerald (Bravely Emerald HD-2D)](https://github.com/marcoscodas/bravely-emerald) | GBA | ремейк движка | 124 | 3.95 | 2026-11-20 | ✅ | Pokémon Emerald, reimagined as a Square Enix HD-2D game |
+| [Golden Sun (GSRecomp)](https://github.com/Shmargus/GSRecomp) | GBA | рекомпиляция | 109 | 3.95 | 2026-11-18 | — | GSRecomp is a native PC port of Golden Sun for Windows and Linux that translates the game's code ahead of time into C++. |
 | [Mario Kart: Super Circuit (Mario Kart: Super Circuit Recompiled)](https://github.com/mstan/MarioKartSuperCircuitRecomp) | GBA | рекомпиляция | 89 | 3.95 | 2026-11-14 | ✅ | Static recompilation of Mario Kart: Super Circuit with optional 60 FPS and Adaptive Widescreen mods · Part of the R.A.I.D. community |
 | [Resident Evil Gaiden (Resident Evil Gaiden: Recompiled)](https://github.com/sergiomanzur/regaiden-recomp) | Game Boy Color | рекомпиляция | 63 | 3.95 | 2026-11-07 | ✅ | Native static C/C++ recompilation of Resident Evil Gaiden (GBC) for PC with True Widescreen, 2D Dynamic Lighting, Retro Horror Shaders, and HD Textur… |
-| [Pokemon Emerald (EmeraldRecomp)](https://github.com/mstan/EmeraldRecomp) | GBA | рекомпиляция | 58 | 3.95 | 2026-11-21 | ✅ | Pokémon Emerald recompiled for the Game Boy Advance using gbarecomp · Part of the R.A.I.D. community |
+| [Pokemon Emerald (EmeraldRecomp)](https://github.com/mstan/EmeraldRecomp) | GBA | рекомпиляция | 60 | 3.95 | 2026-11-21 | ✅ | Pokémon Emerald recompiled for the Game Boy Advance using gbarecomp · Part of the R.A.I.D. community |
 | [Pokemon FireRed (FireRedLeafGreenRecomp)](https://github.com/mstan/FireRedLeafGreenRecomp) | GBA | рекомпиляция | 42 | 3.95 | 2026-11-21 | ✅ | Pokémon FireRed & LeafGreen recompiled for the Game Boy Advance using gbarecomp · Part of the R.A.I.D. community |
 | [Dragon Ball Z: Buu's Fury (Dragon Ball Z: Buu's Fury Recomp)](https://github.com/mstan/DragonBallZBuusFuryRecomp) | GBA | рекомпиляция | 39 | 3.95 | 2026-11-16 | ✅ | Static recompilation of Dragon Ball Z: Buu's Fury with Adaptive Widescreen · Part of the R.A.I.D. community |
+| [Super Mario World: Super Mario Advance 2 (SuperMarioAdvance2Recomp)](https://github.com/mstan/SuperMarioAdvance2Recomp) | GBA | рекомпиляция | 33 | 3.95 | 2026-11-21 | — | Static recompilation of Super Mario Advance 2: Super Mario World · Part of the R.A.I.D. community |
 | [Wario Land: Super Mario Land 3 (Bigodão)](https://github.com/GABRIELNNK/Bigodao) | Game Boy | рекомпиляция | 33 | 3.95 | 2026-11-04 | ✅ | A static recompilation study and native port of Wario Land: Super Mario Land 3 with native widescreen support, 3D gameplay (experimental), mods suppo… |
-| [Super Mario World: Super Mario Advance 2 (SuperMarioAdvance2Recomp)](https://github.com/mstan/SuperMarioAdvance2Recomp) | GBA | рекомпиляция | 32 | 3.95 | 2026-11-21 | — | Static recompilation of Super Mario Advance 2: Super Mario World · Part of the R.A.I.D. community |
 | [WarioWare: Twisted! (WarioWare: Twisted! Recomp)](https://github.com/mstan/WarioWareTwistedRecomp) | GBA | рекомпиляция | 30 | 3.95 | 2026-11-21 | — | Static recompilation of WarioWare: Twisted! with Windows and Android gyro support · Part of the R.A.I.D. community |
 | [The Legend of Zelda: Oracle of Ages (Epoch & Equinox)](https://github.com/ZakyPew/epoch-equinox) | Game Boy Color | рекомпиляция | 26 | 3.95 | 2026-09-27 | ✅ | The Legend of Zelda: Oracle of Ages recompilation using gb-recompiled |
 | [The Legend of Zelda: Oracle of Ages (ooa-godot)](https://github.com/SHOEGAZEssb/ooa-godot) | Game Boy Color | ремейк движка | 20 | 3.95 | 2026-11-16 | ✅ | A full reimplementation of the Zelda Oracle games in C# using Godot based on the disassembly |
@@ -53,31 +53,31 @@
 | [Pokemon Crystal](https://github.com/pret/pokecrystal) | Game Boy Color | дизасм | 2.6k | 3.85 | 2026-11-16 | — | Disassembly of Pokémon Crystal |
 | [Pokemon FireRed](https://github.com/pret/pokefirered) | GBA | декомпиляция | 1.7k | 3.85 | 2026-10-20 | — | Decompilation of Pokémon FireRed/LeafGreen |
 | [Pokemon Ruby](https://github.com/pret/pokeruby) | GBA | декомпиляция | 1.0k | 3.85 | 2026-09-29 | — | Decompilation of Pokémon Ruby/Sapphire |
-| [The Legend of Zelda: The Minish Cap (Project Picori)](https://github.com/999sian/tmc) | GBA | декомпиляция | 558 | 3.8 | 2026-10-20 | ✅ | Project Picori — a native PC port of The Legend of Zelda: The Minish Cap (Linux/Windows/macOS), built on the zeldaret/tmc decompilation. |
+| [The Legend of Zelda: The Minish Cap (Project Picori)](https://github.com/999sian/tmc) | GBA | декомпиляция | 559 | 3.8 | 2026-10-20 | ✅ | Project Picori — a native PC port of The Legend of Zelda: The Minish Cap (Linux/Windows/macOS), built on the zeldaret/tmc decompilation. |
 | [Pokemon Ruby (RubySapphireRecomp)](https://github.com/mstan/RubySapphireRecomp) | GBA | рекомпиляция | 29 | 3.75 | 2026-11-21 | ✅ | Pokémon Ruby & Sapphire recompiled for the Game Boy Advance using gbarecomp · Part of the R.A.I.D. community |
 | [Super Mario Advance 4: Super Mario Bros. 3 (Super Mario Advance 4 Recomp)](https://github.com/mstan/SuperMarioAdvance4Recomp) | GBA | рекомпиляция | 29 | 3.75 | 2026-11-16 | — | Static recompilation of Super Mario Advance 4: Super Mario Bros. 3 · Part of the R.A.I.D. community |
-| [Mega Man Zero (MegaManZeroRecomp)](https://github.com/mstan/MegaManZeroRecomp) | GBA | рекомпиляция | 27 | 3.75 | 2026-11-14 | ✅ | Mega Man Zero recompiled for the Game Boy Advance using gbarecomp · Part of the R.A.I.D. community |
+| [Mega Man Zero (MegaManZeroRecomp)](https://github.com/mstan/MegaManZeroRecomp) | GBA | рекомпиляция | 28 | 3.75 | 2026-11-14 | ✅ | Mega Man Zero recompiled for the Game Boy Advance using gbarecomp · Part of the R.A.I.D. community |
 | [Dragon Ball Z: The Legacy of Goku II (Dragon Ball Z: The Legacy of Goku II Recomp)](https://github.com/mstan/DragonBallZLegacyofGokuIIRecomp) | GBA | рекомпиляция | 21 | 3.75 | 2026-11-21 | ✅ | Static recompilation of Dragon Ball Z: The Legacy of Goku II with Adaptive Widescreen · Part of the R.A.I.D. community |
-| [Final Fantasy Tactics Advance (FFTA Recomp)](https://github.com/james2doyle/ffta-recomp) | GBA | рекомпиляция | 55 | 3.7 | 2026-11-18 | ✅ | Native recompilation of Final Fantasy Tactics Advance with shaders, post-processing, haptics/rumble, and native Android support |
-| [Super Mario Land 2: 6 Golden Coins (SuperMarioLand2Recomp)](https://github.com/mstan/SuperMarioLand2Recomp) | Game Boy | рекомпиляция | 22 | 3.7 | 2026-11-14 | ✅ | Super Mario Land 2: 6 Golden Coins (Game Boy) static recompilation with adaptive widescreen and DX mods |
+| [Final Fantasy Tactics Advance (FFTA Recomp)](https://github.com/james2doyle/ffta-recomp) | GBA | рекомпиляция | 56 | 3.7 | 2026-11-18 | ✅ | Native recompilation of Final Fantasy Tactics Advance with shaders, post-processing, haptics/rumble, and native Android support |
+| [Super Mario Land 2: 6 Golden Coins (SuperMarioLand2Recomp)](https://github.com/mstan/SuperMarioLand2Recomp) | Game Boy | рекомпиляция | 22 | 3.7 | 2026-11-21 | ✅ | Super Mario Land 2: 6 Golden Coins (Game Boy) static recompilation with adaptive widescreen and DX mods |
 | [Pokémon Red and Blue (PokemonRedAndBlueRecomp)](https://github.com/mstan/PokemonRedAndBlueRecomp) | Game Boy | рекомпиляция | 12 | 3.5 | 2026-07-23 | ✅ | Pokémon Red & Blue recompiled for the Game Boy using a fork of gb-recompiled · Part of the R.A.I.D. community |
 | [Pokémon Yellow (PokemonYellowRecomp)](https://github.com/mstan/PokemonYellowRecomp) | Game Boy | рекомпиляция | 11 | 3.5 | 2026-07-23 | ✅ | Pokémon Yellow recompiled for the Game Boy using a fork of gb-recompiled (extended with the full National Dex #1–251) · Part of the R.A.I.D. community |
-| [Pokémon Emerald (pokeemerald-rogue)](https://github.com/Pokabbie/pokeemerald-rogue) | GBA | декомпиляция | 150 | 3.45 | 2026-09-08 | ✅ | Decompilation of Pokémon Emerald |
+| [Pokémon Emerald (pokeemerald-rogue)](https://github.com/Pokabbie/pokeemerald-rogue) | GBA | декомпиляция | 151 | 3.45 | 2026-09-08 | ✅ | Decompilation of Pokémon Emerald |
 | [Medarot 3](https://github.com/Medabots/medarot3) | Game Boy Color | дизасм | 49 | 3.45 | 2026-11-07 | ✅ | Medarot 3 GBC disassembly/translation |
-| [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly) | Game Boy Color | дизасм | 921 | 3.4 | 2026-09-25 | — | Disassembly of Legend of Zelda: Link's Awakening DX |
-| [Pokemon Yellow](https://github.com/pret/pokeyellow) | Game Boy | дизасм | 904 | 3.4 | 2026-11-01 | — | Disassembly of Pokemon Yellow |
+| [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly) | Game Boy Color | дизасм | 922 | 3.4 | 2026-09-25 | — | Disassembly of Legend of Zelda: Link's Awakening DX |
+| [Pokemon Yellow](https://github.com/pret/pokeyellow) | Game Boy | дизасм | 905 | 3.4 | 2026-11-01 | — | Disassembly of Pokemon Yellow |
 | [Pokemon Gold](https://github.com/pret/pokegold) | Game Boy Color | дизасм | 742 | 3.4 | 2026-11-16 | — | Disassembly of Pokémon Gold/Silver |
 | [Pokemon Gold SpaceWorld Demo](https://github.com/pret/pokegold-spaceworld) | Game Boy | дизасм | 403 | 3.4 | 2026-11-16 | — | Disassembly of the Pokémon Gold and Silver 1997 Space World demo |
-| [Pokemon TCG 1](https://github.com/pret/poketcg) | Game Boy Color | дизасм | 335 | 3.4 | 2026-10-30 | — | Disassembly of Pokémon TCG |
-| [FIre Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u) | GBA | дизасм | 236 | 3.4 | 2026-11-17 | — | Decompilation/disassembly of Fire Emblem: The Sacred Stones |
+| [Pokemon TCG 1](https://github.com/pret/poketcg) | Game Boy Color | дизасм | 334 | 3.4 | 2026-10-30 | — | Disassembly of Pokémon TCG |
+| [FIre Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u) | GBA | дизасм | 237 | 3.4 | 2026-11-17 | — | Decompilation/disassembly of Fire Emblem: The Sacred Stones |
 | [Pokemon Pinball](https://github.com/pret/pokepinball) | Game Boy Color | дизасм | 207 | 3.4 | 2026-10-30 | — | Disassembly of Pokémon Pinball |
-| [Mega Man Battle Network 6 (OpenNetBattle)](https://github.com/TheMaverickProgrammer/OpenNetBattle) | GBA | ремейк движка | 268 | 3.35 | 2025-07-30 | ✅ | An open source card-based battle engine written in modern C++ |
+| [Mega Man Battle Network 6 (OpenNetBattle)](https://github.com/TheMaverickProgrammer/OpenNetBattle) | GBA | ремейк движка | 269 | 3.35 | 2025-07-30 | ✅ | An open source card-based battle engine written in modern C++ |
 | [Pokémon Mystery Dungeon: Red Rescue Team (pmd-green (Green Rescue Team))](https://github.com/Asphaltian/pmd-green) | GBA | рекомпиляция | 20 | 3.35 | 2026-10-28 | ✅ | Static recompilation of Pokémon Mystery Dungeon: Red Rescue Team for PC |
 | [Sonic Advance (SonicAdvanceRecomp)](https://github.com/smiluredev/SonicAdvanceRecomp) | GBA | рекомпиляция | 19 | 3.35 | 2026-08-24 | ✅ | Sonic Advance Recompilation Project |
 | [Kirby's Dream Land (Kirby-Dream-Land-Recomp)](https://github.com/omegakatana92/Kirby-Dream-Land-Recomp) | Game Boy | рекомпиляция | 18 | 3.35 | 2026-08-30 | ✅ | A fan-made recompilation of Kirby's Dream Land for modern systems. Requires the user to provide their own legally obtained ROM. No copyrighted ROM or… |
 | [Yoshi's Island: Super Mario Advance 3 (SMA3 Recomp Android – Yoshi's Island: Super Mario Advance 3 PC port)](https://github.com/Edwin2929/sma3-recomp-android.) | GBA | рекомпиляция | 18 | 3.35 | 2026-10-30 | ✅ |  |
 | [Tetris (TetrisGBRecomp)](https://github.com/mstan/TetrisGBRecomp) | Game Boy | рекомпиляция | 12 | 3.3 | 2026-08-17 | ✅ | Tetris recompiled for the Game Boy using a fork of gb-recompiled · Part of the R.A.I.D. community |
-| [The Legend of Zelda: Oracle of Ages / Oracle of Seasons (Oracles Decomp)](https://github.com/kirby-letsgo/oracles-decomp) | Game Boy Color | декомпиляция | 122 | 3.25 | 2026-11-20 | ✅ | Native app for the GBC zelda oracle games |
+| [The Legend of Zelda: Oracle of Ages / Oracle of Seasons (Oracles Decomp)](https://github.com/kirby-letsgo/oracles-decomp) | Game Boy Color | декомпиляция | 123 | 3.25 | 2026-11-21 | ✅ | Native app for the GBC zelda oracle games |
 | [Kingdom Hearts: Chain of Memories (ReKHCoM)](https://github.com/MatyMeatBoy/ReKHCoM) | GBA | декомпиляция | 90 | 3.25 | 2026-11-16 | ✅ | Kingdom Hearts: Chain of Memories for PC and browser (Web Alpha). Widescreen and ultrawide, EU/US/JP cartridges, HD text and optional touch controls. |
 | [Kingdom Hearts: Chain of Memories (KH_COM_VITA)](https://github.com/ggdrn/KH_COM_VITA) | GBA | декомпиляция | 20 | 3.25 | 2026-10-17 | — | Kingdom Hearts: Chain of Memories decomp port to vita |
 | [The Legend of Zelda: The Minish Cap](https://github.com/zeldaret/tmc) | GBA | декомпиляция | 939 | 3.05 | 2026-09-27 | — | Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU) |
@@ -91,27 +91,27 @@
 | [Super Mario Land 3: Wario Land](https://github.com/Kak2X/wl) | Game Boy | дизасм | 49 | 2.75 | 2026-07-19 | — | Wario Land disassembly |
 | [Megaman Zero 3](https://github.com/mmzret/rmz3) | GBA | дизасм | 48 | 2.75 | 2026-07-07 | — | WIP: Decompilation of Megaman Zero 3(Japan) |
 | [Mega Man Battle Network 6 (bn6f)](https://github.com/dism-exe/bn6f) | GBA | дизасм | 45 | 2.75 | 2026-08-10 | — | Disassembly of MegaMan Battle Network 6 with Cybeast Falzar as baserom |
-| [Final Fantasy Adventure (FFA-Disassembly)](https://github.com/daid/FFA-Disassembly) | Game Boy | дизасм | 23 | 2.75 | 2026-11-04 | — |  |
+| [Final Fantasy Adventure (FFA-Disassembly)](https://github.com/daid/FFA-Disassembly) | Game Boy | дизасм | 24 | 2.75 | 2026-11-04 | — |  |
 | [Pokémon Red and Blue (Pokered-Pro)](https://github.com/Kamy41/Pokered-Pro) | Game Boy | дизасм | 14 | 2.75 | 2026-09-08 | — | Disassembly of Pokémon Red/Blue with some fixies and improvements (and a little surprise at Vermilion Dock if you talk to Giovanni after the fight in… |
 | [Mega Man II (rw2)](https://github.com/Kak2X/rw2) | Game Boy | дизасм | 13 | 2.75 | 2026-10-09 | — | Rockman World 2 / Mega Man II disassembly |
 | [BattleTanx (Game Boy Color)](https://github.com/TheGh0stShip/BattleTanx-GBC) | Game Boy Color | дизасм | 2 | 2.75 | 2026-10-22 | — | BattleTanx (Game Boy Color) byte-exact annotated RGBDS disassembly and source reconstruction |
 | [Pokémon Emerald (pokeemerald-multiplatform)](https://github.com/gradenGnostic/pokeemerald-multiplatform) | GBA | декомпиляция | 78 | 2.65 | 2026-08-15 | ✅ | Pokemon Emerald ported to multiple platforms |
 | [Klonoa: Empire of Dreams](https://github.com/Dream-Atelier/kl-eod-decomp) | GBA | декомпиляция | 17 | 2.65 | 2026-10-05 | ✅ | Decompilation project for "Klonoa: Empire of Dreams" (GBA) |
-| [Metroid: Zero Mission](https://github.com/metroidret/mzm) | GBA | декомпиляция | 164 | 2.6 | 2026-11-20 | — | Metroid Zero Mission Decompilation |
+| [Metroid: Zero Mission](https://github.com/metroidret/mzm) | GBA | декомпиляция | 164 | 2.6 | 2026-11-21 | — | Metroid Zero Mission Decompilation |
 | [Kirby & The Amazing Mirror](https://github.com/jiangzhengwenjz/katam) | GBA | декомпиляция | 163 | 2.6 | 2026-11-16 | — | WIP Decompilation of Kirby & The Amazing Mirror (USA) |
 | [Pokemon Pinball Ruby & Sapphire](https://github.com/pret/pokepinballrs) | GBA | декомпиляция | 158 | 2.6 | 2026-10-11 | — | Decompilation of Pokémon Pinball: Ruby & Sapphire |
-| [Sonic Advance 3](https://github.com/SAT-R/sa3) | GBA | декомпиляция | 95 | 2.6 | 2026-11-18 | — | A decompilation of Sonic Advance 3 |
+| [Sonic Advance 3](https://github.com/SAT-R/sa3) | GBA | декомпиляция | 95 | 2.6 | 2026-11-21 | — | A decompilation of Sonic Advance 3 |
 | [Mother 3](https://github.com/Kurausukun/mother3) | GBA | декомпиляция | 93 | 2.6 | 2026-09-14 | — |  |
-| [Metroid Fusion](https://github.com/metroidret/mf) | GBA | декомпиляция | 84 | 2.6 | 2026-11-20 | — | Metroid Fusion Decompilation |
+| [Metroid Fusion](https://github.com/metroidret/mf) | GBA | декомпиляция | 84 | 2.6 | 2026-11-21 | — | Metroid Fusion Decompilation |
 | [Kingdom Hearts: Chain of Memories](https://github.com/Pheenoh/khcom) | GBA | декомпиляция | 63 | 2.6 | 2026-10-12 | — | Decompilation of Kingdom Hearts: Chain of Memories (GBA) |
 | [Phoenix Wright: Ace Attorney](https://github.com/atasro2/pwaa1) | GBA | декомпиляция | 58 | 2.6 | 2026-09-12 | — | A Decompilation of Gyakuten Saiban (Japan) |
 | [Banjo-Kazooie: Grunty's Revenge](https://github.com/jellees/bkgr) | GBA | декомпиляция | 45 | 2.6 | 2026-10-19 | — | A decompilation of Banjo Kazooie Grunty's Revenge for GBA |
-| [Mario & Luigi: Superstar Saga](https://github.com/jellees/mlss) | GBA | декомпиляция | 45 | 2.6 | 2026-11-20 | — | Decompilation of Mario & Luigi Superstar Saga |
-| [Pokemon Puzzle League](https://github.com/AngheloAlf/puzzleleague64) | Game Boy Color | декомпиляция | 44 | 2.6 | 2026-11-01 | — | Matching decomp of Pokémon Puzzle League |
+| [Mario & Luigi: Superstar Saga](https://github.com/jellees/mlss) | GBA | декомпиляция | 45 | 2.6 | 2026-11-21 | — | Decompilation of Mario & Luigi Superstar Saga |
+| [Pokemon Puzzle League](https://github.com/AngheloAlf/puzzleleague64) | Game Boy Color | декомпиляция | 45 | 2.6 | 2026-11-01 | — | Matching decomp of Pokémon Puzzle League |
 | [Fire Emblem: The Blazing Blade](https://github.com/MokhaLeee/FireEmblem7J) | GBA | декомпиляция | 38 | 2.6 | 2026-11-08 | — | Decompilation of: Fire Emblem - Rekka no Ken (Japan) (FE7J) |
 | [Mother 3 (Mother3Recomp)](https://github.com/agray0425/Mother3Recomp) | GBA | рекомпиляция | 33 | 2.6 | 2026-09-24 | — |  |
 | [Mother 1+2 (Japan)](https://github.com/Normmatt/m12) | GBA | декомпиляция | 30 | 2.6 | 2026-09-24 | — |  |
-| [Golden Sun](https://github.com/gsret/goldensun) | GBA | дизасм | 35 | 2.55 | 2025-06-05 | — | Disassembly of Golden Sun |
+| [Golden Sun](https://github.com/gsret/goldensun) | GBA | дизасм | 36 | 2.55 | 2025-06-05 | — | Disassembly of Golden Sun |
 | [Pokémon Red and Blue (pokegreen)](https://github.com/Narishma-gb/pokegreen) | Game Boy | дизасм | 29 | 2.55 | 2026-08-16 | — | Disassembly of JPN Pokémon Red/Green |
 | [Pokémon Red and Blue (pokered-fr)](https://github.com/einstein95/pokered-fr) | Game Boy | дизасм | 24 | 2.55 | 2026-01-27 | — | disassembly of Pokémon: Version Rouge |
 | [Looney Tunes: Carrot Crazy](https://github.com/huderlem/carrotcrazy) | Game Boy Color | дизасм | 15 | 2.55 | 2026-05-29 | — | disassembly of Looney Tunes: Carrot Crazy (Game Boy Color) |

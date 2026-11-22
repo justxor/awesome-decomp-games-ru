@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **21.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **22.11.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -60,11 +60,11 @@
 | Игра (проект) | Платформа | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|
 | [Pokémon Emerald (pokeemerald-wasm)](https://github.com/tripplyons/pokeemerald-wasm) | GBA | 323 | 4.35 | 2026-09-20 | — | Pokemon Emerald in WebAssembly |
-| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 238 | 4.35 | 2026-11-08 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
-| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 290 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
+| [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | 240 | 4.35 | 2026-11-08 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
+| [lba2remake](https://github.com/LBALab/lba2remake) | DOS | 291 | 4.15 | 2026-04-17 | — | A Little Big Adventure 2 / Twinsen's Odyssey reimplementation in JavaScript / Three.js / React |
 | [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 177 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
-| [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 57 | 4.15 | 2026-11-08 | — | Custom frontend for the Emscripten port of isle-portable |
-| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 197 | 3.95 | 2026-11-21 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
+| [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 58 | 4.15 | 2026-11-22 | — | Custom frontend for the Emscripten port of isle-portable |
+| [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 198 | 3.95 | 2026-11-21 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
 | [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 53 | 3.95 | 2026-11-20 | ✅ | An open source game engine that plays Sid Meier’s SimGolf (2002). Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
@@ -104,7 +104,7 @@
 | [Tekken 5](https://tekken5.online) | PS2 | — | 3.95 | — | — |  |
 | [The Simpsons: Hit & Run](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | PC | — | 3.95 | — | — |  |
 | [Urban Terror (ut.pieter.com)](http://ut.pieter.com) | PC | — | 3.95 | — | — | Urban Terror multiplayer in the browser. The X post lists it as 'Unreal Tournament'. |
-| [Need for Speed: Underground (NFS Underground in your browser (nfsu1web))](https://github.com/yurasmetanka/nfsu1web) | GameCube | 32 | 3.9 | 2026-11-07 | — | Need for Speed: Underground (2003), recompiled for the browser with WebAssembly and WebGPU. Work in progress. |
+| [Need for Speed: Underground (NFS Underground in your browser (nfsu1web))](https://github.com/yurasmetanka/nfsu1web) | GameCube | 33 | 3.9 | 2026-11-07 | — | Need for Speed: Underground (2003), recompiled for the browser with WebAssembly and WebGPU. Work in progress. |
 | [Diablo (diabloweb)](https://github.com/d07RiV/diabloweb) | PC | 2.9k | 3.75 | 2022-05-17 | — | Diablo 1 for web browsers |
 | [Claude of Duty: Vibe Slops II (froydinger mirror)](https://froydinger.github.io/claude-of-duty) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (listed… |
 | [Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/Black-Ops-2) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (Hijack… |
