@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **23.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **24.11.2026**.
 
 Читаемый ассемблер, который собирается в идентичный ROM; основа ромхаков и переводов.
 
@@ -16,16 +16,16 @@
 | [Sonic 3 & Knuckles (Sonic Clean Engine (S.C.E.))](https://github.com/TheBlad768/Sonic-Clean-Engine-S.C.E.-) | Genesis | 62 | 3.45 | 2026-11-21 | ✅ | Cleaned up the Sonic 3 & Knuckles Disassembly (S.C.E.) |
 | [Medarot 3](https://github.com/Medabots/medarot3) | Game Boy Color | 49 | 3.45 | 2026-11-07 | ✅ | Medarot 3 GBC disassembly/translation |
 | [The Legend of Zelda Links Awakening DX](https://github.com/zladx/LADX-Disassembly) | Game Boy Color | 922 | 3.4 | 2026-09-25 | — | Disassembly of Legend of Zelda: Link's Awakening DX |
-| [Pokemon Yellow](https://github.com/pret/pokeyellow) | Game Boy | 905 | 3.4 | 2026-11-01 | — | Disassembly of Pokemon Yellow |
+| [Pokemon Yellow](https://github.com/pret/pokeyellow) | Game Boy | 906 | 3.4 | 2026-11-01 | — | Disassembly of Pokemon Yellow |
 | [Pokemon Gold](https://github.com/pret/pokegold) | Game Boy Color | 742 | 3.4 | 2026-11-16 | — | Disassembly of Pokémon Gold/Silver |
 | [Sonic the Hedgehog (s1disasm)](https://github.com/sonicretro/s1disasm) | Genesis | 462 | 3.4 | 2026-11-22 | ✅ | Sonic 1 Disassembly |
 | [Pokemon Gold SpaceWorld Demo](https://github.com/pret/pokegold-spaceworld) | Game Boy | 403 | 3.4 | 2026-11-16 | — | Disassembly of the Pokémon Gold and Silver 1997 Space World demo |
 | [Pokemon TCG 1](https://github.com/pret/poketcg) | Game Boy Color | 334 | 3.4 | 2026-10-30 | — | Disassembly of Pokémon TCG |
 | [Sonic the Hedgehog 2 (s2disasm)](https://github.com/sonicretro/s2disasm) | Genesis | 322 | 3.4 | 2026-11-22 | — | Sonic 2 Disassembly |
 | [Sonic & Knuckles](https://github.com/sonicretro/skdisasm) | Genesis | 268 | 3.4 | 2026-11-22 | — | Sonic and Knuckles Disassembly |
-| [FIre Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u) | GBA | 237 | 3.4 | 2026-11-17 | — | Decompilation/disassembly of Fire Emblem: The Sacred Stones |
+| [FIre Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u) | GBA | 239 | 3.4 | 2026-11-17 | — | Decompilation/disassembly of Fire Emblem: The Sacred Stones |
 | [The Legend of Zelda Oracle of Ages & Seasons](https://github.com/Stewmath/oracles-disasm) | — | 225 | 3.4 | 2026-10-02 | — | Disassembly of Oracle of Ages and Seasons |
-| [Pokemon Stadium 1](https://github.com/pret/pokestadium) | N64 | 216 | 3.4 | 2026-10-03 | — | Disassembly and decompilation of Pokémon Stadium |
+| [Pokemon Stadium 1](https://github.com/pret/pokestadium) | N64 | 217 | 3.4 | 2026-10-03 | — | Disassembly and decompilation of Pokémon Stadium |
 | [Pokemon Pinball](https://github.com/pret/pokepinball) | Game Boy Color | 207 | 3.4 | 2026-10-30 | — | Disassembly of Pokémon Pinball |
 | [Battle City](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Battle%20City) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
 | [Danny Sullivan's Indy heat](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Danny%20Sullivan's%20Indy%20Heat) | NES | 313 | 3.2 | 2026-08-12 | — | Source code of some NES games |
@@ -74,12 +74,12 @@
 | [Manic Miner (manicminer (skoolkit.ca))](https://github.com/skoolkid/manicminer) | ZX Spectrum | 26 | 2.75 | 2026-11-21 | — | A disassembly of Manic Miner, created using SkoolKit. |
 | [Super Metroid (sm_disassembly)](https://github.com/InsaneFirebat/sm_disassembly) | SNES | 25 | 2.75 | 2026-10-02 | — | A relocatable disassembly of Super Metroid (SNES) based on P.JBoy's bank logs |
 | [Final Fantasy Adventure (FFA-Disassembly)](https://github.com/daid/FFA-Disassembly) | Game Boy | 24 | 2.75 | 2026-11-04 | — |  |
-| [Final Fantasy V](https://github.com/everything8215/ff5) | — | 22 | 2.75 | 2026-09-21 | — | Disassembly and ROM info for Final Fantasy V |
+| [Final Fantasy V](https://github.com/everything8215/ff5) | — | 23 | 2.75 | 2026-09-21 | — | Disassembly and ROM info for Final Fantasy V |
 | [EarthBound Beginnings (mother)](https://github.com/Nathan-R-Og/mother) | NES | 20 | 2.75 | 2026-11-08 | — | Disassembly of Mother/Earthbound Zero/Earthbound Beginnings for the NES |
-| [Jet Set Willy (jetsetwilly (skoolkit.ca))](https://github.com/skoolkid/jetsetwilly) | ZX Spectrum | 20 | 2.75 | 2026-11-19 | — | A disassembly of Jet Set Willy, created using SkoolKit. |
+| [Jet Set Willy (jetsetwilly (skoolkit.ca))](https://github.com/skoolkid/jetsetwilly) | ZX Spectrum | 20 | 2.75 | 2026-11-23 | — | A disassembly of Jet Set Willy, created using SkoolKit. |
 | [Super Ghouls ‘n Ghosts](https://github.com/FredYeye/Super-Ghouls-n-Ghosts-Disassembly) | SNES | 17 | 2.75 | 2026-11-20 | — |  |
+| [Pokémon Red and Blue (Pokered-Pro)](https://github.com/Kamy41/Pokered-Pro) | Game Boy | 15 | 2.75 | 2026-09-08 | — | Disassembly of Pokémon Red/Blue with some fixies and improvements (and a little surprise at Vermilion Dock if you talk to Giovanni after the fight in… |
 | [Metroid (m1disasm)](https://github.com/metroidret/m1disasm) | NES | 14 | 2.75 | 2026-11-15 | — |  |
-| [Pokémon Red and Blue (Pokered-Pro)](https://github.com/Kamy41/Pokered-Pro) | Game Boy | 14 | 2.75 | 2026-09-08 | — | Disassembly of Pokémon Red/Blue with some fixies and improvements (and a little surprise at Vermilion Dock if you talk to Giovanni after the fight in… |
 | [Mega Man II (rw2)](https://github.com/Kak2X/rw2) | Game Boy | 13 | 2.75 | 2026-10-09 | — | Rockman World 2 / Mega Man II disassembly |
 | [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | 13 | 2.75 | 2026-11-09 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
 | [Batman: The Movie (MarkyTurtle Batman---Amiga)](https://github.com/MarkyTurtle/Batman---Amiga) | Amiga | 12 | 2.75 | 2026-09-18 | — | Full disassembly of the game ‘Batman The Movie’, Amiga, 2 Disk Europe, Ocean |
@@ -113,7 +113,7 @@
 | [Super Mario Advance 4: Super Mario Bros. 3 (sma4-disasm)](https://github.com/KarisaAdvynia/sma4-disasm) | GBA | 16 | 2.35 | 2025-05-23 | — | Disassembly of Super Mario Advance 4: Super Mario Bros. 3. |
 | [Tetris (TengenTetrisDisasm)](https://github.com/zohassadar/TengenTetrisDisasm) | NES | 16 | 2.35 | 2024-12-16 | — | Disassembly of the 1989 Tengen version of Tetris for the NES |
 | [Dr. Mario](https://github.com/brianhuffman/drmario) | NES | 13 | 2.35 | 2025-03-02 | — | Disassembly of Dr. Mario NES game. |
-| [Fred (kmatveev zx-fred-reveng)](https://github.com/kmatveev/zx-fred-reveng) | ZX Spectrum | 12 | 2.35 | 2025-07-27 | — | Reverse engineering and optimizations for game Fred for ZX Spectrum |
+| [Fred (kmatveev zx-fred-reveng)](https://github.com/kmatveev/zx-fred-reveng) | ZX Spectrum | 13 | 2.35 | 2025-07-27 | — | Reverse engineering and optimizations for game Fred for ZX Spectrum |
 | [The Urbz: Sims in the City](https://github.com/SimsAdvanceRet/UrbzGBADecomp) | GBA | 10 | 2.35 | 2025-06-12 | — | A WIP disassembly/decompilation project of The Urbz: Sims in the City on the Game Boy Advance. |
 | [The Sims 2 (GBA)](https://github.com/SimsAdvanceRet/S2GBADecomp) | GBA | 7 | 2.35 | 2025-06-12 | — | A WIP disassembly/decompilation project of The Sims 2 on the Game Boy Advance. |
 | [The Sims: Bustin' Out](https://github.com/SimsAdvanceRet/BustinOutGBADecomp) | — | 7 | 2.35 | 2025-06-12 | — | A WIP disassembly/decompilation project of The Sims: Bustin' Out on the Game Boy Advance. |
