@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **24.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **25.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -25,32 +25,32 @@
 | [Minecraft: Java Edition (Amethyst)](https://github.com/AngelAuraMC/Amethyst-Android) | Mobile | ремейк движка | 2.4k | 4.55 | 2026-11-24 | ✅ | A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for Android platform. |
 | [Retro Engine (RSDKv4 (Sonic 1 and 2 Mobile))](https://github.com/RSDKModding/RSDKv4-Decompilation) | Mobile | декомпиляция | 1.2k | 4.45 | 2026-10-28 | ✅ | A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4) |
 | [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | Mobile | декомпиляция | 6.9k | 4.4 | 2026-10-06 | ✅ | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect… |
-| [Phira](https://github.com/TeamFlos/phira) | Mobile | ремейк движка | 2.8k | 4.35 | 2026-11-20 | ✅ | Phira is a mobile and PC port of the rhythm game Phira. |
+| [Phira](https://github.com/TeamFlos/phira) | Mobile | ремейк движка | 2.8k | 4.35 | 2026-11-25 | ✅ | Phira is a mobile and PC port of the rhythm game Phira. |
 | [Jazz² Resurrection](https://github.com/deathkiller/jazz2) | Mobile | ремейк движка | 599 | 4.35 | 2026-10-17 | ✅ | 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2 |
 | [AAAAXY](https://github.com/divVerent/aaaaxy) | Mobile | порт | 306 | 4.35 | 2026-11-09 | ✅ | A nonlinear 2D puzzle platformer taking place in impossible spaces. |
 | [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Mobile | декомпиляция | 4.5k | 4.2 | 2026-10-16 | ✅ | All in one emulator on Android! |
 | [Techmino](https://github.com/26F-Studio/Techmino) | Mobile | ремейк движка | 937 | 4.15 | 2026-10-28 | ✅ | Techmino:方块研究所唯一官方仓库(Github) |
 | [touchHLE](https://github.com/touchHLE/touchHLE) | Mobile | ремейк движка | 4.1k | 4.1 | 2026-10-13 | ✅ | High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/tou… |
-| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 232 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
-| [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | декомпиляция | 721 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
-| [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) | Mobile | декомпиляция | 511 | 4 | 2026-11-24 | ✅ | KEmulator nnmod |
-| [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) | Mobile | декомпиляция | 231 | 4 | 2026-11-24 | ✅ | A free J2ME emulator with libretro, awt and sdl2 frontends. |
+| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 233 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
+| [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | декомпиляция | 723 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
+| [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) | Mobile | декомпиляция | 512 | 4 | 2026-11-25 | ✅ | KEmulator nnmod |
+| [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) | Mobile | декомпиляция | 232 | 4 | 2026-11-24 | ✅ | A free J2ME emulator with libretro, awt and sdl2 frontends. |
 | [FreeSO](https://github.com/riperiperi/FreeSO) | Mobile | ремейк движка | 991 | 3.95 | 2025-08-22 | ✅ | Re-implementation of The Sims Online. |
-| [CTW-Native](https://github.com/official-kryo-to/ctw-native) | Mobile | рекомпиляция | 80 | 3.95 | 2026-11-01 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
+| [CTW-Native](https://github.com/official-kryo-to/ctw-native) | Mobile | рекомпиляция | 81 | 3.95 | 2026-11-01 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
 | [Ultimate MK3 PC](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | ремейк движка | 80 | 3.95 | 2026-11-22 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
-| [Star Trek: Voyager — Elite Force (VoyagerSP-Android)](https://github.com/imjustadudegamer/VoyagerSP-Android) | Mobile | ремейк движка | 24 | 3.95 | 2026-11-03 | ✅ | Android single-player port of Star Trek: Voyager - Elite Force (idTech3/Quake3e, Vulkan). |
+| [Star Trek: Voyager — Elite Force (VoyagerSP-Android)](https://github.com/imjustadudegamer/VoyagerSP-Android) | Mobile | ремейк движка | 25 | 3.95 | 2026-11-03 | ✅ | Android single-player port of Star Trek: Voyager - Elite Force (idTech3/Quake3e, Vulkan). |
 | [Star Trek: Voyager — Elite Force (VoyagerHM-Android)](https://github.com/imjustadudegamer/VoyagerHM-Android) | Mobile | ремейк движка | 13 | 3.75 | 2026-07-11 | ✅ | Star Trek: Voyager - Elite Force Holomatch for Android (Vulkan renderer, touch controls, gamepad) |
 | [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) | Mobile | ремейк движка | 89 | 3.7 | 2026-05-24 | ✅ | Java remake of Lionheart amiga game |
-| [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) | Mobile | рекомпиляция | 29 | 3.5 | 2025-12-04 | ✅ | Decompilation of Samurai Vs Zombies by Glu |
+| [Samurai Vs Zombies](https://github.com/Decomp-And-Recomp/Samurai-Vs-Zombies) | Mobile | рекомпиляция | 30 | 3.7 | 2025-12-04 | ✅ | Decompilation of Samurai Vs Zombies by Glu |
 | [Doom RPG (Mobile RPG Pack)](https://github.com/andreyvelsk/com.mobilerpgpack.phone) | Mobile | ремейк движка | 19 | 3.5 | 2026-06-10 | ✅ | Android port of UZDoom, with second screen support |
-| [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | декомпиляция | 147 | 3.45 | 2026-10-09 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
+| [Cut the Rope (Cut the Rope: DX)](https://github.com/yell0wsuit/cuttherope-dx) | Mobile | декомпиляция | 147 | 3.45 | 2026-11-25 | ✅ | Cut the Rope DX, a fan-made enhancement of the PC version of Cut the Rope. Now available on web! |
 | [Rockman EXE Phantom of Network (PoN PC)](https://github.com/StraDaMa/PoN_PC) | Mobile | порт | 87 | 3.35 | 2026-02-17 | ✅ | PoN PC is a native Windows PC port of the previously mobile-exclusive game Rockman EXE Phantom of Network. |
 | [Theme Hospital (CorsixTH for Android)](https://github.com/alanwoolley/CorsixTH-Android) | Mobile | порт | 119 | 3.15 | 2025-01-01 | — | Port of CorsixTH to Android |
 | [BackStab HD (BackStabRecomp)](https://github.com/jessicanataliagta/BackStabRecomp) | Mobile | рекомпиляция | 15 | 3.15 | 2026-07-31 | ✅ | A Windows x64 port of the Android ARMv7 version of BackStab HD, powered by AndroidRecomp. |
 | [Flappy Bird (reFlappy)](https://github.com/THEN00P/reFlappy) | Mobile | ремейк движка | 21 | 2.95 | 2025-09-04 | ✅ | Deobfuscation and recompilation project of the original Flappy Bird game. |
 | [Wolfenstein RPG (WolfensteinRPG-RE)](https://github.com/Erick194/WolfensteinRPG-RE) | Mobile | декомпиляция | 58 | 2.85 | 2026-11-01 | ✅ | Wolfenstein RPG Reverse Engineering By [GEC] |
 | [Geometry Dash](https://github.com/aloaf812/GD) | Mobile | декомпиляция | 44 | 2.85 | 2026-10-29 | — | A decompilation of Geometry Dash version 1.710 |
-| [Sonic the Hedgehog (2013) (RSDKv4-Script-Decompilation)](https://github.com/RSDKModding/RSDKv4-Script-Decompilation) | Mobile | декомпиляция | 141 | 2.6 | 2026-10-24 | — |  |
+| [Sonic the Hedgehog (2013) (RSDKv4-Script-Decompilation)](https://github.com/RSDKModding/RSDKv4-Script-Decompilation) | Mobile | декомпиляция | 142 | 2.6 | 2026-10-24 | — |  |
 | [Doom II RPG (DoomIIRPG-RE)](https://github.com/Erick194/DoomIIRPG-RE) | Mobile | декомпиляция | 104 | 2.45 | 2025-07-09 | ✅ | Doom II RPG Reverse Engineering By [GEC] |
 | [SpongeBob Moves In!](https://github.com/Juanen100/SBMI-Decomp) | Mobile | декомпиляция | 17 | 2.4 | 2026-09-01 | — | A decompilation of the Android client of SpongeBob Moves In! |
 | [Diamond Rush](https://github.com/palaceswitcher/Diamond-Rush-Decomp) | Mobile | декомпиляция | 15 | 2.4 | 2026-11-16 | — | Decompilation of Diamond Rush |
