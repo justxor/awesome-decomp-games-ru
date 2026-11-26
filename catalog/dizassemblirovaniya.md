@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **25.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **26.11.2026**.
 
 Читаемый ассемблер, который собирается в идентичный ROM; основа ромхаков и переводов.
 
@@ -44,7 +44,7 @@
 | [Contra](https://github.com/vermiceli/nes-contra-us) | Arcade | 249 | 3.2 | 2026-06-07 | — | An annotated disassembly with supplemental materials of the Contra (US) and Probotector NES game. |
 | [Barnyard](https://github.com/InfiniteC0re/OpenBarnyard) | PC | 107 | 3.2 | 2026-11-22 | ✅ | Decompilation of Barnyard the video game and TOSHI 2.0 game engine developed by Blue Tongue Entertainment. |
 | [Keitai Denjuu Telefang](https://github.com/telefang/telefang) | Game Boy Color | 103 | 3.05 | 2025-10-19 | ✅ | Partial Telefang disassembly and English translation (on the patch branch) |
-| [Super Mario Bros. 3](https://github.com/captainsouthbird/smb3) | NES | 260 | 3 | 2025-05-01 | — | Disassembly of Super Mario Bros 3 |
+| [Super Mario Bros. 3](https://github.com/captainsouthbird/smb3) | NES | 261 | 3 | 2025-05-01 | — | Disassembly of Super Mario Bros 3 |
 | [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | Sega CD/32X | 190 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
 | [Super Bomberman](https://github.com/LIJI32/superbomberman) | SNES | 112 | 3 | 2026-07-05 | ✅ | Disassembly and remade build system for SNES game Super Bomberman |
 | [Pokemon TCG 2](https://github.com/pret/poketcg2) | Game Boy Color | 98 | 2.95 | 2026-10-31 | — | Disassembly of Pokémon TCG 2 |
@@ -66,7 +66,7 @@
 | [Pokemon Stadium 2](https://github.com/pret/pokestadiumgs) | N64 | 62 | 2.75 | 2026-07-10 | — | Decompilation of Pokémon Stadium 2 (US) |
 | [Super Mario Land 3: Wario Land](https://github.com/Kak2X/wl) | Game Boy | 49 | 2.75 | 2026-07-19 | — | Wario Land disassembly |
 | [Megaman Zero 3](https://github.com/mmzret/rmz3) | GBA | 48 | 2.75 | 2026-07-07 | — | WIP: Decompilation of Megaman Zero 3(Japan) |
-| [Mega Man Battle Network 6 (bn6f)](https://github.com/dism-exe/bn6f) | GBA | 45 | 2.75 | 2026-08-10 | — | Disassembly of MegaMan Battle Network 6 with Cybeast Falzar as baserom |
+| [Mega Man Battle Network 6 (bn6f)](https://github.com/dism-exe/bn6f) | GBA | 46 | 2.75 | 2026-08-10 | — | Disassembly of MegaMan Battle Network 6 with Cybeast Falzar as baserom |
 | [Knuckles Chaotix](https://github.com/sonicretro/chaotix) | — | 41 | 2.75 | 2026-02-27 | — | Knuckles' Chaotix Disassembly & Toolkit |
 | [Mario Bros. (Mario-Bros.-Dis)](https://github.com/RussianManSMWC/Mario-Bros.-Dis) | Arcade | 36 | 2.75 | 2026-06-17 | — | Mario Bros. (NES) Disassembly |
 | [Metroid II: Return of Samus (M2RoS)](https://github.com/metroidret/M2RoS) | Game Boy | 34 | 2.75 | 2026-08-25 | — | A disassembly of a classic Game Boy game. |
@@ -166,7 +166,7 @@
 | [Super Mario World (smw-src)](https://github.com/galaxyhaxz/smw-src) | SNES | 60 | 2.15 | 2020-11-29 | — | Source code to Super Mario World (SNES disassembly) |
 | [Sonic the Hedgehog 2 (8-bit) (s2smsdisasm)](https://github.com/sonicretro/s2smsdisasm) | Master System/Game Gear | 59 | 2.15 | 2013-12-02 | — | Sonic 2 SMS Disassembly |
 | [Need For Speed: High Stakes](https://github.com/OpenNFS/NFSHSX) | PS1 | 58 | 2.15 | 2021-07-21 | — | Need for Speed: High Stakes Disassembly translated to C source code. |
-| [Asteroids (asteroids-disassembly)](https://github.com/nmikstas/asteroids-disassembly) | Arcade | 55 | 2.15 | 2019-12-16 | — | Disassembly of the Asteroids arcade game firmware |
+| [Asteroids (asteroids-disassembly)](https://github.com/nmikstas/asteroids-disassembly) | Arcade | 56 | 2.15 | 2019-12-16 | — | Disassembly of the Asteroids arcade game firmware |
 | [The Legend of Zelda: A Link to the Past & Four Swords (zeldaalttp)](https://github.com/camthesaxman/zeldaalttp) | GBA | 55 | 2.15 | 2022-10-16 | — | Disassembly of Legend of Zelda A Link to the Past and Four Swords |
 | [Kirby's Dream Land (kirbydreamland)](https://github.com/huderlem/kirbydreamland) | Game Boy | 54 | 2.15 | 2020-06-16 | — | disassembly of Kirby's Dream Land |
 | [Mega Man 3](https://github.com/refreshing-lemonade/megaman3-disassembly) | NES | 52 | 2.15 | 2020-12-23 | — | Full disassembly of Mega Man 3 (NES) |
@@ -175,8 +175,8 @@
 | [Mike Tyson's Punch Out!!](https://github.com/nmikstas/mike-tysons-punch-out-disassembly) | NES | 46 | 2.15 | 2020-09-13 | — | Reverse engineering effort of the NES game Mike Tyson's Punch-Out. |
 | [Balloon Fight](https://github.com/LuigiBlood/balloonfight_dis) | NES | 45 | 2.15 | 2018-10-21 | — | Balloon Fight NES Disassembly |
 | [Maniac Mansion (Maniac.Mansion.Disassembly)](https://github.com/segrax/Maniac.Mansion.Disassembly) | Commodore 64/8-bit | 43 | 2.15 | 2020-04-23 | — | Commented disassembly of game scripts, and spreadsheets which detail room objects, variables and their usage |
+| [Sonic Pinball](https://github.com/sonicretro/spindisasm) | Genesis | 43 | 2.15 | 2019-11-28 | — | Sonic Spinball Disassembly |
 | [Super Mario Bros. (smb1 disassembly)](https://github.com/Xkeeper0/smb1) | NES | 43 | 2.15 | 2022-04-10 | — | super mario bros. 1 disassembly |
-| [Sonic Pinball](https://github.com/sonicretro/spindisasm) | Genesis | 42 | 2.15 | 2019-11-28 | — | Sonic Spinball Disassembly |
 | [Sonic Riders](https://github.com/doldecomp/sonicriders) | GameCube | 40 | 2.15 | 2022-02-06 | — | A disassembly of Sonic Riders. |
 | [Super Mario Bros. (smb1-disasm)](https://github.com/laura240406/smb1-disasm) | NES | 39 | 2.15 | 2022-09-03 | — | A collection to build SMB1 from the disassembly |
 | [Pokémon FireRed and LeafGreen (DisFire)](https://github.com/shinyquagsire23/DisFire) | GBA | 37 | 2.15 | 2015-11-26 | — | A compilable disassembly of Pokemon Fire Red for GBA |
@@ -226,10 +226,10 @@
 | [Wario land 3](https://github.com/froggestspirit/wland3) | — | 21 | 1.95 | 2020-08-20 | — | Disassembly of Wario Land 3 |
 | [Mega Man 6 (megaman6-disassembly)](https://github.com/refreshing-lemonade/megaman6-disassembly) | NES | 20 | 1.95 | 2020-12-23 | — | Full disassembly of Mega Man 6 (NES) |
 | [Final Fantasy (FinalFantasyDisassembly)](https://github.com/BenWenger/FinalFantasyDisassembly) | NES | 19 | 1.95 | 2019-10-05 | — | Full commented Disassembly of Final Fantasy for the NES |
+| [Mega Man Battle Network 6 (exe6f)](https://github.com/dism-exe/exe6f) | GBA | 19 | 1.95 | 2018-07-15 | — | Disassembly of RockMan EXE 6 with Dennoujuu Faltzer as baserom |
 | [Star Fox (StarFoxDisassembly)](https://github.com/SpyderTL/StarFoxDisassembly) | SNES | 19 | 1.95 | 2020-10-26 | — | Disassembly of Star Fox for the SNES (US version 1.2) |
 | [Super Mario Advance 2: Super Mario World](https://github.com/atasro2/sma2) | GBA | 19 | 1.95 | 2019-01-04 | — | Disassembly of Super Mario Advance 2 |
 | [Breath Of Fire](https://github.com/Normmatt/bof) | SNES | 18 | 1.95 | 2021-04-05 | — | A Disassembly of of Breath of Fire (En,Fre,De) for the GBA. |
-| [Mega Man Battle Network 6 (exe6f)](https://github.com/dism-exe/exe6f) | GBA | 18 | 1.95 | 2018-07-15 | — | Disassembly of RockMan EXE 6 with Dennoujuu Faltzer as baserom |
 | [Mega Man: Dr. Wily's Revenge](https://github.com/iimarckus/megaman) | Game Boy | 18 | 1.95 | 2018-10-13 | — | disassembly of Mega Man for the Game Boy |
 | [Pokémon Red and Blue (pokered-jp)](https://github.com/luckytyphlosion/pokered-jp) | Game Boy | 18 | 1.95 | 2017-01-16 | — | disassembly of Japanese edition of Pokémon Red |
 | [The Legend of Zelda: A Link to the Past (alttp-disassembly)](https://github.com/walkingeyerobot/alttp-disassembly) | SNES | 18 | 1.95 | 2018-11-25 | — |  |

@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **25.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **26.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -21,7 +21,7 @@
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
 | [Prince of Persia](https://github.com/NagyD/SDLPoP) | Apple II | ремейк движка | 1.3k | 4.2 | 2026-11-07 | — | An open-source port of Prince of Persia, based on the disassembly of the DOS version. |
-| [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | порт | 251 | 4.1 | 2026-11-18 | ✅ | Repository for the NeoClassical Habitat Server Project |
+| [Habitat (NeoHabitat)](https://github.com/frandallfarmer/neohabitat) | Commodore 64/8-bit | порт | 251 | 4.1 | 2026-11-26 | ✅ | Repository for the NeoClassical Habitat Server Project |
 | [Sensible World of Soccer 96/97 (swos-port)](https://github.com/zlatkok/swos-port) | Amiga | порт | 39 | 3.55 | 2026-11-06 | ✅ |  |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | браузер | 21 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
 | [Snatcher (Snatcher Sega CD recomp)](https://github.com/darkuni/Snatcher-sega-cd-recomp) | PC-98/PC-88 | рекомпиляция | 11 | 3.35 | 2026-11-12 | — | A recompilation of a SegaCD game. |
@@ -85,7 +85,7 @@
 | [The Hobbit (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/hobbit) | ZX Spectrum | дизасм | 13 | 2.15 | 2023-10-14 | — | A disassembly of The Hobbit, created using SkoolKit. |
 | [Deathchase (Ritchie333 deathchase)](https://github.com/Ritchie333/deathchase) | ZX Spectrum | дизасм | 10 | 2.15 | 2023-11-07 | — | Disassembly and annotation of the classic 1983 computer game "Deathchase" |
 | [Lotus Esprit Turbo Challenge (lotus-ste)](https://github.com/jonathanopalise/lotus-ste) | Atari ST | декомпиляция | 44 | 2.05 | 2021-04-10 | ✅ | Enhancements to the Atari ST version of Lotus Esprit Turbo Challenge to support STE hardware features |
-| [Choplifter (ChoplifterReverse (Blondihacks))](https://github.com/blondie7575/ChoplifterReverse) | Apple II | декомпиляция | 100 | 2 | 2024-10-24 | — | A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin |
+| [Choplifter (ChoplifterReverse (Blondihacks))](https://github.com/blondie7575/ChoplifterReverse) | Apple II | декомпиляция | 101 | 2 | 2024-10-24 | — | A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin |
 | [Ultima IV: Quest of the Avatar (u4-decompiled)](https://github.com/ergonomy-joe/u4-decompiled) | Apple II | декомпиляция | 83 | 2 | 2023-10-05 | — | Decompiled source code for the PC version of Ultima IV - Quest Of The Avatar |
 | [Lode Runner (Piddewitt Loderunner)](https://github.com/Piddewitt/Loderunner) | Apple II | декомпиляция | 68 | 2 | 2024-04-14 | — | Reverse engineered C64 assembler source code to recreate a bit for bit identical version of the original game. |
 | [Cobra (Paul Hughes ZXSpectrumCobra)](https://github.com/Paulie68000/ZXSpectrumCobra) | ZX Spectrum | декомпиляция | 47 | 2 | 2024-11-17 | — | Full reverse engineered source code of Jonathan "Joffa" Smith's Cobra |

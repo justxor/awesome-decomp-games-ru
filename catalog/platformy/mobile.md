@@ -1,40 +1,41 @@
-# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (50)
+# Мобильные (Android, iOS): декомпиляции, рекомпиляции и порты игр (51)
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **25.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **26.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
 1. [Diablo II: Resurrected (D2R Mobile)](https://github.com/jhaizhou-ops/d2r-mobile) — ремейк движка, ⭐ 5.4k, score 4.55
-2. [Minecraft: Java Edition (Amethyst)](https://github.com/AngelAuraMC/Amethyst-Android) — ремейк движка, ⭐ 2.4k, score 4.55
+2. [Minecraft: Java Edition (Amethyst)](https://github.com/AngelAuraMC/Amethyst-Android) — ремейк движка, ⭐ 2.5k, score 4.55
 3. [Retro Engine (RSDKv4 (Sonic 1 and 2 Mobile))](https://github.com/RSDKModding/RSDKv4-Decompilation) — декомпиляция, ⭐ 1.2k, score 4.45
 4. [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) — декомпиляция, ⭐ 6.9k, score 4.4
 5. [Phira](https://github.com/TeamFlos/phira) — ремейк движка, ⭐ 2.8k, score 4.35
 6. [Jazz² Resurrection](https://github.com/deathkiller/jazz2) — ремейк движка, ⭐ 599, score 4.35
 7. [AAAAXY](https://github.com/divVerent/aaaaxy) — порт, ⭐ 306, score 4.35
-8. [Lemuroid](https://github.com/Swordfish90/Lemuroid) — декомпиляция, ⭐ 4.5k, score 4.2
-9. [Techmino](https://github.com/26F-Studio/Techmino) — ремейк движка, ⭐ 937, score 4.15
-10. [touchHLE](https://github.com/touchHLE/touchHLE) — ремейк движка, ⭐ 4.1k, score 4.1
+8. [NieR Reincarnation (nier-reincarnation-pc)](https://github.com/AllenWalkerED/nier-reincarnation-pc) — ремейк движка, ⭐ 245, score 4.35
+9. [Lemuroid](https://github.com/Swordfish90/Lemuroid) — декомпиляция, ⭐ 4.6k, score 4.2
+10. [Techmino](https://github.com/26F-Studio/Techmino) — ремейк движка, ⭐ 937, score 4.15
 
-## Все активные проекты (42)
+## Все активные проекты (43)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
 | [Diablo II: Resurrected (D2R Mobile)](https://github.com/jhaizhou-ops/d2r-mobile) | Mobile | ремейк движка | 5.4k | 4.55 | 2026-11-23 | ✅ | Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPa… |
-| [Minecraft: Java Edition (Amethyst)](https://github.com/AngelAuraMC/Amethyst-Android) | Mobile | ремейк движка | 2.4k | 4.55 | 2026-11-24 | ✅ | A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for Android platform. |
+| [Minecraft: Java Edition (Amethyst)](https://github.com/AngelAuraMC/Amethyst-Android) | Mobile | ремейк движка | 2.5k | 4.55 | 2026-11-24 | ✅ | A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for Android platform. |
 | [Retro Engine (RSDKv4 (Sonic 1 and 2 Mobile))](https://github.com/RSDKModding/RSDKv4-Decompilation) | Mobile | декомпиляция | 1.2k | 4.45 | 2026-10-28 | ✅ | A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4) |
-| [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | Mobile | декомпиляция | 6.9k | 4.4 | 2026-10-06 | ✅ | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect… |
+| [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | Mobile | декомпиляция | 6.9k | 4.4 | 2026-11-23 | ✅ | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect… |
 | [Phira](https://github.com/TeamFlos/phira) | Mobile | ремейк движка | 2.8k | 4.35 | 2026-11-25 | ✅ | Phira is a mobile and PC port of the rhythm game Phira. |
 | [Jazz² Resurrection](https://github.com/deathkiller/jazz2) | Mobile | ремейк движка | 599 | 4.35 | 2026-10-17 | ✅ | 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2 |
 | [AAAAXY](https://github.com/divVerent/aaaaxy) | Mobile | порт | 306 | 4.35 | 2026-11-09 | ✅ | A nonlinear 2D puzzle platformer taking place in impossible spaces. |
-| [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Mobile | декомпиляция | 4.5k | 4.2 | 2026-10-16 | ✅ | All in one emulator on Android! |
+| [NieR Reincarnation (nier-reincarnation-pc)](https://github.com/AllenWalkerED/nier-reincarnation-pc) | Mobile | ремейк движка | 245 | 4.35 | 2026-11-24 | ✅ | Unofficial PC port of NieR Re[in]carnation (Global 3.7.1): local server, Android runtime, launcher. Bring your own game files. |
+| [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Mobile | декомпиляция | 4.6k | 4.2 | 2026-10-16 | ✅ | All in one emulator on Android! |
 | [Techmino](https://github.com/26F-Studio/Techmino) | Mobile | ремейк движка | 937 | 4.15 | 2026-10-28 | ✅ | Techmino:方块研究所唯一官方仓库(Github) |
 | [touchHLE](https://github.com/touchHLE/touchHLE) | Mobile | ремейк движка | 4.1k | 4.1 | 2026-10-13 | ✅ | High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/tou… |
-| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 233 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
+| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 234 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
 | [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | декомпиляция | 723 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
 | [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) | Mobile | декомпиляция | 512 | 4 | 2026-11-25 | ✅ | KEmulator nnmod |
-| [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) | Mobile | декомпиляция | 232 | 4 | 2026-11-24 | ✅ | A free J2ME emulator with libretro, awt and sdl2 frontends. |
+| [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) | Mobile | декомпиляция | 232 | 4 | 2026-11-26 | ✅ | A free J2ME emulator with libretro, awt and sdl2 frontends. |
 | [FreeSO](https://github.com/riperiperi/FreeSO) | Mobile | ремейк движка | 991 | 3.95 | 2025-08-22 | ✅ | Re-implementation of The Sims Online. |
 | [CTW-Native](https://github.com/official-kryo-to/ctw-native) | Mobile | рекомпиляция | 81 | 3.95 | 2026-11-01 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
 | [Ultimate MK3 PC](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | ремейк движка | 80 | 3.95 | 2026-11-22 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
@@ -59,7 +60,7 @@
 | [Modern Combat 2: Black Pegasus ( BackStabRecomp)](https://github.com/jessicanataliagta/AndroidRecomp) | Mobile | рекомпиляция | 23 | 2.2 | 2026-07-31 | — | A profile-driven ARMv7 Android-to-Windows compatibility runtime for native games. |
 | [Minecraft: Pocket Edition](https://github.com/BrentDaMage/mcpe-engine) | Mobile | декомпиляция | 17 | 2.2 | 2026-02-11 | — | A decompilation of the Minecraft: Pocket Edition (0.12.1) rendering Hardware Abstraction Layer (HAL) |
 | [Diamond Rush (DiamondRushSource)](https://github.com/kubikaugustyn/DiamondRushSource) | Mobile | декомпиляция | 27 | 2 | 2025-06-07 | — | Decompilation of Gamelofts' Diamond Rush (2006) video game for Nokia mobile devices. |
-| [Brave Frontier](https://github.com/decompfrontier/client) | Mobile | декомпиляция | 16 | 2 | 2025-05-30 | — | Decompilation of Brave Frontier client |
+| [Brave Frontier](https://github.com/decompfrontier/client) | Mobile | декомпиляция | 17 | 2 | 2025-05-30 | — | Decompilation of Brave Frontier client |
 | [Flappy Bird](https://github.com/fr3dsp/FlappyBird-Decomp) | Mobile | декомпиляция | 4 | 2 | 2025-10-28 | — | A Flappy Bird Windows Phone Decompilation |
 | [Sonic the Hedgehog 4 (Ep 1)](https://github.com/fr3dsp/Sonic4Ep1-Decomp) | Mobile | декомпиляция | 4 | 2 | 2025-10-28 | — | A Sonic 4 Episode 1 Windows Phone Decompilation. |
 | [Ancient Empires](https://github.com/Atomk/ancient-empires-1-decompilation) | Mobile | декомпиляция | 2 | 2 | 2024-12-05 | — | Decompilation of the mobile game Ancient Empires (2004) |
