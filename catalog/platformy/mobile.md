@@ -2,7 +2,7 @@
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **26.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **27.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
@@ -11,11 +11,11 @@
 3. [Retro Engine (RSDKv4 (Sonic 1 and 2 Mobile))](https://github.com/RSDKModding/RSDKv4-Decompilation) — декомпиляция, ⭐ 1.2k, score 4.45
 4. [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) — декомпиляция, ⭐ 6.9k, score 4.4
 5. [Phira](https://github.com/TeamFlos/phira) — ремейк движка, ⭐ 2.8k, score 4.35
-6. [Jazz² Resurrection](https://github.com/deathkiller/jazz2) — ремейк движка, ⭐ 599, score 4.35
+6. [Jazz² Resurrection](https://github.com/deathkiller/jazz2) — ремейк движка, ⭐ 600, score 4.35
 7. [AAAAXY](https://github.com/divVerent/aaaaxy) — порт, ⭐ 306, score 4.35
-8. [NieR Reincarnation (nier-reincarnation-pc)](https://github.com/AllenWalkerED/nier-reincarnation-pc) — ремейк движка, ⭐ 245, score 4.35
+8. [NieR Reincarnation (nier-reincarnation-pc)](https://github.com/AllenWalkerED/nier-reincarnation-pc) — ремейк движка, ⭐ 251, score 4.35
 9. [Lemuroid](https://github.com/Swordfish90/Lemuroid) — декомпиляция, ⭐ 4.6k, score 4.2
-10. [Techmino](https://github.com/26F-Studio/Techmino) — ремейк движка, ⭐ 937, score 4.15
+10. [Techmino](https://github.com/26F-Studio/Techmino) — ремейк движка, ⭐ 938, score 4.15
 
 ## Все активные проекты (43)
 
@@ -26,19 +26,19 @@
 | [Retro Engine (RSDKv4 (Sonic 1 and 2 Mobile))](https://github.com/RSDKModding/RSDKv4-Decompilation) | Mobile | декомпиляция | 1.2k | 4.45 | 2026-10-28 | ✅ | A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4) |
 | [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | Mobile | декомпиляция | 6.9k | 4.4 | 2026-11-23 | ✅ | Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect… |
 | [Phira](https://github.com/TeamFlos/phira) | Mobile | ремейк движка | 2.8k | 4.35 | 2026-11-25 | ✅ | Phira is a mobile and PC port of the rhythm game Phira. |
-| [Jazz² Resurrection](https://github.com/deathkiller/jazz2) | Mobile | ремейк движка | 599 | 4.35 | 2026-10-17 | ✅ | 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2 |
+| [Jazz² Resurrection](https://github.com/deathkiller/jazz2) | Mobile | ремейк движка | 600 | 4.35 | 2026-10-17 | ✅ | 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2 |
 | [AAAAXY](https://github.com/divVerent/aaaaxy) | Mobile | порт | 306 | 4.35 | 2026-11-09 | ✅ | A nonlinear 2D puzzle platformer taking place in impossible spaces. |
-| [NieR Reincarnation (nier-reincarnation-pc)](https://github.com/AllenWalkerED/nier-reincarnation-pc) | Mobile | ремейк движка | 245 | 4.35 | 2026-11-24 | ✅ | Unofficial PC port of NieR Re[in]carnation (Global 3.7.1): local server, Android runtime, launcher. Bring your own game files. |
+| [NieR Reincarnation (nier-reincarnation-pc)](https://github.com/AllenWalkerED/nier-reincarnation-pc) | Mobile | ремейк движка | 251 | 4.35 | 2026-11-24 | ✅ | Unofficial PC port of NieR Re[in]carnation (Global 3.7.1): local server, Android runtime, launcher. Bring your own game files. |
 | [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Mobile | декомпиляция | 4.6k | 4.2 | 2026-10-16 | ✅ | All in one emulator on Android! |
-| [Techmino](https://github.com/26F-Studio/Techmino) | Mobile | ремейк движка | 937 | 4.15 | 2026-10-28 | ✅ | Techmino:方块研究所唯一官方仓库(Github) |
+| [Techmino](https://github.com/26F-Studio/Techmino) | Mobile | ремейк движка | 938 | 4.15 | 2026-11-27 | ✅ | Techmino:方块研究所唯一官方仓库(Github) |
 | [touchHLE](https://github.com/touchHLE/touchHLE) | Mobile | ремейк движка | 4.1k | 4.1 | 2026-10-13 | ✅ | High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/tou… |
-| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 234 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
-| [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | декомпиляция | 723 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
-| [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) | Mobile | декомпиляция | 512 | 4 | 2026-11-25 | ✅ | KEmulator nnmod |
-| [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) | Mobile | декомпиляция | 232 | 4 | 2026-11-26 | ✅ | A free J2ME emulator with libretro, awt and sdl2 frontends. |
+| [Castlevania: Grimoire of Souls (Castlevania: Grimoire of Souls Recomp)](https://github.com/BLSNCVS/Castlevania-Grimoire-of-Souls-Recomp) | Mobile | рекомпиляция | 235 | 4.1 | 2026-11-11 | ✅ | Castlevania: Grimoire of Souls (Apple Arcade, macOS) running natively on Windows. |
+| [Sonic CD](https://github.com/RSDKModding/RSDKv3-Decompilation) | Mobile | декомпиляция | 724 | 4 | 2026-10-26 | ✅ | A Full Decompilation of Sonic CD (2011) & Retro Engine (v3) |
+| [KEmulator (KEmulator nnmod)](https://github.com/shinovon/KEmulator) | Mobile | декомпиляция | 514 | 4 | 2026-11-26 | ✅ | KEmulator nnmod |
+| [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus) | Mobile | декомпиляция | 235 | 4 | 2026-11-27 | ✅ | A free J2ME emulator with libretro, awt and sdl2 frontends. |
 | [FreeSO](https://github.com/riperiperi/FreeSO) | Mobile | ремейк движка | 991 | 3.95 | 2025-08-22 | ✅ | Re-implementation of The Sims Online. |
 | [CTW-Native](https://github.com/official-kryo-to/ctw-native) | Mobile | рекомпиляция | 81 | 3.95 | 2026-11-01 | ✅ | Bringing GTA: Chinatown Wars to native PC with your own game files. |
-| [Ultimate MK3 PC](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | ремейк движка | 80 | 3.95 | 2026-11-22 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
+| [Ultimate MK3 PC](https://github.com/MaryNCRT/Ultimate-Mortal-Kombat-3-iOS-Decompiled) | Mobile | ремейк движка | 80 | 3.95 | 2026-11-26 | — | Decompiled Ultimate Mortal Kombat 3 (iOS v1.2.59) with a playable native PC port featuring DirectX, Vulkan, OpenGL, widescreen support, HD textures,… |
 | [Star Trek: Voyager — Elite Force (VoyagerSP-Android)](https://github.com/imjustadudegamer/VoyagerSP-Android) | Mobile | ремейк движка | 25 | 3.95 | 2026-11-03 | ✅ | Android single-player port of Star Trek: Voyager - Elite Force (idTech3/Quake3e, Vulkan). |
 | [Star Trek: Voyager — Elite Force (VoyagerHM-Android)](https://github.com/imjustadudegamer/VoyagerHM-Android) | Mobile | ремейк движка | 13 | 3.75 | 2026-07-11 | ✅ | Star Trek: Voyager - Elite Force Holomatch for Android (Vulkan renderer, touch controls, gamepad) |
 | [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) | Mobile | ремейк движка | 89 | 3.7 | 2026-05-24 | ✅ | Java remake of Lionheart amiga game |
