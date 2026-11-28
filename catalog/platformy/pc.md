@@ -1,62 +1,60 @@
-# ПК (Windows, Mac): декомпиляции, рекомпиляции и порты игр (689)
+# ПК (Windows, Mac): декомпиляции, рекомпиляции и порты игр (684)
 
 [← Главная](../../README.md) · [Весь каталог](../README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **27.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **28.11.2026**.
 
 ## 🏆 Во что поиграть в первую очередь
 
-1. [Warzone 2100](https://github.com/Warzone2100/warzone2100) — порт, ⭐ 4.1k, score 4.8
-2. [osu](https://github.com/ppy/osu) — ремейк движка, ⭐ 19.6k, score 4.75
-3. [RollerCoaster Tycoon 2 (OpenRCT2)](https://github.com/OpenRCT2/OpenRCT2) — ремейк движка, ⭐ 16.6k, score 4.75
-4. [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) — ремейк движка, ⭐ 11.2k, score 4.75
-5. [Transport Tycoon Deluxe (OpenTTD)](https://github.com/OpenTTD/OpenTTD) — ремейк движка, ⭐ 8.5k, score 4.75
-6. [VVVVV](https://github.com/TerryCavanagh/VVVVVV) — порт, ⭐ 8.1k, score 4.75
-7. [The Elder Scrolls III: Morrowind (OpenMW)](https://github.com/OpenMW/openmw) — ремейк движка, ⭐ 6.8k, score 4.75
-8. [SuperTuxKart](https://github.com/supertuxkart/stk-code) — рекомпиляция, ⭐ 5.5k, score 4.75
-9. [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) — ремейк движка, ⭐ 5.4k, score 4.75
-10. [OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) — ремейк движка, ⭐ 5.4k, score 4.75
+1. [osu](https://github.com/ppy/osu) — ремейк движка, ⭐ 19.6k, score 4.75
+2. [RollerCoaster Tycoon 2 (OpenRCT2)](https://github.com/OpenRCT2/OpenRCT2) — ремейк движка, ⭐ 16.6k, score 4.75
+3. [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) — ремейк движка, ⭐ 11.2k, score 4.75
+4. [Transport Tycoon Deluxe (OpenTTD)](https://github.com/OpenTTD/OpenTTD) — ремейк движка, ⭐ 8.5k, score 4.75
+5. [VVVVV](https://github.com/TerryCavanagh/VVVVVV) — порт, ⭐ 8.1k, score 4.75
+6. [The Elder Scrolls III: Morrowind (OpenMW)](https://github.com/OpenMW/openmw) — ремейк движка, ⭐ 6.8k, score 4.75
+7. [SuperTuxKart](https://github.com/supertuxkart/stk-code) — рекомпиляция, ⭐ 5.5k, score 4.75
+8. [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) — ремейк движка, ⭐ 5.4k, score 4.75
+9. [OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) — ремейк движка, ⭐ 5.4k, score 4.75
+10. [Warzone 2100](https://github.com/Warzone2100/warzone2100) — порт, ⭐ 4.1k, score 4.6
 
-## Все активные проекты (623)
+## Все активные проекты (620)
 
 | Игра (проект) | Платформа | Тип | ⭐ | Score | Коммит | Релиз | Описание (англ.) |
 |---|---|---|---|---|---|---|---|
-| [Warzone 2100](https://github.com/Warzone2100/warzone2100) | PC | порт | 4.1k | 4.8 | 2026-11-26 | ✅ | Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open… |
 | [osu](https://github.com/ppy/osu) | PC | ремейк движка | 19.6k | 4.75 | 2026-11-27 | ✅ | rhythm is just a *click* away! |
 | [RollerCoaster Tycoon 2 (OpenRCT2)](https://github.com/OpenRCT2/OpenRCT2) | PC | ремейк движка | 16.6k | 4.75 | 2026-11-27 | ✅ | An open source re-implementation of RollerCoaster Tycoon 2 🎢 |
 | [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) | PC | ремейк движка | 11.2k | 4.75 | 2026-11-27 | ✅ | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) |
-| [Transport Tycoon Deluxe (OpenTTD)](https://github.com/OpenTTD/OpenTTD) | PC | ремейк движка | 8.5k | 4.75 | 2026-11-27 | ✅ | OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe |
-| [VVVVV](https://github.com/TerryCavanagh/VVVVVV) | PC | порт | 8.1k | 4.75 | 2026-11-19 | ✅ | The source code to VVVVVV! http://thelettervsixtim.es/ |
-| [The Elder Scrolls III: Morrowind (OpenMW)](https://github.com/OpenMW/openmw) | PC | ремейк движка | 6.8k | 4.75 | 2026-11-27 | ✅ | OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.co… |
+| [Transport Tycoon Deluxe (OpenTTD)](https://github.com/OpenTTD/OpenTTD) | PC | ремейк движка | 8.5k | 4.75 | 2026-11-28 | ✅ | OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe |
+| [VVVVV](https://github.com/TerryCavanagh/VVVVVV) | PC | порт | 8.1k | 4.75 | 2026-11-27 | ✅ | The source code to VVVVVV! http://thelettervsixtim.es/ |
+| [The Elder Scrolls III: Morrowind (OpenMW)](https://github.com/OpenMW/openmw) | PC | ремейк движка | 6.8k | 4.75 | 2026-11-28 | ✅ | OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.co… |
 | [SuperTuxKart](https://github.com/supertuxkart/stk-code) | PC | рекомпиляция | 5.5k | 4.75 | 2026-11-03 | ✅ | The code base of SuperTuxKart |
 | [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) | PC | ремейк движка | 5.4k | 4.75 | 2026-11-21 | ✅ | Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and veloci… |
 | [OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) | PC | ремейк движка | 5.4k | 4.75 | 2026-11-19 | ✅ | OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux |
-| [World of Warcraft 1.12 (benilla)](https://github.com/samwhosung/benilla) | PC | ремейк движка | 974 | 4.6 | 2026-11-22 | ✅ | A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy |
-| [Plants vs. Zombies (PvZ Portable)](https://github.com/wszqkzqk/PvZ-Portable) | PC | ремейк движка | 958 | 4.6 | 2026-11-22 | ✅ | A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition. |
+| [Warzone 2100](https://github.com/Warzone2100/warzone2100) | PC | порт | 4.1k | 4.6 | 2026-11-26 | ✅ | Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open… |
+| [World of Warcraft 1.12 (benilla)](https://github.com/samwhosung/benilla) | PC | ремейк движка | 974 | 4.6 | 2026-11-28 | ✅ | A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy |
 | [Luanti](https://github.com/luanti-org/luanti) | PC | ремейк движка | 13.9k | 4.55 | 2026-11-26 | ✅ | Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation |
-| [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) | PC | ремейк движка | 13.6k | 4.55 | 2026-11-27 | ✅ | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. |
+| [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) | PC | ремейк движка | 13.6k | 4.55 | 2026-11-28 | ✅ | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. |
 | [Diablo (DevilutionX)](https://github.com/diasurgical/DevilutionX) | PC | ремейк движка | 10.1k | 4.55 | 2026-11-27 | ✅ | Diablo build for modern operating systems |
-| [Heroes of Might and Magic III (VCMI)](https://github.com/vcmi/vcmi) | PC | ремейк движка | 6.0k | 4.55 | 2026-11-26 | ✅ | Open-source engine for Heroes of Might and Magic III |
-| [Terraria (tModLoader)](https://github.com/tModLoader/tModLoader) | PC | рекомпиляция | 5.8k | 4.55 | 2026-11-26 | ✅ | A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations |
-| [Space Station 14](https://github.com/space-wizards/space-station-14) | PC | ремейк движка | 3.9k | 4.55 | 2026-11-27 | ✅ | A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13. |
+| [Heroes of Might and Magic III (VCMI)](https://github.com/vcmi/vcmi) | PC | ремейк движка | 6.0k | 4.55 | 2026-11-28 | ✅ | Open-source engine for Heroes of Might and Magic III |
+| [Terraria (tModLoader)](https://github.com/tModLoader/tModLoader) | PC | рекомпиляция | 5.8k | 4.55 | 2026-11-27 | ✅ | A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations |
+| [Space Station 14](https://github.com/space-wizards/space-station-14) | PC | ремейк движка | 3.9k | 4.55 | 2026-11-28 | ✅ | A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13. |
 | [Friday Night Funkin](https://github.com/FunkinCrew/Funkin) | PC | ремейк движка | 3.9k | 4.55 | 2026-11-02 | ✅ | A rhythm game made with HaxeFlixel |
 | [Cubyz](https://github.com/PixelGuys/Cubyz) | PC | ремейк движка | 3.8k | 4.55 | 2026-11-25 | ✅ | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 | [fheroes2](https://github.com/ihhub/fheroes2) | PC | ремейк движка | 3.7k | 4.55 | 2026-11-27 | ✅ | fheroes2 is a recreation of Heroes of Might and Magic II game engine |
 | [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) | PC | ремейк движка | 3.6k | 4.55 | 2026-11-13 | ✅ | Open source recreation of Daggerfall in the Unity engine |
 | [Caesar III (Julius)](https://github.com/bvschaik/julius) | PC | ремейк движка | 3.5k | 4.55 | 2026-11-24 | ✅ | An open source re-implementation of Caesar III |
-| [SuperTux](https://github.com/SuperTux/supertux) | PC | ремейк движка | 3.2k | 4.55 | 2026-11-27 | ✅ | SuperTux source code |
-| [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | PC | ремейк движка | 3.1k | 4.55 | 2026-11-27 | ✅ | Dungeon Crawl: Stone Soup official repository |
-| [xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) | PC | ремейк движка | 3.0k | 4.55 | 2026-11-24 | — | Xash3D FWGS engine |
+| [SuperTux](https://github.com/SuperTux/supertux) | PC | ремейк движка | 3.2k | 4.55 | 2026-11-28 | ✅ | SuperTux source code |
+| [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | PC | ремейк движка | 3.1k | 4.55 | 2026-11-28 | ✅ | Dungeon Crawl: Stone Soup official repository |
+| [xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) | PC | ремейк движка | 3.0k | 4.55 | 2026-11-27 | — | Xash3D FWGS engine |
 | [r2modman (r2modmanPlus)](https://github.com/ebkr/r2modmanPlus) | PC | ремейк движка | 2.4k | 4.55 | 2026-11-19 | ✅ | A simple and easy to use mod manager for several games using Thunderstore |
 | [OpenJK](https://github.com/JACoders/OpenJK) | PC | порт | 2.3k | 4.55 | 2026-09-29 | ✅ | Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software |
-| [vkQuake](https://github.com/Novum/vkQuake) | PC | ремейк движка | 2.3k | 4.55 | 2026-11-26 | ✅ | Vulkan Quake port based on QuakeSpasm |
 | [dhewm3](https://github.com/dhewm/dhewm3) | PC | ремейк движка | 2.2k | 4.55 | 2026-11-09 | ✅ | dhewm 3 (Doom3 sourceport) main repository |
 | [Cytopia](https://github.com/CytopiaTeam/Cytopia) | PC | ремейк движка | 2.2k | 4.55 | 2026-08-30 | — | :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game |
-| [Caesar III (Augustus)](https://github.com/Keriew/augustus) | PC | ремейк движка | 2.2k | 4.55 | 2026-11-24 | ✅ | An open source re-implementation of Caesar III |
+| [Caesar III (Augustus)](https://github.com/Keriew/augustus) | PC | ремейк движка | 2.2k | 4.55 | 2026-11-27 | ✅ | An open source re-implementation of Caesar III |
 | [StepMania](https://github.com/stepmania/stepmania) | PC | ремейк движка | 2.1k | 4.55 | 2026-11-08 | ✅ | Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use. |
 | [Celeste 64: Fragments of the Mountain](https://github.com/EXOK/Celeste64) | PC | ремейк движка | 2.1k | 4.55 | 2026-09-07 | ✅ | A game made by the Celeste developers in a week(ish, closer to 2) |
 | [Legend of Sword and Fairy (SDLPal)](https://github.com/sdlpal/sdlpal) | PC | ремейк движка | 2.0k | 4.55 | 2026-11-14 | ✅ | SDL-based reimplementation of the classic Chinese-language RPG known as PAL. |
-| [OpenLoco](https://github.com/OpenLoco/OpenLoco) | PC | ремейк движка | 2.0k | 4.55 | 2026-11-24 | ✅ | An open source re-implementation of Chris Sawyer's Locomotion |
+| [OpenLoco](https://github.com/OpenLoco/OpenLoco) | PC | ремейк движка | 2.0k | 4.55 | 2026-11-28 | ✅ | An open source re-implementation of Chris Sawyer's Locomotion |
 | [PCem](https://github.com/sarah-walker-pcem/pcem) | PC | рекомпиляция | 2.0k | 4.55 | 2026-11-21 | ✅ | PCem |
 | [Lightspark](https://github.com/lightspark/lightspark) | PC | ремейк движка | 1.9k | 4.55 | 2026-11-23 | ✅ | An open source flash player implementation |
 | [Collapse (Collapse Launcher)](https://github.com/CollapseLauncher/Collapse) | PC | ремейк движка | 1.8k | 4.55 | 2026-11-23 | ✅ | An Advanced Launcher for miHoYo/HoYoverse Games |
@@ -64,110 +62,107 @@
 | [OpenGothic](https://github.com/Try/OpenGothic) | PC | ремейк движка | 1.7k | 4.55 | 2026-11-26 | — | Reimplementation of Gothic 2 Notr |
 | [Quake3e](https://github.com/ec-/Quake3e) | PC | порт | 1.6k | 4.55 | 2026-11-15 | ✅ | Improved Quake III Arena engine |
 | [Brogue (Brogue CE)](https://github.com/tmewett/BrogueCE) | PC | порт | 1.5k | 4.55 | 2026-11-23 | ✅ | Brogue: Community Edition - a community-lead fork of the much-loved minimalist roguelike game |
-| [GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) | PC | порт | 1.5k | 4.55 | 2026-11-21 | ✅ | Command and Conquer: Generals - Zero Hour |
-| [Starbound (OpenStarbound)](https://github.com/OpenStarbound/OpenStarbound) | PC | порт | 1.5k | 4.55 | 2026-11-11 | ✅ | OpenStarbound is a port of Starbound that fixes bugs, improves performance, and adds new features like enhanced lighting and Lua scripting. |
+| [GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) | PC | порт | 1.5k | 4.55 | 2026-11-27 | ✅ | Command and Conquer: Generals - Zero Hour |
 | [Tabletop Club](https://github.com/drwhut/tabletop-club) | PC | ремейк движка | 1.5k | 4.55 | 2026-08-30 | ✅ | An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. |
 | [OpenSoldat](https://github.com/opensoldat/opensoldat) | PC | порт | 1.5k | 4.55 | 2026-10-18 | ✅ | OpenSoldat is a unique 2D (side-view) multiplayer action game |
 | [Freedoom](https://github.com/freedoom/freedoom) | PC | ремейк движка | 1.4k | 4.55 | 2026-11-23 | ✅ | Freedoom is an entirely free software game based on the Doom engine. |
 | [Flare: Empyrean Campaign](https://github.com/flareteam/flare-game) | PC | ремейк движка | 1.4k | 4.55 | 2026-11-16 | ✅ | Fantasy action RPG using the FLARE engine |
 | [Cave Story (doukutsu-rs)](https://github.com/doukutsu-rs/doukutsu-rs) | PC | ремейк движка | 1.3k | 4.55 | 2026-11-16 | ✅ | A faithful and open-source remake of Cave Story's engine written in Rust |
-| [UltraStar Deluxe](https://github.com/UltraStar-Deluxe/USDX) | PC | рекомпиляция | 1.3k | 4.55 | 2026-11-27 | ✅ | The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™ |
 | [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) | PC | рекомпиляция | 1.3k | 4.55 | 2026-11-21 | ✅ | Main development repository for Rigs of Rods soft-body physics simulator |
-| [Carmageddon (dethrace)](https://github.com/dethrace-labs/dethrace) | PC | ремейк движка | 1.3k | 4.55 | 2026-11-21 | ✅ | Reverse engineering the 1997 game "Carmageddon" |
+| [Carmageddon (dethrace)](https://github.com/dethrace-labs/dethrace) | PC | ремейк движка | 1.3k | 4.55 | 2026-11-28 | ✅ | Reverse engineering the 1997 game "Carmageddon" |
 | [Call of Duty: Modern Warfare 2 (IW4L)](https://github.com/vladtrc/iw4L) | PC | ремейк движка | 1.2k | 4.55 | 2026-11-24 | — | Experimental standalone IW4-compatible runtime written in Rust with Bevy and wgpu |
-| [Star Wars: Dark Forces (The Force Engine)](https://github.com/TheForceEngine/TheForceEngine) | PC | ремейк движка | 1.2k | 4.55 | 2026-11-14 | ✅ | Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future Outlaws. |
+| [Star Wars: Dark Forces (The Force Engine)](https://github.com/TheForceEngine/TheForceEngine) | PC | ремейк движка | 1.2k | 4.55 | 2026-11-28 | ✅ | Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future Outlaws. |
 | [ironwail](https://github.com/andrei-drexler/ironwail) | PC | ремейк движка | 1.2k | 4.55 | 2026-11-17 | ✅ | High-performance QuakeSpasm fork |
-| [SurrealEngine](https://github.com/dpjudas/SurrealEngine) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-27 | ✅ | Unreal Engine 1 Reimplementation |
+| [SurrealEngine](https://github.com/dpjudas/SurrealEngine) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-28 | ✅ | Unreal Engine 1 Reimplementation |
 | [Unvanquished](https://github.com/Unvanquished/Unvanquished) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-25 | ✅ | Unvanquished is a free and open source FPS/RTS hybrid game powered by the Daemon game engine. Historically based on Tremulous as a continuation with… |
 | [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-24 | ✅ | Classic overhead run-and-gun game |
-| [freeorion](https://github.com/freeorion/freeorion) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-27 | ✅ | Source code repository of the FreeOrion project. |
+| [freeorion](https://github.com/freeorion/freeorion) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-28 | ✅ | Source code repository of the FreeOrion project. |
 | [Reloaded II](https://github.com/Reloaded-Project/Reloaded-II) | PC | ремейк движка | 1.1k | 4.55 | 2026-09-23 | ✅ | Universal .NET Core Powered Modding Framework for any Native Game X86, X64. |
-| [KeeperFX](https://github.com/dkfans/keeperfx) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-26 | ✅ | Open source remake and Fan Expansion of Dungeon Keeper. |
+| [KeeperFX](https://github.com/dkfans/keeperfx) | PC | ремейк движка | 1.1k | 4.55 | 2026-11-27 | ✅ | Open source remake and Fan Expansion of Dungeon Keeper. |
 | [Tomb Raider I & II](https://github.com/LostArtefacts/TRX) | PC | ремейк движка | 1.0k | 4.55 | 2026-11-26 | ✅ | Open source re-implementation of Tomb Raider I, Tomb Raider II and Tomb Raider III, along with additional enhancements and bugfixes |
 | [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) | PC | ремейк движка | 1.0k | 4.55 | 2026-09-28 | ✅ | A modern re-implementation of the classic DOS game Duke Nukem II |
-| [OpenRA](https://github.com/OpenRA/OpenRA) | PC | ремейк движка | 17.8k | 4.5 | 2026-11-22 | ✅ | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on… |
-| [OpenZ](https://github.com/playopenz/OpenZ) | PC | ремейк движка | 292 | 4.4 | 2026-11-18 | ✅ | OpenZ: the faithful open-source 3D fan remake of Z (The Bitmap Brothers, 1996) for its 30th anniversary. Free, never sold, 100% original assets. |
+| [OpenRA](https://github.com/OpenRA/OpenRA) | PC | ремейк движка | 17.9k | 4.5 | 2026-11-22 | ✅ | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on… |
+| [Plants vs. Zombies (PvZ Portable)](https://github.com/wszqkzqk/PvZ-Portable) | PC | ремейк движка | 961 | 4.4 | 2026-11-27 | ✅ | A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition. |
+| [OpenZ](https://github.com/playopenz/OpenZ) | PC | ремейк движка | 294 | 4.4 | 2026-11-18 | ✅ | OpenZ: the faithful open-source 3D fan remake of Z (The Bitmap Brothers, 1996) for its 30th anniversary. Free, never sold, 100% original assets. |
 | [Diablo](https://github.com/diasurgical/devilution) | PC | ремейк движка | 9.0k | 4.35 | 2025-09-15 | — | Diablo devolved - magic behind the 1996 computer game |
-| [Theme Hospital (CorsixTH)](https://github.com/CorsixTH/CorsixTH) | PC | ремейк движка | 4.8k | 4.35 | 2026-11-27 | ✅ | Open source clone of Theme Hospital |
+| [Theme Hospital (CorsixTH)](https://github.com/CorsixTH/CorsixTH) | PC | ремейк движка | 4.8k | 4.35 | 2026-11-28 | ✅ | Open source clone of Theme Hospital |
 | [Thrive](https://github.com/Revolutionary-Games/Thrive) | PC | ремейк движка | 3.9k | 4.35 | 2026-11-27 | ✅ | The main repository for the development of the evolution game Thrive. |
-| [DOSBox-X](https://github.com/joncampbell123/dosbox-x) | PC | ремейк движка | 3.8k | 4.35 | 2026-11-27 | ✅ | DOSBox-X fork of the DOSBox project |
+| [DOSBox-X](https://github.com/joncampbell123/dosbox-x) | PC | ремейк движка | 3.8k | 4.35 | 2026-11-28 | ✅ | DOSBox-X fork of the DOSBox project |
 | [S.T.A.L.K.E.R. (OpenXRay)](https://github.com/OpenXRay/xray-16) | PC | рекомпиляция | 3.6k | 4.35 | 2026-11-23 | ✅ | Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;) |
-| [Widelands](https://github.com/widelands/widelands) | PC | ремейк движка | 3.1k | 4.35 | 2026-11-23 | ✅ | Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (©… |
 | [Descent 3 (Descent3 Open Source Engine)](https://github.com/DescentDevelopers/Descent3) | PC | ремейк движка | 3.0k | 4.35 | 2026-11-24 | ✅ | Descent 3 by Outrage Entertainment |
 | [PokeWilds](https://github.com/SheerSt/pokewilds) | PC | ремейк движка | 2.9k | 4.35 | 2026-08-16 | ✅ | PokeWilds - A Gen 2 Game/Engine using libGDX |
-| [Pioneer Space Simulator](https://github.com/pioneerspacesim/pioneer) | PC | ремейк движка | 1.9k | 4.35 | 2026-11-25 | ✅ | A game of lonely space adventure |
+| [vkQuake](https://github.com/Novum/vkQuake) | PC | ремейк движка | 2.3k | 4.35 | 2026-11-28 | ✅ | Vulkan Quake port based on QuakeSpasm |
+| [Pioneer Space Simulator](https://github.com/pioneerspacesim/pioneer) | PC | ремейк движка | 2.0k | 4.35 | 2026-11-25 | ✅ | A game of lonely space adventure |
 | [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) | PC | ремейк движка | 1.9k | 4.35 | 2026-08-07 | ✅ | Doom 3 BFG Edition source port with updated DX12 / Vulkan renderer and modern game engine features |
-| [M.U.G.E.N (Ikemen GO)](https://github.com/ikemen-engine/Ikemen-GO) | PC | ремейк движка | 1.7k | 4.35 | 2026-11-25 | ✅ | An open-source fighting game engine that supports MUGEN resources. |
-| [Bitburner](https://github.com/bitburner-official/bitburner-src) | PC | ремейк движка | 1.7k | 4.35 | 2026-11-25 | ✅ | Bitburner source code. |
+| [M.U.G.E.N (Ikemen GO)](https://github.com/ikemen-engine/Ikemen-GO) | PC | ремейк движка | 1.7k | 4.35 | 2026-11-28 | ✅ | An open-source fighting game engine that supports MUGEN resources. |
+| [Bitburner](https://github.com/bitburner-official/bitburner-src) | PC | ремейк движка | 1.7k | 4.35 | 2026-11-27 | ✅ | Bitburner source code. |
 | [triplea](https://github.com/triplea-game/triplea) | PC | ремейк движка | 1.6k | 4.35 | 2026-11-23 | ✅ | TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk. |
+| [Starbound (OpenStarbound)](https://github.com/OpenStarbound/OpenStarbound) | PC | порт | 1.5k | 4.35 | 2026-11-11 | ✅ | OpenStarbound is a port of Starbound that fixes bugs, improves performance, and adds new features like enhanced lighting and Lua scripting. |
 | [OpenTESArena](https://github.com/afritz1/OpenTESArena) | PC | ремейк движка | 1.5k | 4.35 | 2026-11-23 | ✅ | Open-source re-implementation of The Elder Scrolls: Arena. |
 | [Cataclysm: Bright Nights](https://github.com/cataclysmbn/Cataclysm-BN) | PC | ремейк движка | 1.3k | 4.35 | 2026-11-27 | ✅ | Cataclysm: Bright Nights: A fork/variant of Cataclysm:DDA by CleverRaven with a mod registry at https://mods.cataclysmbn.org/ |
+| [UltraStar Deluxe](https://github.com/UltraStar-Deluxe/USDX) | PC | рекомпиляция | 1.3k | 4.35 | 2026-11-27 | ✅ | The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™ |
 | [OpenBOR](https://github.com/DCurrent/openbor) | PC | ремейк движка | 1.3k | 4.35 | 2026-11-12 | ✅ | OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more! |
 | [Tuxemon](https://github.com/Tuxemon/Tuxemon) | PC | ремейк движка | 1.2k | 4.35 | 2026-11-16 | ✅ | Open source monster-fighting RPG. |
-| [That Trademark, the Roguelike (DRL)](https://github.com/chaosforgeorg/drl) | PC | ремейк движка | 1.2k | 4.35 | 2026-11-26 | ✅ | D, the Roguelike |
+| [That Trademark, the Roguelike (DRL)](https://github.com/chaosforgeorg/drl) | PC | ремейк движка | 1.2k | 4.35 | 2026-11-27 | ✅ | D, the Roguelike |
 | [LEGO Island (isle-portable)](https://github.com/isledecomp/isle-portable) | PC | порт | 1.1k | 4.35 | 2026-11-25 | ✅ | A portable version of LEGO Island (1997) |
 | [Quake II (Batocera port package 'vkquake2')](https://github.com/kondrak/vkQuake2) | PC | порт | 1.0k | 4.35 | 2026-08-04 | ✅ | id Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, macOS, FreeBSD, Raspberry Pi 4) |
 | [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) | PC | ремейк движка | 978 | 4.35 | 2026-11-16 | ✅ | Crispy Doom is a limit-removing enhanced-resolution Doom source port based on Chocolate Doom. |
 | [Unnamed SDVX Clone](https://github.com/Drewol/unnamed-sdvx-clone) | PC | ремейк движка | 955 | 4.35 | 2026-10-24 | ✅ | A game based on K-Shoot MANIA and Sound Voltex |
-| [Shockolate](https://github.com/Interrupt/systemshock) | PC | ремейк движка | 915 | 4.35 | 2026-10-18 | ✅ | Shockolate - A minimalist and cross platform System Shock source port. |
+| [Shockolate](https://github.com/Interrupt/systemshock) | PC | ремейк движка | 916 | 4.35 | 2026-10-18 | ✅ | Shockolate - A minimalist and cross platform System Shock source port. |
 | [Raze](https://github.com/ZDoom/Raze) | PC | порт | 898 | 4.35 | 2026-11-01 | ✅ | Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed. |
-| [LibreQuake](https://github.com/lavenderdotpet/LibreQuake) | PC | ремейк движка | 870 | 4.35 | 2026-11-16 | ✅ | A free and open source Quake remake with art under the BSD license |
+| [LibreQuake](https://github.com/lavenderdotpet/LibreQuake) | PC | ремейк движка | 872 | 4.35 | 2026-11-16 | ✅ | A free and open source Quake remake with art under the BSD license |
 | [Fallout 1 (Fallout Et Tu)](https://github.com/rotators/Fo1in2) | PC | ремейк движка | 862 | 4.35 | 2026-11-25 | ✅ | Fallout 1 to 2 engine conversion |
 | [Aleph One](https://github.com/Aleph-One-Marathon/alephone) | PC | ремейк движка | 827 | 4.35 | 2026-11-26 | ✅ | Aleph One is the open source continuation of Bungie’s Marathon 2 game engine. |
-| [OpenTTD (OpenTTD-patches)](https://github.com/JGRennison/OpenTTD-patches) | PC | ремейк движка | 817 | 4.35 | 2026-11-25 | ✅ | OpenTTD - http://www.openttd.org/ - with additional patches |
+| [OpenTTD (OpenTTD-patches)](https://github.com/JGRennison/OpenTTD-patches) | PC | ремейк движка | 817 | 4.35 | 2026-11-27 | ✅ | OpenTTD - http://www.openttd.org/ - with additional patches |
 | [Star Wars Jedi Knight: Dark Forces II (OpenJKDF2)](https://github.com/shinyquagsire23/OpenJKDF2) | PC | ремейк движка | 798 | 4.35 | 2026-11-20 | — | A cross-platform reimplementation of JKDF2 in C |
-| [Final Fantasy IX (Memoria)](https://github.com/Albeoris/Memoria) | PC | ремейк движка | 738 | 4.35 | 2026-11-09 | ✅ | Final Fantasy IX tools |
-| [HITMAN World of Assassination Trilogy (The Peacock Project)](https://github.com/thepeacockproject/Peacock) | PC | ремейк движка | 718 | 4.35 | 2026-11-27 | ✅ | The Peacock Project is a HITMAN™ World of Assassination trilogy server replacement. |
-| [Exult](https://github.com/exult/exult) | PC | ремейк движка | 712 | 4.35 | 2026-11-23 | ✅ | Exult is a project to recreate Ultima 7 for modern operating systems, using the game's original plot, data, and graphics files. |
+| [HITMAN World of Assassination Trilogy (The Peacock Project)](https://github.com/thepeacockproject/Peacock) | PC | ремейк движка | 721 | 4.35 | 2026-11-27 | ✅ | The Peacock Project is a HITMAN™ World of Assassination trilogy server replacement. |
+| [Exult](https://github.com/exult/exult) | PC | ремейк движка | 714 | 4.35 | 2026-11-23 | ✅ | Exult is a project to recreate Ultima 7 for modern operating systems, using the game's original plot, data, and graphics files. |
 | [ludo](https://github.com/libretro/ludo) | PC | ремейк движка | 706 | 4.35 | 2026-10-22 | ✅ | A libretro frontend written in golang |
-| [OpenCiv3](https://github.com/C7-Game/OpenCiv3) | PC | ремейк движка | 705 | 4.35 | 2026-11-16 | ✅ | OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and… |
 | [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) | PC | порт | 673 | 4.35 | 2026-11-10 | ✅ | DOOM III/Quake 4/Prey(2006)/ETQW GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/Skin Deep/Quadril… |
-| [Nox (OpenNox)](https://github.com/opennox/opennox) | PC | ремейк движка | 652 | 4.35 | 2026-09-21 | ✅ | OpenNox main repository. |
+| [Nox (OpenNox)](https://github.com/opennox/opennox) | PC | ремейк движка | 654 | 4.35 | 2026-09-21 | ✅ | OpenNox main repository. |
 | [OpenTyrian](https://github.com/opentyrian/opentyrian) | PC | ремейк движка | 616 | 4.35 | 2026-11-02 | ✅ | An open-source port of the scrolling shooter Tyrian. |
 | [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) | PC | ремейк движка | 609 | 4.35 | 2026-09-16 | ✅ | Opensource rebuild of the XCOM Apocalypse Engine that requires the original files to run. |
-| [Museum of All Things](https://github.com/m4ym4y/museum-of-all-things) | PC | ремейк движка | 586 | 4.35 | 2026-11-06 | ✅ | a nearly infinite 3d museum, dynamically generated from wikipedia |
-| [Doom (Helion Engine)](https://github.com/Helion-Engine/Helion) | PC | ремейк движка | 579 | 4.35 | 2026-11-27 | ✅ | A modern fast paced Doom FPS engine |
-| [Marvel Heroes (MHServerEmu)](https://github.com/Crypto137/MHServerEmu) | PC | ремейк движка | 574 | 4.35 | 2026-11-26 | ✅ | Server emulator for Marvel Heroes |
+| [Museum of All Things](https://github.com/m4ym4y/museum-of-all-things) | PC | ремейк движка | 587 | 4.35 | 2026-11-06 | ✅ | a nearly infinite 3d museum, dynamically generated from wikipedia |
+| [Doom (Helion Engine)](https://github.com/Helion-Engine/Helion) | PC | ремейк движка | 579 | 4.35 | 2026-11-28 | ✅ | A modern fast paced Doom FPS engine |
+| [Marvel Heroes (MHServerEmu)](https://github.com/Crypto137/MHServerEmu) | PC | ремейк движка | 574 | 4.35 | 2026-11-27 | ✅ | Server emulator for Marvel Heroes |
 | [Victoria 2 (Project Alice)](https://github.com/schombert/Project-Alice) | PC | ремейк движка | 572 | 4.35 | 2026-11-25 | ✅ | An open-source game |
 | [NXEngine-evo](https://github.com/nxengine/nxengine-evo) | PC | ремейк движка | 556 | 4.35 | 2026-10-23 | ✅ | nxengine refactoring |
 | [Metroid II: Return of Samus (AM2RLauncher)](https://github.com/AM2R-Community-Developers/AM2RLauncher) | PC | ремейк движка | 550 | 4.35 | 2026-09-22 | ✅ | Host respository for the AM2RLauncher. |
 | [Super Mario War](https://github.com/mmatyas/supermariowar) | PC | рекомпиляция | 547 | 4.35 | 2026-11-22 | ✅ | A fan-made multiplayer Super Mario Bros. style deathmatch game |
-| [openomf](https://github.com/omf2097/openomf) | PC | ремейк движка | 510 | 4.35 | 2026-11-26 | ✅ | One Must Fall 2097 Remake |
+| [openomf](https://github.com/omf2097/openomf) | PC | ремейк движка | 510 | 4.35 | 2026-11-28 | ✅ | One Must Fall 2097 Remake |
 | [Surge the Rabbit (Open Surge Engine)](https://github.com/alemart/opensurge) | PC | ремейк движка | 489 | 4.35 | 2026-10-09 | ✅ | Retro game engine inspired by 16-bit Sonic games. |
 | [MadnessPatch](https://github.com/Wemino/MadnessPatch) | PC | порт | 487 | 4.35 | 2026-11-16 | ✅ | A patch that fixes various issues in the PC port of Alice: Madness Returns |
 | [Oddworld 1-2](https://github.com/AliveTeam/alive_reversing) | PC | ремейк движка | 457 | 4.35 | 2026-10-26 | ✅ | Re-implementation of Oddworld: Abe's Exoddus and Oddworld: Abe's Oddysee |
-| [Wargus](https://github.com/Wargus/wargus) | PC | ремейк движка | 453 | 4.35 | 2026-11-16 | ✅ | Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales |
-| [Need for Speed: Underground 2 (nfsu2-recompiled)](https://github.com/codepdbh/nfsu2-recompiled) | PC | рекомпиляция | 447 | 4.35 | 2026-11-20 | ✅ | Static recompilation of Need for Speed Underground 2 (SPEED2.EXE x86-32 -> C) with pcrecomp. Bring your own game; no game code or data included. |
-| [Cataclysm: The Last Generation](https://github.com/Cataclysm-TLG/Cataclysm-TLG) | PC | ремейк движка | 443 | 4.35 | 2026-11-23 | ✅ | Cataclysm: The Last Generation |
-| [Albion (SR)](https://github.com/M-HT/SR) | PC | ремейк движка | 441 | 4.35 | 2026-08-27 | ✅ | A project to statically recompile following games to create Windows or Linux (x86 or arm) versions of the games - Albion, X-Com: UFO Defense (UFO: En… |
-| [Principia](https://github.com/Bithack/principia) | PC | рекомпиляция | 433 | 4.35 | 2026-11-25 | ✅ | Open source physics-based sandbox game with electronic circuitry, mechanics, robots, puzzles, Lua scripting and more. |
+| [Wargus](https://github.com/Wargus/wargus) | PC | ремейк движка | 454 | 4.35 | 2026-11-16 | ✅ | Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales |
+| [Need for Speed: Underground 2 (nfsu2-recompiled)](https://github.com/codepdbh/nfsu2-recompiled) | PC | рекомпиляция | 448 | 4.35 | 2026-11-20 | ✅ | Static recompilation of Need for Speed Underground 2 (SPEED2.EXE x86-32 -> C) with pcrecomp. Bring your own game; no game code or data included. |
+| [Cataclysm: The Last Generation](https://github.com/Cataclysm-TLG/Cataclysm-TLG) | PC | ремейк движка | 443 | 4.35 | 2026-11-27 | ✅ | Cataclysm: The Last Generation |
+| [Principia](https://github.com/Bithack/principia) | PC | рекомпиляция | 433 | 4.35 | 2026-11-27 | ✅ | Open source physics-based sandbox game with electronic circuitry, mechanics, robots, puzzles, Lua scripting and more. |
+| [The Elder Scrolls V: Skyrim (Skyrim for Android)](https://github.com/ttom795/Skyrim_Android) | PC | рекомпиляция | 432 | 4.35 | 2026-11-26 | ✅ | A static recompilation of Skyrim (2011) for Android devices. |
 | [Adventures of Demo (TheXTech)](https://github.com/TheXTech/TheXTech) | PC | ремейк движка | 431 | 4.35 | 2026-11-25 | ✅ | The full port of the SMBX engine from VB6 into C++ and SDL2, FreeImage and MixerX |
-| [OpenJazz](https://github.com/AlisterT/openjazz) | PC | ремейк движка | 429 | 4.35 | 2026-09-01 | ✅ | OpenJazz |
-| [The Elder Scrolls V: Skyrim (Skyrim for Android)](https://github.com/ttom795/Skyrim_Android) | PC | рекомпиляция | 423 | 4.35 | 2026-11-26 | ✅ | A static recompilation of Skyrim (2011) for Android devices. |
+| [OpenJazz](https://github.com/AlisterT/openjazz) | PC | ремейк движка | 431 | 4.35 | 2026-09-01 | ✅ | OpenJazz |
 | [Libre TrainSim](https://github.com/Libre-TrainSim/Libre-TrainSim) | PC | ремейк движка | 375 | 4.35 | 2026-11-25 | ✅ | Train Simulator written in Godot Engine - Free for everyone. |
 | [Vega Strike](https://github.com/vegastrike/Vega-Strike-Engine-Source) | PC | ремейк движка | 371 | 4.35 | 2026-11-24 | ✅ | Vega Strike Engine |
-| [Zero Hour Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) | PC | порт | 356 | 4.35 | 2026-11-27 | ✅ | Zero Hour rebuilt from EA's source: x64, Direct3D 11, VS2022/CMake, ~60 original bugs fixed, an AI that builds a base. Bring your own game. |
+| [Zero Hour Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) | PC | порт | 355 | 4.35 | 2026-11-28 | ✅ | Zero Hour rebuilt from EA's source: x64, Direct3D 11, VS2022/CMake, ~60 original bugs fixed, an AI that builds a base. Bring your own game. |
 | [Dr. Robotnik's Ring Racers](https://github.com/KartKrewDev/RingRacers) | PC | ремейк движка | 349 | 4.35 | 2026-08-31 | ✅ | Dr. Robotnik's Ring Racers is a kart racing game based on Sonic the Hedgehog fangames. |
 | [Dust Racing 2D](https://github.com/juzzlin/DustRacing2D) | PC | ремейк движка | 343 | 4.35 | 2026-11-15 | ✅ | Dust Racing 2D is a traditional top-down car racing game including a level editor. |
 | [Titanfall 2 (Northstar Launcher)](https://github.com/R2Northstar/NorthstarLauncher) | PC | ремейк движка | 322 | 4.35 | 2026-11-06 | ✅ | Launcher used to modify Titanfall 2 to allow mods to be loaded |
-| [Odamex](https://github.com/odamex/odamex) | PC | порт | 309 | 4.35 | 2026-11-24 | ✅ | Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements. |
-| [Syndicate Wars](https://github.com/swfans/syndwarsfx) | PC | ремейк движка | 277 | 4.35 | 2026-11-26 | ✅ | Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game |
+| [Syndicate Wars](https://github.com/swfans/syndwarsfx) | PC | ремейк движка | 278 | 4.35 | 2026-11-26 | ✅ | Syndicate Wars Fan Expansion, Open Source remake of the classic Bullfrog game |
 | [Freeciv21](https://github.com/longturn/freeciv21) | PC | ремейк движка | 276 | 4.35 | 2026-11-06 | ✅ | Develop your civilization from humble roots to a global empire |
-| [The Eternity Engine](https://github.com/team-eternity/eternity) | PC | порт | 274 | 4.35 | 2026-11-26 | ✅ | The Eternity Engine |
-| [Half-Life (Lambda1VR (Xash3D VR port))](https://github.com/Team-Beef-Studios/Lambda1VR) | PC | порт | 254 | 4.35 | 2026-09-02 | ✅ | Port of the Xash3D-FWGS Half Life Engine to Oculus Quest |
+| [The Eternity Engine](https://github.com/team-eternity/eternity) | PC | порт | 274 | 4.35 | 2026-11-28 | ✅ | The Eternity Engine |
+| [Half-Life (Lambda1VR (Xash3D VR port))](https://github.com/Team-Beef-Studios/Lambda1VR) | PC | порт | 255 | 4.35 | 2026-09-02 | ✅ | Port of the Xash3D-FWGS Half Life Engine to Oculus Quest |
 | [Cricket 07 (Cricket 07 in the browser)](https://github.com/Dhaiwat10/cricket07-browser) | PC | браузер | 242 | 4.35 | 2026-11-08 | — | EA Sports Cricket 07 (2006) running in the browser: every function statically recompiled from x86 to C, then WebAssembly, with Direct3D 8 rebuilt on… |
 | [Marble Blast Gold (MBHaxe)](https://github.com/RandomityGuy/MBHaxe) | PC | порт | 233 | 4.35 | 2026-11-26 | ✅ | An optimized port of Marble Blast Gold, Platinum, Ultra and PlatinumQuest with 99% identical physics and cross platform multiplayer, runs on Windows,… |
+| [Minecraft: Java Edition (Minecraft PSP)](https://github.com/Pencea-Flavius/Minecraft-PE-PSP) | PC | порт | 222 | 4.35 | 2026-09-25 | ✅ |  |
 | [Club Penguin (Waddle Forever)](https://github.com/nhaar/Waddle-Forever) | PC | ремейк движка | 221 | 4.35 | 2026-10-24 | ✅ | Singleplayer and playable digital archive version of Club Penguin |
-| [Minecraft: Java Edition (Minecraft PSP)](https://github.com/Pencea-Flavius/Minecraft-PE-PSP) | PC | порт | 221 | 4.35 | 2026-09-25 | ✅ |  |
 | [Python Patcher (07th-Mod Python Patcher)](https://github.com/07th-mod/python-patcher) | PC | ремейк движка | 218 | 4.35 | 2026-11-04 | ✅ | Mod Installer for the Higurashi and Umineko Games |
-| [The Simpsons: Hit & Run (The Simpsons: Hit & Run Android)](https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android) | PC | порт | 204 | 4.35 | 2026-11-10 | ✅ | Unofficial Android port of The Simpsons: Hit & Run. Requires legally owned game files. No assets included. |
+| [The Simpsons: Hit & Run (The Simpsons: Hit & Run Android)](https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android) | PC | порт | 205 | 4.35 | 2026-11-27 | ✅ | Unofficial Android port of The Simpsons: Hit & Run. Requires legally owned game files. No assets included. |
 | [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) | PC | порт | 203 | 4.35 | 2026-11-22 | — | CatacombGL is a source port with OpenGL graphics for Catacomb 3D (1991), The Catacomb Abyss (1992), The Catacomb Armageddon (1992) and The Catacomb A… |
-| [Crimsonland](https://github.com/banteg/crimson) | PC | ремейк движка | 202 | 4.35 | 2026-11-21 | ✅ | a faithful rewrite of crimsonland (2003) |
-| [Retro Engine (RSDKv5(U) (Mania Plus and Origins))](https://github.com/RSDKModding/RSDKv5-Decompilation) | PC | декомпиляция | 585 | 4.25 | 2026-10-03 | ✅ | A complete decompilation of Retro Engine (v5) |
+| [Crimsonland](https://github.com/banteg/crimson) | PC | ремейк движка | 203 | 4.35 | 2026-11-21 | ✅ | a faithful rewrite of crimsonland (2003) |
+| [Retro Engine (RSDKv5(U) (Mania Plus and Origins))](https://github.com/RSDKModding/RSDKv5-Decompilation) | PC | декомпиляция | 586 | 4.25 | 2026-10-03 | ✅ | A complete decompilation of Retro Engine (v5) |
 | [Lego Island](https://github.com/isledecomp/isle) | PC | декомпиляция | 3.5k | 4.2 | 2026-11-24 | ✅ | A decompilation of LEGO Island (1997) |
-| [Grand Theft Auto: San Andreas](https://github.com/gta-reversed/gta-reversed) | PC | ремейк движка | 1.4k | 4.2 | 2026-11-27 | — | Reimplementation of GTA:SA 1.0 US |
+| [Grand Theft Auto: San Andreas](https://github.com/gta-reversed/gta-reversed) | PC | ремейк движка | 1.4k | 4.2 | 2026-11-28 | — | Reimplementation of GTA:SA 1.0 US |
 | [Yamagi Quake II](https://github.com/yquake2/yquake2) | PC | порт | 1.0k | 4.2 | 2026-11-22 | — | The Yamagi Quake II client |
-| [Underworld Revisited](https://github.com/PQMarine/UnderworldRevisited) | PC | ремейк движка | 51 | 4.2 | 2026-11-26 | ✅ | An open-source reimplementation of Ultima Underworld I and II (UW1 and UW2) in Unity, faithful to the originals' rules. The first game is complete, t… |
+| [Underworld Revisited](https://github.com/PQMarine/UnderworldRevisited) | PC | ремейк движка | 52 | 4.2 | 2026-11-28 | ✅ | An open-source reimplementation of Ultima Underworld I and II (UW1 and UW2) in Unity, faithful to the originals' rules. The first game is complete, t… |
 | [Fallout (Fallout Community Edition)](https://github.com/alexbatalov/fallout1-ce) | PC | ремейк движка | 3.0k | 4.15 | 2025-01-15 | ✅ | Fallout for modern operating systems |
 | [Teeworlds](https://github.com/teeworlds/teeworlds) | PC | ремейк движка | 2.7k | 4.15 | 2025-07-12 | ✅ | A retro multiplayer shooter |
 | [Fallout 2 (Fallout 2 Community Edition)](https://github.com/alexbatalov/fallout2-ce) | PC | ремейк движка | 2.5k | 4.15 | 2025-02-16 | ✅ | Fallout 2 for modern operating systems |
@@ -177,128 +172,124 @@
 | [Need for Speed II: Special Edition (NFSIISE)](https://github.com/zaps166/NFSIISE) | PC | ремейк движка | 802 | 4.15 | 2026-05-01 | ✅ | Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol! |
 | [LEGO Universe (DarkflameServer)](https://github.com/DarkflameUniverse/DarkflameServer) | PC | ремейк движка | 768 | 4.15 | 2026-10-29 | ✅ | The main repository for the Darkflame Universe Server Emulator project. |
 | [Ultima Online (ClassicUO)](https://github.com/ClassicUO/ClassicUO) | PC | рекомпиляция | 750 | 4.15 | 2026-09-29 | ✅ | ClassicUO - an open source implementation of the Ultima Online Classic Client. |
+| [Final Fantasy IX (Memoria)](https://github.com/Albeoris/Memoria) | PC | ремейк движка | 738 | 4.15 | 2026-11-09 | ✅ | Final Fantasy IX tools |
 | [Colonization (FreeCol)](https://github.com/FreeCol/freecol) | PC | ремейк движка | 729 | 4.15 | 2026-11-26 | ✅ | FreeCol: FreeCol is a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to creat… |
-| [BombSquad (Ballistica)](https://github.com/efroemling/ballistica) | PC | рекомпиляция | 722 | 4.15 | 2026-11-25 | ✅ | The BombSquad Game Engine |
-| [GLSMAC](https://github.com/afwbkbc/glsmac) | PC | ремейк движка | 669 | 4.15 | 2026-11-26 | ✅ | Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ) |
+| [BombSquad (Ballistica)](https://github.com/efroemling/ballistica) | PC | рекомпиляция | 720 | 4.15 | 2026-11-28 | ✅ | The BombSquad Game Engine |
+| [OpenCiv3](https://github.com/C7-Game/OpenCiv3) | PC | ремейк движка | 708 | 4.15 | 2026-11-16 | ✅ | OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and… |
+| [GLSMAC](https://github.com/afwbkbc/glsmac) | PC | ремейк движка | 671 | 4.15 | 2026-11-26 | ✅ | Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ) |
 | [LinCity-NG: A city simulation game](https://github.com/lincity-ng/lincity-ng) | PC | ремейк движка | 655 | 4.15 | 2026-10-05 | ✅ | City Simulation Game |
 | [Ambermoon](https://github.com/Pyrdacor/Ambermoon.net) | PC | ремейк движка | 564 | 4.15 | 2026-11-17 | ✅ | Ambermoon rewrite in C# |
 | [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) | PC | ремейк движка | 551 | 4.15 | 2026-11-18 | ✅ | The continuation of the venerable JA2-Stracciatella project. |
-| [Red Eclipse](https://github.com/redeclipse/base) | PC | ремейк движка | 545 | 4.15 | 2026-11-27 | ✅ | Base environment for Red Eclipse and associated source files. |
-| [Pharaoh (Akhenaten)](https://github.com/dalerank/Akhenaten) | PC | ремейк движка | 542 | 4.15 | 2026-11-27 | ✅ | Pharaoh (1999, open source engine) |
-| [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) | PC | порт | 515 | 4.15 | 2026-11-26 | ✅ | Origin Repository for SCP FreeSpace 2 Open |
-| [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) | PC | ремейк движка | 509 | 4.15 | 2026-06-28 | ✅ | A mod manager for Sonic Generations, Sonic Lost World, Sonic Forces, Sonic Colours Ultimate and other PC Hedgehog Engine games. |
+| [Red Eclipse](https://github.com/redeclipse/base) | PC | ремейк движка | 546 | 4.15 | 2026-11-28 | ✅ | Base environment for Red Eclipse and associated source files. |
+| [Pharaoh (Akhenaten)](https://github.com/dalerank/Akhenaten) | PC | ремейк движка | 542 | 4.15 | 2026-11-28 | ✅ | Pharaoh (1999, open source engine) |
+| [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) | PC | порт | 515 | 4.15 | 2026-11-28 | ✅ | Origin Repository for SCP FreeSpace 2 Open |
+| [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) | PC | ремейк движка | 510 | 4.15 | 2026-06-28 | ✅ | A mod manager for Sonic Generations, Sonic Lost World, Sonic Forces, Sonic Colours Ultimate and other PC Hedgehog Engine games. |
 | [Crysis (C1-Launcher)](https://github.com/ccomrade/c1-launcher) | PC | порт | 506 | 4.15 | 2026-01-19 | ✅ | Open-source Crysis executables |
 | [Vange-rs](https://github.com/kvark/vange-rs) | PC | ремейк движка | 491 | 4.15 | 2026-11-27 | ✅ | Rusty Vangers clone |
 | [Nanosaur](https://github.com/jorio/Nanosaur) | PC | порт | 478 | 4.15 | 2026-04-27 | ✅ | Nanosaur source port 🦖 |
-| [Command & Conquer: Generals (GeneralsX)](https://github.com/fbraz3/GeneralsX) | PC | ремейк движка | 426 | 4.15 | 2026-11-27 | ✅ | Command and Conquer: Generals - Zero Hour |
+| [Albion (SR)](https://github.com/M-HT/SR) | PC | ремейк движка | 441 | 4.15 | 2026-08-27 | ✅ | A project to statically recompile following games to create Windows or Linux (x86 or arm) versions of the games - Albion, X-Com: UFO Defense (UFO: En… |
+| [Command & Conquer: Generals (GeneralsX)](https://github.com/fbraz3/GeneralsX) | PC | ремейк движка | 426 | 4.15 | 2026-11-28 | ✅ | Command and Conquer: Generals - Zero Hour |
 | [Warcraft III (OpenRealm)](https://github.com/corepunch/open-realm) | PC | ремейк движка | 411 | 4.15 | 2026-11-27 | ✅ | Open-source reimplementation of the Warcraft III (as well as World of Warcraft and Starcraft II) game engine, written in C. Loads and renders origina… |
 | [BStone](https://github.com/bibendovsky/bstone) | PC | ремейк движка | 376 | 4.15 | 2026-05-27 | ✅ | Unofficial source port for Blake Stone series |
-| [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) | PC | ремейк движка | 376 | 4.15 | 2026-11-27 | ✅ | A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming,… |
+| [Dune-II---The-Maker](https://github.com/stefanhendriks/Dune-II---The-Maker) | PC | ремейк движка | 376 | 4.15 | 2026-11-28 | ✅ | A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming,… |
 | [OpenTIE](https://github.com/elyosh/OpenTIE) | PC | рекомпиляция | 370 | 4.15 | 2026-10-04 | ✅ | Open-source recomp of TIE Fighter. |
 | [Quetoo](https://github.com/jdolan/quetoo) | PC | ремейк движка | 350 | 4.15 | 2026-11-26 | ✅ | Quetoo ("Q2") is a free first person shooter based on id Tech2. GPL v2 license. |
+| [The Settlers I](https://github.com/freeserf/freeserf) | PC | ремейк движка | 348 | 4.15 | 2026-11-14 | ✅ | Settlers 1 (Serf City) clone. |
 | [Cortex Command Community Project](https://github.com/cortex-command-community/Cortex-Command-Community-Project) | PC | ремейк движка | 347 | 4.15 | 2026-11-12 | ✅ | Cortex Command - Open Source under GNU AGPL v3 |
-| [The Settlers I](https://github.com/freeserf/freeserf) | PC | ремейк движка | 347 | 4.15 | 2026-11-14 | ✅ | Settlers 1 (Serf City) clone. |
-| [ROTA: Bend Gravity](https://github.com/HarmonyHoney/ROTA) | PC | порт | 340 | 4.15 | 2026-06-25 | ✅ | Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game |
-| [Supaplex (OpenSupaplex)](https://github.com/sergiou87/open-supaplex) | PC | ремейк движка | 316 | 4.15 | 2026-10-23 | ✅ | Reverse engineering Supaplex |
-| [Slippi Launcher](https://github.com/project-slippi/slippi-launcher) | PC | ремейк движка | 311 | 4.15 | 2026-11-24 | ✅ | The way to play Slippi Online and watch replays. |
+| [ROTA: Bend Gravity](https://github.com/HarmonyHoney/ROTA) | PC | порт | 341 | 4.15 | 2026-06-25 | ✅ | Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game |
+| [Supaplex (OpenSupaplex)](https://github.com/sergiou87/open-supaplex) | PC | ремейк движка | 317 | 4.15 | 2026-10-23 | ✅ | Reverse engineering Supaplex |
+| [Slippi Launcher](https://github.com/project-slippi/slippi-launcher) | PC | ремейк движка | 312 | 4.15 | 2026-11-24 | ✅ | The way to play Slippi Online and watch replays. |
+| [Odamex](https://github.com/odamex/odamex) | PC | порт | 309 | 4.15 | 2026-11-24 | ✅ | Odamex - Online Multiplayer Doom port with a strong focus on the original gameplay while providing a breadth of enhancements. |
 | [OpenLieroX](https://github.com/openlierox/openlierox) | PC | рекомпиляция | 306 | 4.15 | 2026-10-27 | ✅ | OpenLieroX - Liero clone / Worms realtime / 2D shooter |
+| [Call of Duty: Black Ops II (BO2 Mac)](https://github.com/adrbn/bo2-mac) | PC | рекомпиляция | 283 | 4.15 | 2026-11-27 | ✅ | Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direc… |
 | [Heretic2R](https://github.com/m-x-d/Heretic2R) | PC | ремейк движка | 282 | 4.15 | 2026-08-21 | ✅ | Heretic II (1998, Raven Software) reverse-engineered source port. |
-| [Call of Duty: Black Ops II](https://github.com/adrbn/bo2-mac) | PC | рекомпиляция | 281 | 4.15 | 2026-11-27 | ✅ | Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direc… |
 | [Homestuck (Unofficial Homestuck Collection)](https://github.com/GiovanH/unofficial-homestuck-collection) | PC | ремейк движка | 269 | 4.15 | 2026-04-21 | ✅ | An offline collection of Homestuck and its related works. |
 | [Spelunky Classic (Spelunky Classic HD)](https://github.com/yancharkin/SpelunkyClassicHD) | PC | ремейк движка | 261 | 4.15 | 2026-08-25 | ✅ | A modified version of Derek Yu's game Spelunky Classic. |
 | [Total Annihilation (Nanolathe)](https://github.com/nanolathe-gg/nanolathe) | PC | ремейк движка | 261 | 4.15 | 2026-11-26 | ✅ | Total Annihilation engine reimplementation in Go. |
-| [Command & Conquer: Red Alert 2 (Red Alert 2 and Yuri's Revenge - Static Recompilation)](https://github.com/sp00nznet/redalert2-recomp) | PC | рекомпиляция | 242 | 4.15 | 2026-11-21 | ✅ | Static recompilation of Command & Conquer: Red Alert 2 / Yuri's Revenge (Westwood, 2000-01) to native C, with the remaster the engine never got: a D3… |
-| [openQ4](https://github.com/themuffinator/openQ4) | PC | порт | 237 | 4.15 | 2026-11-27 | ✅ | openQ4: the modern way to play QUAKE 4. An open-source Quake4 source port on a modernized idTech4 engine, with Vulkan and OpenGL renderers, for Windo… |
+| [Command & Conquer: Red Alert 2 (Red Alert 2 and Yuri's Revenge - Static Recompilation)](https://github.com/sp00nznet/redalert2-recomp) | PC | рекомпиляция | 243 | 4.15 | 2026-11-21 | ✅ | Static recompilation of Command & Conquer: Red Alert 2 / Yuri's Revenge (Westwood, 2000-01) to native C, with the remaster the engine never got: a D3… |
+| [openQ4](https://github.com/themuffinator/openQ4) | PC | порт | 237 | 4.15 | 2026-11-28 | ✅ | openQ4: the modern way to play QUAKE 4. An open-source Quake4 source port on a modernized idTech4 engine, with Vulkan and OpenGL renderers, for Windo… |
 | [Rayman Control Panel](https://github.com/RayCarrot/RaymanControlPanel) | PC | ремейк движка | 233 | 4.15 | 2026-07-10 | ✅ | Rayman Control Panel |
 | [The Return of the King (Athelas)](https://github.com/Shagg88/Athelas) | PC | рекомпиляция | 230 | 4.15 | 2026-11-26 | ✅ | Play The Return of the King (PC and Xbox) and The Two Towers (Xbox) on a modern PC |
-| [Factorio (Pocket Foundry)](https://github.com/JulioFerrero/pocket-foundry) | PC | порт | 220 | 4.15 | 2026-11-25 | ✅ | Play your own copy of Factorio on Android: the official Linux ARM64 build, run without emulation on the phone's GPU, with an on-screen controller. |
-| [Threadbare](https://github.com/endlessm/threadbare) | PC | ремейк движка | 209 | 4.15 | 2026-11-26 | ✅ | Rebuild an unraveling world |
-| [Zeus: Master of Olympus (eZeus)](https://github.com/MaurycyLiebner/eZeus) | PC | ремейк движка | 197 | 4.15 | 2026-11-27 | ✅ | Open-source implementation of Zeus: Master of Olympus. |
+| [Factorio (Pocket Foundry)](https://github.com/JulioFerrero/pocket-foundry) | PC | порт | 221 | 4.15 | 2026-11-25 | ✅ | Play your own copy of Factorio on Android: the official Linux ARM64 build, run without emulation on the phone's GPU, with an on-screen controller. |
+| [Threadbare](https://github.com/endlessm/threadbare) | PC | ремейк движка | 209 | 4.15 | 2026-11-27 | ✅ | Rebuild an unraveling world |
+| [Zeus: Master of Olympus (eZeus)](https://github.com/MaurycyLiebner/eZeus) | PC | ремейк движка | 198 | 4.15 | 2026-11-27 | ✅ | Open-source implementation of Zeus: Master of Olympus. |
 | [Combined Arms (Combined Arms (OpenRA))](https://github.com/Inq8/CAmod) | PC | ремейк движка | 196 | 4.15 | 2026-09-30 | ✅ | Combined Arms |
 | [Ultima Online (CrossUO)](https://github.com/crossuo/crossuo) | PC | ремейк движка | 180 | 4.15 | 2026-11-23 | ✅ | CrossUO - Open Source Ultima Online Client |
-| [Need for Speed: Most Wanted (Need for Speed Most Wanted Mac)](https://github.com/elforeign/nfs-most-wanted-mac) | PC | рекомпиляция | 175 | 4.15 | 2026-11-25 | ✅ | Need for Speed: Most Wanted (2005), native on Apple Silicon Macs by static recompilation. Bring your own PC game. |
-| [Need for Speed: Most Wanted (NFS Most Wanted PC Recompiled (NFS Android Evolved))](https://github.com/codepdbh/nfsmwpc-recompiled) | PC | рекомпиляция | 173 | 4.15 | 2026-11-20 | ✅ | Need for Speed Most Wanted 2005 (PC version) - static recompilation to native Windows and Android ARM64 (NFS Android Evolved) |
+| [Need for Speed: Most Wanted (Need for Speed Most Wanted Mac)](https://github.com/elforeign/nfs-most-wanted-mac) | PC | рекомпиляция | 175 | 4.15 | 2026-11-27 | ✅ | Need for Speed: Most Wanted (2005), native on Apple Silicon Macs by static recompilation. Bring your own PC game. |
+| [Need for Speed: Most Wanted (NFS Most Wanted PC Recompiled (NFS Android Evolved))](https://github.com/codepdbh/nfsmwpc-recompiled) | PC | рекомпиляция | 171 | 4.15 | 2026-11-20 | ✅ | Need for Speed Most Wanted 2005 (PC version) - static recompilation to native Windows and Android ARM64 (NFS Android Evolved) |
 | [Lix](https://github.com/SimonN/LixD) | PC | ремейк движка | 169 | 4.15 | 2026-10-11 | ✅ | Lix: Lemmings-like game with puzzles, editor, multiplayer |
-| [Alone in the Dark (Alone In The Dark: Re-Haunted)](https://github.com/spacefarergames/AloneInTheDarkReHaunted) | PC | ремейк движка | 162 | 4.15 | 2026-11-25 | ✅ | A heavily enhanced port and dynamic recomp of Alone In The Dark 1, with Textured Models, HD-4K background replacements, QOL improvements, controller… |
-| [MegaZeux](https://github.com/MegaZeux/megazeux) | PC | порт | 156 | 4.15 | 2026-11-27 | ✅ | Official MegaZeux git repository |
-| [OPHD](https://github.com/OutpostUniverse/OPHD) | PC | ремейк движка | 148 | 4.15 | 2026-11-26 | ✅ | OutpostHD - Open source remake of Sierra On-Line's Outpost |
+| [Titanfall 1 (R1Delta)](https://github.com/r1delta/r1delta) | PC | ремейк движка | 166 | 4.15 | 2026-11-28 | ✅ | Custom server framework for Titanfall 1 that allows hosting dedicated servers and loading mods. |
+| [MegaZeux](https://github.com/MegaZeux/megazeux) | PC | порт | 156 | 4.15 | 2026-11-28 | ✅ | Official MegaZeux git repository |
+| [OPHD](https://github.com/OutpostUniverse/OPHD) | PC | ремейк движка | 149 | 4.15 | 2026-11-26 | ✅ | OutpostHD - Open source remake of Sierra On-Line's Outpost |
 | [Keen Dreams (ReflectionHLE)](https://github.com/ReflectionHLE/ReflectionHLE) | PC | ремейк движка | 146 | 4.15 | 2026-10-31 | ✅ | Ports of Keen Dreams, the 3D Catacomb games and Wolfenstein 3D and derived games, and BioMenace (DOS) |
-| [Flame](https://github.com/DiaLight/Flame) | PC | рекомпиляция | 142 | 4.15 | 2026-11-08 | ✅ | Dungeon Keeper II partial recompilation with bug fixes |
+| [Flame](https://github.com/DiaLight/Flame) | PC | рекомпиляция | 143 | 4.15 | 2026-11-08 | ✅ | Dungeon Keeper II partial recompilation with bug fixes |
 | [Warcraft: Orcs & Humans (War1gus)](https://github.com/Wargus/war1gus) | PC | ремейк движка | 140 | 4.15 | 2026-11-16 | ✅ | Importer and scripts for Warcraft: Orcs and Humans |
 | [Doom 3 (Doom3Quest)](https://github.com/Team-Beef-Studios/Doom3Quest) | PC | порт | 138 | 4.15 | 2026-09-05 | ✅ | Doom 3 based on a combination of the excellent dhewm3 and d3wasm projects, with multithreaded backend renderering from emileb, OpenGLES MultiView fro… |
 | [3D Movie Maker (3DMMEx)](https://github.com/benstone/3DMMEx) | PC | ремейк движка | 131 | 4.15 | 2026-11-06 | ✅ | A classic 3D Movie Maker experience for modern systems |
 | [Age of Empires Online (Project Celeste)](https://github.com/ProjectCeleste/Celeste.Launcher) | PC | порт | 131 | 4.15 | 2026-10-18 | ✅ | Project Celeste is a PC port of Age of Empires Online. |
 | [BuildLauncher](https://github.com/fgsfds/BuildLauncher) | PC | порт | 129 | 4.15 | 2026-11-12 | ✅ | BuildLauncher is THE frontend for Build Engine games |
 | [Gabriel Knight 3: Blood of the Sacred, Blood of the Damned (G-Engine)](https://github.com/kromenak/gengine) | PC | ремейк движка | 128 | 4.15 | 2026-11-01 | ✅ | A 3D game engine capable of parsing and running data files from the classic Sierra Studio's adventure game Gabriel Knight 3 |
-| [Katawa Shoujo (Katawa Shoujo: Re-Engineered)](https://github.com/fleetingheart/ksre) | PC | ремейк движка | 127 | 4.15 | 2026-10-12 | ✅ | Mirror of the KSRE repo. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please visit repo's website |
-| [Windows Frotz (WinFrotz)](https://github.com/DavidKinder/Windows-Frotz) | PC | порт | 126 | 4.15 | 2026-11-11 | ✅ | Z-code interpreter for Windows, based on Stefan Jokisch's Frotz interpreter core. |
+| [Katawa Shoujo (Katawa Shoujo: Re-Engineered)](https://github.com/fleetingheart/ksre) | PC | ремейк движка | 127 | 4.15 | 2026-11-27 | ✅ | Mirror of the KSRE repo. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please visit repo's website |
 | [Feudal Tactics - Medieval Strategy Game](https://github.com/Sesu8642/FeudalTactics) | PC | ремейк движка | 125 | 4.15 | 2026-10-19 | ✅ | Strategy game with countless unique and challenging levels. |
 | [Shin Ryu Mod Manager](https://github.com/SRMM-Studio/ShinRyuModManager) | PC | ремейк движка | 123 | 4.15 | 2026-11-21 | ✅ | Mod manager for the Yakuza/Like a Dragon series (Ryu Ga Gotoku) PC games. |
 | [Sopwith (SDL Sopwith)](https://github.com/fragglet/sdl-sopwith) | PC | ремейк движка | 122 | 4.15 | 2026-11-13 | ✅ | Classic bi-plane shoot-'em up |
 | [Plants vs. Zombies Garden Warfare (GardenGate)](https://github.com/nocss42/GardenGate) | PC | порт | 113 | 4.15 | 2026-10-26 | ✅ | GardenGate is the first public, open source private server software for Garden Warfare 1, 2 AND Battle for Neighborville! |
-| [The Ur-Quan Masters (Ur-Quan Masters HD MegaMod)](https://github.com/JHGuitarFreak/UQM-MegaMod) | PC | порт | 112 | 4.15 | 2026-11-25 | ✅ | A fork of The Ur-Quan Masters + HD-mod that remasters the HD graphics with a veritable smorgasbord of extra features, options, QoL improvements, and… |
+| [The Ur-Quan Masters (Ur-Quan Masters HD MegaMod)](https://github.com/JHGuitarFreak/UQM-MegaMod) | PC | порт | 112 | 4.15 | 2026-11-27 | ✅ | A fork of The Ur-Quan Masters + HD-mod that remasters the HD graphics with a veritable smorgasbord of extra features, options, QoL improvements, and… |
 | [simutrans](https://github.com/simutrans/simutrans) | PC | ремейк движка | 110 | 4.15 | 2026-11-23 | ✅ | Simutrans is a freeware and open-source transportation simulator. :flower_playing_cards: |
-| [Knytt Stories (YKnytt)](https://github.com/youkaicountry/yknytt) | PC | ремейк движка | 109 | 4.15 | 2026-11-26 | ✅ | Implementation of Knytt Stories in the Godot engine |
 | [Aliens vs Predator Classic (NakedAVP)](https://github.com/atsb/NakedAVP) | PC | ремейк движка | 101 | 4.15 | 2026-11-09 | ✅ | NakedAVP is a port of Aliens vs Predator Classic (2000) to modern systems, based on the icculus port for Linux, macOS and Windows using SDL3 |
 | [OutRun](https://github.com/ZgzInfinity/OutRun) | PC | ремейк движка | 98 | 4.15 | 2026-10-11 | ✅ | A new version of the game Out Run of 1986 for PC using SFML and C++ |
 | [Glider PRO (Aerofoil)](https://github.com/elasota/Aerofoil) | PC | ремейк движка | 97 | 4.15 | 2026-10-26 | ✅ | Multiplatform desktop/mobile/browser port of Glider PRO, the classic Macintosh paper airplane game |
-| [Championship Manager: Season 01/02 (02: Bosman Edition)](https://github.com/maxevans60/cm0102-bosman-edition) | PC | рекомпиляция | 95 | 4.15 | 2026-11-20 | — | Championship Manager 01/02 rebuilt to run natively on Mac, Windows, Linux and Steam Deck. Unofficial fan port. |
+| [Championship Manager: Season 01/02 (02: Bosman Edition)](https://github.com/maxevans60/cm0102-bosman-edition) | PC | рекомпиляция | 96 | 4.15 | 2026-11-20 | — | Championship Manager 01/02 rebuilt to run natively on Mac, Windows, Linux and Steam Deck. Unofficial fan port. |
 | [AM2R: Another Metroid 2 Remake (AM2R (Android))](https://github.com/PatchDev-AM2ARM/AM2R-Autopatcher-Android) | PC | ремейк движка | 86 | 4.15 | 2026-11-26 | ✅ | Android app tool that patches AM2R 1.1.zip into modern android (legacy) |
 | [Star Wars Episode I: The Phantom Menace (OpenPhantom)](https://github.com/OpenPhantom/OpenPhantom) | PC | ремейк движка | 86 | 4.15 | 2026-10-05 | ✅ | Star Wars Episode I: The Phantom Menace (1999) PC modernized with online co-op multiplayer for up to 4 players. Play on Windows 10/11, Steam Deck and… |
 | [dxx-redux](https://github.com/dxx-redux/dxx-redux) | PC | порт | 80 | 4.15 | 2026-09-15 | ✅ | Descent 1&2 source port based on DXX-Retro |
 | [OpenE2140](https://github.com/OpenE2140/OpenE2140) | PC | ремейк движка | 79 | 4.15 | 2026-11-22 | ✅ | Remake of Earth 2140 using OpenRA. |
-| [Amnesia: The Dark Descent (Amnesia: The Dark Descent — Redux)](https://github.com/OSS-Cosmic/AmnesiaTheDarkDescent) | PC | порт | 76 | 4.15 | 2026-11-18 | ✅ | Amnesia: The Dark Descent — Redux is a port of Amnesia: The Dark Descent that replaces the OpenGL renderer with Vulkan and uses Slang shaders. |
 | [Need for Speed: Most Wanted (nfsmw-ios)](https://github.com/bep1s69/nfsmw-ios) | PC | рекомпиляция | 72 | 4.15 | 2026-11-18 | ✅ | A static recompilation port of Need for Speed Most Wanted (Xbox 360 version) for iOS with various tweaks and QoL fixes. |
 | [Need for Speed: Carbon (nfs-carbon-recomp)](https://github.com/Sampreeth004/nfs-carbon-recomp) | PC | рекомпиляция | 71 | 4.15 | 2026-10-07 | ✅ | Static recompilation of Need for Speed: Carbon (Xbox 360) to native C++ via the ReXGlue SDK |
 | [F.E.A.R. (F.E.A.R. 360 Recompiled)](https://github.com/Juansolo457/fear360-recomp) | PC | рекомпиляция | 63 | 4.15 | 2026-11-21 | ✅ | F.E.A.R. and F.E.A.R. Files (Xbox 360) statically recompiled to run natively on PC: 4K, 120 fps, Linux at 60fps+ Xbox 360 native resolution, controll… |
-| [Taradino](https://github.com/fabiangreffrath/taradino) | PC | порт | 61 | 4.15 | 2026-11-26 | ✅ | SDL2-Port of Rise of the Triad |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | браузер | 57 | 4.15 | 2026-11-23 | — | Custom frontend for the Emscripten port of isle-portable |
-| [Tribal Trouble](https://github.com/Tribal-Trouble/tribaltrouble) | PC | порт | 52 | 4.15 | 2026-11-27 | ✅ | Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license. |
 | [machines](https://github.com/WiredForWar/machines) | PC | ремейк движка | 51 | 4.15 | 2026-10-03 | ✅ | Community fork of Machines: Wired for War |
 | [Need for Speed: Carbon (nfs-carbon-mac)](https://github.com/vasist15-source/nfs-carbon-mac) | PC | рекомпиляция | 50 | 4.15 | 2026-11-12 | ✅ | Need for Speed: Carbon (PC) natively on Apple Silicon Macs via static recompilation. Bring your own game. |
+| [Spore (spore-re)](https://github.com/VinTeRuS/spore-re) | PC | рекомпиляция | 47 | 4.15 | 2026-11-25 | ✅ | Native Android port of Spore via static x86 recompilation. |
 | [LEGO Marvel Super Heroes (LEGO Marvel Super Heroes (PC) for Android)](https://github.com/ttom795/LMS_Android) | PC | рекомпиляция | 46 | 4.15 | 2026-11-24 | ✅ | A static recompilation of LEGO Marvel Superheroes (2013) for Android devices. |
-| [Spore (spore-re)](https://github.com/VinTeRuS/spore-re) | PC | рекомпиляция | 44 | 4.15 | 2026-11-25 | ✅ | Native Android port of Spore via static x86 recompilation. |
 | [Need for Speed: Carbon (NFS Carbon PC - Android Evolved)](https://github.com/codepdbh/nfscarbonpc-androidevolved) | PC | рекомпиляция | 39 | 4.15 | 2026-11-20 | ✅ | Need for Speed Carbon PC (2006) statically recompiled for Android, with the NFSCO online mod |
 | [Barrett](https://github.com/lunarmeadow/barrett) | PC | порт | 38 | 4.15 | 2026-11-10 | ✅ | Advanced and featureful Rise of the Triad source port for modern systems |
 | [OmegA-engine](https://github.com/Bishop-333/OmegA-engine) | PC | ремейк движка | 38 | 4.15 | 2026-11-26 | ✅ | Modern OpenArena engine based on Quake3e |
-| [EmperorReborn](https://github.com/azmawee/EmperorReborn) | PC | ремейк движка | 36 | 4.15 | 2026-11-24 | ✅ | Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patc… |
 | [Omnispeak](https://github.com/sulix/omnispeak) | PC | ремейк движка | 321 | 4.1 | 2026-10-27 | ✅ | An open-source re-implementation of "Commander Keen in Goodbye Galaxy" |
-| [Sonic Mania](https://github.com/RSDKModding/Sonic-Mania-Decompilation) | PC | декомпиляция | 843 | 4.05 | 2026-05-12 | ✅ | A complete decompilation of Sonic Mania (2017) |
-| [Half-Life (ReHLDS)](https://github.com/rehlds/ReHLDS) | PC | декомпиляция | 881 | 4 | 2026-11-16 | ✅ | Enhanced version of the HLDS engine with bug fixes, security patches, and optimizations for stable servers. |
+| [Sonic Mania](https://github.com/RSDKModding/Sonic-Mania-Decompilation) | PC | декомпиляция | 844 | 4.05 | 2026-05-12 | ✅ | A complete decompilation of Sonic Mania (2017) |
+| [Half-Life (ReHLDS)](https://github.com/rehlds/ReHLDS) | PC | декомпиляция | 882 | 4 | 2026-11-16 | ✅ | Enhanced version of the HLDS engine with bug fixes, security patches, and optimizations for stable servers. |
 | [Counter-Strike (ReGameDLL_CS)](https://github.com/rehlds/ReGameDLL_CS) | PC | декомпиляция | 818 | 4 | 2026-11-11 | ✅ | Enhanced server-side GameDLL for Counter-Strike 1.6 (and CS: Condition Zero), offering new features and fixes. |
 | [Vangers](https://github.com/KranX/Vangers) | PC | порт | 747 | 4 | 2026-11-14 | ✅ | The video game that combines elements of the racing and role-playing genres. |
 | [Legend of Dragoon](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) | PC | декомпиляция | 598 | 4 | 2026-11-25 | ✅ | Legend of Dragoon decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck |
 | [Command & Conquer: Red Alert 2 (Phobos)](https://github.com/Phobos-developers/Phobos) | PC | декомпиляция | 510 | 4 | 2026-11-23 | ✅ | Ares-compatible C&C Red Alert 2: Yuri's Revenge engine extension |
-| [RuneScape (2006scape)](https://github.com/2006-Scape/2006Scape) | PC | декомпиляция | 250 | 4 | 2026-11-15 | ✅ | A 2006 Runescape Emulation Server |
+| [RuneScape (2006scape)](https://github.com/2006-Scape/2006Scape) | PC | декомпиляция | 251 | 4 | 2026-11-15 | ✅ | A 2006 Runescape Emulation Server |
 | [Counter-Strike: Football](https://github.com/solcloud/Counter-Strike) | PC | ремейк движка | 988 | 3.95 | 2025-09-09 | ✅ | Multiplayer FPS game - Counter-Strike: Football 🏉 |
 | [Sonic Robo Blast 2](https://github.com/STJr/SRB2) | PC | ремейк движка | 577 | 3.95 | 2025-07-29 | ✅ | SRB2 2.2 Public (GitLab Mirror) |
 | [Bugdom](https://github.com/jorio/Bugdom) | PC | ремейк движка | 517 | 3.95 | 2025-03-08 | ✅ | 🐛 Pangea Software's Bugdom for modern systems |
 | [MegaGlest](https://github.com/MegaGlest/megaglest-source) | PC | ремейк движка | 420 | 3.95 | 2026-05-31 | ✅ | MegaGlest real-time strategy game engine (cross-platform, 3-d) |
 | [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) | PC | ремейк движка | 349 | 3.95 | 2025-07-26 | ✅ | Romanov's Vengeance is an OpenRA mod based on Red Alert 2. |
-| [Wyrmsun](https://github.com/Andrettin/Wyrmsun) | PC | ремейк движка | 337 | 3.95 | 2025-04-17 | ✅ | Strategy game based on history, mythology and fiction |
 | [AstroMenace](https://github.com/viewizard/astromenace) | PC | ремейк движка | 299 | 3.95 | 2026-08-06 | ✅ | Hardcore 3D space scroll-shooter with spaceship upgrade possibilities. |
-| [Marble Marcher (Marble Marcher: Community Edition)](https://github.com/WAUthethird/Marble-Marcher-Community-Edition) | PC | порт | 289 | 3.95 | 2024-12-12 | ✅ | A community-developed version of the original Marble Marcher - a fractal physics game. |
 | [BetterSpades](https://github.com/xtreme8000/BetterSpades) | PC | ремейк движка | 287 | 3.95 | 2025-07-30 | ✅ | BetterSpades, an Ace of Spades client targeted at low end systems (GL/ES 1.1). Runs on your grandmother's rig! |
+| [Marble Marcher (Marble Marcher: Community Edition)](https://github.com/WAUthethird/Marble-Marcher-Community-Edition) | PC | порт | 287 | 3.95 | 2024-12-12 | ✅ | A community-developed version of the original Marble Marcher - a fractal physics game. |
 | [Serious Sam Classic The First Encounter](https://github.com/tx00100xt/SeriousSamClassic) | PC | ремейк движка | 197 | 3.95 | 2026-01-13 | ✅ | Open source game engine version developed by Croteam for Serious Sam Classic (Windows, Linux, FreeBSD, OpenBSD, NetBSD, macOS, Raspberry Pi OS). Base… |
 | [OpenXWA](https://github.com/elyosh/OpenXWA) | PC | рекомпиляция | 191 | 3.95 | 2026-11-22 | ✅ | Open-source recomp of X-Wing Alliance. |
-| [Project I.G.I.: I'm Going In (OpenIGI)](https://github.com/OpenIGI/OpenIGI) | PC | ремейк движка | 187 | 3.95 | 2026-11-26 | ✅ | A clean-room reimplementation of the Project I.G.I. and I.G.I. 2 engine in C#/.NET 10. It plays the original missions faithfully, with a modern rende… |
+| [Project I.G.I.: I'm Going In (OpenIGI)](https://github.com/OpenIGI/OpenIGI) | PC | ремейк движка | 188 | 3.95 | 2026-11-26 | ✅ | A clean-room reimplementation of the Project I.G.I. and I.G.I. 2 engine in C#/.NET 10. It plays the original missions faithfully, with a modern rende… |
 | [freeserf.net](https://github.com/Pyrdacor/freeserf.net) | PC | ремейк движка | 184 | 3.95 | 2026-10-24 | ✅ | Settlers 1 clone written in C# |
 | [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) | PC | ремейк движка | 182 | 3.95 | 2025-12-09 | ✅ | Tools for reverse-engineering of game "Chasm: The Rift" |
 | [Dune II (Dune Dynasty)](https://github.com/gameflorist/dunedynasty) | PC | ремейк движка | 173 | 3.95 | 2026-11-02 | ✅ | Dune Dynasty is a remaster / enhancement of the classic real-time strategy game Dune II by Westwood Studios. It builds upon the original reverse-engi… |
-| [GnollHack](https://github.com/hyvanmielenpelit/GnollHack) | PC | ремейк движка | 171 | 3.95 | 2026-11-27 | ✅ | The modern way to play NetHack |
+| [GnollHack](https://github.com/hyvanmielenpelit/GnollHack) | PC | ремейк движка | 171 | 3.95 | 2026-11-28 | ✅ | The modern way to play NetHack |
+| [Kenshi (MeitouClient)](https://github.com/VlcekM/MeitouClient) | PC | ремейк движка | 171 | 3.95 | 2026-11-28 | ✅ | Open-source reimplementation of the Kenshi engine in C# / .NET 10 using a custom Vulkan renderer. Needs your own copy of Kenshi. |
 | [MekHQ](https://github.com/MegaMek/mekhq) | PC | рекомпиляция | 171 | 3.95 | 2026-11-27 | ✅ | MekHQ is a campaign management tool that provides an immersive experience in managing a BattleTech mercenary unit. It integrates with MegaMek for bat… |
 | [Descent 3 (Piccu Engine)](https://github.com/InsanityBringer/PiccuEngine) | PC | порт | 170 | 3.95 | 2026-08-27 | ✅ | Descent 3: Piccu Engine, a version of the game Descent 3 focused on quality-of-life improvements. |
-| [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) | PC | ремейк движка | 165 | 3.95 | 2026-01-14 | ✅ | Open source game engine version developed by Croteam for Serious Sam Classic with Vulkan support (Windows, Linux, FreeBSD,  OpenBSD, macOS, Raspberry… |
-| [Kenshi (MeitouClient)](https://github.com/VlcekM/MeitouClient) | PC | ремейк движка | 162 | 3.95 | 2026-11-27 | ✅ | Open-source reimplementation of the Kenshi engine in C# / .NET 10 using a custom Vulkan renderer. Needs your own copy of Kenshi. |
+| [Alone in the Dark (Alone In The Dark: Re-Haunted)](https://github.com/spacefarergames/AloneInTheDarkReHaunted) | PC | ремейк движка | 162 | 3.95 | 2026-11-25 | ✅ | A heavily enhanced port and dynamic recomp of Alone In The Dark 1, with Textured Models, HD-4K background replacements, QOL improvements, controller… |
 | [NetHack (NetHack-Android)](https://github.com/gurrhack/NetHack-Android) | PC | порт | 162 | 3.95 | 2025-12-01 | ✅ | Android port of NetHack |
 | [remc2](https://github.com/turican0/remc2) | PC | ремейк движка | 156 | 3.95 | 2026-11-20 | ✅ | Recode Binary code of game Magic Carpet2 to C/C++ language(remake MC2 for any platform) |
+| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | PC | порт | 153 | 3.95 | 2026-11-27 | ✅ | Hollow Knight: Silksong Dual-Screen Android port (+Steam integration) |
+| [Portal 2 (Portal 2 Recomp (Mac))](https://github.com/kanapitsas/source-recomp) | PC | рекомпиляция | 147 | 3.95 | 2026-11-26 | ✅ | Portal 1 & 2 and Half-Life 2 statically recompiled from their Linux x86 binaries to native ARM64: playable on macOS and iPhone. Bring your own copy o… |
 | [ddnet t-client](https://github.com/TaterClient/TClient) | PC | ремейк движка | 146 | 3.95 | 2026-11-03 | ✅ | Extended DDNet Teeworlds client. |
-| [Hollow Knight: Silksong (Silksong Android)](https://github.com/jakobkhansen/SilksongAndroid) | PC | порт | 144 | 3.95 | 2026-11-09 | ✅ | Hollow Knight: Silksong Dual-Screen Android port (+Steam integration) |
-| [Portal 2 (Portal 2 Recomp (Mac))](https://github.com/kanapitsas/source-recomp) | PC | рекомпиляция | 144 | 3.95 | 2026-11-26 | ✅ | Portal 1 & 2 and Half-Life 2 statically recompiled from their Linux x86 binaries to native ARM64: playable on macOS and iPhone. Bring your own copy o… |
-| [Spatterlight](https://github.com/angstsmurf/spatterlight) | PC | ремейк движка | 143 | 3.95 | 2026-11-26 | ✅ | Updated fork of Spatterlight |
-| [FINAL FANTASY XIII (WhiteRecomp)](https://github.com/ps4star/WhiteRecomp) | PC | рекомпиляция | 140 | 3.95 | 2026-11-27 | ✅ | WhiteRecomp: builds FINAL FANTASY XIII from your Steam copy. Compiles for native Windows, macOS, Linux (ARM64 Supported), or Android. |
+| [Spatterlight](https://github.com/angstsmurf/spatterlight) | PC | ремейк движка | 143 | 3.95 | 2026-11-27 | ✅ | Updated fork of Spatterlight |
 | [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN) | PC | рекомпиляция | 126 | 3.95 | 2026-01-26 | ✅ | Continuation of ONScripter-EN with updated dependencies and more features and bugfixes. Also see onscripter-insani (https://github.com/insani-org/ons… |
-| [Magic Carpet 2 (Magic Carpet 2 HD)](https://github.com/thobbsinteractive/magic-carpet-2-hd) | PC | ремейк движка | 124 | 3.95 | 2026-11-20 | ✅ | Recode Binary code of game Magic Carpet2 to C/C++ language(remake MC2 for any platform) |
+| [Magic Carpet 2 (Magic Carpet 2 HD)](https://github.com/thobbsinteractive/magic-carpet-2-hd) | PC | ремейк движка | 125 | 3.95 | 2026-11-28 | ✅ | Recode Binary code of game Magic Carpet2 to C/C++ language(remake MC2 for any platform) |
 | [Little Big Adventure 2 (Twinsen's Odyssey)](https://github.com/LBALab/lba2-classic-community) | PC | ремейк движка | 121 | 3.95 | 2026-11-11 | ✅ | Community-maintained source port of the original Little Big Adventure 2 (Twinsen’s Odyssey) engine. |
 | [Clonk Rage (LegacyClonk)](https://github.com/legacyclonk/LegacyClonk) | PC | порт | 118 | 3.95 | 2026-08-14 | ✅ | The LegacyClonk engine and the c4group command line tool. |
 | [Roller](https://github.com/FatalDecomp/ROLLER) | PC | рекомпиляция | 112 | 3.95 | 2026-11-25 | — | Reverse engineering and partially re-writing the 1995 game Whiplash/Fatal Racing |
@@ -308,36 +299,41 @@
 | [The Binding of Isaac (IsaacRecomp)](https://github.com/whylurking/IsaacRecomp) | PC | рекомпиляция | 102 | 3.95 | 2026-11-16 | ✅ | Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requires the original game from Steam |
 | [Open Annihilation](https://github.com/open-annihilation/open-annihilation) | PC | ремейк движка | 100 | 3.95 | 2026-11-20 | ✅ | Free, open source engine that plays the original Total Annihilation on macOS, Windows, Linux, iPhone, iPad and Steam Deck. |
 | [Quake II (Quake2Quest)](https://github.com/Team-Beef-Studios/Quake2Quest) | PC | порт | 98 | 3.95 | 2026-06-16 | ✅ | Quake 2 on the Oculus Quest |
-| [Castlevania: Rondo of Blood (RondoRecomp)](https://github.com/gminustwo/RondoRecomp) | PC | рекомпиляция | 95 | 3.95 | 2026-11-26 | ✅ | RondoRecomp is a native PC port of Castlevania: Rondo of Blood with rewinding, save states, cheats, and RetroAchievements. |
+| [Castlevania: Rondo of Blood (RondoRecomp)](https://github.com/gminustwo/RondoRecomp) | PC | рекомпиляция | 96 | 3.95 | 2026-11-26 | ✅ | RondoRecomp is a native PC port of Castlevania: Rondo of Blood with rewinding, save states, cheats, and RetroAchievements. |
+| [Diablo II: Lord of Destruction (1.14d reimplementation)](https://github.com/psi29a/d2decomped) | PC | ремейк движка | 86 | 3.95 | 2026-11-28 | ✅ | Diablo 2: Decomped |
 | [Moon Child (Moon Child FE)](https://github.com/MorsGames/MoonChildFE) | PC | ремейк движка | 85 | 3.95 | 2026-08-12 | ✅ | You've got the power to be his friend! |
-| [wc1-re](https://github.com/neuromancer/wc1-re) | PC | рекомпиляция | 85 | 3.95 | 2026-11-25 | ✅ | Wing Commander 1 source reconstruction and SDL2 port |
-| [Diablo II: Lord of Destruction (1.14d reimplementation)](https://github.com/psi29a/d2decomped) | PC | ремейк движка | 84 | 3.95 | 2026-11-27 | ✅ | Diablo 2: Decomped |
-| [Return to Castle Wolfenstein (RTCWQuest)](https://github.com/Team-Beef-Studios/RTCWQuest) | PC | порт | 80 | 3.95 | 2026-06-15 | ✅ | Return to Castle Wolfenstein for the Oculus Quest |
+| [Return to Castle Wolfenstein (RTCWQuest)](https://github.com/Team-Beef-Studios/RTCWQuest) | PC | порт | 81 | 3.95 | 2026-06-15 | ✅ | Return to Castle Wolfenstein for the Oculus Quest |
+| [Amnesia: The Dark Descent (Amnesia: The Dark Descent — Redux)](https://github.com/OSS-Cosmic/AmnesiaTheDarkDescent) | PC | порт | 76 | 3.95 | 2026-11-18 | ✅ | Amnesia: The Dark Descent — Redux is a port of Amnesia: The Dark Descent that replaces the OpenGL renderer with Vulkan and uses Slang shaders. |
 | [OpenXvT](https://github.com/elyosh/OpenXvT) | PC | рекомпиляция | 70 | 3.95 | 2026-11-12 | ✅ | Open-source recomp of X-Wing vs Tie Fighter. |
-| [Quake (QSS-M)](https://github.com/timbergeron/QSS-M) | PC | порт | 69 | 3.95 | 2026-11-27 | ✅ | QSS-M, a port of ID Software's original Quake, evolved from Quake 1.09 to Fitzquake, Quakespasm, Quakespasm Spiked, and now Quakespasm Spiked Multipl… |
-| [Ultima 5](https://github.com/synthwave-pixel/ultima5) | PC | ремейк движка | 64 | 3.95 | 2026-11-26 | ✅ | Modernized engine for Ultima V |
+| [Quake (QSS-M)](https://github.com/timbergeron/QSS-M) | PC | порт | 70 | 3.95 | 2026-11-28 | ✅ | QSS-M, a port of ID Software's original Quake, evolved from Quake 1.09 to Fitzquake, Quakespasm, Quakespasm Spiked, and now Quakespasm Spiked Multipl… |
+| [Ultima 5](https://github.com/synthwave-pixel/ultima5) | PC | ремейк движка | 64 | 3.95 | 2026-11-28 | ✅ | Modernized engine for Ultima V |
+| [Taradino](https://github.com/fabiangreffrath/taradino) | PC | порт | 61 | 3.95 | 2026-11-27 | ✅ | SDL2-Port of Rise of the Triad |
 | [Flipendo](https://github.com/kroplabeskidu/flipendo) | PC | ремейк движка | 56 | 3.95 | 2026-11-22 | ✅ | Open-source engine for Harry Potter and the Philosopher's Stone / Sorcerer's Stone (2001 PC): widescreen, any resolution, no SafeDisc. Built on Surre… |
-| [OpenReliant](https://github.com/OpenReliant/openreliant) | PC | ремейк движка | 55 | 3.95 | 2026-11-26 | ✅ | An open-source reimplementation of StarLancer's engine, in Zig on SDL3. Needs your own copy of the game. |
-| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | браузер | 55 | 3.95 | 2026-11-27 | ✅ | An open source game engine that plays Sid Meier's SimGolf (2002), now with multiplayer. Windows, macOS, Linux, Android and the browser. |
+| [OpenReliant](https://github.com/OpenReliant/openreliant) | PC | ремейк движка | 55 | 3.95 | 2026-11-28 | ✅ | An open-source reimplementation of StarLancer's engine, in Zig on SDL3. Needs your own copy of the game. |
+| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | браузер | 55 | 3.95 | 2026-11-28 | ✅ | An open source game engine that plays Sid Meier's SimGolf (2002), now with multiplayer. Windows, macOS, Linux, Android and the browser. |
 | [maxr](https://github.com/maxr-dot-org/maxr) | PC | ремейк движка | 52 | 3.95 | 2026-11-14 | ✅ | A turn based strategy game |
-| [wc2-re](https://github.com/neuromancer/wc2-re) | PC | рекомпиляция | 50 | 3.95 | 2026-11-23 | ✅ | Wing Commander 2 source reconstruction and SDL2 port |
+| [Tribal Trouble](https://github.com/Tribal-Trouble/tribaltrouble) | PC | порт | 52 | 3.95 | 2026-11-27 | ✅ | Tribal Trouble is a realtime strategy game released by Oddlabs in 2004. In 2014 the source was released under GPL2 license. |
+| [wc2-re](https://github.com/neuromancer/wc2-re) | PC | рекомпиляция | 50 | 3.95 | 2026-11-27 | ✅ | Wing Commander 2 source reconstruction and SDL2 port |
 | [Stunts (Stunts HD)](https://github.com/mr-finster/stunts-hd) | PC | рекомпиляция | 44 | 3.95 | 2026-10-30 | ✅ | Stunts / 4D Sports Driving (DOS, 1990) recompiled for your browser and desktop: HD 3D, widescreen, smooth at any refresh rate, the original's own phy… |
 | [Silent Hill 3 (sh3-nx, Switch)](https://github.com/cutarev/sh3-nx) | PC | рекомпиляция | 42 | 3.95 | 2026-10-22 | ✅ | Silent Hill 3 PC statically recompiled for the Nintendo Switch (native NRO, no emulator) |
+| [Master of Magic (ReMoM)](https://github.com/jbalcomb/ReMoM) | PC | рекомпиляция | 41 | 3.95 | 2026-11-28 | ✅ | Re-assembly of Master of Magic v1.31 - SimTex Universe (STU) |
 | [Sheep, Dog 'n' Wolf (Sheep, Dog 'n' Wolf: Rewooled)](https://github.com/SDW-Community/Sheep-Dog-n-Wolf-Rewooled) | PC | ремейк движка | 41 | 3.95 | 2026-10-21 | ✅ | Sheep-Dog-n-Wolf-Rewooled is a PC port of Sheep, Dog 'n' Wolf that replaces Windows-specific layers with SDL3 for modern systems. |
-| [Master of Magic (ReMoM)](https://github.com/jbalcomb/ReMoM) | PC | рекомпиляция | 40 | 3.95 | 2026-11-27 | ✅ | Re-assembly of Master of Magic v1.31 - SimTex Universe (STU) |
-| [OpenMCM2](https://github.com/crspytopgn/openmcm2) | PC | ремейк движка | 37 | 3.95 | 2026-11-27 | ✅ | Open-source engine for Motocross Madness 2, rewritten from scratch in Rust. Native on macOS, Windows and Linux. Bring your own copy of the game. |
-| [Rocksmith 2014 (RS Re-ARMed)](https://github.com/bbelgg/rs-rearmed) | PC | ремейк движка | 36 | 3.95 | 2026-11-26 | ✅ | Native Apple Silicon port of Rocksmith 2014, recompiled from your own copy of the game. Mac and Learn & Play editions, offline, no game files include… |
+| [OpenMCM2](https://github.com/crspytopgn/openmcm2) | PC | ремейк движка | 38 | 3.95 | 2026-11-28 | ✅ | Open-source engine for Motocross Madness 2, rewritten from scratch in Rust. Native on macOS, Windows and Linux. Bring your own copy of the game. |
+| [EmperorReborn](https://github.com/azmawee/EmperorReborn) | PC | ремейк движка | 37 | 3.95 | 2026-11-24 | ✅ | Play Emperor: Battle for Dune on Windows 10 and 11 with real 16:9 widescreen, fullscreen and working multiplayer. Free, open-source launcher and patc… |
+| [Rocksmith 2014 (RS Re-ARMed)](https://github.com/bbelgg/rs-rearmed) | PC | ремейк движка | 36 | 3.95 | 2026-11-27 | ✅ | Native Apple Silicon port of Rocksmith 2014, recompiled from your own copy of the game. Mac and Learn & Play editions, offline, no game files include… |
+| [Urban Chaos (OpenChaos)](https://github.com/UltimaBeaR/OpenChaos) | PC | ремейк движка | 31 | 3.95 | 2026-11-04 | ✅ | OpenChaos — Fan Modernization of Urban Chaos |
 | [F.E.A.R. (F.E.A.R. NX)](https://github.com/infriker/fear-nx) | PC | рекомпиляция | 28 | 3.95 | 2026-11-06 | ✅ | F.E.A.R. (Xbox 360) natively on Nintendo Switch with ReXGlue and Vulkan. Bring your own game. |
-| [Dragon Age: Origins (Dragon Age Origins Recomp Android Duo)](https://github.com/mabencs/Dragon-Age-Origins-Recomp-Android-Duo) | PC | рекомпиляция | 26 | 3.95 | 2026-11-25 | — | Dragon Age: Origins (Xbox 360) on Android, for the AYN Thor - built on DAORecomp, bring your own discs |
+| [Dragon Age: Origins (Dragon Age Origins Recomp Android Duo)](https://github.com/mabencs/Dragon-Age-Origins-Recomp-Android-Duo) | PC | рекомпиляция | 26 | 3.95 | 2026-11-27 | — | Dragon Age: Origins (Xbox 360) on Android, for the AYN Thor - built on DAORecomp, bring your own discs |
+| [Call of Duty: Black Ops](https://github.com/Joolace/T5-Jool---Black-Ops-Recomp) | PC | рекомпиляция | 20 | 3.95 | 2026-11-28 | ✅ | Native 64-bit port of Black Ops Zombies for Linux and Android. Vulkan, upscalers, LAN co-op, touch and controller support. Game files not included. |
 | [Command & Conquer: Red Alert 3 (RA3 Native)](https://github.com/blackorange-sketch/RA3-Native) | PC | порт | 19 | 3.95 | 2026-11-27 | ✅ | Native Android port of Red Alert 3 (tools only, no game files) |
+| [Stronghold (pc_decomp_strhld)](https://github.com/phys-winner/pc_decomp_strhld) | PC | рекомпиляция | 18 | 3.95 | 2026-11-25 | ✅ | Native Android ARM64 ports of Stronghold HD, Crusader and Crusader Extreme via static PC recompilation. Original game files required. |
 | [Zoo Tycoon 1 engine (zt1-engine)](https://github.com/AlexC1991/zt1-engine) | PC | ремейк движка | 18 | 3.95 | 2026-11-22 | ✅ | Open-source engine for Zoo Tycoon 1 on modern Windows: the original game as the spec, open for everyone to play, mod and improve. Bring your own copy… |
 | [Barony (Barony Android Port)](https://github.com/DifferentNet/barony-android-port) | PC | порт | 17 | 3.95 | 2026-10-16 | — | Native Android port of TurningWheel/Barony. Code-only APK; requires a purchased Barony v5.0.2 installation. |
-| [Stronghold (pc_decomp_strhld)](https://github.com/phys-winner/pc_decomp_strhld) | PC | рекомпиляция | 16 | 3.95 | 2026-11-25 | ✅ | Native Android ARM64 ports of Stronghold HD, Crusader and Crusader Extreme via static PC recompilation. Original game files required. |
+| [Torchlight (torchlight-recomp)](https://github.com/YaPeL/torchlight-recomp) | PC | рекомпиляция | 16 | 3.95 | 2026-11-21 | ✅ | Recompilation of torchlight360 using rexglue |
 | [FlatOut 2 (FlatOut 2 for ARM64 handhelds (PortMaster-style))](https://github.com/badcats72/flatout2-portmaster) | PC | рекомпиляция | 15 | 3.95 | 2026-11-26 | ✅ | FlatOut 2 (PC) recompiled to native ARM64 for handheld consoles. Provide your own game files. |
-| [Torchlight (torchlight-recomp)](https://github.com/YaPeL/torchlight-recomp) | PC | рекомпиляция | 15 | 3.95 | 2026-11-21 | ✅ | Recompilation of torchlight360 using rexglue |
 | [Unreal Tournament 3 (pc_decomp_ut3)](https://github.com/phys-winner/pc_decomp_ut3) | PC | рекомпиляция | 14 | 3.95 | 2026-11-09 | ✅ | Unreal Tournament 3 on Android ARM64: the PC game statically recompiled to native code with a Win32/Direct3D 9 host (OpenGL ES, DXVK, Turnip). Requir… |
+| [Prince of Persia: The Two Thrones (pop-t2t-android)](https://github.com/Cleverdee/pop-t2t-android) | PC | рекомпиляция | 13 | 3.95 | 2026-11-21 | ✅ | Prince of Persia: The Two Thrones recompiled port - Android build |
 | [Populous: The Beginning (OpenPopTB-MacOS)](https://github.com/iagodemacedo/OpenPopTB-MacOS) | PC | рекомпиляция | 12 | 3.95 | 2026-10-21 | ✅ | Native Apple Silicon macOS port of Populous: The Beginning via static recompilation. Bring your own copy of the game (GOG). |
-| [Prince of Persia: The Two Thrones (pop-t2t-android)](https://github.com/Cleverdee/pop-t2t-android) | PC | рекомпиляция | 12 | 3.95 | 2026-11-21 | ✅ | Prince of Persia: The Two Thrones recompiled port - Android build |
 | [v64tng](https://github.com/mattseabrook/v64tng) | PC | ремейк движка | 5 | 3.95 | 2026-11-21 | — | Game Engine re-creation of The 7th Guest |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | браузер | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | браузер | — | 3.95 | — | — |  |
@@ -368,14 +364,13 @@
 | [Super Mario Zombies](https://smz.fun) | PC | браузер | — | 3.95 | — | — |  |
 | [The Simpsons: Hit & Run](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | PC | браузер | — | 3.95 | — | — |  |
 | [Urban Terror (ut.pieter.com)](http://ut.pieter.com) | PC | браузер | — | 3.95 | — | — | Urban Terror multiplayer in the browser. The X post lists it as 'Unreal Tournament'. |
-| [Neverball](https://github.com/Neverball/neverball) | PC | ремейк движка | 454 | 3.9 | 2026-11-26 | — | Tilt the floor to roll a ball through an obstacle course before time runs out. |
+| [Neverball](https://github.com/Neverball/neverball) | PC | ремейк движка | 453 | 3.9 | 2026-11-26 | — | Tilt the floor to roll a ball through an obstacle course before time runs out. |
 | [Mighty Mike](https://github.com/jorio/MightyMike) | PC | ремейк движка | 216 | 3.9 | 2025-12-07 | ✅ | Pangea Software's Mighty Mike (Power Pete) for modern systems |
 | [Rhythia](https://github.com/Rhythia/Client) | PC | ремейк движка | 177 | 3.9 | 2026-10-04 | ✅ | Aim-based rhythm game client, built in Godot 4 |
 | [Creatures (OpenC2E)](https://github.com/openc2e/openc2e) | PC | ремейк движка | 176 | 3.9 | 2026-10-07 | ✅ | openc2e is an open-source game engine for the games in the Creatures series. |
 | [Enigma](https://github.com/Enigma-Game/Enigma) | PC | ремейк движка | 174 | 3.9 | 2026-09-17 | ✅ | Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga. The object of the game is to find uncover pairs of identically… |
 | [mc2](https://github.com/alariq/mc2) | PC | ремейк движка | 166 | 3.9 | 2026-08-30 | ✅ | Mech Commander 2 open source engine + OpenGL Linux port |
 | [thinker](https://github.com/induktio/thinker) | PC | ремейк движка | 162 | 3.9 | 2026-11-24 | ✅ | Improved game engine features for SMACX. |
-| [F-15 II](https://github.com/neuviemeporte/f15se2-re) | PC | рекомпиляция | 149 | 3.9 | 2026-09-06 | ✅ | Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS |
 | [Prey (Prey2006)](https://github.com/FriskTheFallenHuman/Prey2006) | PC | ремейк движка | 144 | 3.9 | 2026-09-04 | ✅ | Prey 2006 SDK integrated with Doom 3 GPL release |
 | [Need for Speed: Carbon (NFS-CARBON-360-ANDROID-RECOMP)](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | PC | рекомпиляция | 124 | 3.9 | 2026-10-22 | ✅ | Experimental static recompilation of Need for Speed Carbon for Xbox 360 using ReXGlue. Windows x64 prototype, analysis fixes and build instructions. |
 | [Stunt Car Racer (stuntcarremake)](https://github.com/ptitSeb/stuntcarremake) | PC | ремейк движка | 117 | 3.9 | 2026-11-17 | ✅ | A port of Stunt Car Remake to OpenPandora, Linux and Emscripten. Status: Working |
@@ -388,91 +383,91 @@
 | [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) | PC | ремейк движка | 893 | 3.8 | 2026-11-26 | — | Open reimplementation of Might and Magic 6 7 8 game engine |
 | [Touhou PC-98](https://github.com/nmlgc/ReC98) | PC | декомпиляция | 890 | 3.8 | 2026-03-16 | ✅ | The Touhou PC-98 Restoration Project |
 | [Adventure Game Studio (AGS Engine)](https://github.com/adventuregamestudio/ags) | PC | декомпиляция | 867 | 3.8 | 2026-11-17 | ✅ | AGS editor and engine source code |
-| [Command & Conquer: Red Alert 2 (VERA20K)](https://github.com/YuriPlanet/vera20k) | PC | декомпиляция | 713 | 3.8 | 2026-11-27 | ✅ | Red Alert 2: Yuri's Revenge rebuilt in Rust / 用 Rust 重写的《红警2：尤里的复仇》 |
-| [namDHC](https://github.com/umageddon/namDHC) | PC | декомпиляция | 669 | 3.8 | 2026-04-05 | ✅ | Windows frontend for CHDMAN - written in Autohotkey |
-| [Command & Conquer: Tiberian Sun (OpenTS)](https://github.com/OpenTS-Developers/OpenTS) | PC | ремейк движка | 644 | 3.8 | 2026-11-27 | ✅ | A modern and faithful open source rebuild of the Tiberian Sun engine. |
-| [Counter-Strike 1.6 (CS16Client)](https://github.com/FWGS/cs16-client) | PC | декомпиляция | 510 | 3.8 | 2026-11-23 | — | Counter-Strike reverse-engineered. |
-| [Colin McRae Rally 2.0 (OpenCMR2)](https://github.com/pablocpas/OpenCMR2) | PC | декомпиляция | 236 | 3.8 | 2026-11-24 | ✅ | Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included. |
+| [Command & Conquer: Red Alert 2 – Yuri's Revenge](https://github.com/YuriPlanet/vera20k) | PC | декомпиляция | 756 | 3.8 | 2026-11-28 | ✅ | Red Alert 2: Yuri's Revenge rebuilt in Rust / 用 Rust 重写的《红警2：尤里的复仇》 |
+| [namDHC](https://github.com/umageddon/namDHC) | PC | декомпиляция | 670 | 3.8 | 2026-04-05 | ✅ | Windows frontend for CHDMAN - written in Autohotkey |
+| [Command & Conquer: Tiberian Sun (OpenTS)](https://github.com/OpenTS-Developers/OpenTS) | PC | ремейк движка | 645 | 3.8 | 2026-11-27 | ✅ | A modern and faithful open source rebuild of the Tiberian Sun engine. |
+| [Counter-Strike 1.6 (CS16Client)](https://github.com/FWGS/cs16-client) | PC | декомпиляция | 511 | 3.8 | 2026-11-23 | — | Counter-Strike reverse-engineered. |
+| [Colin McRae Rally 2.0 (OpenCMR2)](https://github.com/pablocpas/OpenCMR2) | PC | декомпиляция | 239 | 3.8 | 2026-11-24 | ✅ | Native SDL3 port of Colin McRae Rally 2.0 built from the CMR2Decomp decompilation. No game data included. |
 | [Duck Game](https://github.com/TheFlyingFoool/DuckGameRebuilt) | PC | декомпиляция | 203 | 3.8 | 2026-11-13 | ✅ | Duck Game decompiled & rebuilt with some added features, |
 | [Diablo (diabloweb)](https://github.com/d07RiV/diabloweb) | PC | браузер | 2.9k | 3.75 | 2022-05-17 | — | Diablo 1 for web browsers |
 | [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer) | PC | порт | 476 | 3.75 | 2026-11-18 | — | Vanilla Conquer provides clean, cross-platform builds of the C&C Remastered Collection and the standalone legacy games. |
 | [Quake (FTEQW)](https://github.com/fte-team/fteqw) | PC | порт | 368 | 3.75 | 2026-11-02 | ✅ | This is the official GitHub mirror for the FTEQW project. |
 | [Aquaria (Aquaria OSE)](https://github.com/AquariaOSE/Aquaria) | PC | порт | 331 | 3.75 | 2026-11-15 | ✅ | Aquaria open source, forked from icculus.org due to inactivity. Has many enhancements compared to the original version. |
-| [Need for Speed: Most Wanted (nfsmw-nx)](https://github.com/StevensND/nfsmw-nx) | PC | порт | 282 | 3.75 | 2026-11-03 | ✅ | A native Nintendo Switch port of Need For Speed Most Wanted 2005 (Xbox 360 Version) |
+| [Need for Speed: Most Wanted (nfsmw-nx)](https://github.com/StevensND/nfsmw-nx) | PC | порт | 283 | 3.75 | 2026-11-27 | ✅ | A native Nintendo Switch port of Need For Speed Most Wanted 2005 (Xbox 360 Version) |
 | [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) | PC | декомпиляция | 265 | 3.75 | 2026-10-10 | ✅ | WIP 1:1 Decompilation of multiple versions of NFS:MW |
 | [RollerCoaster Tycoon (FreeRCT)](https://github.com/FreeRCT/FreeRCT) | PC | ремейк движка | 258 | 3.75 | 2026-10-08 | ✅ | FreeRCT aims to be a free and open source game which captures the look, feel and gameplay of the popular games RollerCoaster Tycoon 1 and 2. |
+| [Need for Speed: Most Wanted (NFSMW-Recompiled)](https://github.com/madelrandel-blip/NFSMW-Recompiled) | PC | рекомпиляция | 253 | 3.75 | 2026-11-05 | ✅ | A static native recompilation of Need for Speed: Most Wanted (2005) Xbox 360 |
 | [Race into Space](https://github.com/raceintospace/raceintospace) | PC | порт | 239 | 3.75 | 2026-10-31 | ✅ | This is the GitHub home of Race Into Space, the computer version of the Liftoff! board game by Fritz Bronner. It was developed by Strategic Visions a… |
-| [Unverum](https://github.com/TekkaGB/Unverum) | PC | ремейк движка | 185 | 3.75 | 2025-01-22 | ✅ | Downloads and install mods for several Unreal Engine 4 games. |
+| [Unverum](https://github.com/TekkaGB/Unverum) | PC | ремейк движка | 186 | 3.75 | 2025-01-22 | ✅ | Downloads and install mods for several Unreal Engine 4 games. |
 | [System Shock (Citadel)](https://github.com/JosiahJack/Citadel) | PC | ремейк движка | 172 | 3.75 | 2025-10-05 | — | The System Shock Fan Remake Project |
+| [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) | PC | ремейк движка | 165 | 3.75 | 2026-01-14 | ✅ | Open source game engine version developed by Croteam for Serious Sam Classic with Vulkan support (Windows, Linux, FreeBSD,  OpenBSD, macOS, Raspberry… |
 | [Jedi Knight II: Jedi Outcast (JK2MV)](https://github.com/mvdevs/jk2mv) | PC | порт | 141 | 3.75 | 2025-06-13 | ✅ | JK2MV - improved, modernized JK2 client and server |
 | [OpenKrush](https://github.com/IceReaper/OpenKrush) | PC | ремейк движка | 129 | 3.75 | 2025-11-17 | ✅ | A KKnD and KKnD2 mod on OpenRA engine. |
 | [Fish Folk (Spicy Launcher)](https://github.com/spicylobstergames/SpicyLauncher) | PC | ремейк движка | 105 | 3.75 | 2025-10-03 | ✅ | Cross-platform launcher for Spicy Lobster games 🌶🦞 |
 | [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) | PC | ремейк движка | 85 | 3.75 | 2025-09-27 | ✅ | Shattered Paradise's main repository and installation Kit. |
-| [Urban Chaos (OpenChaos)](https://github.com/UltimaBeaR/OpenChaos) | PC | ремейк движка | 29 | 3.75 | 2026-11-04 | ✅ | OpenChaos — Fan Modernization of Urban Chaos |
 | [Herculan](https://github.com/kevinfoley/Herculan) | PC | ремейк движка | 25 | 3.75 | 2026-11-27 | ✅ | Reverse engineering Earthsiege 2; ported from herc-works-mdk. |
 | [Kingdoms of Amalur: Re-Reckoning (Open Amalur)](https://github.com/Mokomis/open-amalur-android) | PC | рекомпиляция | 23 | 3.75 | 2026-11-25 | ✅ | A recompilation of the original Re-Reckoning engine with the Veil UI. Android is available now. Windows is planned next. |
 | [Speed-Academy](https://github.com/kugelrund/Speed-Academy) | PC | порт | 23 | 3.75 | 2026-07-26 | ✅ | Source port of the singleplayer of Star Wars Jedi Knight: Jedi Academy |
 | [Heroes of Might and Magic V (HommaRe)](https://github.com/livmaster-dev/HommaRe-public) | PC | порт | 20 | 3.75 | 2026-11-19 | ✅ | Native port of Heroes of Might and Magic V for macOS and iOS |
+| [Bak-Again](https://github.com/stellargames/bakagain) | PC | ремейк движка | 18 | 3.75 | 2026-11-27 | — | A modern, moddable remake of the 1993 role-playing game Betrayal at Krondor, built in Unity. It runs the original game's story, world, rules and art… |
 | [Speed-Outcast](https://github.com/kugelrund/Speed-Outcast) | PC | порт | 18 | 3.75 | 2026-06-02 | ✅ | Source port of the singleplayer of Star Wars Jedi Knight II: Jedi Outcast |
-| [cyrus](https://github.com/michidk/cyrus) | PC | ремейк движка | 17 | 3.75 | 2026-11-27 | ✅ | The Elder Scrolls Adventures: Redguard (1998), rebuilt in Rust and Bevy. |
+| [cyrus](https://github.com/michidk/cyrus) | PC | ремейк движка | 17 | 3.75 | 2026-11-28 | ✅ | The Elder Scrolls Adventures: Redguard (1998), rebuilt in Rust and Bevy. |
 | [Vette](https://github.com/PlasticCog/Vette2026) | PC | рекомпиляция | 7 | 3.75 | 2026-10-12 | ✅ | Vette! Source Port |
 | [Claude of Duty: Vibe Slops II (froydinger mirror)](https://froydinger.github.io/claude-of-duty) | PC | браузер | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (listed… |
 | [Claude of Duty: Vibe Slops II (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/Black-Ops-2) | PC | браузер | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). AI-built Three.js reconstruction of Black Ops II multiplayer (Hijack… |
 | [Kino der Toten (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/COD-ZOMBIES) | PC | браузер | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
+| [Dune 2000 (OpenD2K)](https://github.com/OpenD2K/opend2k) | PC | ремейк движка | 198 | 3.7 | 2026-11-21 | ✅ | Native open-source rebuild of Dune 2000 (1998) for macOS, Windows, Linux, Android and iOS — not OpenRA; needs your own game data |
 | [Star Wars Jedi Knight II: Jedi Outcast (JK XR)](https://github.com/Team-Beef-Studios/JKXR) | PC | порт | 168 | 3.7 | 2026-06-10 | ✅ | Jedi Knight games on OpenXR devices (Meta Quest, Pico 4, and PCVR) |
+| [F-15 II](https://github.com/neuviemeporte/f15se2-re) | PC | рекомпиляция | 149 | 3.7 | 2026-09-06 | ✅ | Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS |
 | [OpenXW](https://github.com/elyosh/OpenXW) | PC | рекомпиляция | 133 | 3.7 | 2026-10-06 | ✅ | Open-source recomp of X-Wing. |
-| [MDK (mdk-sdl)](https://github.com/nautilusbits/mdk-sdl) | PC | ремейк движка | 111 | 3.7 | 2026-11-21 | ✅ | Port of MDK (Shiny Entertainment, 1997) to C# and SDL3, based on reverse engineering: stereo 3D, VR viewer (Cardboard) on Android and desktop, gamepa… |
+| [MDK (mdk-sdl)](https://github.com/nautilusbits/mdk-sdl) | PC | ремейк движка | 110 | 3.7 | 2026-11-21 | ✅ | Port of MDK (Shiny Entertainment, 1997) to C# and SDL3, based on reverse engineering: stereo 3D, VR viewer (Cardboard) on Android and desktop, gamepa… |
 | [FIFA 09 (FIFA 09 PC)](https://github.com/ChunchunQ/fifa09-recomp) | PC | рекомпиляция | 93 | 3.7 | 2026-10-22 | ✅ | FIFA 09 PC Port based on Xbox 360 Version. |
 | [Diablo III (Souls-of-the-Reaper)](https://github.com/Boron853/Souls-of-the-Reaper) | PC | порт | 74 | 3.7 | 2026-07-25 | ✅ | A port of Diablo 3 based on RexGlue using AI |
-| [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | PC | порт | 67 | 3.7 | 2026-08-23 | ✅ | A native Android port of Hollow Knight (GOG/Steam, v1.5.12620 "Voidheart") for the AYN Thor dual-screen handheld. |
-| [DOOM (DOOM Recomp)](https://github.com/NightSightProductions/DOOM-Recomp) | PC | рекомпиляция | 64 | 3.7 | 2026-11-27 | ✅ | Native Apple Silicon port of DOOM (2016) by static recompilation - bring your own copy |
-| [Super Smash Bros. Melee (Desktop Melee)](https://github.com/Mwrnk/desktop-melee) | PC | ремейк движка | 46 | 3.7 | 2026-11-08 | ✅ | Super Smash Bros. Melee on your Mac's desktop: fighters on the Dock, screen edges as blastzones. Built on the Melee decompilation via melee-pc. Bring… |
+| [DOOM (DOOM Recomp)](https://github.com/NightSightProductions/DOOM-Recomp) | PC | рекомпиляция | 69 | 3.7 | 2026-11-27 | ✅ | Native Apple Silicon port of DOOM (2016) by static recompilation - bring your own copy |
+| [Hollow Knight (HK: Dual Souls)](https://github.com/igawa6/dualsouls) | PC | порт | 68 | 3.7 | 2026-08-23 | ✅ | A native Android port of Hollow Knight (GOG/Steam, v1.5.12620 "Voidheart") for the AYN Thor dual-screen handheld. |
+| [Super Smash Bros. Melee (Desktop Melee)](https://github.com/Mwrnk/desktop-melee) | PC | ремейк движка | 47 | 3.7 | 2026-11-08 | ✅ | Super Smash Bros. Melee on your Mac's desktop: fighters on the Dock, screen edges as blastzones. Built on the Melee decompilation via melee-pc. Bring… |
 | [Shortline railroad](https://github.com/konovalov-aleks/reSL) | PC | ремейк движка | 44 | 3.7 | 2026-08-08 | ✅ | The reversed source code for ShortLine v1.1 game |
 | [Test Drive III Enhanced](https://github.com/kylofon/testdrive3-enhanced) | PC | ремейк движка | 41 | 3.7 | 2026-11-24 | ✅ | Enhanced native SDL3 port of Test Drive III: The Passion (1990) - smooth high-resolution 3D view, longer draw distance, smooth steering |
-| [Aces of the Pacific Enhanced](https://github.com/kylofon/acesofthepacific-enhanced) | PC | ремейк движка | 34 | 3.7 | 2026-11-18 | ✅ | Enhanced native SDL3 port of Aces of the Pacific (1992) - smooth high-resolution 3D view, longer view distance, distance haze, key bindings. Requires… |
+| [Aces of the Pacific Enhanced](https://github.com/kylofon/acesofthepacific-enhanced) | PC | ремейк движка | 36 | 3.7 | 2026-11-18 | ✅ | Enhanced native SDL3 port of Aces of the Pacific (1992) - smooth high-resolution 3D view, longer view distance, distance haze, key bindings. Requires… |
+| [Test Drive Enhanced](https://github.com/kylofon/testdrive-enhanced) | PC | ремейк движка | 30 | 3.7 | 2026-11-11 | ✅ | Test Drive (1987) on an SDL3 engine |
 | [LEGO Batman: The Videogame (LEGO Batman: The Videogame (Android))](https://github.com/ttom795/LBM_Android) | PC | рекомпиляция | 28 | 3.7 | 2026-10-26 | ✅ | A static recompilation of LEGO Batman (2008) for Android devices. |
 | [Star Wars Episode I: Racer](https://github.com/sp00nznet/racer) | PC | рекомпиляция | 28 | 3.7 | 2026-10-30 | ✅ | Star Wars Episode I: Racer - N64 Static Recompilation |
 | [Command & Conquer: Tiberian Sun (tiberiansun-recomp)](https://github.com/sp00nznet/tiberiansun-recomp) | PC | рекомпиляция | 25 | 3.7 | 2026-11-21 | ✅ | Static recompilation of Command & Conquer: Tiberian Sun and Firestorm |
-| [X-Men Legends II: Rise of Apocalypse (xmen2)](https://github.com/SomeoneIsWorking/xmen2) | PC | рекомпиляция | 22 | 3.7 | 2026-11-17 | ✅ |  |
+| [X-Men Legends II: Rise of Apocalypse (xmen2)](https://github.com/SomeoneIsWorking/xmen2) | PC | рекомпиляция | 23 | 3.7 | 2026-11-17 | ✅ |  |
 | [Max Payne (payne-recomp)](https://github.com/phobos665/payne-recomp) | PC | рекомпиляция | 19 | 3.7 | 2026-11-02 | ✅ | Recompilation for Max Payne (Xbox) |
 | [Need for Speed: Carbon (NFS Carbon NX)](https://github.com/zofo007/NFS-Carbon-NX) | PC | рекомпиляция | 18 | 3.7 | 2026-10-30 | ✅ | Need for Speed Carbon static recompile from Xbox 360 for Nintendo Switch |
 | [1NSANE (1NSANE: Recompiled)](https://github.com/AntAir267/1nsane-recompiled) | PC | рекомпиляция | 15 | 3.7 | 2026-11-24 | — | 1NSANE: Recompiled — an unofficial native Linux and Windows version of 1NSANE (2000), recompiled from your own GOG copy. Ray tracing, widescreen, 16… |
 | [Final Fantasy XIV (meteor-decomp)](https://github.com/swstegall/meteor-decomp) | PC | рекомпиляция | 15 | 3.7 | 2026-09-16 | ✅ | Clean-room decompilation of the FINAL FANTASY XIV 1.23b Windows client binaries (ffxivgame/boot/login/updater/config). Hybrid matching + functional/w… |
-| [Caesar II (caesar2-port)](https://github.com/second-impressions/caesar2-port) | PC | порт | 14 | 3.7 | 2026-09-13 | ✅ | Portable continuation of the Caesar II source reconstruction |
 | [3D Pinball Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball) | PC | декомпиляция | 4.8k | 3.6 | 2024-08-21 | ✅ | Decompilation of 3D Pinball for Windows – Space Cadet |
-| [Area 51 (Area 51 (Source Restoration))](https://github.com/ProjectDreamland/area51) | PC | порт | 583 | 3.6 | 2025-08-02 | ✅ | Source code for Area 51 (2005) |
-| [Need for Speed: Most Wanted (NFSMW-Recompiled)](https://github.com/madelrandel-blip/NFSMW-Recompiled) | PC | рекомпиляция | 253 | 3.55 | 2026-11-05 | ✅ | A static native recompilation of Need for Speed: Most Wanted (2005) Xbox 360 |
+| [Area 51 (Area 51 (Source Restoration))](https://github.com/ProjectDreamland/area51) | PC | порт | 584 | 3.6 | 2025-08-02 | ✅ | Source code for Area 51 (2005) |
 | [Midtown Madness 1](https://github.com/0x1F9F1/Open1560) | PC | ремейк движка | 208 | 3.55 | 2026-04-20 | ✅ | A partial rewrite of Midtown Madness 1, primarily focused on supporting modern computers and fixing bugs. |
 | [Unhaunter](https://github.com/deavid/unhaunter) | PC | ремейк движка | 118 | 3.55 | 2025-07-10 | ✅ | Terror Game about ghosts |
 | [Team Fortress Classic (TF15-Client)](https://github.com/FWGS/tf15-client) | PC | порт | 105 | 3.55 | 2026-11-17 | — | Team Fortress Classic reverse-engineered. |
-| [Freegish](https://github.com/freegish/freegish) | PC | ремейк движка | 90 | 3.55 | 2026-10-20 | ✅ | A free version of the game Gish |
 | [Stardew Valley (Stardew Valley Enhanced (PS Vita))](https://github.com/rikujoukoro/stardew-valley-enhanced-vita) | PC | порт | 67 | 3.55 | 2026-11-04 | ✅ | Unofficial PS Vita port of Stardew Valley 1.6 — build it from your own Steam copy (Windows; Linux/macOS experimental) |
 | [lilium-voyager](https://github.com/clover-moe/lilium-voyager) | PC | ремейк движка | 61 | 3.55 | 2026-10-31 | ✅ | An engine replacement for Star Trek Voyager: Elite Force Holomatch (multiplayer). |
-| [Stronghold Crusader (OpenSHC)](https://github.com/sourcehold/OpenSHC) | PC | ремейк движка | 59 | 3.55 | 2026-11-27 | ✅ | An open source re-implementation of Stronghold Crusader |
-| [Silent Hill 4: The Room (sh4vita)](https://github.com/vallfrr/sh4vita) | PC | порт | 31 | 3.55 | 2026-10-30 | ✅ | Native port of Silent Hill 4: The Room for PlayStationVita |
-| [X-Moto](https://github.com/xmoto/xmoto) | PC | рекомпиляция | 166 | 3.5 | 2025-08-27 | ✅ | A challenging 2D motocross platform game, where physics play an important role. |
-| [Test Drive Enhanced](https://github.com/kylofon/testdrive-enhanced) | PC | ремейк движка | 29 | 3.5 | 2026-11-11 | ✅ | Test Drive (1987) on an SDL3 engine |
-| [Test Drive II Enhanced](https://github.com/kylofon/testdrive2-enhanced) | PC | ремейк движка | 23 | 3.5 | 2026-10-14 | ✅ | Enhanced Test Drive II: The Duel (1989) on SDL3: the road view at 4x resolution, 60 fps and a 180-unit draw distance, from the original data |
+| [Stronghold Crusader (OpenSHC)](https://github.com/sourcehold/OpenSHC) | PC | ремейк движка | 59 | 3.55 | 2026-11-28 | ✅ | An open source re-implementation of Stronghold Crusader |
+| [Silent Hill 4: The Room (sh4vita)](https://github.com/vallfrr/sh4vita) | PC | порт | 32 | 3.55 | 2026-10-30 | ✅ | Native port of Silent Hill 4: The Room for PlayStationVita |
+| [Test Drive II Enhanced](https://github.com/kylofon/testdrive2-enhanced) | PC | ремейк движка | 24 | 3.5 | 2026-10-14 | ✅ | Enhanced Test Drive II: The Duel (1989) on SDL3: the road view at 4x resolution, 60 fps and a 180-unit draw distance, from the original data |
+| [Caesar II (caesar2-port)](https://github.com/second-impressions/caesar2-port) | PC | порт | 14 | 3.5 | 2026-09-13 | ✅ | Portable continuation of the Caesar II source reconstruction |
 | [NetHack (Amphitere (NetHack))](https://github.com/fancypantalons/Amphitere) | PC | порт | 11 | 3.5 | 2026-06-21 | ✅ | An Android port of NetHack with a specific focus on dual-screen devices |
-| [Black & White](https://github.com/AOJ222/Mac-and-White) | PC | порт | 1 | 3.5 | 2026-11-27 | ✅ | Unofficial native Mac (macOS) port of Black & White (2001) for Apple silicon. Needs your own copy of the game. |
 | [Neverwinter Nights: Enhanced Edition (NWNX:EE unified)](https://github.com/nwnxee/unified) | PC | декомпиляция | 153 | 3.45 | 2026-11-27 | ✅ | Neverwinter Nights: Enhanced Edition eXtender |
 | [Urban Assault (UA_source)](https://github.com/Marisa-Chan/UA_source) | PC | декомпиляция | 141 | 3.45 | 2026-11-23 | ✅ | Mod for UrbanAssault (Replace original game engine) |
-| [Temple of Elemental Evil (Temple Plus)](https://github.com/GrognardsFromHell/TemplePlus) | PC | декомпиляция | 113 | 3.45 | 2026-11-26 | ✅ | ToEE hooks, extensions and fixes |
-| [Space Rangers HD: A War Apart (SpaceRangersHD_FPC)](https://github.com/pakompom/SpaceRangersHD_FPC) | PC | декомпиляция | 107 | 3.45 | 2026-10-15 | ✅ | A cross-platform port of Space Rangers HD: A War Apart based on the decompilation. |
+| [Space Rangers HD: A War Apart (SpaceRangersHD_FPC)](https://github.com/pakompom/SpaceRangersHD_FPC) | PC | декомпиляция | 108 | 3.45 | 2026-10-15 | ✅ | A cross-platform port of Space Rangers HD: A War Apart based on the decompilation. |
 | [Baldur's Gate: Enhanced Edition (EEex)](https://github.com/Bubb13/EEex) | PC | декомпиляция | 102 | 3.45 | 2026-10-07 | ✅ | An executable extender for Beamdog's Enhanced Edition of the Infinity Engine |
 | [Medieval II: Total War (M2TWEOP)](https://github.com/EOP-Labs/M2TWEOP-library) | PC | декомпиляция | 102 | 3.45 | 2026-10-19 | ✅ | The M2TW Engine Overhaul Project (M2TWEOP) is designed to expand the capabilities of the strategy game Medieval 2: Total War. EOP uses C++ and Assemb… |
-| [Torchlight (Torchlight Rekindled)](https://github.com/GreenSwampDweller/torchlight-rekindled) | PC | декомпиляция | 95 | 3.45 | 2026-11-17 | ✅ | Torchlight build for modern portable systems |
-| [Star Wars Episode 1: Racer](https://github.com/tim-tim707/SW_RACER_RE) | PC | декомпиляция | 94 | 3.45 | 2026-11-16 | ✅ | Star Wars Episode 1 Racer Decompilation project |
+| [Torchlight (Torchlight Rekindled)](https://github.com/GreenSwampDweller/torchlight-rekindled) | PC | декомпиляция | 96 | 3.45 | 2026-11-17 | ✅ | Torchlight build for modern portable systems |
+| [Star Wars Episode 1: Racer](https://github.com/tim-tim707/SW_RACER_RE) | PC | декомпиляция | 94 | 3.45 | 2026-11-27 | ✅ | Star Wars Episode 1 Racer Decompilation project |
 | [Stronghold Crusader (Unofficial Crusader Patch)](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch) | PC | декомпиляция | 88 | 3.45 | 2026-09-11 | ✅ | Unofficial patch for Stronghold Crusader 1 |
 | [Wolfenstein 3D (ECWolf)](https://github.com/ECWolfEngine/ECWolf) | PC | декомпиляция | 69 | 3.45 | 2026-11-08 | ✅ | Advanced port of Wolfenstein 3D based off of Wolf4SDL. Intends to back port some of the moding features of ZDoom to Wolfenstein 3D. |
-| [Meridian 59](https://github.com/Meridian59/Meridian59) | PC | порт | 523 | 3.4 | 2026-11-26 | — | The MMORPG Meridian 59 |
-| [Parasite Eve HD Remaster](https://github.com/faligame/Parasite-Eve-HD-Remaster) | PC | рекомпиляция | 247 | 3.4 | 2026-10-16 | — | Native PC port of PARASITE EVE via static recompilation — true 4K rendering, 60 fps, HD Remaster Not an emulator. Work in progress. |
-| [Diablo II (D2MOO)](https://github.com/ThePhrozenKeep/D2MOO) | PC | ремейк движка | 210 | 3.4 | 2026-11-15 | — | Reimplementation of the Diablo2 game coupled with patching facilities for modders. |
-| [Godot Engine](https://github.com/godotengine/godot) | PC | инструмент | 120.9k | 3.35 | 2026-11-26 | ✅ | Godot Engine – Multi-platform 2D and 3D game engine |
+| [Meridian 59](https://github.com/Meridian59/Meridian59) | PC | порт | 523 | 3.4 | 2026-11-27 | — | The MMORPG Meridian 59 |
+| [Parasite Eve HD Remaster](https://github.com/faligame/Parasite-Eve-HD-Remaster) | PC | рекомпиляция | 249 | 3.4 | 2026-10-16 | — | Native PC port of PARASITE EVE via static recompilation — true 4K rendering, 60 fps, HD Remaster Not an emulator. Work in progress. |
+| [Diablo II (D2MOO)](https://github.com/ThePhrozenKeep/D2MOO) | PC | ремейк движка | 211 | 3.4 | 2026-11-15 | — | Reimplementation of the Diablo2 game coupled with patching facilities for modders. |
+| [Godot Engine](https://github.com/godotengine/godot) | PC | инструмент | 121.0k | 3.35 | 2026-11-26 | ✅ | Godot Engine – Multi-platform 2D and 3D game engine |
 | [3D Maze](https://github.com/x86matthew/Playable3DMaze) | PC | декомпиляция | 215 | 3.35 | 2025-02-17 | ✅ | A playable version of Microsoft's old 3DMaze screensaver from Windows 9x |
 | [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) | PC | ремейк движка | 133 | 3.35 | 2026-11-05 | ✅ | Classic ZX Spectrum game "The Great Escape" rewritten in portable C |
 | [Quake III Arena (Batocera port package 'vkquake3')](https://github.com/suijingfeng/vkQuake3) | PC | порт | 114 | 3.35 | 2026-06-14 | — | Its based on ioq3，I add a vulkan based modular render back end which originally from https://github.com/kennyalive/Quake-III-Arena-Kenny-Edition |
 | [Nanosaur II: Hatchling (Nanosaur 2)](https://github.com/jorio/Nanosaur2) | PC | ремейк движка | 109 | 3.35 | 2025-12-07 | ✅ | Pangea Software’s Nanosaur II for modern systems |
+| [Freegish](https://github.com/freegish/freegish) | PC | ремейк движка | 91 | 3.35 | 2026-10-20 | ✅ | A free version of the game Gish |
 | [Anodyne ( AnodyneFNA)](https://github.com/PixieCatSupreme/AnodyneSharp) | PC | порт | 56 | 3.35 | 2026-02-04 | — | A rewrite of the game Anodyne in Monogame |
 | [Billy Frontier](https://github.com/jorio/BillyFrontier) | PC | ремейк движка | 41 | 3.35 | 2025-12-07 | ✅ | Pangea Software’s Billy Frontier for modern systems |
 | [Prince of Persia 2: The Shadow and the Flame (prince-of-persia-2-windows)](https://github.com/Supermedo/prince-of-persia-2-windows) | PC | рекомпиляция | 37 | 3.35 | 2026-09-23 | ✅ | Static recompilation of the DOS Prince of Persia 2 into a native Windows game (recompiler + runtime; needs your own copy of the game) |
@@ -481,66 +476,68 @@
 | [Plants vs. Zombies (Plants vs. Zombies: Console Edition)](https://github.com/ITSeniy/pvz-console-edition) | PC | рекомпиляция | 22 | 3.35 | 2026-10-24 | — | Unofficial Windows port of the Xbox 360 Plants vs. Zombies, statically recompiled with ReXGlue, with full mouse controls. Bring your own game copy. |
 | [Alice: Madness Returns (alice-nx)](https://github.com/adumah/alice-nx) | PC | рекомпиляция | 20 | 3.35 | 2026-11-06 | — | Unofficial native Nintendo Switch port of Alice: Madness Returns (Xbox 360), by static recompilation with ReXGlue. Source only: bring your own copy o… |
 | [The Binding of Isaac: Repentance+ (Isaac Switch Native)](https://github.com/antoniotorres02/isaac-switch-native) | PC | рекомпиляция | 19 | 3.35 | 2026-11-25 | ✅ | Native Nintendo Switch (libnx) and PC host for The Binding of Isaac: Repentance+, built on the-browsing-of-isaac's static recompilation. Bring your o… |
-| [Dark Souls: Prepare to Die Edition (darksouls-mac)](https://github.com/aplaino/darksouls-mac) | PC | рекомпиляция | 16 | 3.35 | 2026-11-14 | ✅ | Dark Souls: Prepare to Die Edition running natively on Apple silicon Macs, via static recompilation (x86recomp). No game files included. |
+| [Dark Souls: Prepare to Die Edition (darksouls-mac)](https://github.com/aplaino/darksouls-mac) | PC | рекомпиляция | 17 | 3.35 | 2026-11-14 | ✅ | Dark Souls: Prepare to Die Edition running natively on Apple silicon Macs, via static recompilation (x86recomp). No game files included. |
 | [Sid Meier's Civilization III: Conquests (civ3)](https://github.com/sp00nznet/civ3) | PC | рекомпиляция | 15 | 3.35 | 2026-11-03 | ✅ | Static recompilation of Sid Meier's Civilization III: Conquests (Steam) into native C. Boots and plays. No emulation. |
-| [Unreal Tournament (ut99-recomp)](https://github.com/sp00nznet/ut99-recomp) | PC | рекомпиляция | 14 | 3.35 | 2026-11-03 | ✅ | Static recompilation of Unreal Tournament (Epic, 1999; Steam v436) to native C, headed for a modern makeover: its own presenter, widescreen, a modern… |
-| [Assassin's Creed II (Assassin's Creed II - iOS Port (LamaCelata2-iOS))](https://github.com/Ke619/LamaCelata2-iOS) | Mac | порт | 12 | 3.35 | 2026-11-17 | ✅ | Static recompilation of Assassin's Creed II for iOS based on the MacOS build. |
+| [Unreal Tournament (ut99-recomp)](https://github.com/sp00nznet/ut99-recomp) | PC | рекомпиляция | 15 | 3.35 | 2026-11-03 | ✅ | Static recompilation of Unreal Tournament (Epic, 1999; Steam v436) to native C, headed for a modern makeover: its own presenter, widescreen, a modern… |
+| [Assassin's Creed II (Assassin's Creed II - iOS Port (LamaCelata2-iOS))](https://github.com/Ke619/LamaCelata2-iOS) | Mac | порт | 13 | 3.35 | 2026-11-17 | ✅ | Static recompilation of Assassin's Creed II for iOS based on the MacOS build. |
 | [Need for Speed: Most Wanted (nfsmw-recomp-android)](https://github.com/DEBARSHI-SARKAR/nfsmw-recomp-android) | PC | рекомпиляция | 12 | 3.35 | 2026-10-18 | ✅ | A recompilation of Need for Speed: Most Wanted (the 2005 PC Black Edition) for Android, Linux |
-| [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | PC | декомпиляция | 180 | 3.25 | 2026-11-26 | ✅ | Open source port of Test Drive Unlimited (2006) |
-| [Mirror's Edge (Glassline)](https://github.com/MoonCellar-Team/Glassline) | PC | декомпиляция | 66 | 3.25 | 2026-10-30 | ✅ | Unofficial port of Mirror's Edge (iPad, 2010) to Linux, Windows, Steam Deck and Android |
+| [Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) | PC | декомпиляция | 181 | 3.25 | 2026-11-28 | ✅ | Open source port of Test Drive Unlimited (2006) |
+| [Temple of Elemental Evil (Temple Plus)](https://github.com/GrognardsFromHell/TemplePlus) | PC | декомпиляция | 113 | 3.25 | 2026-11-26 | ✅ | ToEE hooks, extensions and fixes |
+| [Mirror's Edge (Glassline)](https://github.com/MoonCellar-Team/Glassline) | PC | декомпиляция | 68 | 3.25 | 2026-10-30 | ✅ | Unofficial port of Mirror's Edge (iPad, 2010) to Linux, Windows, Steam Deck and Android |
 | [Sonic R (Sonic R Android)](https://github.com/ZinexDa/sonic-r-android) | PC | декомпиляция | 38 | 3.25 | 2026-11-21 | ✅ | Native Android port of the Sonic R PC decompilation (jnmartin84). Features a custom GLES2 shader pipeline, 60 FPS, customizable touch controls, and S… |
 | [Nocturne](https://github.com/NearlyTRex/NocturneDecomp) | PC | декомпиляция | 34 | 3.25 | 2026-11-24 | ✅ | Nocturne Engine Decompilation - Covering Nocturne and its sibling Blair Witch games |
 | [Pizza Tower (Pizza-Tower-EXtracted)](https://github.com/setupwitch/Pizza-Tower-EXtracted) | PC | декомпиляция | 29 | 3.25 | 2026-11-14 | ✅ | A semi-accurate decompilation of Pizza Tower |
 | [Boss Rally](https://github.com/jeff-strutb/brally) | PC | декомпиляция | 25 | 3.25 | 2026-11-23 | ✅ | A decompilation project of the Boss Rally / Top Gear Rally video game. |
 | [Thief: Deadly Shadows (Thief3-Decomp (T3SDK))](https://github.com/Veradictus/Thief3-Decomp) | PC | декомпиляция | 18 | 3.25 | 2026-11-17 | ✅ | Decompilation, modding, and map editing for Thief: Deadly Shadows. |
 | [King's Field 2](https://github.com/snzhkhd/King-s-Field-PC) | PC | декомпиляция | 4 | 3.25 | 2026-10-14 | ✅ |  |
-| [Barnyard](https://github.com/InfiniteC0re/OpenBarnyard) | PC | дизасм | 107 | 3.2 | 2026-11-22 | ✅ | Decompilation of Barnyard the video game and TOSHI 2.0 game engine developed by Blue Tongue Entertainment. |
-| [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher) | PC | инструмент | 4.6k | 3.15 | 2026-11-27 | ✅ | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscript… |
+| [Barnyard](https://github.com/InfiniteC0re/OpenBarnyard) | PC | дизасм | 108 | 3.2 | 2026-11-22 | ✅ | Decompilation of Barnyard the video game and TOSHI 2.0 game engine developed by Blue Tongue Entertainment. |
+| [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher) | PC | инструмент | 4.7k | 3.15 | 2026-11-28 | ✅ | A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscript… |
 | [Otto Matic](https://github.com/jorio/OttoMatic) | PC | ремейк движка | 186 | 3.15 | 2025-09-28 | ✅ | Pangea Software’s Otto Matic 🤖 |
 | [Command & Conquer: Yuri's Revenge (OpenRA Red Alert 2 Yuri's Revenge)](https://github.com/cookgreen/Yuris-Revenge) | PC | ремейк движка | 182 | 3.15 | 2024-11-30 | — | A Red Alert 2 Yuri's Revenge mod for OpenRA Engine |
 | [Cro-Mag Rally](https://github.com/jorio/CroMagRally) | PC | ремейк движка | 179 | 3.15 | 2025-08-26 | ✅ | The wildest racing game since man invented the wheel! |
-| [Need for Speed II: Special Edition (NFS Recompiled)](https://github.com/motor-dev/nfs-recompiled) | PC | рекомпиляция | 96 | 3.15 | 2026-03-04 | ✅ | nfs-recompiled is a native PC port of Need for Speed II: Special Edition and Need for Speed III: Hot Pursuit built from original executables. |
+| [Need for Speed II: Special Edition (NFS Recompiled)](https://github.com/motor-dev/nfs-recompiled) | PC | рекомпиляция | 97 | 3.15 | 2026-03-04 | ✅ | nfs-recompiled is a native PC port of Need for Speed II: Special Edition and Need for Speed III: Hot Pursuit built from original executables. |
 | [Bugdom 2](https://github.com/jorio/Bugdom2) | PC | порт | 75 | 3.15 | 2025-03-08 | ✅ | Pangea Software’s Bugdom 2 for modern systems 🦗 |
 | [Quarantine (Quarantine (DOS) Recomp)](https://github.com/second-save/quarantine-recomp) | PC | рекомпиляция | 25 | 3.15 | 2026-11-04 | ✅ | Static recompilation of Quarantine (1994, DOS) to native C for macOS/Linux/Windows. Bring your own game files. |
 | [Syndicate (1992)](https://github.com/swfans/syndicatfx) | PC | ремейк движка | 21 | 3.15 | 2025-12-17 | ✅ | Syndicate Fan Expansion, Open Source implementation of the classic game from Bullfrog, based on Syndicate Plus. |
 | [Syndicate Plus (Syndicate Plus 64bit)](https://github.com/Buyukcaglar/synd) | PC | рекомпиляция | 15 | 3.15 | 2026-11-26 | ✅ | Syndicate Plus (1993) recompiled from DOS to native 64-bit Windows and macOS. Needs your own copy of the game. |
-| [Daytona USA Deluxe (Daytona USA Deluxe Recomp)](https://github.com/MDashK/Daytona-USA-Deluxe-Recomp) | PC | рекомпиляция | 11 | 3.15 | 2026-11-15 | ✅ | A native port of Daytona USA Deluxe to the PlayStation Vita and Windows. |
+| [Daytona USA Deluxe (Daytona USA Deluxe Recomp)](https://github.com/MDashK/Daytona-USA-Deluxe-Recomp) | PC | рекомпиляция | 12 | 3.15 | 2026-11-15 | ✅ | A native port of Daytona USA Deluxe to the PlayStation Vita and Windows. |
 | [Gearhead Garage (native macOS recompilation)](https://github.com/007hacky007/gearhead-garage-macos-arm64) | PC | рекомпиляция | 1 | 3.15 | 2026-11-13 | ✅ | Play Gearhead Garage game natively under Apple Silicon macOS |
-| [Touhou 6: The Embodiment of Scarlet Devil (th06)](https://github.com/GensokyoClub/th06) | PC | декомпиляция | 635 | 3.05 | 2026-11-26 | — | Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h) |
-| [Fallout: New Vegas (FNV decompilation)](https://github.com/momusdigital/fnv_decomp) | PC | декомпиляция | 598 | 3.05 | 2026-11-19 | — |  |
+| [Touhou 6: The Embodiment of Scarlet Devil (th06)](https://github.com/GensokyoClub/th06) | PC | декомпиляция | 636 | 3.05 | 2026-11-26 | — | Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h) |
+| [Fallout: New Vegas (FNV decompilation)](https://github.com/momusdigital/fnv_decomp) | PC | декомпиляция | 601 | 3.05 | 2026-11-19 | — |  |
 | [Tomb Raider: The Last Revelation (TombEngine (TEN))](https://github.com/TombEngine/TombEngine) | PC | декомпиляция | 354 | 3.05 | 2026-11-08 | — | A new and modern engine for custom Tomb Raider levels incorporating classic features and new enhancements. |
 | [Deus Ex: Human Revolution](https://github.com/rrika/cdcEngineDXHR) | PC | декомпиляция | 333 | 3.05 | 2026-10-28 | — | Decompilation of Deus Ex: Human Revolution |
 | [Call of Duty: United Offensive (Multiplayer)](https://github.com/opencoduo/coduomp) | PC | декомпиляция | 21 | 3.05 | 2026-11-23 | ✅ |  |
-| [Time Gate: Knight's Chase (TimeGateClassicReborn)](https://github.com/nayo186/TimeGateClassicReborn) | PC | декомпиляция | 13 | 3.05 | 2026-11-22 | ✅ | Time Gate: Knight's Chase (1996) on modern PCs: a source port of the Infogrames engine with its original graphics, fixes and options. Bring your own… |
+| [Time Gate: Knight's Chase (TimeGateClassicReborn)](https://github.com/nayo186/TimeGateClassicReborn) | PC | декомпиляция | 14 | 3.05 | 2026-11-22 | ✅ | Time Gate: Knight's Chase (1996) on modern PCs: a source port of the Infogrames engine with its original graphics, fixes and options. Bring your own… |
 | [SimCity (micropolisJS)](https://github.com/graememcc/micropolisJS) | Mac | порт | 739 | 3 | 2025-07-13 | — | A port of Micropolis to JS/HTML5 |
 | [Nyrna](https://github.com/Merrit/nyrna) | PC | инструмент | 1.3k | 2.95 | 2026-05-26 | ✅ | Suspend games and applications. |
-| [Grand Theft Auto 2](https://github.com/CriminalRETeam/gta2_re) | PC | ремейк движка | 151 | 2.95 | 2026-10-29 | — | Re-implementation of gta2 10.5 (pc version) |
+| [Grand Theft Auto 2](https://github.com/CriminalRETeam/gta2_re) | PC | ремейк движка | 152 | 2.95 | 2026-10-29 | — | Re-implementation of gta2 10.5 (pc version) |
 | [Hexen II (uHexen2 (Hammer of Thyrion))](https://github.com/sezero/uhexen2) | PC | порт | 119 | 2.95 | 2026-11-19 | — | Hexen II: Hammer of Thyrion -- A cross-platform port of Hexen II game. |
 | [Plants vs Zombies GOTY](https://github.com/Patoke/re-plants-vs-zombies) | PC | декомпиляция | 250 | 2.85 | 2026-07-11 | — | A project to rebuild all functionality via reverse engineering from the GOTY version of Plants VS Zombies (and expand upon it) |
 | [Cave Story](https://github.com/gameblabla/CSE2) | PC | декомпиляция | 206 | 2.85 | 2026-03-12 | — | Decompilation of Cave Story (v1.0.0.6) |
-| [Roblox (OpenRBX)](https://github.com/OpenRBX-org/OpenRBX) | PC | декомпиляция | 179 | 2.85 | 2026-11-21 | ✅ | A modern, cross-platform source port of Roblox (December 2007) |
-| [Raptor: Call of the Shadows](https://github.com/skynettx/raptor) | PC | декомпиляция | 141 | 2.85 | 2026-09-28 | ✅ | Reversed-engineered source port from Raptor Call Of The Shadows |
-| [LEGO Racers](https://github.com/isledecomp/racers) | PC | декомпиляция | 114 | 2.85 | 2026-11-26 | ✅ | A decompilation of LEGO Racers (1999) |
+| [Roblox (OpenRBX)](https://github.com/OpenRBX-org/OpenRBX) | PC | декомпиляция | 180 | 2.85 | 2026-11-21 | ✅ | A modern, cross-platform source port of Roblox (December 2007) |
+| [Raptor: Call of the Shadows](https://github.com/skynettx/raptor) | PC | декомпиляция | 143 | 2.85 | 2026-09-28 | ✅ | Reversed-engineered source port from Raptor Call Of The Shadows |
+| [LEGO Racers](https://github.com/isledecomp/racers) | PC | декомпиляция | 114 | 2.85 | 2026-11-27 | ✅ | A decompilation of LEGO Racers (1999) |
 | [Command & Conquer: Tiberian Sun (Vinifera)](https://github.com/Vinifera-Developers/Vinifera) | PC | декомпиляция | 98 | 2.85 | 2026-10-18 | ✅ | Vinifera is a C&C: Tiberian Sun engine extension implementing new logics and fixing bugs. |
 | [OutRun 2006: Coast 2 Coast (outrun2-decomp)](https://github.com/r4dius/outrun2-decomp) | PC | декомпиляция | 66 | 2.85 | 2026-10-07 | — | An OutRun 2006: Coast 2 Coast decomp ported to everything using AI |
+| [Roblox (RBXDecomp)](https://github.com/OpenRBX-org/RBXDecomp) | PC | декомпиляция | 56 | 2.85 | 2026-11-15 | ✅ | A decompilation of Roblox (December 2007) |
 | [Half-Life (halflife_dc)](https://github.com/maximqaxd/halflife_dc) | PC | декомпиляция | 54 | 2.85 | 2026-09-16 | ✅ | Half-Life Dreamcast port reverse-engineered. |
-| [Roblox (RBXDecomp)](https://github.com/OpenRBX-org/RBXDecomp) | PC | декомпиляция | 54 | 2.85 | 2026-11-15 | ✅ | A decompilation of Roblox (December 2007) |
-| [Ballance](https://github.com/doyaGu/Ballanced) | PC | декомпиляция | 51 | 2.85 | 2026-11-27 | ✅ | The reversed code of Ballance. |
-| [Heroes of Might and Magic III (homm3-decomp)](https://github.com/sushi-shi/homm3-decomp) | PC | декомпиляция | 32 | 2.85 | 2026-11-05 | ✅ | Matching decompilation of Heroes of Might and Magic III |
+| [Ballance](https://github.com/doyaGu/Ballanced) | PC | декомпиляция | 51 | 2.85 | 2026-11-28 | ✅ | The reversed code of Ballance. |
+| [Heroes of Might and Magic III (homm3-decomp)](https://github.com/sushi-shi/homm3-decomp) | PC | декомпиляция | 32 | 2.85 | 2026-11-28 | ✅ | Matching decompilation of Heroes of Might and Magic III |
 | [Catapult](https://github.com/qrrk/Catapult) | PC | инструмент | 518 | 2.75 | 2026-11-22 | ✅ | A cross-platform launcher for Cataclysm: DDA and BN |
-| [SF4 Ember (Rollback Client)](https://github.com/Confetti3/SF4-Ember-Netplay) | PC | инструмент | 213 | 2.75 | 2026-11-25 | ✅ | Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial experimental port of Anthony Danducci's sf4e. |
-| [Half-Life (webXash))](https://github.com/x8BitRain/webXash) | PC | порт | 186 | 2.75 | 2026-01-28 | — | Half-Life in your browser powered by webxash3d-fwgs |
+| [SF4 Ember (Rollback Client)](https://github.com/Confetti3/SF4-Ember-Netplay) | PC | инструмент | 214 | 2.75 | 2026-11-25 | ✅ | Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial experimental port of Anthony Danducci's sf4e. |
+| [Half-Life (webXash))](https://github.com/x8BitRain/webXash) | PC | порт | 187 | 2.75 | 2026-01-28 | — | Half-Life in your browser powered by webxash3d-fwgs |
 | [9Launcher](https://github.com/wearrrrr/9Launcher) | PC | инструмент | 161 | 2.75 | 2026-11-15 | ✅ | 9Launcher is an actively maintained and cross platform remake of Touhou Relauncher! |
-| [The Operative: No One Lives Forever (nolfsrc)](https://github.com/nolffan/nolfsrc) | PC | декомпиляция | 129 | 2.65 | 2026-11-26 | — | The Operative: No One Lives Forever source code |
+| [The Operative: No One Lives Forever (nolfsrc)](https://github.com/nolffan/nolfsrc) | PC | декомпиляция | 131 | 2.65 | 2026-11-26 | — | The Operative: No One Lives Forever source code |
 | [Hitman: Codename 47 (ReHitman)](https://github.com/ReGlacier/ReHitman) | PC | декомпиляция | 75 | 2.65 | 2026-05-23 | ✅ | Hitman Gen 1 Reverse Engineering Project |
-| [Terraria](https://github.com/PPrism/TerrariaOGC) | PC | декомпиляция | 74 | 2.65 | 2026-05-27 | ✅ | A functional decompilation & PC port of the console version of Terraria released on the Xbox 360 & PS3 in 2013. |
+| [Terraria](https://github.com/PPrism/TerrariaOGC) | PC | декомпиляция | 75 | 2.65 | 2026-05-27 | ✅ | A functional decompilation & PC port of the console version of Terraria released on the Xbox 360 & PS3 in 2013. |
 | [Retro-Sonic Engine v2 (RSDKv2 (Sonic Nexus))](https://github.com/RSDKModding/RSDKv2-Decompilation) | PC | декомпиляция | 59 | 2.65 | 2026-07-01 | ✅ | a Decompilation of the 2008 Retro-Sonic Engine Demo of Sonic Nexus |
 | [Touhou 8: Imperishable Night (th08)](https://github.com/N0zoM1z0/th08) | PC | декомпиляция | 58 | 2.65 | 2026-11-20 | ✅ | Source reconstruction of 東方永夜抄 ～ Imperishable Night 1.00d |
-| [Touhou 6: The Embodiment of Scarlet Devil (th06-sdl2)](https://github.com/CNTianQi233/th06-sdl2) | PC | декомпиляция | 51 | 2.65 | 2026-05-13 | ✅ | Rebuild the th06 decompilation project based on SDL2 and OpenGL by decoupling the original's low-level dependency on Direct3D 8, achieving modernizat… |
+| [Touhou 6: The Embodiment of Scarlet Devil (th06-sdl2)](https://github.com/CNTianQi233/th06-sdl2) | PC | декомпиляция | 52 | 2.65 | 2026-05-13 | ✅ | Rebuild the th06 decompilation project based on SDL2 and OpenGL by decoupling the original's low-level dependency on Direct3D 8, achieving modernizat… |
 | [Command & Conquer: Tiberian Sun (ts-patches)](https://github.com/CnCNet/ts-patches) | PC | декомпиляция | 50 | 2.65 | 2026-08-20 | ✅ | Command and Conquer: Tiberian Sun patches for CnCNet online gameplay. |
-| [M.U.G.E.N 1.1 Beta 1 (mugen-unleashed)](https://github.com/zxmarcos/mugen-unleashed) | PC | декомпиляция | 44 | 2.65 | 2026-10-23 | ✅ | Decompilation project of mugen 1.1b |
+| [M.U.G.E.N 1.1 Beta 1 (mugen-unleashed)](https://github.com/zxmarcos/mugen-unleashed) | PC | декомпиляция | 45 | 2.65 | 2026-10-23 | ✅ | Decompilation project of mugen 1.1b |
 | [Carmageddon 2](https://github.com/Link4Electronics/Carpocalypse2) | PC | декомпиляция | 37 | 2.65 | 2026-11-15 | ✅ | Decompilation and native port of Carmageddon 2 |
 | [Skullkeep (SKProject)](https://github.com/gbsphenx/skproject) | PC | декомпиляция | 28 | 2.65 | 2026-11-22 | — | Dungeon Master ][ Skullkeep, unofficial port for Windows |
+| [Civilization II](https://github.com/openciv2/openciv2) | PC | декомпиляция | 24 | 2.65 | 2026-11-28 | ✅ | A native, cross-platform reconstruction of Sid Meier's Civilization 2 |
 | [Quake 4 (Xbox 360 Quake 4 decomp)](https://github.com/cyberheater/Xbox-360-Quake4-decomp) | PC | декомпиляция | 20 | 2.65 | 2026-10-28 | ✅ |  |
 | [Day of Defeat (DOD13-Client)](https://github.com/whamemer/dod13-client) | PC | декомпиляция | 17 | 2.65 | 2026-10-22 | ✅ | Day of Defeat client reverse-engineered. |
 | [Nuclear Titbit (Titbit Modern)](https://github.com/offx366/titbit-modern) | PC | декомпиляция | 16 | 2.65 | 2026-10-22 | ✅ | Восстановленные исходники «Ядерного Титбита» (VZlab / Бука, 2003). Win32-движок, совместимость с современными Windows и редактор сцен Titbit Studio. |
@@ -550,18 +547,18 @@
 | [Heroes of Might and Magic II (homm2-decomp)](https://github.com/sushi-shi/homm2-decomp) | PC | декомпиляция | 11 | 2.65 | 2026-10-10 | ✅ | Matching decompilation of Heroes of Might and Magic II |
 | [Ultima Online (OUO)](https://github.com/draxinar/ouo) | PC | декомпиляция | 179 | 2.6 | 2026-11-12 | — | OUO: reverse engineering of Ultima Online: The Second Age server |
 | [San Andreas Multiplayer (SA-MP)](https://github.com/dashr9230/SA-MP) | PC | декомпиляция | 157 | 2.6 | 2026-10-10 | — | A work-in-progress matching decompilation of the 0.3.7 version of San Andreas Multiplayer |
-| [Black and White](https://github.com/openblack/bw1-decomp) | PC | декомпиляция | 137 | 2.6 | 2026-11-26 | — | Decompilation of Black & White 1 |
+| [Black and White](https://github.com/openblack/bw1-decomp) | PC | декомпиляция | 137 | 2.6 | 2026-11-28 | — | Decompilation of Black & White 1 |
 | [Plants vs. Zombies (PlantsVsZombies-decompilation)](https://github.com/ruslan831/PlantsVsZombies-decompilation) | PC | декомпиляция | 130 | 2.6 | 2026-09-19 | — | this is a decompilation of the game plants vs zombies version 0.9.9.1029 this project used to be a project by user kopie https://github.com/rspforhp |
 | [The Binding of Isaac: Rebirth (The Browsing of Isaac (tboi.online))](https://github.com/chiikabu/the-browsing-of-isaac) | PC | рекомпиляция | 87 | 2.6 | 2026-11-25 | — | The Binding of Isaac: Repentance+ recompiled to WebAssembly, playable in the browser. |
-| [Diablo II (Redivivus)](https://github.com/jaenster/redivivus) | PC | ремейк движка | 80 | 2.6 | 2026-11-27 | — | Diablo II (Diablo 2) 1.14d decompilation: the shipped Game.exe recovered as C++ source that builds. Not a reimplementation. |
-| [Diablo (diablo_web))](https://github.com/JohnImril/diablo_web) | PC | порт | 75 | 2.6 | 2026-11-23 | — | Play the original Diablo in your browser. Powered by React, TypeScript, Vite, and WebAssembly, with local saves, a free shareware demo, and support f… |
-| [rebellion2](https://github.com/davidadas/rebellion2) | PC | ремейк движка | 71 | 2.6 | 2026-11-27 | — | Remake of the classic Star Wars Rebellion game for PC using Unity |
+| [Diablo II (Redivivus)](https://github.com/jaenster/redivivus) | PC | ремейк движка | 81 | 2.6 | 2026-11-28 | — | Diablo II (Diablo 2) 1.14d decompilation: the shipped Game.exe recovered as C++ source that builds. Not a reimplementation. |
+| [Diablo (diablo_web))](https://github.com/JohnImril/diablo_web) | PC | порт | 75 | 2.6 | 2026-11-27 | — | Play the original Diablo in your browser. Powered by React, TypeScript, Vite, and WebAssembly, with local saves, a free shareware demo, and support f… |
+| [rebellion2](https://github.com/davidadas/rebellion2) | PC | ремейк движка | 72 | 2.6 | 2026-11-28 | — | Remake of the classic Star Wars Rebellion game for PC using Unity |
+| [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re) | PC | декомпиляция | 69 | 2.6 | 2026-11-21 | — | Decompilation of Mafia: The City of Lost Heaven |
 | [Space Rangers HD: A War Apart](https://github.com/pakompom/SpaceRangersHD_decomp) | PC | декомпиляция | 67 | 2.6 | 2026-10-16 | — | A matching Delphi decompilation of Space Rangers HD: A War Apart - Космические рейнджеры HD: Революция |
-| [Mafia: The City of Lost Heaven](https://github.com/Marvisak/mafia-re) | PC | декомпиляция | 66 | 2.6 | 2026-11-21 | — | Decompilation of Mafia: The City of Lost Heaven |
 | [Touhou 7: Perfect Cherry Blossom (th07)](https://github.com/some100/th07) | PC | декомпиляция | 64 | 2.6 | 2026-10-07 | — | A decompilation of 東方妖々夢　～ Perfect Cherry Blossom 1.00b (Touhou 7) |
 | [Peggle Deluxe (Thunderball)](https://github.com/teampopwork/Thunderball) | PC | декомпиляция | 62 | 2.6 | 2026-10-31 | — | WIP Decompilation of Peggle Deluxe 1.01 |
-| [Carmageddon II: Carpocalypse Now](https://github.com/dethrace-labs/rec2) | PC | декомпиляция | 61 | 2.6 | 2026-11-27 | — | Carmageddon 2, revisited |
-| [Severance: Blade of Darkness (BldMystery)](https://github.com/smartblade/BldMystery) | PC | декомпиляция | 60 | 2.6 | 2026-11-27 | — | Severance: Blade of Darkness source code recovery |
+| [Carmageddon II: Carpocalypse Now](https://github.com/dethrace-labs/rec2) | PC | декомпиляция | 61 | 2.6 | 2026-11-28 | — | Carmageddon 2, revisited |
+| [Severance: Blade of Darkness (BldMystery)](https://github.com/smartblade/BldMystery) | PC | декомпиляция | 60 | 2.6 | 2026-11-28 | — | Severance: Blade of Darkness source code recovery |
 | [Total Annihilation (TA: Byte Tactics)](https://github.com/HectorBailey/byte-tactics) | PC | декомпиляция | 60 | 2.6 | 2026-11-14 | — | TA: Byte Tactics, a matching decompilation of Total Annihilation |
 | [Plants vs. Zombies (pvz-ps2-wii)](https://github.com/OptiJuegos/pvz-ps2-wii) | PC | порт | 58 | 2.6 | 2026-09-01 | — | PvZ ported for the PS2 and the Wii! |
 | [Quake II Mission Pack: Ground Zero (Ground Zero for Yamagi Quake II)](https://github.com/yquake2/rogue) | PC | порт | 53 | 2.6 | 2026-11-11 | — | 'Ground Zero' for Yamagi Quake II |
@@ -570,24 +567,24 @@
 | [Icewind Dale II (iwd2r (Icewind Dale 2 Resurrected))](https://github.com/thierbig/iwd2r) | PC | декомпиляция | 44 | 2.6 | 2026-11-26 | — | Icewind Dale 2 Resurrected: a cross-platform engine built on the decompiled IWD2 source. Bring your own GOG copy. |
 | [Call of Duty 4: Modern Warfare (kisakcod-port (web))](https://github.com/slqntdevss/kisakcod-port) | PC | порт | 43 | 2.6 | 2026-10-07 | — | port of kisakcod (cod 4 2007 reimpl) to the web |
 | [Fallout: New Vegas (fnv)](https://github.com/ieee802dot11ac/fnv) | PC | декомпиляция | 40 | 2.6 | 2026-08-30 | — |  |
-| [Resident Evil 5: Gold Edition (re5-recompiled)](https://github.com/PedroCavalcanti-coder/RE5-SteamVersion-RecompAndroid) | PC | рекомпиляция | 39 | 2.6 | 2026-11-07 | — |  |
+| [Resident Evil 5: Gold Edition (re5-recompiled)](https://github.com/PedroCavalcanti-coder/RE5-SteamVersion-RecompAndroid) | PC | рекомпиляция | 40 | 2.6 | 2026-11-07 | — |  |
 | [LEGO Racers (racers-portable)](https://github.com/isledecomp/racers-portable) | PC | декомпиляция | 38 | 2.6 | 2026-11-26 | — | A portable version of LEGO Racers (1999) |
-| [Touhou 08: Imperishable Night](https://github.com/GensokyoClub/th08) | PC | декомпиляция | 32 | 2.6 | 2026-11-24 | — |  |
+| [Touhou 08: Imperishable Night](https://github.com/GensokyoClub/th08) | PC | декомпиляция | 33 | 2.6 | 2026-11-24 | — |  |
 | [Quake II: Zaero (Zaero for Yamagi Quake II)](https://github.com/yquake2/zaero) | PC | порт | 30 | 2.6 | 2026-11-11 | — | A port of Team Evolves Zaero to Yamagi Quake II |
 | [Olympus - Cross-platform Celeste Mod Manager](https://github.com/EverestAPI/Olympus) | PC | инструмент | 186 | 2.5 | 2026-11-25 | ✅ | New Everest installer / manager, powered by LÖVE / love2d. |
-| [Ports Launcher](https://github.com/Nyaldee/Ports-Launcher) | PC | инструмент | 101 | 2.5 | 2026-11-25 | ✅ | A library manager and installer for unofficial native game ports and recomps. Fully portable, with zero runtime dependencies, and compatible with Win… |
+| [Ports Launcher](https://github.com/Nyaldee/Ports-Launcher) | PC | инструмент | 100 | 2.5 | 2026-11-27 | ✅ | A library manager and installer for unofficial native game ports and recomps. Fully portable, with zero runtime dependencies, and compatible with Win… |
 | [Indiana Jones and the Infernal Machine (OpenJones3D)](https://github.com/smlu/OpenJones3D) | PC | декомпиляция | 80 | 2.45 | 2025-07-08 | ✅ | Open-source dig site for the LucasArts Jones3D game engine that powers Indiana Jones and the Infernal Machine |
 | [Ultima Online (uo-client)](https://github.com/xrip/uo-client) | PC | декомпиляция | 21 | 2.45 | 2026-06-01 | ✅ | Ultima Online T2A client recreated from Origin's 2.0.7 client decompilation |
 | [Fallout Tactics: Brotherhood of Steel (FTSE)](https://github.com/melindil/FTSE) | PC | декомпиляция | 19 | 2.45 | 2026-03-27 | ✅ | Fallout Tactics Scripting Engine |
 | [Arcanum: Of Steamworks and Magick Obscura (Arcanum Community Edition)](https://github.com/alexbatalov/arcanum-ce) | PC | декомпиляция | 188 | 2.4 | 2026-05-13 | — | Arcanum for modern operating systems |
 | [Sonic CD (RSDKv3-Script-Decompilation)](https://github.com/RSDKModding/RSDKv3-Script-Decompilation) | PC | декомпиляция | 141 | 2.4 | 2026-08-13 | — |  |
-| [DX-Ball (dx-ball (REA showcase))](https://github.com/N0zoM1z0/dx-ball) | PC | декомпиляция | 112 | 2.4 | 2026-11-25 | — | Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles. |
+| [DX-Ball (dx-ball (REA showcase))](https://github.com/N0zoM1z0/dx-ball) | PC | декомпиляция | 113 | 2.4 | 2026-11-25 | — | Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles. |
 | [Zuma Deluxe](https://github.com/alula/CircleShootApp) | PC | декомпиляция | 106 | 2.4 | 2025-12-06 | — | Zuma Deluxe (1.0.0) decompilation |
 | [Half-Life (half-life1_win32_722)](https://github.com/ScriptedSnark/half-life1_win32_722) | PC | декомпиляция | 71 | 2.4 | 2026-08-02 | — | Reverse-engineered source code of the Half-Life 1 Net Test 1 (build 722). |
 | [NearChuckle](https://github.com/rohit-n/NearChuckle) | PC | порт | 64 | 2.4 | 2026-08-04 | — | A Linux port of Far Cry 1 |
 | [Quake II (Qwasm2)](https://github.com/GMH-Code/Qwasm2) | PC | порт | 64 | 2.4 | 2026-04-18 | — | Play the Quake 2 first-person shooter engine in your browser! Supports WebGL 2 and software-rendered modes. |
 | [Jurassic Park: Operation Genesis](https://github.com/AdventureT/OpenJPOG) | PC | декомпиляция | 51 | 2.4 | 2026-01-20 | — | Decompilation of Jurassic Park: Operation Genesis (JPOG) and the Toshi Engine version 1.0. |
-| [The Elder Scrolls V: Skyrim Special Edition (Skyrim SE Decompilation)](https://github.com/Mudcrab-Team/skyrim_decomp) | PC | декомпиляция | 46 | 2.4 | 2026-11-27 | — | Evidence-based Skyrim SE engine research, source reconstruction experiments, and progress reporting |
+| [The Elder Scrolls V: Skyrim Special Edition (Skyrim SE Decompilation)](https://github.com/Mudcrab-Team/skyrim_decomp) | PC | декомпиляция | 46 | 2.4 | 2026-11-28 | — | Evidence-based Skyrim SE engine research, source reconstruction experiments, and progress reporting |
 | [FUEL](https://github.com/widberg/FUELDecompilation) | PC | декомпиляция | 33 | 2.4 | 2026-03-14 | — | A decompilation project for the video game FUEL (2009) by Asobo Studio |
 | [Aliens versus Predator 2 (AVP2-Reconstructed)](https://github.com/lemiur/AVP2-Reconstructed) | PC | декомпиляция | 29 | 2.4 | 2026-11-06 | — | Reconstruction of AVP2 |
 | [Insaniquarium Deluxe (WinFish)](https://github.com/Vindirect/WinFish) | PC | декомпиляция | 29 | 2.4 | 2026-10-08 | — | Insaniquarium Deluxe (1.1) decompilation |
@@ -596,7 +593,7 @@
 | [Black & White (bw (sp00nznet))](https://github.com/sp00nznet/bw) | PC | рекомпиляция | 24 | 2.4 | 2026-10-10 | — | Black & White — Static Recompilation Project |
 | [Psychonauts (psychonauts-decomp)](https://github.com/DrDecki/psychonauts-decomp) | PC | декомпиляция | 24 | 2.4 | 2026-11-17 | — | A decompilation of Psychonauts |
 | [Quake II (Three Wave Capture The Flag for Yamagi Quake II)](https://github.com/yquake2/ctf) | PC | порт | 23 | 2.4 | 2026-11-19 | — | Quake II 3.21 'Capture The Flag' for Yamagi Quake II |
-| [Fable: The Lost Chapters (FableDecomp)](https://github.com/BuffJesus/FableDecomp) | PC | декомпиляция | 21 | 2.4 | 2026-10-24 | — | Evidence-gated reconstruction of Fable: The Lost Chapters for native 32-bit Windows, with C/C++ recovery, verification, and modding research. |
+| [Fable: The Lost Chapters (FableDecomp)](https://github.com/BuffJesus/FableDecomp) | PC | декомпиляция | 22 | 2.4 | 2026-10-24 | — | Evidence-gated reconstruction of Fable: The Lost Chapters for native 32-bit Windows, with C/C++ recovery, verification, and modding research. |
 | [Magic: The Gathering (microprose-shandalar-source)](https://github.com/benprew/microprose-shandalar-source) | PC | декомпиляция | 20 | 2.4 | 2026-09-01 | — | A decompilation of the original Microprose Magic the Gathering game aka Shandalar |
 | [Sonic CD (SonicCD-DC)](https://github.com/DCRSDK/SonicCD-DC) | PC | порт | 20 | 2.4 | 2026-09-16 | — | A port of Sonic CD/RSDKv3 for SEGA Dreamcast |
 | [Space Rangers (SpaceRangers1_decomp)](https://github.com/pakompom/SpaceRangers1_decomp) | PC | декомпиляция | 20 | 2.4 | 2026-09-29 | — | A matching Delphi decompilation of Space Rangers 1 - Космические рейнджеры |
@@ -605,11 +602,11 @@
 | [Silent Storm (Silent Storm source reconstruction)](https://github.com/met-nikita/Silent-Storm-Reconstruction) | PC | декомпиляция | 17 | 2.4 | 2026-11-26 | — | Silent Storm source reconstruction |
 | [Star Wars: Battlefront II (2005) (swbf2decomp)](https://github.com/OpenSWBF2/swbf2decomp) | PC | декомпиляция | 17 | 2.4 | 2026-10-28 | — |  |
 | [Diablo III (Rehydrated)](https://github.com/Crypto137/Rehydrated) | PC | рекомпиляция | 14 | 2.4 | 2026-11-26 | — | ReXGlue based recompilation project for the vanilla version of Diablo 3 |
+| [Fallout: New Vegas (fnv_decomp_exe)](https://github.com/momusdigital/fnv_decomp_exe) | PC | декомпиляция | 14 | 2.4 | 2026-11-14 | — | Build a custom FNV executable on your own machine from the fnv_decomp source and your own copy of the game |
 | [Max Payne (Max Payne Recomp)](https://github.com/aldotoa/max-payne-recomp) | PC | рекомпиляция | 14 | 2.4 | 2026-11-02 | — | Native Apple Silicon macOS port of Max Payne via static recompilation (bring your own game files) |
 | [heavymetal](https://github.com/sp00nznet/heavymetal) | PC | рекомпиляция | 13 | 2.4 | 2026-09-27 | — | A static recompilation of Heavy Metal: FAKK2 (2000) targeting modern Windows 11 x86-64. |
 | [Prototype (prototype-decomp)](https://github.com/pablopenna/prototype-decomp) | PC | декомпиляция | 13 | 2.4 | 2026-10-18 | — | a prototype decomp |
 | [SpaceEngine (SpaceEngine on Apple Silicon)](https://github.com/fpetras/spaceengine-mac) | PC | рекомпиляция | 13 | 2.4 | 2026-10-14 | — | Unofficial native Apple Silicon port of SpaceEngine by static recompilation: translates your own copy of the Windows executable to arm64. Contains no… |
-| [Fallout: New Vegas (fnv_decomp_exe)](https://github.com/momusdigital/fnv_decomp_exe) | PC | декомпиляция | 12 | 2.4 | 2026-11-14 | — | Build a custom FNV executable on your own machine from the fnv_decomp source and your own copy of the game |
 | [Ikachan (Ikachan3)](https://github.com/hax0kartik/ikachan) | PC | декомпиляция | 12 | 2.4 | 2026-10-24 | — | Ikachan 3DS decompilation |
 | [retruxx](https://github.com/mindflower/retruxx) | PC | ремейк движка | 12 | 2.4 | 2026-10-15 | — | Reverse engineered Hard Truck Apocalypse |
 | [Half-Life 2 (hl2-recomp)](https://github.com/sp00nznet/hl2-recomp) | PC | рекомпиляция | 11 | 2.4 | 2026-10-17 | — | Static recompilation of Half-Life 2 (Xbox, 2005) to native Windows via xboxrecomp |
@@ -622,15 +619,15 @@
 | [FlatOut 2](https://github.com/ZackWilde27/FlatOut-2-decomp) | PC | декомпиляция | 49 | 2.2 | 2025-10-16 | — | My attempted decompilation of FlatOut 2 |
 | [MapleStory (shroom95-decomp)](https://github.com/jon-zu/shroom95-decomp) | PC | декомпиляция | 39 | 2.2 | 2025-07-11 | — |  |
 | [Burnout Paradise (b5-decomp)](https://github.com/BurnoutDecomp/b5-decomp) | PC | декомпиляция | 28 | 2.2 | 2026-11-20 | — | Burnout Paradise decompilation effort |
-| [Fortnite (OT6-Reconstruction)](https://github.com/ApfelTeeSaft/OT6-Reconstruction) | PC | декомпиляция | 27 | 2.2 | 2026-01-08 | — | Fortnite Alpha (2016, Online Test 6.5) Decompilation of Gameserver Specific Logic. |
+| [Fortnite (OT6-Reconstruction)](https://github.com/ApfelTeeSaft/OT6-Reconstruction) | PC | декомпиляция | 28 | 2.2 | 2026-01-08 | — | Fortnite Alpha (2016, Online Test 6.5) Decompilation of Gameserver Specific Logic. |
 | [Indiana Jones and the Infernal Machine (infernal-machine-decomp)](https://github.com/andrewspode/infernal-machine-decomp-public) | PC | декомпиляция | 25 | 2.2 | 2026-10-20 | — | Byte-matched Decompile / Reverse Engineer of Indiana Jones and the Infernal Machine. |
 | [Project I.G.I.: I'm Going In (IGI-RE)](https://github.com/neonixmoddingteam/IGI-RE) | PC | декомпиляция | 23 | 2.2 | 2026-10-26 | — | A decompilation of Project I.G.I. (2000): the whole game rewritten as readable C, every function verified against the original. |
-| [Touhou 10.5: Scarlet Weather Rhapsody (th105)](https://github.com/N0zoM1z0/th105) | PC | декомпиляция | 18 | 2.2 | 2026-11-27 | — | Source reconstruction of 東方緋想天 ～ Scarlet Weather Rhapsody 1.06a |
+| [Touhou 10.5: Scarlet Weather Rhapsody (th105)](https://github.com/N0zoM1z0/th105) | PC | декомпиляция | 18 | 2.2 | 2026-11-28 | — | Source reconstruction of 東方緋想天 ～ Scarlet Weather Rhapsody 1.06a |
 | [LEGO Rock Raiders](https://github.com/ProjectReversio/LegoRockRaiders) | PC | декомпиляция | 17 | 2.2 | 2026-02-23 | — | Reverse Engineering Lego Rock Raiders |
 | [Return to Castle Wolfenstein (rtcw.pieter.com (iortcw + Wwasm))](https://github.com/GMH-Code/Wwasm) | PC | порт | 16 | 2.2 | 2025-12-30 | — | Play the Return to Castle Wolfenstein first-person shooter engine in your browser! |
+| [SimCity 4 (DeSCAi4)](https://github.com/CadenKalez/DeSCAi4) | PC | ремейк движка | 16 | 2.2 | 2026-10-30 | — | An AI decompilation re-implementation of SimCity 4 to MacOS Apple Silicon Native Metal renderer |
 | [Empire Earth: The Art of Conquest](https://github.com/Protryon/empire_earth) | PC | декомпиляция | 15 | 2.2 | 2026-11-08 | — | Matching decompilation of Empire Earth: The Art of Conquest, buildable from source |
 | [Need for Speed: Underground 2 (NFSU2 behavior-equivalent rewrite)](https://github.com/octavioCuatrochio/nfsu2-gcpc) | PC | декомпиляция | 15 | 2.2 | 2026-11-11 | — | Decompilation of Need For Speed: Underground 2 - Gamecube/PC port. Behavior exact. |
-| [SimCity 4 (DeSCAi4)](https://github.com/CadenKalez/DeSCAi4) | PC | ремейк движка | 15 | 2.2 | 2026-10-30 | — | An AI decompilation re-implementation of SimCity 4 to MacOS Apple Silicon Native Metal renderer |
 | [LEGO Stunt Rally (OpenLSR)](https://github.com/OpenLSR/OpenLSR) | PC | декомпиляция | 14 | 2.2 | 2026-05-10 | — | LEGO Stunt Rally, done right. |
 | [Sonic Mania (Sonic-Mania-25MB)](https://github.com/ThisKwasior/Sonic-Mania-25MB) | PC | декомпиляция | 13 | 2.2 | 2026-08-23 | — | RSDKv5 and Sonic Mania decompilation with added VP9 video and OPUS audio capabilities to make the game 25MB |
 | [LEGO Batman: The Videogame](https://github.com/wasdhjklxyz/lbtvg) | PC | декомпиляция | 9 | 2.2 | 2026-10-11 | — | A work-in-progress decompilation of LEGO® Batman™: The Videogame (2008, PC). |
@@ -645,7 +642,7 @@
 | [Five Nights At Freddy's](https://github.com/fr3dsp/FNaF-Decomp) | PC | декомпиляция | 2 | 2 | 2025-10-28 | — | A Five Nights at Freddy's Windows Phone Decompilation. |
 | [Five Nights At Freddy's 2](https://github.com/fr3dsp/FNaF-2-Decomp) | PC | декомпиляция | 2 | 2 | 2025-10-28 | — | A Five Nights at Freddy's 2 Windows Phone Decompilation. |
 
-## Неактивные и архивные (66)
+## Неактивные и архивные (64)
 
 <details><summary>Показать</summary>
 
@@ -671,7 +668,6 @@
 | [Cube 2: Sauerbraten (BananaBread)](https://github.com/kripken/BananaBread) | PC | порт | 1.4k | 3.4 | 2021-10-29 | — | BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML |
 | [Monster Hunter Frontier (Erupe)](https://github.com/Mezeporta/Erupe) | PC | ремейк движка | 281 | 3.35 | 2026-07-15 | ✅ | Open-source Monster Hunter Frontier Online server emulator in Go |
 | [Elona (ElonaFoobar)](https://github.com/elonafoobar/elonafoobar) | PC | порт | 166 | 3.35 | 2021-09-19 | ✅ | One of the Elona variants |
-| [Titanfall 1 (R1Delta)](https://github.com/r1delta/r1delta-prescratch) | PC | ремейк движка | 166 | 3.35 | 2026-11-18 | ✅ | Custom server framework for Titanfall 1 that allows hosting dedicated servers and loading mods. |
 | [Half-Life (Xash3D-Emscripten)](https://github.com/btarg/Xash3D-Emscripten) | PC | браузер | 146 | 3.35 | 2019-10-23 | — | A re-upload of mittorn's Emscripten port of Xash3D. |
 | [The Settlers 3 (JSettlers)](https://github.com/paulwedeck/settlers-remake) | PC | ремейк движка | 145 | 3.35 | 2025-12-02 | ✅ | A Remake of "The Settlers III" for Windows, Linux and Android |
 | [Chu Chu Rocket (Duck Marines)](https://github.com/SimonLarsen/duckmarines) | PC | ремейк движка | 122 | 3.35 | 2016-05-10 | ✅ | Free software ChuChu Rocket remake for PC |
@@ -680,24 +676,23 @@
 | [Marble Blast Gold (OpenMBG)](https://github.com/The-New-Platinum-Team/OpenMBG) | PC | порт | 21 | 3.35 | 2024-08-25 | ✅ | MBG but reverse engineered |
 | [Mr. Rescue](https://github.com/SimonLarsen/mrrescue) | PC | ремейк движка | 430 | 3.3 | 2018-08-18 | ✅ | Arcade-style fire fighting game |
 | [Signus: The Artefact Wars](https://github.com/signus-game/signus) | PC | порт | 70 | 3.3 | 2023-12-23 | ✅ | Signus: The Artefact Wars. Czech turn-based strategy game similar to Battle Isle series |
-| [Fallout 2](https://github.com/alexbatalov/fallout2-re) | PC | декомпиляция | 416 | 3.15 | 2023-01-20 | — | Reverse engineered Fallout 2 |
+| [Fallout 2](https://github.com/alexbatalov/fallout2-re) | PC | декомпиляция | 417 | 3.15 | 2023-01-20 | — | Reverse engineered Fallout 2 |
 | [Marathon (AlephOne for Android)](https://github.com/daniele-rapagnani/alephone-android) | PC | порт | 71 | 3.1 | 2021-05-21 | ✅ | Port of the AlephOne engine on Android |
 | [Gish (Gish Android)](https://github.com/EXL/Gish) | PC | порт | 59 | 3.1 | 2022-08-12 | ✅ | A port of the Gish game for Android OS using SDL2, OpenAL, Ogg Vorbis and GL4ES libraries. |
 | [Grand Theft Auto III (re3)](https://github.com/leanndroguedes/re3-19feb21) | PC | ремейк движка | 204 | 2.95 | 2021-02-19 | ✅ | GTA III, Vice City |
 | [ForsakenX](https://github.com/ForsakenX/forsaken) | PC | ремейк движка | 183 | 2.95 | 2024-07-16 | ✅ | Forsaken game engine |
 | [Elona (OpenNefia)](https://github.com/OpenNefia/OpenNefia) | PC | ремейк движка | 162 | 2.95 | 2024-01-23 | ✅ | Moddable engine reimplementation of the Japanese roguelike Elona. |
-| [dRally](https://github.com/urxp/dRally) | PC | ремейк движка | 78 | 2.95 | 2023-07-26 | ✅ | Open Source Engine / Death Rally [1996] |
+| [dRally](https://github.com/urxp/dRally) | PC | ремейк движка | 79 | 2.95 | 2023-07-26 | ✅ | Open Source Engine / Death Rally [1996] |
 | [Tomb Raider III (tomb3)](https://github.com/Trxyebeep/tomb3) | PC | декомпиляция | 119 | 2.85 | 2023-09-03 | ✅ |  |
 | [Tomb Raider Chronicles (TOMB5)](https://github.com/Trxyebeep/TOMB5) | PC | декомпиляция | 97 | 2.85 | 2023-09-03 | ✅ | TOMB5 is a PC decompilation project for Tomb Raider Chronicles that preserves the original source code. |
 | [Syobon Action (OpenSyobonAction)](https://github.com/akemin-dayo/OpenSyobonAction) | PC | ремейк движка | 136 | 2.75 | 2017-07-06 | ✅ | Open Syobon Action (オープンしょぼんのアクション) is an open-source cross-platform port of the unforgiving Japanese platformer using SDL. |
 | [Rise of the Triad (rottexpr)](https://github.com/LTCHIPS/rottexpr) | PC | порт | 112 | 2.75 | 2021-01-04 | ✅ | A Rise Of The Triad Source Port with additional gameplay options and more... |
-| [xGreed](https://github.com/jval1972/xGreed) | PC | ремейк движка | 39 | 2.75 | 2022-03-19 | ✅ | xGreed - Source Port of the game "In Pursuit of Greed" |
 | [donut](https://github.com/plowteam/donut) | PC | ремейк движка | 488 | 2.6 | 2021-05-11 | — | Open source reimplementation of The Simpsons: Hit & Run |
-| [Gish (gish (blinry fork))](https://github.com/blinry/gish) | PC | порт | 359 | 2.6 | 2017-01-12 | — | Open Source version of the award-winning physics platformer |
-| [Bloodborne PSX (BBPSX-Decompilation)](https://github.com/SonyEntertainmentNetwork/BBPSX-Decompilation) | PC | ремейк движка | 10 | 2.55 | 2022-04-22 | ✅ | Decompilation of modder and developer Lilith (Steven) Walther's remake of Bloodborne - styled for the PlayStation classic. |
-| [Homeworld (HomeworldSDL)](https://github.com/HomeworldSDL/HomeworldSDL) | PC | порт | 149 | 2.35 | 2024-10-13 | — |  |
+| [Gish (gish (blinry fork))](https://github.com/blinry/gish) | PC | порт | 358 | 2.6 | 2017-01-12 | — | Open Source version of the award-winning physics platformer |
+| [Bloodborne PSX (BBPSX-Decompilation)](https://github.com/SonyEntertainmentNetwork/BBPSX-Decompilation) | PC | ремейк движка | 11 | 2.55 | 2022-04-22 | ✅ | Decompilation of modder and developer Lilith (Steven) Walther's remake of Bloodborne - styled for the PlayStation classic. |
+| [Homeworld (HomeworldSDL)](https://github.com/HomeworldSDL/HomeworldSDL) | PC | порт | 150 | 2.35 | 2024-10-13 | — |  |
 | [Age of Wonders (aow-patch)](https://github.com/int19h/aow-patch) | PC | декомпиляция | 45 | 2.25 | 2022-12-14 | ✅ | Unofficial patch for Age of Wonders |
-| [Icewind Dale II (iwd2-re)](https://github.com/alexbatalov/iwd2-re) | PC | декомпиляция | 93 | 2 | 2023-12-29 | — | Reverse engineered Icewind Dale 2 |
+| [Icewind Dale II (iwd2-re)](https://github.com/alexbatalov/iwd2-re) | PC | декомпиляция | 94 | 2 | 2023-12-29 | — | Reverse engineered Icewind Dale 2 |
 | [SkiFree](https://github.com/yuv422/skifree_decomp) | PC | декомпиляция | 74 | 2 | 2022-12-08 | — | SkiFree decompilation project |
 | [Total Overdose (TOD_tools)](https://github.com/Michael0ne/TOD_tools) | PC | декомпиляция | 59 | 2 | 2024-08-14 | — | Total Overdose (2005, PC) reversed. engine & tools |
 | [Touhou 6: The Embodiment of Scarlet Devil (EoSDecomp)](https://github.com/wearrrrr/EoSDecomp) | PC | декомпиляция | 42 | 2 | 2023-11-10 | — | An attempt to create a byte accurate decompilation of Touhou 6 ~ Embodiment of Scarlet Devil |

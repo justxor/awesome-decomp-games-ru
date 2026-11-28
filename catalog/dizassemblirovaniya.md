@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **27.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **28.11.2026**.
 
 Читаемый ассемблер, который собирается в идентичный ROM; основа ромхаков и переводов.
 
@@ -22,7 +22,7 @@
 | [Pokemon Gold SpaceWorld Demo](https://github.com/pret/pokegold-spaceworld) | Game Boy | 403 | 3.4 | 2026-11-16 | — | Disassembly of the Pokémon Gold and Silver 1997 Space World demo |
 | [Pokemon TCG 1](https://github.com/pret/poketcg) | Game Boy Color | 334 | 3.4 | 2026-10-30 | — | Disassembly of Pokémon TCG |
 | [Sonic the Hedgehog 2 (s2disasm)](https://github.com/sonicretro/s2disasm) | Genesis | 322 | 3.4 | 2026-11-22 | — | Sonic 2 Disassembly |
-| [Sonic & Knuckles](https://github.com/sonicretro/skdisasm) | Genesis | 268 | 3.4 | 2026-11-22 | — | Sonic and Knuckles Disassembly |
+| [Sonic & Knuckles](https://github.com/sonicretro/skdisasm) | Genesis | 269 | 3.4 | 2026-11-22 | — | Sonic and Knuckles Disassembly |
 | [FIre Emblem: The Sacred Stones](https://github.com/FireEmblemUniverse/fireemblem8u) | GBA | 239 | 3.4 | 2026-11-17 | — | Decompilation/disassembly of Fire Emblem: The Sacred Stones |
 | [The Legend of Zelda Oracle of Ages & Seasons](https://github.com/Stewmath/oracles-disasm) | — | 225 | 3.4 | 2026-10-02 | — | Disassembly of Oracle of Ages and Seasons |
 | [Pokemon Stadium 1](https://github.com/pret/pokestadium) | N64 | 217 | 3.4 | 2026-10-03 | — | Disassembly and decompilation of Pokémon Stadium |
@@ -42,15 +42,15 @@
 | [The Bugs Bunny Crazy Castle](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Bugs%20Bunny%20Crazy%20Castle) | NES | 315 | 3.2 | 2026-08-12 | — | Source code of some NES games |
 | [Yie Ar Kung Fu](https://github.com/cyneprepou4uk/NES-Games-Disassembly/tree/main/Yie%20Ar%20Kung-Fu) | NES | 315 | 3.2 | 2026-08-12 | — | Source code of some NES games |
 | [Contra](https://github.com/vermiceli/nes-contra-us) | Arcade | 249 | 3.2 | 2026-06-07 | — | An annotated disassembly with supplemental materials of the Contra (US) and Probotector NES game. |
-| [Barnyard](https://github.com/InfiniteC0re/OpenBarnyard) | PC | 107 | 3.2 | 2026-11-22 | ✅ | Decompilation of Barnyard the video game and TOSHI 2.0 game engine developed by Blue Tongue Entertainment. |
+| [Barnyard](https://github.com/InfiniteC0re/OpenBarnyard) | PC | 108 | 3.2 | 2026-11-22 | ✅ | Decompilation of Barnyard the video game and TOSHI 2.0 game engine developed by Blue Tongue Entertainment. |
 | [Keitai Denjuu Telefang](https://github.com/telefang/telefang) | Game Boy Color | 103 | 3.05 | 2025-10-19 | ✅ | Partial Telefang disassembly and English translation (on the patch branch) |
 | [Super Mario Bros. 3](https://github.com/captainsouthbird/smb3) | NES | 261 | 3 | 2025-05-01 | — | Disassembly of Super Mario Bros 3 |
-| [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | Sega CD/32X | 191 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
+| [Virtua Racing](https://github.com/matiaszanolli/sega-vr-disasm) | Sega CD/32X | 192 | 3 | 2026-06-15 | — | Complete static recompilation of Virtua Racing for the Sega 32X (optimization in progress) |
 | [Super Bomberman](https://github.com/LIJI32/superbomberman) | SNES | 112 | 3 | 2026-07-05 | ✅ | Disassembly and remade build system for SNES game Super Bomberman |
 | [Pokemon TCG 2](https://github.com/pret/poketcg2) | Game Boy Color | 98 | 2.95 | 2026-10-31 | — | Disassembly of Pokémon TCG 2 |
 | [Final Fantasy VI](https://github.com/everything8215/ff6) | — | 96 | 2.95 | 2026-09-14 | — | Disassembly and ROM info for Final Fantasy VI |
 | [Pokemon Puzzle Challenge](https://github.com/pret/pokepuzzle) | Game Boy Color | 83 | 2.95 | 2026-10-31 | — | Disassembly of Pokémon Puzzle Challenge |
-| [Shining Force II (SF2DISASM)](https://github.com/ShiningForceCentral/SF2DISASM) | Genesis | 58 | 2.95 | 2026-11-15 | — | A disassembly of the game "Shining Force II" for documentation and fan-project purposes. |
+| [Shining Force II (SF2DISASM)](https://github.com/ShiningForceCentral/SF2DISASM) | Genesis | 59 | 2.95 | 2026-11-15 | — | A disassembly of the game "Shining Force II" for documentation and fan-project purposes. |
 | [Rhythm Heaven](https://github.com/patataofcourse/rhgold) | DS | 55 | 2.95 | 2026-11-22 | — | Decompilation for Rhythm Heaven (Nintendo DS) |
 | [Kid Chameleon](https://github.com/sonicretro/kid-chameleon-disasm) | Genesis | 43 | 2.95 | 2026-10-28 | — | Split disassembly of Kid Chameleon |
 | [Pokéwalker (firmware/minigames) (pw)](https://github.com/lumirth/pw) | Other | 42 | 2.95 | 2026-09-14 | — | A human-readable matching decompilation of the Pokéwalker firmware. |
@@ -79,6 +79,7 @@
 | [Jet Set Willy (jetsetwilly (skoolkit.ca))](https://github.com/skoolkid/jetsetwilly) | ZX Spectrum | 20 | 2.75 | 2026-11-24 | — | A disassembly of Jet Set Willy, created using SkoolKit. |
 | [Super Ghouls ‘n Ghosts](https://github.com/FredYeye/Super-Ghouls-n-Ghosts-Disassembly) | SNES | 17 | 2.75 | 2026-11-20 | — |  |
 | [Pokémon Red and Blue (Pokered-Pro)](https://github.com/Kamy41/Pokered-Pro) | Game Boy | 15 | 2.75 | 2026-09-08 | — | Disassembly of Pokémon Red/Blue with some fixies and improvements (and a little surprise at Vermilion Dock if you talk to Giovanni after the fight in… |
+| [Wario Land 3 (warioland3 (ElectroDeoxys))](https://github.com/ElectroDeoxys/warioland3) | Game Boy Color | 15 | 2.75 | 2026-11-27 | — | Wario Land 3 Disassembly |
 | [Metroid (m1disasm)](https://github.com/metroidret/m1disasm) | NES | 14 | 2.75 | 2026-11-15 | — |  |
 | [Mega Man II (rw2)](https://github.com/Kak2X/rw2) | Game Boy | 13 | 2.75 | 2026-10-09 | — | Rockman World 2 / Mega Man II disassembly |
 | [The Way of the Exploding Fist (Paul Maddern (pobtastic) SkoolKit disassembly)](https://github.com/pobtastic/wayoftheexplodingfist) | Commodore 64/8-bit | 13 | 2.75 | 2026-11-09 | — | A disassembly of The Way of the Exploding Fist, created using SkoolKit. |
@@ -99,7 +100,6 @@
 | [Mercenary (mikedailly MercenaryDisassembly)](https://github.com/mikedailly/MercenaryDisassembly) | Atari 8-bit | 15 | 2.55 | 2026-03-13 | — | Disassembly of the ZX Spectrum game Mercenary |
 | [Pokémon Red and Blue (pokeblue)](https://github.com/Narishma-gb/pokeblue) | Game Boy | 15 | 2.55 | 2026-08-16 | — | Disassembly of JPN Pokémon Blue |
 | [River Raid (river-raid-disasm (Sergei Morozov))](https://github.com/river-raid/river-raid-disasm) | Atari 2600 | 15 | 2.55 | 2026-04-05 | — | Disassembly of River Raid for ZX Spectrum |
-| [Wario Land 3 (warioland3 (ElectroDeoxys))](https://github.com/ElectroDeoxys/warioland3) | Game Boy Color | 15 | 2.55 | 2026-08-16 | — | Wario Land 3 Disassembly |
 | [Crossroads II: Pandemonium (crossroads-2-disassembly)](https://github.com/MarkRdgOx/crossroads-2-disassembly) | Commodore 64/8-bit | 14 | 2.55 | 2026-08-21 | — | Attempt at commented disassembly of C64 Crossroads 2. |
 | [Mega Man (mm1dasm)](https://github.com/TheRealQuantam/mm1dasm) | NES | 14 | 2.55 | 2026-01-04 | — | Compilable Disassembly of Mega Man / Rockman |
 | [Milon's Secret Castle](https://github.com/jasonmray/MilonsSecretCastle) | NES | 14 | 2.55 | 2026-05-05 | — | A Thorough Reverse-Engineering of Milon's Secret Castle for the NES |
@@ -140,7 +140,7 @@
 | [Pokémon Platinum (PokePlat)](https://github.com/JimB16/PokePlat) | DS | 117 | 2.35 | 2023-01-31 | — | Disassembly of Pokemon Platinum |
 | [Tetris (TetrisNESDisasm)](https://github.com/CelestialAmber/TetrisNESDisasm) | NES | 112 | 2.35 | 2024-03-28 | — | Disassembly of Tetris (NES) |
 | [Dragon Warrior](https://github.com/nmikstas/dragon-warrior-disassembly) | NES | 93 | 2.35 | 2023-08-05 | — | NES Dragon Warrior software disassembly |
-| [Sonic The Fighters](https://github.com/biggestsonicfan/stfdisasm) | — | 49 | 2.35 | 2024-05-02 | — | Sonic the Fighters Disassembly |
+| [Sonic The Fighters](https://github.com/biggestsonicfan/stfdisasm) | — | 50 | 2.35 | 2024-05-02 | — | Sonic the Fighters Disassembly |
 | [Sonic the Hedgehog (Hivebrain 2022 s1disasm)](https://github.com/cvghivebrain/s1disasm) | Genesis | 49 | 2.35 | 2024-03-12 | — | Sonic the Hedgehog (Mega Drive) Hivebrain 2022 disassembly |
 | [Fire Emblem: Thracia 776 (FireEmblem5)](https://github.com/ZaneAvernathy/FireEmblem5) | SNES | 36 | 2.35 | 2024-01-03 | — | A disassembly of Fire Emblem: Thracia 776 |
 | [Supaplex (cilliemalan supaplex)](https://github.com/cilliemalan/supaplex) | DOS | 35 | 2.35 | 2024-04-05 | — | An effort to disassemble and understand the supaplex game code. |

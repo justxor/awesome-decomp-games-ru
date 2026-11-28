@@ -2,7 +2,7 @@
 
 [← Главная](../README.md) · [Весь каталог](README.md)
 
-> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **27.11.2026**.
+> Страница генерируется автоматически скриптом [`scripts/build_catalog.py`](../scripts/build_catalog.py) из данных [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games). Здесь только ссылки на исходный код — никаких ROM и игровых ресурсов. Данные на **28.11.2026**.
 
 Порты, работающие во вкладке браузера (WebAssembly / JavaScript).
 
@@ -65,7 +65,7 @@
 | [Gran Turismo 2 (Gran Turismo 2 PC, VR & Browser)](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) | PS1 | 218 | 4.15 | 2026-11-26 | ✅ | A native C++ port of Gran Turismo 2 for Web, Steam Deck, MacOS, Windows PC, PCVR and Quest 3 Standalone VR |
 | [The Simpsons: Hit & Run (Web Port)](https://github.com/Vheissu/hit-and-run-web) | — | 176 | 4.15 | 2026-09-10 | — | Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools. |
 | [LEGO Island (isle.pizza (Emscripten build of isle-portable))](https://github.com/isledecomp/isle.pizza) | PC | 57 | 4.15 | 2026-11-23 | — | Custom frontend for the Emscripten port of isle-portable |
-| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 55 | 3.95 | 2026-11-27 | ✅ | An open source game engine that plays Sid Meier's SimGolf (2002), now with multiplayer. Windows, macOS, Linux, Android and the browser. |
+| [OpenSGolf](https://github.com/crspytopgn/opensgolf) | PC | 55 | 3.95 | 2026-11-28 | ✅ | An open source game engine that plays Sid Meier's SimGolf (2002), now with multiplayer. Windows, macOS, Linux, Android and the browser. |
 | [Call of Duty: Black Ops Zombies](https://vel.gg/bsz) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Generals Zero Hour](https://generals.wasm.ltd) | PC | — | 3.95 | — | — |  |
 | [Command & Conquer: Red Alert 2](https://chronodivide.com) | PC | — | 3.95 | — | — |  |
@@ -111,7 +111,7 @@
 | [Kino der Toten (GoofyAhhBro69420 mirror)](https://goofyahhbro69420.github.io/COD-ZOMBIES) | PC | — | 3.75 | — | — | Unofficial mirror of the taken-down original (removed after a copyright notice). Three.js reconstruction of the Black Ops Zombies map, solo survival. |
 | [Weltendämmerung (weltendaemmerung (spec-driven RE + web port))](https://github.com/s-macke/weltendaemmerung) | Commodore 64/8-bit | 21 | 3.55 | 2026-01-05 | — | Guide to reverse engineer an old computer game with AI and port it to the web |
 | [Battle City (Browser reimplementation)](https://github.com/vgrichina/battlecity) | NES | 14 | 3.55 | 2026-05-07 | — | Reverse engineering Battle City (Famicom, 1985) — annotated 6502 disassembly + browser reimplementation |
-| [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 12 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
+| [Doom (doom.wasm)](https://github.com/jacobenget/doom.wasm) | DOS | 13 | 3.3 | 2024-12-10 | ✅ | Doom built as a single WebAssembly module |
 
 ## Неактивные и архивные (4)
 
